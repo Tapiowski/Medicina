@@ -1,0 +1,70 @@
+- ## meccanismo d'azione
+	- potenziale d'azione [[cuore]]
+	- depolarizzazione, ripolarizzazione risultano da equilibrio canali ionici
+	- [[ischemia]] acuta e cronica, [[infarto miocardico]] [[miocardio]], [[simpatico]]-mimetici alterano
+		- turba [[conduzione cardiaca]], [[ritmo cardiaco]]
+	- ioni
+		- cc a riposo: Na chiusi, k aperti inward rectifier
+		- depolarizzazione: canali na aperti, k transient outward aperti, ca aperti, k delayed rectifier aperti
+		- contrazione: +ca intracc, scambio na/ca
+	- soppressione causa [[aritmia]]
+	- alterazione rientro
+	- rallentamento automatismo
+		- post diastol max
+			- ### [[adenosina]], [[acetilcolina]]
+		- slope fase 4
+			- [[farmaci beta-bloccanti]]
+		- potenziale soglia
+			- [[bloccanti canali na-ca]]
+		- durata potenziale d'azione
+			- [[bloccanti canali k]]
+	- bloccanti canali
+		- accesso ai siti per via idrofilica pori, o lipofilica sandwich
+		- affinita di legame: stato funzione e affinita per canali na aperti per esempio
+		- blocco di apertura o inattivazione, frequenza dip
+- ## classificazione
+	- ### antiaritmici [[cationico-amfifilici]]
+		- ### [[bloccanti canali na]] classe I
+			- ### [[chinidina]]
+			- ### [[lidocaina]]
+			- ### [[propafenone]]
+		- ### [[bloccanti canali k]] classe III
+			- ### [[dofetilide]]
+			- ### [[ibutilide]]
+			- ### [[amiodarone]]
+		- ### [[prolunganti intervallo qt]]
+		- ### [[bloccanti canali ca]] classe IV
+			- ### [[nifedipina]]
+			- ### [[verapamil]]
+			- ### [[diltiazem]]
+		- ### [[farmaci beta-bloccanti]] classe II
+			- ([[aritmia post-infartuale]]) o +[[simpatico]]
+			- ### [[propranololo]]
+			- ### [[sotalolo]]
+	- ### altri
+		- ### [[atropina]]
+		- ### [[adrenalina]]
+		- ### [[isoproterenolo]]
+		- ### [[digossina]]
+		- ### [[adenosina]]
+		- ### [[cloruro di calcio]]
+		- ### [[cloruro di magnesio]]
+- ## riepilogo attivita
+	- potenziale pacemaker fase 4
+		- [[beta-agonisti]]
+			- classe II
+			- classe III
+	- depolarizzazione rapida fase 0
+		- classe I
+	- plateau fase 2
+		- classe IV
+	- ripolarizzazione fase 3
+		- classe III
+- ## th [[aritmia]]
+	- [[fibrillazione atriale]] parossistica
+		- [[farmaci beta-bloccanti]]
+		- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+	- [[fibrillazione atriale]] cronica
+		- [[chinidina]], [[flecainide]], [[sotalolo]], [[amiodarone]]
+	- [[aritmie ventricolari]]
+		- [[lidocaina]]

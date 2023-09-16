@@ -1,0 +1,2 @@
+- [[farmaci antiaritmici]] in [[fibrillazione ventricolare]], tossicita da [[digossina]]
+- prevenzione [[torsade]], correnti in ca

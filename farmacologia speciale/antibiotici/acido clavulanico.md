@@ -1,0 +1,2 @@
+- inibitore suicida, lega [[beta-lattamasi]] [[gram+]], [[gram-]]
+- orale [[amoxicillina]], parenterale [[ticarcillina]]

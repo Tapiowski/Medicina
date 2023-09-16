@@ -1,0 +1,40 @@
+- 1-metil-1-fenil-1,2,3,6-tetraidropiridina
+- [[neurotossina]] [[dopaminergico]], analogo narcotico [[meperidina]]
+- composto piu studiato in [[morbo di parkinson]] sporadico
+- giovani tossicodipendenti per [[eroina]] sintetica a base di [[mppp]], composto metabolizzato a mptp
+- sostanza lipofilica, captata da astrociti, [[mao-b]], metabolizzato a [[mpdp]], ossidazione spontanea a [[mpp+]]
+	- [[mpp+]] rilasciato in spazio extracc, assunto da nu [[dopamina]] per trasporto attivo per [[dat]] cc [[substantia nigra]] con grande affinita: uccise da mitocondri complesso i
+- ## meccanismo
+	- neurotossina accumula in mitocondri: inibisce complesso catena respiratoria
+		- - atp, + radicali
+		- danno ossidativo: + apoptosi nu [[dopamina]] [[substantia nigra]]
+	- lega trasportatori vescicolari di monoamine [[vmat]] contenenti [[dopamina]]
+	- accumula in vescicole sinaptiche [[dopamina]]
+		- problemi catena trasporto, rilascio nt
+- ## effetti su metabolismo energetico striatale
+	- glicolisi glucosio in lattato + atp e piruvato
+	- +o2 a tca mitocondri, mpp+ blocca
+	- sensori elettrochimici integrati in dispositivi biotelemetrici miniaturizzati
+		- microsensori conici in epoxy/carbon
+			- ossigeno
+			- acido ascorbico
+		- nano biosensori impiantabili
+			- glucosio
+			- lattato
+	- effettto su 
+		- ossigeno striatale
+			- diminuisce
+		- lattato striatale
+			- aumenta
+		- glucosio, piruvato
+			- aumenta
+		- rapporto l/p
+			- aumenta
+		- da striatale
+			- aumenta+
+- ## modello bioenergetico cerebrale
+	- glucosio da capillare
+		- energia ad [[astrocita]]
+			- lattato a sinapsi [[glutamatergico]]
+				- energia, [[glutammato]] rilasciato da vescicol
+			- glu, gln a sinapsi e rientro glu e na per [[faat]], gln a sinapsi, pompa sodiopotassio

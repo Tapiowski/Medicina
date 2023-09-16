@@ -1,0 +1,7 @@
+- alterazioni
+	- distribuzione
+	- metabolismo
+		- induzione enzimi microsomiali
+		- -livelli ematici [[barbiturici]]
+- [[tolleranza crociata]]
+	- induzione metabolismo da altri farmaci

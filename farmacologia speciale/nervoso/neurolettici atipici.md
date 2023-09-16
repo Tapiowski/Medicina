@@ -1,0 +1,13 @@
+- - effetti extrapiramidali da blocco [[recettori d2]] in [[nucleo striato]]
+- effetti collaterali
+	- sedazione: blocco h1
+	- stimola prolattina
+	- +peso: [[bloccanti 5-ht2]]
+	- ipotensione posturale: [[alfa-bloccanti]]
+	- secchezza fauci: [[antagonisti muscarinici]]
+	- aritmie cardiache: [[canali potassio]]
+- [[clozapina]]
+- [[olanzapina]]
+	- [[antagonisti d2]], [[antagonisti d1]], [[antagonisti 5-ht2]]
+- efficaci su sintomi positivi e negativi
+	- agranulocitosi in 1-2%

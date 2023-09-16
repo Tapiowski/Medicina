@@ -1,0 +1,34 @@
+- [[dolore oncologico]], [[dolore cronico]]
+- alternativa a [[morfina os]]
+	- meno deliri
+	- meno prurito
+	- rapporto conversione
+		- OS morfina/ossicodone = 2/1
+			- 10 mg morfina = 5 mg ossicodone
+- ## confezioni
+	- [[delpagos]]
+		- ossicodone ad azione pronta + [[paracetamolo]]
+		- ossicodonw 28 compresse 5 mg + [[paracetamolo]] 325
+			- [[farmaci oppioidi deboli]]
+		- ossi 28 compresse 10 mg + paracetamolo 325
+		- ossi 28 css 20 mg + paracetamolo 325
+		- ogni 6 h, non superare 4 g paracetamolo, 80 mg ossicodone
+	- [[oxycontin]] ossicodone r
+		- cpr 10-20-40-60-80 mg
+		- assorbimento bifasico
+			- 40% in 40 m, [[analgesia]] in 1-1.5 h
+			- 60%^% in 6 h, th per 12 h
+		- 1 cpr ogni 12 h, degluttite intere, indipendenti da cibo
+- ## meccanismo
+	- [[farmaci oppioidi]] semi sintetico, simile [[morfina]]
+	- agonista puro [[mor]], [[kor]]
+		- associazione sinergica con [[morfina]], [[fentanil]]
+- ## metabolismo epatico
+	- [[norossicodone]] demetilazione, <1% potenza
+	- [[ossimorfone]] o-demetilazione e coniugazione acido glucuronico cyp2d6 10%, [[mor]]
+	- [[ossicodone]] principio attivo dopo os
+	- eliminazione renale, ridurre dose in insufficienze
+- ## controindicazioni
+	- farmaci inibitori reuptake serotonina, antidepressivi triciclici, inibitori monoaminoossidasi
+	- anticolinergici
+	- ipertensione endocranica

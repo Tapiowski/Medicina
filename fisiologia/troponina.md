@@ -1,0 +1,4 @@
+- T
+- I
+- C
+- se danno miocardio aumentano

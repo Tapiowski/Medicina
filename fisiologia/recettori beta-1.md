@@ -1,0 +1,12 @@
+- [[adrenalina]]
+- recettore eccitatorio, attivita cardiovascolare
+- attivazione
+	- [[rene]]
+		- secrezione [[renina]] da cc juxtaglomerulari
+	- [[cuore]]
+		- effetto [[inotropo]]+, [[cronotropo]]+
+		- +automatismo, +conduzione a-v
+		- provoca scompensi, aritmie, tachicardia
+	- secrezione umor acqueo
+- Gs
+	- stimola [[adenilato ciclasi]]

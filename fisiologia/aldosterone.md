@@ -1,0 +1,12 @@
+- [[edema]]
+	- ritenzione na, h2o
+- [[aritmia]]
+	- escrezione k, mg
+- deposizione [[collagene]]
+	- [[fibrosi]] [[miocardio]], [[vasi]]
+- prodotto da
+	- cc endoteliali e mm lisce arteria [[coronarie]] intra miocardica
+- ormone antidiuretico
+	- + riassorbimento na, cl
+	- + escrezione k
+	- quindi sodio ritentivo e potassio espulsivo

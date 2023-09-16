@@ -1,0 +1,2 @@
+- haemophilus influenzae
+- haemophilus duereyi

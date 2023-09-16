@@ -1,0 +1,1 @@
+- sospetto [[miocardite]] se presente edema, iperemia, fibrosi miocardio

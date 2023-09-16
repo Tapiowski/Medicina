@@ -1,0 +1,28 @@
+- [[cardiomiopatia ischemica]], [[ischemia miocardica]]
+- discrepanza, irreversibile o non tra richiesta metabolica [[miocardio]] e apporto o2 ematico da [[coronarie]]
+- ## sintomi
+	- ### [[angina pectoris]]
+- ## farmaci
+	- [[nitrossido]]
+	- [[farmaci calcio antagonisti]]
+		- blocco l, t del ca con -ca in depolarizzazione
+		- per os, metabolismo
+- ## ezipatogenesi
+	- consumo o2 miocardio 1.5 ml/min ogni 100 g di tessuto
+	- variabili
+		- frequenza cardiaca
+		- contrattilita
+		- tensione parietale proporzionale a pressione P x r : 2h
+	- deriva da
+		- -apporto o2
+			- anomalie struttura funzione circolo coronarico
+			- anemia/ipossia arteriosa gravi
+			- ipotensione arteriosa persistente
+		- + richiesta o2
+			- aumento f, c, t
+			- sforzo fisico
+			- tachi-aritmie
+			- crisi ipertensive con o senza ipertrofia ventricolare sx
+- ## classificazione
+	- ### [[sindrome coronarica acuta]]
+	- ### [[sindrome coronarica cronica]]

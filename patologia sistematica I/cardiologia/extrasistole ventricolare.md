@@ -1,0 +1,9 @@
+- alterazione QRS slargato, morfologia variabile, seguito da P
+- ventricolo attiva atrio in via retrograda: P retrocondotta non sempre
+- pausa compensatoria tra P il doppio di P-P normale
+- [[battiti prematuri ventricolari]]
+- possono aumentare di numero in sforzo
+	- bigeminismo: sinusale alternato a extrasistole
+	- coppia: due extrasistoli
+	- tripletta: tre es
+	- trigeminismo: due normali, una es

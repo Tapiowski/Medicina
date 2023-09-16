@@ -1,0 +1,1 @@
+recettore [[capsacina]]-sens

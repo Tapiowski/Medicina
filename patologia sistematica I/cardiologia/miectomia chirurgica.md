@@ -1,0 +1,1 @@
+- asporta porzione setto che impedisce eiezione in aorta

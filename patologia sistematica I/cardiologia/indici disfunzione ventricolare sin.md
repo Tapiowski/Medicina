@@ -1,0 +1,1 @@
+- ecg: frazione eiezione ridotta, aumento volume telediastolico

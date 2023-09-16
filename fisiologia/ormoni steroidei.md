@@ -1,0 +1,6 @@
+- struttura simile, funzione diversa
+- effetti indesiderati e tossici simili
+- vietati in-out competizione
+- ### [[steroidi anabolizzanti]]
+- ### [[antiestrogeni]]
+- ### [[glucocortico steroidi]]

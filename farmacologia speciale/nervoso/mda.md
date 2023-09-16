@@ -1,0 +1,1 @@
+[[love drug]]

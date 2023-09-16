@@ -1,0 +1,5 @@
+- ### [[beta-lattamine]]
+- ### [[aminoglicosidi]]
+- ### [[fluorochinoloni]]
+- ### [[sulfonamidi]]
+- ### [[macrolidi]]

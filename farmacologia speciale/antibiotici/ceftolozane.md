@@ -1,0 +1,4 @@
+- simil [[ceftazidime]]
+- +attiva vs [[pseudomonas aeruginosa]] anche con ampc
+- -attiva vs [[gram-]]
+- attivs vs [[enterobacter]] ([[ceftolozane]]/[[tazobactam]])

@@ -1,0 +1,2 @@
+- [[ntg]]
+- [[trinitrato di glicerolo]]

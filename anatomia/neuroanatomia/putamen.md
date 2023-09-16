@@ -1,0 +1,1 @@
+movimenti semplici controllati prima, durante, dopo, cambia con esperienza

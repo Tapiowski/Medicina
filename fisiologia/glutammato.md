@@ -1,0 +1,6 @@
+- recettori ionotropi: canali na, k, ca
+	- [[ampa]]
+	- [[nmda]]
+	- [[kainato]]
+- recettori metabotropi: [[adenilato ciclasi]] > +[[plc]]
+	- [[acpd]]

@@ -1,0 +1,5 @@
+- ev breve
+- inibizione diretta trasporto na per canali ionici membrana luminale
+- su [[tubulo distale]] e [[dotto collettore]]
+	- inibisce canale na su parete luminale membrana
+		- riassorbimento na per gradiente elettrochimico: pompa na basolat che porta na in spazio interstiziale

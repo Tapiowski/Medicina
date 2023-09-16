@@ -1,0 +1,84 @@
+- ## classificazione
+	- [[diazepam]]
+	- [[nitrazepam]]
+	- [[temazepam]]
+	- [[clonazepan]] per [[crisi di panico]]
+	- [[flumitrazepam]] per [[droghe da abuso]], simil [[diazepam]]
+	- ### in base durata azione
+		- indurre effetto psicoattivo e durata
+		- lunga durata, ev > 48 h
+			- [[diazepam]], [[clordiazepossido]], [[prazepam]], [[flurazepam]], [[desmetildiazepam]]
+			- per [[ansia]]
+		- durata intermedia ev 24-48 h
+			- [[flunitrazepam]], [[nitrazepam]], [[bromazepam]], [[estazolan]]
+		- breve durata ev <24 h
+			- [[temazepam]], [[lorazepam]], [[oxazepam]], [[alprazolam]], [[lormatezepam]]
+			- per [[insonnia]]
+		- brevissima ev 1-7 h
+			- [[triazolam]], [[midazolam]], [[brotizolam]]
+	- ### in base potenza
+		- ++ [[ro 5-4933]], [[ro 5-5807]]
+		- + [[medazepam]]
+		- - [[diazepam]]
+		- -- [[clonazepan]]
+- ## meccanismo
+	- trasformate in metaboliti attivi con ev piu lunga del composto di origine
+	- ev influenza th
+	- coniugazione con acido glucuronico
+	- escrezione
+	- facilitano trasmissione [[gabaergico]]
+		- modulatori positivi delle vie inibitorie [[gaba-a]]
+		- facilita interazione [[gaba]]/sisti recettoriali
+		- interazione allosterica = + frequenza apertura [[canali cloro]] in presenza di [[gaba]]
+- ## recettori per benzodiazepine
+	- [[recettori benzodiazepine]]
+		- [[bz1]] effetti [[sedativi]]-[[ipnotici]]: [[zolpidem]], [[zaleplon]]
+		- [[bz2]] effetti [[tranquillanti minori]]-[[anticonvulsionanti]]
+		- [[bz3-6]] centrale, periferico corteccia surrene, rene, polmone, testicolo, fegato
+	- ### ligandi recettori benzodiazepine
+		- agonisti
+			- [[diazepam]]
+		- agonisti parziali
+			- [[ro 16-6028]]
+		- antagonisti competitivi
+			- [[flumazenil]] reversibile
+		- agonisti inversi parziali
+			- [[fg 7142]]
+		- agonisti inversi
+			- [[dmcm]]
+		- ligandi endogeni?
+			- inibitori legame del [[diazepam]]
+	- ### modello a due stati
+		- agonisti recettore on
+			- +affinita [[gaba]]: canali on
+		- agonisti inversi recettore off
+			- non cambia affinita [[gaba]]
+		- antagonisti legano sia on che off
+- ## effetti farmacologici
+	- [[tranquillanti minori]]
+	- [[ipnotici]]
+	- [[miorilassanti]]
+	- [[anticonvulsionanti]]
+	- [[perdita di coscienza]]
+	- [[tolleranza]]
+	- [[dipendenze]]
+- ## usi th
+	- [[tranquillanti minori]] stati di [[ansia]]: preferiti ai barbiturici
+	- [[sonniferi]]: pref ai barb
+	- [[epilessia]]
+	- [[sedativi]] [[anestesia basale]] diazepam iv
+	- indice th
+		- dose letale / dose efficace : [[LD50]] / [[ED50]]
+- ## effetti collaterali
+	- stordimento, -funzioni mentali motorie, debolezza, mal di testa, vision annebbiata, vertigo, nausea, vomito, sofferenza epigastrio diarrea, reazioni allergiche, epatotossicita
+	- tolleranza
+		- desensibilizzazione recettore da prolungata esposizione
+	- dipendenza psicologica
+		- se associate a abuso droghe, benzodiazepine, da effetti ansiolitici
+	- astinenza
+		- cessazione improvvisa post assunzione cronica
+		- tremori, insonnia piu grave, delirio, -sonno, gi, malessere, -appetito, ansia, disturbi percettivi: soglia sensorilae luci, suoni, odori
+		- + se eliminazione rapida come [[triazolam]], [[alprazolam]]
+		- desensibilizzazione recettori bz, - attivita gaba, + attivita na in [[locus coeruleus]]
+	- interazioni con deprimenti snc: barbiturici, alcool
+		- depressione cardiovascolare, respiratoria

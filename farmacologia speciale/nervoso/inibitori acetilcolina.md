@@ -1,0 +1,35 @@
+- [[farmaci anticolinergici]]
+- superati da [[levodopa]]
+	- uso in sintomatologia modesta o intolleranza ldopa
+- potenziano effetti [[levodopa]]
+	- controllo [[tremore]]
+- antagonizzano ipertono [[acetilcolina]] [[nigrostriatale]] a seguito di deplezione [[dopamina]]
+- riducono [[scialorrea]] inibendo secrezioni salivari
+- ## classificazione
+	- [[triesifenidile]] prototipo
+	- [[benztropina]]
+	- [[etopropazina]]
+	- [[difenidramina]]
+	- [[prociclidina]]+
+	- [[biperidene]]+
+	- [[antiistaminici]] [[difenidramina]]+
+- ## effetti collaterali
+	- confusione mentale
+	- delirio
+	- sonnolenza
+	- allucinazioni
+	- effetti periferici, minori che per [[atropina]]
+		- cicloplegia, midriasi
+		- fotosensibilita cutanea
+		- stipsi, ritenzione urinaria
+		- secchezza fauci xerostomia
+		- nausea
+		- tachicardia
+		- -appetito, peso
+		- debolezza muscolare
+	- ! farmaci ipertensione intraoculare, glaucoma ad angolo chiuso
+- ## farmacocinetica
+	- picco in 2 h, per os, ev 10-12 h
+	- inizio a bassa dose x2, aggiusta in funzione clinica
+	- compresse, sciroppi, fiale iniettabili da 0.5 mg a 600 mg dipende da molecola
+	- brusca sospensione esacerbera [[parkinsonismi]]

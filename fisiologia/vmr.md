@@ -1,0 +1,5 @@
+-  colume minuto respiratorio
+- quantita di gas scambiata, al minuto dai polmoni
+- per [[anestetici]]
+	- -aumento per gas poco solubili come [[no2]] equilibrano subito
+	- condiziona velocita anestesia, non profondita che dipende da [[tensione tc]]

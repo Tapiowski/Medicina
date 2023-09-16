@@ -1,0 +1,3 @@
+- sorgente vie inibitorie [[gabaergico]] a proiezione [[talamo]]
+- parte interna
+- parte esterna

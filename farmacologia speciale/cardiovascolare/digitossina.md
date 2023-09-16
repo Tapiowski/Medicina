@@ -1,0 +1,3 @@
+- [[glicosidi cardioattivi]] + idrolisi chimica o enzimatica
+	- [[genina]] o [[aglicone]] + zucchero
+- assorbimento ok per os, escreta lentamente: accumulo, tossicita

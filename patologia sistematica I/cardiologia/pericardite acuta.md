@@ -1,0 +1,4 @@
+- dolore toracico pericarditico
+- sfregamenti pericardici
+- alterazioni ecg
+- versamento pericardico di nuova insorgenza o peggioramento

@@ -1,0 +1,42 @@
+- ## meccanismo d'azione
+	- stimolano escrezione urine per - [[riassorbimento tubulare]] na e quindi per [[osmosi]] - h2o
+	- su [[nefrone iuxtamidollare]]
+	- meccanismi [[trasporto transmembrana soluti]]
+- ## classificazione
+	- intensita d'azione +volume urinario, +escrezione urinaria sodio
+		- debole na escreto <5% 
+			- ### [[inibitori anidrasi carbonica]]
+			- ### [[diuretici osmotici]]
+			- ### [[diuretici risparmiatori di potassio]]
+		- media na escreto 5-10%
+			- ### [[diuretici tiazidici]]
+		- alta na escreto > 10%
+			- ### [[diuretici ansa]]
+- ## usi clinici
+	- [[insufficienza cardiaca]]: [[antagonisti aldosterone]]/[[diuretici tiazidici]], se grave [[furosemide]] o [[acido etacrinico]]
+	- [[insufficienza ventricolare sinistra]]: [[furosemide]], [[acido etacrinico]]
+	- [[edema]], [[ascite]] in [[cirrosi]]: [[spironolattone]], [[furosemide]]
+	- [[ipertensione arteriosa]]: [[diuretici tiazidici]] a lunga durata
+	- [[insufficienza renale]]: [[furosemide]] ad alte dosi
+- ## resistenza
+	- - flusso renale = + renina (azn diuretici -volume sangue, -k, -mg, -na)
+		- - da diuresi eccessiva
+		- - da forward hearth failure: + renina
+		- - da angiotensina: + aldosterone = + na out, k in
+	- indo-metacina, nsaid inibisce
+	- probenecid, litium inibisce diuretici tiazide e ansa
+- ## effetti avversi
+	- ipokalemia, iperkalemia
+	- -vol, iponatremia
+	- acidosi, alcalosi metabolica
+	- ipo, ipercalcemia
+	- ipomagnesemia
+	- iperuricemia
+	- intolleranza a carboidrati
+	- iperlipidemia
+- ## interazioni
+	- litio: -secrezione litio tiazidi
+	- aminoglicosidi: ototossicita loop
+	- ace-i: iperkalemia ksparing
+	- digoxin: -secrezione ksparing, aritmie
+	- chinidine: ipokalemia aritmie

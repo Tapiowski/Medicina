@@ -1,0 +1,20 @@
+- non vit k dipendenti, nuovi
+- inibiscono [[fattore x]]
+	- [[rivaroxaban]]
+	- [[apixaban]]
+	- [[edoxaban]]
+- inibiscono [[trombina]]
+	- [[dabigatran]]
+- ## vantaggi
+	- rapido effetto th
+	- target specifico coagulazione
+	- basse interferenze cibi e farmaci
+	- effetto anticoagulante prevedibile: no inr ogni settimana
+	- costano di piu pero
+- ## utlizzo
+	- riducono [[stroke]], [[embolia sistemica]] in [[fibrillazione atriale]], [[emorragie intracraniche]] in pz con [[fibrillazione atriale]] anticoagulati
+	- +sagnuinamenti gi che warfarin
+- ## indicazioni
+	- [[fibrillazione atriale]] non valvolare se non portatori di protesi
+	- [[stenosi mitralica]] moderata severa: warfarin meglio per gravi
+	- [[trombosi venosa profonda]] e [[embolia polmonare]]

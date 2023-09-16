@@ -1,0 +1,8 @@
+- ischemia miocardica persistente
+- ### anamnesi
+	- sede, irradiazione: retrosternale
+	- tipo: oppressivo, costrittivo
+	- condizioni scatenanti: nessuna
+	- intensita: costante, non regredisce a riposo o nitroglicerina
+	- durata: > 20 m
+	- sintomi associati: sudorazione algida, dispnea

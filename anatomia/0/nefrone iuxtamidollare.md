@@ -1,0 +1,8 @@
+- corteccia
+	- [[capsula di bowman]]
+	- [[arteriole]] afferente, efferente
+	- [[capillari]] peritubulari
+	- [[glomerulo]]
+	- [[tubulo prossimale]], [[tubulo distale]], [[arteria arcuata]]
+- midollare
+	- [[venule]], [[ansa di henle]], [[dotto collettore]], [[vena arcuata]]

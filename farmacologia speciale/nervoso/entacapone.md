@@ -1,0 +1,8 @@
+- [[inibitori comt]] periferici
+- per os, 35% biodisp, metabolizzato completamente in fegato e escreto in urine e feci 90%
+- effetti collaterali
+	- discinesie, ipercinesie, nausea, colorazione urine scure, dolore addominale, diarrea
+	- 4-12 st da inizio trattamento
+- riduce uso ldopa del 10-30%
+- lega il ferro: no farmaci contenti ferro per 2 h
+- forma farmaceutica: tavolette da 200 mg

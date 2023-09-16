@@ -1,0 +1,3 @@
+- D1 polo - in braccio dx, polo + braccio sin
+- D2 polo - braccio dx, polo + gamba sin
+- D3 polo - braccio sin, polo + gamba sin

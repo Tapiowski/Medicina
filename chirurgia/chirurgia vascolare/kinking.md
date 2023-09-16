@@ -1,0 +1,1 @@
+inginocchiamento [[a carotide in]], raro danno ischemico cerebrale

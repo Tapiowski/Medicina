@@ -1,0 +1,2 @@
+- enzima in membrane luminali [[tubulo contorto prossimale]]
+- catalizza reazioni deidratazione h2co3: riassorbimento [[bicarbonato]]

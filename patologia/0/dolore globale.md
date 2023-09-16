@@ -1,0 +1,12 @@
+- dolore cronico in malattie degenerative, neurologiche, oncologiche
+	- + in fasi avanzate
+- sofferenza personale da etiopatogenesi, motivazioni fisiche, psicologiche, sociali: oms
+- [[depressione]]
+	- -posizione sociale, ruolo famiglia, capacita lavorativa e guadagno, alterazioni aspetto fisico
+- [[rabbia]]
+	- burocrazia, mancate visite, ritardi diagnosi, fallimento th, rapporti con personale cura
+- sorgente somatica
+	- astenia, anoressia, cancro, collaterali
+- [[ansia]]
+	- paura dolore, ospedale, morte
+	- incertezza futuro, preoccupazioni famiglia, finanze

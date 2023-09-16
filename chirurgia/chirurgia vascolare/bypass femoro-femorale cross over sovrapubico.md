@@ -1,0 +1,6 @@
+- pz con [[asse iliaco-femorale]] ostruito, [[cardiopatico]], [[bpco]] da fumatore, obeso
+- rivascolarizzare arto sin
+- [[bypass extranatomico]] non ripercorre normale anatomia arterie
+- sangue da [[asse iliaco]] controlat fino a valle ostruzione
+- protesi passa sottocute in anestesia locale
+- dura 20-30 anni

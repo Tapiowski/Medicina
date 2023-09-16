@@ -1,0 +1,4 @@
+- apre addome
+- sorgente sangue da [[aorta]]
+- pezzo di [[v safena]], [[v brachiale]] o protesi
+- scavalca ostruzione

@@ -1,0 +1,9 @@
+- ### maggiori
+	- emocoltura positiva: due set
+	- ecocardiogramma positivo: ascesso vegetazione, distacco protesi
+- ### minori
+	- clinica predisponente: cardiopatico congenito, tossicodipendente, protesi
+	- febbre
+	- fenomeni vascolari
+	- fenomeni immunologici
+	- emocolture positive

@@ -1,0 +1,2 @@
+- [[pseudomonas aeruginosa]]
+- biodisponibilita 70%, 250-750 mg orale, 200-400 mg x2 iv, ev 5h

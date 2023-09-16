@@ -1,0 +1,8 @@
+- disautonomie primitive e secondarie
+- sincopi da farmaci
+- sincopi da deplezione di volume
+- sincopi da eccessiva riserva venosa
+- afferenze al simpatico cronicamente alterate
+	- meccanismi regolanti pressioni in ortostatismo in s m non efficienti: ipotensione, sincope
+- esame pressione dopo posizione eretta per 3 minuti
+	- se pressione < 20 mmhg: [[ipotensione ortostatica]]

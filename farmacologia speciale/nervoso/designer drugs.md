@@ -1,0 +1,18 @@
+- nuove droghe
+- [[metamfitamina]]
+- [[mda]]
+- [[mdma]]
+- effetti
+	- [[antacogene]]: +contatto con se
+	- [[empatogene]]: +contatto con altri
+	- +attivita fisica
+	- contrasta sono, fatica, fame
+	- +tono umore
+	- euforia, +autostima
+	- +capacita socializzanti
+	- +sensualita
+	- allucinazioni
+	- ipertermia
+	- bruxismo
+	- dopo 30-40', dura 4-6 h
+- illegali dal 1988

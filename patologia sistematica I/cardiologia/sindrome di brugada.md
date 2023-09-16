@@ -1,0 +1,10 @@
+- alterazione canale ionico na
+- corrente na in fase 1 ripolarizzazione non funziona
+- cariche negative in cc: gradiente tra tessuto sano e malato
+- sindrome se ecg associato a sincope, palpitazione, arresto cardiaco
+- pattern se solo ecg alterato
+- tipo
+	- tipo I: sopraslivellamento v1, st coved type
+	- tipo II: sopraslivellamento v1 saddle-back pattern
+- cura
+	- defibrillatore sottocutaneo o interno, sottocute se giovane

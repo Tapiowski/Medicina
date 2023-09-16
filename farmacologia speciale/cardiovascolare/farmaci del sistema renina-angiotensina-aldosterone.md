@@ -1,0 +1,18 @@
+- ## classificazione
+	- ### [[antagonisti renina]]
+	- ### [[ace inibitori]]
+	- ### [[sartani]]
+	- ### [[diuretici anti-aldosteronici]]
+- ### [[sistema renina-angiotensina]] RAAS
+	- diminuzione pressione di perfusione renale
+		- + attivita nervi simpatici renali
+		- - [[filtrazione glomerulare]]
+		- = rilascio [[renina]]
+			- [[angiotensinogeno]] > [[angiotensina I]]
+				- [[ace]] ([[ace inibitori]])
+					- [[angiotensina II]]
+						- recettori [[at-1]] ([[sartani]])
+						- crescita vascolare: [[iperplasia]], [[ipertrofia]]
+						- vasocostrizione: diretta, aumento rilascio na da nv simpatici
+						- ritenzione sale: secrezione [[aldosterone]], riassorbimento tubulare na
+						- aminopeptidase: angiotensina III

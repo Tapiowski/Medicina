@@ -1,0 +1,6 @@
+- epo
+- doping
+	- ormone da rene: +eritrociti, +trasporto ossigeno
+	- +40% rischio [[morte]] per trombosi
+	- rende sangue denso
+		- ematocrito: eritrociti da 45% del sangue a 60%

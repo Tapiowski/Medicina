@@ -1,0 +1,29 @@
+- natura renale 55%
+	- parenchimale
+		- funzionalita renale
+		- [[glomerulonefrite acuta]], [[nefrite cronica]], [[rene policistico]], [[nefropatia diabetica]], [[idronefrosi]], [[calcolosi]], [[tumore renale]]
+	- nefrovascolare
+		- arterie renali, stenosi, displasia fibromm a renale
+		- stenosi sclerotica a renale piu frequente: solo m vecchi
+			- ipoperfusione renale: stato di ipotensione relativa
+			- renina: angiotensina vasocostrizione: aldosterone su na, sete, volume extravascolare
+			- ipertensione da vc e espansione volume plasmatico
+	- endocrina
+		- iperaldostenoidismo primitivo
+		- sindrome cushing
+		- ipotiroidismo, ipertiroidismo, iperparatiroidismo
+		- acromegalia, feocromocitoma, tumori cromaffini, snd carcinoide, adenoma
+	- tossica
+		- rare: alcool, cocaina, nicotina, anfetamina, spray nasali con adrenalina, abuso liquirizio: +pressione
+	- farmaci
+		- contracettivi orali, corticosteroidi cortisonici, antidepressivi, anaplastici
+	- altro
+		- coattazione aorta, malattie neurologiche ictus neoplasie encefalite gravidanza
+	- bisogna pensarci in
+		- ipertensione ad esordio improvviso
+		- th resistente, peggiora, non controllata
+		- edema polmonare, soffio paraombelicale
+		- funzione renale!
+	- neoplasia
+		- midollare surrene, 10% torace, vescica, paraaortico
+		- paraganglioma rilascia catecolamine > edema polmonare

@@ -1,0 +1,1 @@
+prodotto di degradazione [[fibrinogeno]]

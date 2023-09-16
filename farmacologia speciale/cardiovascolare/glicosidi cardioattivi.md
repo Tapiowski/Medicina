@@ -1,0 +1,59 @@
+- [[cardenolidi]], [[glucosidi digitalici]]
+- anello lattonico + nucleo steroideo aglicone + zuccheri
+- origine naturale vegetale
+- selettivita per [[miocardio]] rispetto altra mm
+- 1785 william withering: [[digitalis purpurea]], anche in oleandro
+	- [[digossina]]
+- steroidei: +[[gittata cardiaca]], modificano [[frequenza cardiaca]], + [[contrattilita cardiaca]]
+- [[pompa na-k atpasi]]
+	- a2, a3 influenzate
+- agistono su recettore per substrato endogeno
+	- fattori endogeni: [[digossina]], [[ouabaina]] da [[midollo surrenale]], il terzo simile a [[digossina]] da [[ipotalamo]] su na/k e ca atpasi
+	- elevati in [[ipertensione essenziale]]
+- ## classificazione
+	- ### [[digitossina]]
+	- ### [[digossina]]
+	- ### [[scrofulariacee]]
+		- [[digitalis purpurea]]
+		- [[digitalis lanata]]
+	- ### [[liliacee]]
+		- [[urginea scilla]]
+	- ### [[ranuncolacee]]
+		- [[adonis vernalis]]
+	- ### [[apocinacee]]
+		- [[strophantus kombe]]
+		- [[strophantus gratus]]
+		- [[thevetia peruviana]]
+- ## meccanismo d'azione
+	- [[dromotropo]], [[cronotropo]] negativi
+		- +attivita vagale: [[digitale]] su [[snc]]
+	- effetto [[inotropo]] positivo
+		- +concentrazione ca
+		- ca in: rilascio ca da rs
+		- ripolarizzazione: ca in rs atpasi, rimosso da scambiatore na/ca sarcolemmico: //na
+		- riduzione gradiente na da inibizione na/k atpasi da glucosidi: -estrusione ca e ca disponibile in rs per succesiva contrazione
+	- inibizione trasporto na/k
+		- legame subunita atpasi na/k dip
+		- inibizione reversibile pompa na
+		- stabilizzazione comformazione e2p
+		- k desfosforila enzima: meno affine al glucoside: effetto detossificante k
+- effetti meccanici
+	- +interazione [[actina]]/[[miosina]]: durata risposta contrattile invariata
+- effetti elettrici
+	- diretti: membrane [[miocita]]
+	- indiretti: stimolazione [[vago]]
+- ## usi th
+	- [[scompenso cardiaco]] grave: +[[output cardiaco]]
+		- +forza di contrazione miocardio
+		- aumento gittata cardiaca
+			- -[[pressione venosa]], -[[riempimento diastolico]], -dimensioni [[cuore]]
+		- -[[tono simpatico]], +[[perfusione renale]], -[[frequenza cardiaca]], aumento [[diuresi]]
+- ## tossicita
+	- basso indice th
+	- da +concentrazione ca intracc
+		- cuore: palpitazioni, aritmie, fibrillazione ventricolare
+		- snc: mal di testa, fatica, confusione
+		- gi: anoressia, vomito, diarrea
+		- occhio: vista annebbiata, visione colorata: aloni verdi, gialli attorno a luci
+	- aggravata da [[diuretici tiazidici]]: -k extracc: inibizione na/k atpasi
+	- sospendere, somministrare sali di k, altri farmaci antiaritmici

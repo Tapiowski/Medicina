@@ -1,0 +1,164 @@
+- ## anamnesi
+	- familiare, potenziale base genetica
+		- infarto, ipertensione arteriosa, diabete mellito, dislipidemia, cardiomiopatia ipertrofica o dilatativa, morte improvvisa
+	- fisiologica
+		- accrescimento, scolarita, fumo, potus alcoolici, stupefacenti, dieta, dislipidemia obesita, +- peso, esercizio, alvo diuresi
+	- patologica remota
+		- reumatismo articolare acuto, tonsillite, sifilide o inf a endocardite, endocrinopatie, nefropatie a ipertensione a, malattie collagene, eventi cerebrovascolari, aterosclerosi
+	- farmacologica
+		- farmaci = patologie, anche in passato, allergie
+	- patologica prossima
+		- disturbo per cui il pz consulta il medico, modalita insorgenza disturbi: momento, modalita, sede, durata, caratteristiche e intensita dolore, irradiazione, alvo diuresi, sonno astenia tosse dispnea. anamnesi farmacologica e tossicologica
+- ## sintomi per [[cardiopatie]]
+	- dolore toracico: [[infarto miocardio]]
+	- dispnea: [[scompenso cardiaco]], [[insufficienza cardiaca]]
+	- cardiopalmo: [[aritmie]] cardiache
+	- [[sincope]]
+	- sintomi associati, non fanno diagnosi ma aiutano
+		- astenia, tosse, emottisi, nicturia, anoressia, nausea, vomito
+- ## [[dolore toracico]]
+	- da punta naso fino ad addome: torace, spalle, braccia, dorso, collo, mandibola
+	- grado 0-10, no rapporto intensita dolore con gravita patologia
+	- sede, irradiazione, tipologia, condizioni scatenanti, intensita, durata, sintomi associati
+- ## anamnesi patologica
+	- ### [[angina pectoris]]
+	- ### [[infarto miocardico acuto]]
+	- ### [[dissecazione aortica]]
+	- ### [[embolia polmonare acuta]]
+- ## fattori di rischio cardiovascolare
+	- fumo
+	- dislipidemia
+	- ipertensione
+	- diabete mellito
+- ## esame obiettivo
+	- ### ispezione
+		- ispezione generale
+			- morfologia torace deformita, bozze precordiali: tumefazione diffusa = [[cardiomegalia]], se circoscritta [[aneurisma aortico]]
+			- pulsazioni abnormi: ipertrofia ventricolare dx se in epicardio
+			- obesita, cachessia: cardiopatie gravi terminali: congestione altri organi, malassorbimento
+			- sindrome di marfan: patologia connettivo: aracnodattilia e deficit strutturale, lassita legamentosa, prolasso valvola mitralica, patologia radice aortica, aneurismi e distruzione parete
+		- decubito
+			- indifferente attivo: no disagio posturale
+			- indifferente passivo: coma, non assume posizioni da solo
+			- obbligato: costretto a posizioni per alleviare sintomatologia: decubito semi-ortopnoico pz scompensato per + respirazione e - ritorno venoso: dritto con busto. posizione maomettana di blechman pericardite o versamento pericardico: ginocchia flesse, tronco piegato in avanti
+		- facies
+			- mitralica: stenosi mitrale: cianosi, rossore guance
+			- mongoloide: down, problemi cardiaci
+			- [[sindrome di williams]]: ipercalcemia, stenosi aortica sopravalvolare, ritardo mentale e facies tipica
+			- [[basedowiana]]: ipertiroidismo con aritmie, fibrillazione atriale, tachiaritmie
+			- lunare: sindrome cushing, ipertensione
+		- cute, mucose
+			- xantomi palpebre o tallone d'achille, arco corneale: anello bianco opaco su margine corneale: lipidi associati a dislipidemia ipercolesterolemia familiare: aterosclerosi precoce
+			- alterazioni cromatiche: pallore cute in anemia
+			- cute congesta in pz policitemico, sangue viscoso, trombofilia
+			- petecchie in endocardite
+			- cicatrici chirurgiche per stato salute pz
+			- cianosi
+		- cianosi
+			- bluastro: emoglobina ridotta > 5 g/dl da 2.6, rara in anemici, frequente in poliglobulici
+			- cianosi centrale calda: ipossemia arteriosa: congiuntive, palato, lingua, estremita calde. cardiopatie congenite con shunt dx-sin, fistole arterovenose, bpco, poliglobulia e clubbing digitale
+			- cianosi periferica fredda: +hb ridotta da -o2 o +estrazione da tessuti. in estremita fredde, da insufficienza cardiaca, ostruzione venosa, fenomeno di raynaud: generalizzata o distrettuale
+		- turgore giugulare
+			- emodinamica cuore dx e pressioni venose, tronco a 45 su asse orizzonatale, testa in asse con tronco
+			- polso venoso: PVC pressione venosa centrale. atrio dx 5 cm sotto angolo sternale di louis: distanza tra angolo e punto oscillazioni + 5 cm - stima pvc: non superi i 9 cm! aumenta in insufficienza cardiaca, valvulopatie tricuspidaliche, pericarditi, ostruzione vena cava, ipervolemia. oscillazioni polso venoso giugulare: morfologia onde, onda a contrazione atrio, c ventricolo, x rilascio atriale, v riempimento atriale, y svuotamento atriale
+		- edema
+			- compenso cardiovascolare, accumulo liquidi in spazi extravascolari, +p idrostatica rispetto ad oncotica
+			- [[edema generalizzato]]: + pressione idrostatica venosa-capillare, -p oncotica [[edema discrasico]], accumula in regioni declivi caviglie sacro anasarca: liquido in pleura, peritoneo, pericardio
+			- e localizzato: infiammazione, stasi venosa, linfatica
+			- palpazione, segno fovea: depressione su cute da pressione su cute
+			- cute dura in edema cronico, morbida in edema recente
+			- dicromie cutanee: causa circolatoria locale
+			- dolore toracico: cianosi, dispnea, edemi declivi, turgore giugulari, scompenso cardiaco, epatomegalia, versamento pleurico
+		- itto della punta
+			- ispezione, palpazione attivita cardiaca in punta del cuore
+			- sollevamento ritmico V spazio intercostale, 1 cm interno a linea emiclaveale, nel bambino IV, in anziani VI basso e centrale
+			- si solleva di 1-2 cm in sistole ventricolare, ampiezza 2 cm, si abbassa in inspirazione o decubito lat sin sposta vs sin 2 cm
+			- variazioni patologiche:
+				- vs sin: dilatazione ipertrofia ventricolare sin, aneurisma ventricolare, versamento pleurico dx
+				- vs dx: versamento pleurico sin, destrocardia
+				- vs alto: ascite, splenomegalia, masse addominali
+	- ### palpazione
+		- a dx del pz, conferma reperti ispettivi, se iperalgesie cutanee o muscolari: alterata sensibilita strutture parete toracica, fremiti, sfregamenti
+		- fremiti
+			- sensazione vibratoria, palmo della mano, rumori intensi, aspri, frequenza bassa
+			- f da stenosi aortica: III ic dx
+			- f da stenosi polmonare III ic sin
+			- f da difetto interventricolare IV ic
+		- #### polso arterioso
+			- variazione pressoria corrispondente ad onda sfigmica da sistole cardiaca e trasmessa a sistema vascolare: pulsazione vasi periferici
+			- sedi polso:
+				- carotideo: margine ant sternocleidomastoideo in cartilagine tiroidea, palpazn bilat = sincope
+				- femorale: piega inguine, linea di mezzo tra spina iliaca ant sup e tubercolo pubico
+				- popliteo: cavo popliteo
+				- tibiale post: dietro malleolo int
+				- pedidio: superficie dorsale piede
+				- omerale: sopra piega gomito, 2 cm mediamente a tendine bicipite
+				- radiale: al polso, sopra articolazione radio-carpale
+			- caratteristiche polso dipendono da
+				- gittata cardiaca: velocita, forza contrazn ventricolo sin, pressione sistolica
+				- elasticita aorta e grandi arterie: mantenimento p diastolica
+				- resistenze periferiche: determinante pressione diastolica
+				- volume ematico in sistema arterioso
+				- viscosita ematica
+			- frequenza
+				- normosfigmia: 60-70 bpm
+				- tachisfigmia > 80 bpm
+				- bradisfigmia < 60 bpm
+				- polso raro < 40 bpm: blocco atrioventricolare di 3 grado, bradicardia sinusale, ritmo idioventricolare o farmaci
+				- deficit polso se f cardiaca maggiore di f polso periferico: sistole inadeguata in fibrillazione atriale o battito extrasistolico prematuro con sistole non condotta
+			- ritmo
+				- intervalli tra pulsazioni, uguaglianza tra intervalli: polso ritmico o aritmico
+				- aritmia respiratoria: parafisiologica, -frequenza in inspirazione
+				- a intermittente o isolata: extrasisolie sopraventricolari o ventricolari, battiti prematuri, blocco av 2 grado
+				- a periodica: battito extrasistoli prematuro alternato a due o tre battiti cardiaci: ritmo bigemino, trigemino..
+				- aritmia totale: fibrillazione atriale
+			- ampiezza
+				- espansione arteria in funzione della gittata cardiaca, volemia e elasticita vaso, diseguale extrasistole o alternante cardiopatie
+				- ampio, normale, piccolo, filiforme o assente
+				- diseguale se extrasistole o alternante in miocardiopatie
+			- durata
+				- tempo impiegato da arteria per sollevarsi ed abbassarsi: tempo di incremento e decremento onda sfigmica
+				- da v contrazione, svuotamento ventricolare, resistenza valvola aortica, r periferiche:
+				- polso celere: ipertrioidismo, febbre, fistole a-v, cirrosi, gravidanza
+				- tardo: stenosi aortica
+				- scoccante di corrigan: insufficienza aortica, arteriosclerosi
+			- simmetria
+				- contemporaneita ed uguaglianza onda sfigmica in polsi simmetrici
+				- asimmetrici in patologie ostruzione artriosa monolat o estrinseca, coartazione aortica, dissecazione aortica, artica: slaminamento tonaca media: ematoma in parete comprime e occlude rami collaterali aorta: asimmetria polsi
+			- polso paradosso
+				- - ampiezza polso in inspirazione per + ritorno venoso al torace: ventricolo dx espande a spese del ventricolo sin che si riempie meno con sistole meno efficace, segue un ritorno a condizioni normali
+				- in polso paradosso: esasperata riduzione ampiezza in normale inspirazione per eccessiva caduta inspiratoria di pressione a > 10 mmhg: tamponamento cardiaco
+	- ### percussione
+		- aia cardiaca: ottusita relativa e assoluta
+		- percussiona medio-leggera identifica itto punta, delimita confine polmonare dx, margine dx e sin cardiaco, dimensioni aia cardiaca + in versamento pericardico o cardiomegalia
+	- ### auscultazione
+		- in decubito supino, lat sin, seduto, piegato in avanti avvicina cuore a parete toracica
+		- silenzio: apnea respiratoria, temperatura ok, simultanea palpazione polso radiale
+		- focolai di auscultazione:
+			- mitralae: V ic emiclaveare sin
+			- tricuspide: iv ic marginosternale dx e sin
+			- aortico: ii ic marginosternale dx
+			- polmonare: ii ic marginosternale sin
+		- #### [[toni cardiaci]]
+		- #### ritmi di galoppo
+			- tono aggiunti udibili e accentuati
+			- galoppo atriale o presistolico: S4 breve cupo sordo
+			- galoppo ventricolare protodiastolico S3 debole -tonalita
+		- #### [[soffi cardiaci]]
+- ## semeiotica strumentale
+	- ### elettrocardiografia
+		- a riposo: basale, istantanea
+		- dinamica, holter: registrazione per 24+ h rileva alterazioni ritmo
+		- ergometria, sotto sforzo: variazioni di pressione sistolica diastolica, frequenza
+	- ### ecocardiografia
+		- morfologia, funzione cardiaca, sonda ultrasuoni
+		- tecniche: monodimensionali, bidimensionali, tridimensionali, cordifica a colori dei flussi per rigurgiti
+		- basale, transtoracica
+		- sotto stress: sforzo fisico, stress farmacologico: ischemia miocardica: dipiridamolo, dobutamina simula sforzo
+		- tranesofagea
+	- ### cateterismo cardiaco e angiografia
+		- pressione arteriosa e venosa, cateteri spruzzano mezzo contrasto in vasi di interesse: verifica integrita e lume, occlusioni o restringimenti
+	- ### tomografia computerizzata cardiaca
+		- anatomia cardiaca: tc cardiaca o coronarica
+	- ### risonanza magnetica cardiaca
+		- camere cardiache, dimensioni, funzionalita, come tc

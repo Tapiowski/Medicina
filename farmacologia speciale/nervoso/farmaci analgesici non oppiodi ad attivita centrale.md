@@ -1,0 +1,5 @@
+- [[anticonvulsionanti]]: [[lamotrigina]], [[pregabalina]]
+- [[antidepressivi]]: [[ssri]], [[nsri]]
+- [[agonisti adrenergici]]-a2: [[clonidina]]
+- [[antagonisti nmda]]: [[memantina]], [[destrometorfano]]
+- [[paracetamolo]]

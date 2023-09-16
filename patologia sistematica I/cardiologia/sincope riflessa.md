@@ -1,0 +1,1 @@
+evitare condizioni scatenanti: luoghi caldi, affollati, ipovolemia, indumenti stretti..

@@ -1,0 +1,17 @@
+- sostenute se 30 s, da focus attiva e scarica o da corto circuito: infarto, cicatrice con periodo refrattario differente: cortocircuito
+- non sostenuta < 30 s
+- monomorfe o polimorfe: numero foci
+- 3 o piu extrasistoli in serie
+- atri e ventricoli dissociati, P non retrocondotta atrio a 60 bpm, QRS largo > 0.12 s: diff con tachiaritmia ventricolare condotta con aberranza
+	- origine atriale o ventricolare?
+	- qrs largo: forma aberrante con blocco di branca o ventricolare?
+	- qrs tutti uguali, veloci: [[arresto cardiaco]], [[shock cardiogeno]]: [[defibrillatore]]
+- ## caso clinico
+	- t ventricolare sottoposta ad ablazione
+		- accesso femorale, introduttori, cateteri nel cuore, mappaggio elettro-anatomico, stimolo cuore: morfologia battito uguale a quella della tachicardia presente
+		- monitor: punto dove origina aritmia: eroga energia risolve?
+		- sia per focali che macrocircuiti
+- ## trattamento
+	- [[amiodarone]]
+	- th elettrica, cardioverditi
+	- defibrillazione se no polso

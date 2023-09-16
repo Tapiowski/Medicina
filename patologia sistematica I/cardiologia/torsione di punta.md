@@ -1,0 +1,10 @@
+- QT lungo, anomalie elettrolitiche
+- battito normale, QRS inizia a ruotare su isoelettrica: [[arresto cardiaco]] o autolimitata
+	- alcuini qrs positivi, altri negativi
+- [[torsade]]
+- pz con
+	- [[ipopotassemia]] severa, evolve in [[fibrillazione ventricolare]]
+	- [[blocco av]] 3 grado
+- cardiovertita elettricamente
+	- [[solfato di magnesio]] in vena
+	- pacing temporanteo: pacemaker temporaneo, stimolazione alta frequenza 80-70 bpm

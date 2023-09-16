@@ -1,0 +1,5 @@
+- vdδ /ž
+	- v velocità
+	- d diametro 
+	- δ densità
+	- ž viscosità 

@@ -1,0 +1,22 @@
+- farmaco [[antivirale]] per profilassi [[influenza]] a2: induce miglioramenti in [[morbo di parkinson]]
+- efficacia intermedia tra [[l-dopa]] e [[farmaci anticolinergici]] in monoth
+- in monoth per [[parkinsonismi]] lieve-media gravita: associazione [[l-dopa]] meglio
+- effetto max in 8 wk da inizio
+- azione sinergica su [[levodopa]], previene-cura [[discinesie]], attiva su [[tremore]], [[rigidita]]
+- ## farmacocinetica
+	- assorbimento gi rapido, +ev 20 h, lega 60%, escreta immodificata in urine
+	- liberazione [[dopamina]] da terminazioni nervose [[dopaminergico]] [[snc]]
+	- azione inibitoria du [[dat]]: rallenta reuptake [[dopamina]]
+	- stimola [[recettori dopaminergici]]
+	- effetto [[farmaci anticolinergici]]
+	- antagonista [[nmda]]
+- ## effetti collaterali
+	- rispetto a [[levodopa]] pochi effetti collaterali se superi 200 mg o associata ad [[farmaci anticolinergici]]
+	- effetti indesiderati
+		- allucinazioni: usare antipsicotici
+		- confusione
+		- insonnia
+		- gi upset raro
+		- livedo reticularis arti inf per vc periferica: catecolamine. in th cronica
+- ## posologia
+	- capsule 100 mg x2, sciroppo 50 mg / 5 ml

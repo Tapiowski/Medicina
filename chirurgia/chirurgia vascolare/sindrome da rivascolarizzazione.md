@@ -1,0 +1,11 @@
+- [[cataboliti acidi]]
+- [[acido lattico]]
+- [[enzimi lisosomiali]]
+- [[potassio]]
+- sangue con questi cataboliti e nero, messo in circolo sistemico
+	- [[iperpotassemia]]
+	- [[arresto cardiaco]]
+- rischio
+	- [[infarto miocardio]]
+	- [[ira]]: mioglobina lisi muscolare > necrosi tubulare acuta: dialisi
+	- polmoni, fegato, cervello

@@ -1,0 +1,2 @@
+- isosorbide dinitrato
+- per os, procedure [[occhio]], [[edema]] [[cornea]]

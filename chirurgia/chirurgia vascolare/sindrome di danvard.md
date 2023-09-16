@@ -1,0 +1,3 @@
+- [[legamento arcuato]] diaframma
+- comprime ostio [[a mesenterica inf]]
+- congenita

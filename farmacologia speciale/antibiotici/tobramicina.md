@@ -1,0 +1,7 @@
+- bacilli aerobi
+- cocci resistenti ad altri farmaci: [[neisseria]], [[moraxella catarrhalis]], [[haemophilus]], [[klebsiella]], [[pseudomonas aeruginosa]] 
+- ## proprieta farmacologiche
+	- simil [[gentamicina]]
+		- +[[pseudomonas aeruginosa]]/[[beta-lattamine]] anti pseudomonas
+		- -[[streptococco#^enterococco]]/[[penicillina G, V]]
+	- e faecium resistente, inefettiva vs micobatteri

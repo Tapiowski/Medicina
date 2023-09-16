@@ -1,0 +1,1 @@
+- rottura fissurazione erosione dissezione placca in trombosi intramurale coronaria

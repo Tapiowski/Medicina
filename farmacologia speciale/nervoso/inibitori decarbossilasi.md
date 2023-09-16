@@ -1,0 +1,24 @@
+- inibisce l-dopa in da per legame a piridossale della [[carbossilasi]], [[decarbossilasi]]
+- [[l-aminoacido-decarbossilasi]]: [[piridossina]]-dip
+- 4:1 [[carbidopa]]
+- 10:1 [[benserazide]]
+- non passano la [[bee]], azione periferica
+- inibitori non competitivi: non aumentare dosaggio se si aumenta l-dopa
+- scopo
+	- -dose efficace l-dopa del 75%
+	- -nausea, vomito
+	- -effetti cardiovascolari collaterali
+	- +l-dopa a snc ab-initio
+	- evita antagonismo th da piridossina
+	- efficace in +pz
+- farmacocinetica
+	- assorbimento rapido incompleto
+	- non passa bee
+	- eliminati via epatica e renale post metabolismo
+- effetti indesiderati
+	- no tossici, in associazione con ldopa aumentano effetti collaterali da-snc
+- interazioni associazione
+	- [[vitamina b6]] + distruzione
+	- antipsicotici sindrome simile a parkinson: effetto opposto a l-dopa
+	- inibitori aspecifici mao: fenlzina, isocarbossazide ++ effetti dopa: crisi ipertensive, iperpiressia
+	- farmaci anticolinergici rallentano svuotamento gastrico: ritardo assorbimento intestinale l-dopa

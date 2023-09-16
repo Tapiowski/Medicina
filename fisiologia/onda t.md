@@ -1,0 +1,1 @@
+[[ripolarizzazione]] ventricolare

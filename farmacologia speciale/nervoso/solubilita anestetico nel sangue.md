@@ -1,0 +1,8 @@
+- coefficiente di partizione sangue:gas lambda
+- eguaglianza pressioni parziali nelle due fasi \[anestetico]-sangue, \[anestetico]-gas
+- lambda
+	- 12 alta, per anestetici molto solubili
+		- [[metossiflurano]], [[etere etilico]]
+	- 0.47 bassa per poco solubili
+		- [[sevoflurano]], [[desflurano]], [[protossido]]
+- [[coefficienti di partizione sangue:gas]]

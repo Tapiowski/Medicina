@@ -1,0 +1,7 @@
+- [[dopamina]]
+- effetto [[inotropo]] positivo: [[vasodilatazione]] diretta
+	- + [[camp]], + idrolisi [[pip2]]
+		- mobilizza ca, attiva [[pkc]]
+- distribuzione
+	- [[nucleo striato]], [[neocortex]]
+	- corpo, presinaptico interneuroni striatali: effetto eccitatorio striatale

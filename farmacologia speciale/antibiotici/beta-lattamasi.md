@@ -1,0 +1,17 @@
+- inattivazione enzimatica
+- classi A-D
+- spettro ampio o ridotto
+	- Extended-spectrum beta-lactamases [[esbl]]
+- maggiormente presenti in [[gram+]]
+	- penicillasi
+		- codificato in plasmidi [[stafilococco]]
+		- trasferiti da batteriofagi
+		- inducibili da substrati
+- [[gram-]]
+	- spazio periplasmico tra membrane int/ext
+		- cromosomi, plasmidi
+		- costitutivi, inducibili
+		- trasferiti per coniugazione
+	- idrolizzano anche [[carbapenemi]] e [[cefalosporine]]
+		- [[ampc]] chr encoded [[cefalosporinasi]]
+		- [[kpc]] [[carbapenemasi]]-produttrice

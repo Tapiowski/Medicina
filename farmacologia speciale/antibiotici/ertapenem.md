@@ -1,0 +1,3 @@
+- ev piu lunga, x1
+- -attivo vs [[streptococco#^enterococco]], [[pseudomonas aeruginosa]], [[acinetobacter]]
+- +attivo vs [[enterobacter]], anaerobi: [[infra addominale]], [[pelvi]]

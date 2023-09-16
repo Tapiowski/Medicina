@@ -1,0 +1,23 @@
+- [[fibrinolisi]]
+- favoriscono formazione [[plasmina]]
+	- degradazione [[fibrina]]
+- ## classificazione
+	- [[streptochinasi]]
+	- [[urochinasi]]
+	- [[reteplasi]]
+	- [[tenecteplasi]]
+	- specificita per trombo, coagulo
+- ## uso clinico
+	- uso sistemico ev
+		- [[ictus ischemico acuto]]
+			- insorgenza recente
+			- se gia danno, non usare per rischio emorragia
+		- [[embolia polmonare]] ad elevato rischio
+			- [[shock cardiogeno]], coagulo grosso blocca arteria polmonare: [[scompenso cardiaco destro]] acuto
+		- [[STEMI]] se non disponibile angioplastica
+			- fibrinolisi per ricanalizzare vaso, coronarografia
+	- loco-regionale
+		- dosaggi 5-10X meno, meno rischio emorragia
+		- [[ischemia acuta arto]]
+		- [[embolia polmonare]]
+		- cateteri

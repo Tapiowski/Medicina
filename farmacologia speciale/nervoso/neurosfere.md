@@ -1,0 +1,20 @@
+- aggregati sferici in sospensione 50-100 um
+- fenotipi
+	- cc a: [[neuroblasta]], b tubulina iii
+	- cc b: [[astrocita]], nestina-gfap
+	- cc c: morfologia transizionale, nestina
+	- cc e cc [[ependimali]], nestina
+- studio
+	- prelievo [[svz]] da topi maschi c57bl/6
+	- isolamento
+	- medium complete plus
+	- fattori di crescita
+	- neurosfere
+		- trattamenti farmacologici
+			- vitalita cc: saggio mtt = +20%
+				- effetto aa, dhaa su attivita mitocondriale delle ansc
+			- analisi neurochimica hplc
+				- quantificazione a ascorbico intracc + fluoretina
+			- analisi citofluorimetriche
+		- immunocitochimica
+		- western blot

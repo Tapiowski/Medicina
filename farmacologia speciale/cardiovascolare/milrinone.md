@@ -1,0 +1,2 @@
+- primacor
+- tratta [[scompenso cardiaco]] resistente a th

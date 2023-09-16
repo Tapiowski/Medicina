@@ -1,0 +1,1 @@
+sensazioni anomale, spiacevoli

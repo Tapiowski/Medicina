@@ -1,0 +1,20 @@
+- [[cuore]] +[[frequenza cardiaca]], +[[pressione arteriosa]], sangue circola velocemente: forza fittizia: altera capacita di autolimitazione durante sforzo
+- sintetizzati in lab 1920
+- 1930 th capogiro, obesita, depressione
+- ++wwii
+- 1958 [[morte]] in tour de france
+- ## effetti
+	- stimolanti [[snc]]
+		- positivi
+			- +allerta, -fatica, -appetito
+			- +tono umore
+		- negativi
+			- insonnia, irritabilita, debolezza, capogiro, suicidio, tolleranza, tossicodipendenza
+			- collassi cardiocircolatori
+			- agitazione psicomotoria
+			- insonnia
+			- perdita peso
+	- effetti periferici stimolanti
+		- negativi
+			- +pressione, aritmia, diarrea, nausea, vomito
+- ### [[mdma]]

@@ -1,0 +1,4 @@
+- [[nucleo striato]] a [[nucleo caudato]], [[globus pallidus]]
+- controllo del [[movimento]]
+- anormalita:
+	- [[morbo di parkinson]], [[corea di huntington]]

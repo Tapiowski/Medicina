@@ -1,0 +1,128 @@
+- [[l-dopa]]
+- th sintomatica e sostitutiva [[morbo di parkinson]]
+- dose
+	- 5-6g/d nel passato: nausea, vomito, diarrea
+	- /inibitore decarbossilasi intestinale e sistemica: 0.25-1 g/d
+- 20% pz trattati: no calo intelletto, linguaggio, scrittura difficili
+- no paresi, difficolta in movimento da mancanza di programmazione e schema motorio
+	- [[acinesia]] non paresi: forza muscolare mantenuta
+	- [[bradicinesia]]
+- 1967 cotzias meccanismo d'azione
+- sintomatologia riappare
+	- in 7-8 anni
+		- repentino peggiorameno: [[l-dopa]] non funziona piu
+		- non arresta morte progressiva [[substantia nigra]]
+	- in 12 anni
+		- riacutizzazione sintomatologia da trattamento cronico con [[l-dopa]]
+		- scadimento di fine dose wearing off:
+			- inizio durata effetto da 6 h 3 dosi/d
+			- dopo 10 anni effetto 2 h
+- 20-40% pz non risponde a th
+- utilizzata perche precursore [[dopamina]], che non passa la [[bee]]
+	- trasportata in [[snc]] via trasportatore degli amminoacidi aromatici: decarbossilato a [[dopamina]]
+- ## effetti farmacologici
+	- profarmaco, farmacologicamente inerte: effetto da decarbossilazione a [[da]]
+	- 95% dose th per os decarbossilata nei tessuti periferici: 5% a [[snc]]
+		- eccessiva produzione [[dopamina]] nei tessuti: effetti cardiovascolari
+	- /inibitori l-dopa decarbossilasi che non passano [[bee]]: triplice effetto di convogliare l-dopa a snc, ridurre dosi l-dopa somministrate, contrastare effetti collaterali
+	- 75% pz buona risposta con riduzione del 50% della sintomatologia
+	- in alcuni miracolosa
+		- contrasta tutti i segni e sintomi -demenza, instabilita posturale
+- ## adme
+	- per os
+	- assorbimento rapido in intestino tenue, trasportatore attivo per aminoacidi aromatici: iperacidita e pasti interferiscono
+	- picco in 2 h
+	- ev 3 h
+	- 95% decarbossilato in tessuti, 5% a snc
+		- notevole first pass se isolato
+	- piccola parte ossimetilata da [[comt]] periferiche a 3-o-metil-dopa
+	- formazione [[dopamina]]: attivazione metabolismo ossidativo [[catecolamine]]: conversione a [[noradrenalina]], [[adrenalina]], da [[mao]] [[dopac]], da [[comt]] [[hva]]
+	- 80% cataboliti escreti in urine in 24 h, 50% [[dopac]]-[[hva]], una parte glucuronata fegato, escreta in urine
+	- [[vitamina b6]] cofattore [[dopa decarbossilasi]] periferica
+		- + catabolismo periferico
+- ## meccanismo d'azione
+	- convertita a [[dopamina]] per [[dopa decarbossilasi]] non completamente persa  in [[nigrostriatale]]: aumento [[dopamina]] di 6-8x in parkinsoniani
+	- in terminazioni dopaminergiche residue o interneuroni
+	- [[dopamina]] agisce su [[recettori d1]] attivano [[nucleo striato]], [[recettori d2]] inibiscono [[nucleo striato]]
+	- effetto l-dopa e altri [[agonisti dopaminergici]]: [[recettori d2]]
+- ## effetti 
+	- ### [[snc]]
+		- in soggetti normali no effetti su tono muscolare, movimento
+		- in pz: -[[bradicinesia]], -[[rigidita]], -[[tremore]], +movimenti fini
+		- + capacita funzionale globale
+		- + manifestazioni motorie secondarie: mimica facciale, articolazione linguaggio, scrittura manuale, degluttizione, respirazione
+		- + tono [[umore]]
+		- + [[vigilanza]], + funzioni mentali
+		- + interesse per propria persona, ambiente
+		- alterazioni comportamento: disturbi psichici da iperattivazione via [[dopaminergico]] [[meso-limbo-corticale]]
+	- ### cardiovascolari
+		- decarbossilazione periferica l-dopa: +[[da]] sistemica azn su [[recettori adrenergici]]
+		-  [[da]] libera [[adrenalina]] da [[recettori adrenergici]] vascolari: ipertensione arteriosa, aritmia, [[recettori beta-adrenergici]]
+			- tachicardia transitoria, aritmia
+			- +contrattilita miocardio, consumo o2
+			- diuresi, migliora insufficienti cardiaci
+	- ### metabolici, endocrini
+		- l-dopa interferisce su metabolismo [[dopamina]] via [[tuberoinfundibolare]] ipotalamica
+			- -[[prolattina]]
+			- +[[ormone della crescita]] con acromegalia
+	- ### tossici
+		- dose-dip
+		- extracerebrali ridotti da inibitore periferico decarbossilasi
+		- radicali in via sintesi [[catecolamine]]
+			- manganese aumenta autoossidazione l-dopa in striato
+	- ### collaterali
+		- precoci: nausea, vomito non usare antiemetici, anoressia, sofferenza epigastrio, aritmie cardiache, ipertensione arteriosa, +frequenza cardiaca, dolori addominali
+		- tardivi
+			- movimenti involontari anormali 50% pz in 4 mesi, tic, smorfie, spasmi, ciondolamento capo, distonia, respiratori anormali: apnea-dispnea-iperpnea: supersensibilita recettori da. no tolleranza a questi effetti motori: ridurre dosaggio
+			- disturbipsichici: ipertono da: allucinazioni, paranoia, mania, ansia, insonnia, risveglio interesse sessuale
+			- ipotensione ortostatica: recettori vascolari
+			- irregolarita cardiache
+			- no tossicita fegato a lungo termine
+- ## controindicazioni
+	- insufficienza coronarica
+	- aritmie
+	- malattie cerebrovascolari occlusive
+	- disturbi affettivi
+	- psicosi maggiori
+	- pz trattati con inibitori mao-a
+	- patologia epatica, renale, cardiaca grave
+	- glaucoma narrow angle
+	- gravidanza
+	- brusca interruzione: sindrome maligna neurolettica-simile
+		- tachicardia, +temperatura corporea, rigidita muscolare
+- ## [[inibitori decarbossilasi]] per l-aa aromatici
+- ## antagonisti selettivi per sottotipi recettoriali da
+	- [[domperidone]]
+	- [[clozapina]]
+- ## preparazioni, posologia
+	- compresse da 500 mg: a pz sensibili a insorgenza effetti collaterali [[snc]]
+	- inizio
+		- 3-4 compresse al gg sino a 2000 mg / 200 mg in base risposta pz
+	- fasi avanzate
+		- preparazioni a cessione controllata in pz con fenomeni on-off
+- ## complicazioni dopo lungo trattamento
+	- in 50% pz, dopo 5-6 anni, 80 pz dopo 10 anni
+	- fluttuazioni prevedibili
+		- wearing off = -risposta a fine dose, fenomeni discinetici in picco plasmatico
+	- fluttuazioni paradosse
+		- discinesie a fine dose, acinesia in picco
+	- fluttuazioni imprevedibili
+		- fenomeno on/off: trattamento inefficace/farmacologico+discinesia
+- ## disturbi motori singola dose/pz
+	- [[ipocinesia]] [[acinesia]]
+	- in wearing on, inizio e in wearing off, fine: singola dose insufficiente
+	- [[acinesia]] notturna, al risveglio
+	- ipermobilita
+		- [[discinesie]]
+			- di picco dose: coreiche, distoniche, coreo-distoniche
+			- in fase on
+			- mono e bi-fasiche inizio, fine
+			- early-morning distonia: arto inf
+	- di media durata, min
+		- fluttuazioni risposta: fenomeno on-off parossistico, yo-yoing
+	- di brevissima durata, sec
+		- freezing
+	- evitare?
+		- frazionano dosi, + numero somministrazioni
+		- - cibi proteici a colazione e pranzo
+		- sostiutuire ldopa con [[agonisti dopaminergici]]

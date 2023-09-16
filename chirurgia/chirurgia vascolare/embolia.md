@@ -1,0 +1,56 @@
+- distacco frammento trombotico da sorgente remota, migra in corrente ematica, arresto a distanza
+- [[cardiopatie emboligene]]
+- ## causa [[ischemia acuta arto]]
+	- [[fibrillazione atriale]]
+		- arresto embolo in
+			- [[biforcazione carotide comune]]: [[ictus cerebrale]]
+			- [[a mesenterica sup]]: [[ischemia intestinale acuta]]
+			- [[a succlavia sin]]: [[ischemia acuta arto]]
+			- [[a toracica]]: ferma in [[biforcazione iliaca]]
+			- [[biforcazione iliaca]] embolo medie dimenzioni
+			- [[biforcazione femorale comune]] sup e prof
+			- [[biforcazione poplitea]]
+			- renale rara per 90
+	- [[infarto miocardico]] recente: tessuto cardiaco ipocinetico o acinetico: stratificazione trombo
+	- cause rare
+		- [[aneurisma ventricolare]]
+		- dilatazione mm cardiaco
+		- complicanza cardiochirurgica cec
+		- stenosi mitralica reumatica
+		- endocardite batterica
+		- materiale di tumore cardio-vascolare
+	- cause extracardiache
+		- [[placca aterosclerotica]]
+		- [[aneurisma aortico]]
+		- iniezione sostanze in arteria che precipitano: tossicodipendenti
+		- [[embolia paradossa]] forame ovale pervio
+- ## diagnosi
+	- clinica
+		- dd tra [[embolia]] e [[trombosi]]
+	- anamnesi pz [[ischemia acuta]] da [[embolia arteriosa]]
+		- sorgente: fibrillazione, cardiopatia, aneurismi periferici, placche stenotiche arteriose periferiche
+		- cammina bene o le fanno male i polpacci?
+			- esclude trombosi
+			- no [[claudicatio intermittens]]: [[embolia]]
+	- esame obiettivo
+		- arto ischemico non ha polso, controlat sano polso presente
+	- indagini secondo livello
+		- nei casi dubbi [[TC]]
+	- dd
+		- [[dissecazione aortica]] dolore violento
+		- [[indice caviglia-braccio]]
+			- dolore, ipotermia, pulseless, [[indice di winsor]] 0: no sangue
+	- quindi
+		- se causa [[ischemia acuta]] da [[embolia]], dolore improvviso arto inf
+		- difficolta a camminare?
+		- segni: sofferente, non cammina, piede ipotermico, difficolta movimento dita, parestesie, formicolii, fanca alterazione sensibilita discriminativa: non riconosce figure su dorso piede
+		- [[ECG]]
+- ## trattamento [[embolectomia]]
+- ### prevenzione
+	- primaria
+		- fattori rischio
+	- secondaria
+		- operazione chirurgica, evita perdia arto
+	- terziaria
+		- cura condizioni ricomparsa malattia
+			- tossicodipendenza, endocardite batterica, chiusura forame ovale pervio, fibrillazione atriale, sorgenti emboligene

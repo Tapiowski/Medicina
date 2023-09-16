@@ -1,0 +1,13 @@
+- regolazione, distribuzione intracc
+	- [[canali calcio]]
+	- canali permeabili a cationi
+	- pompa ca
+	- na-ca pompa scambio
+	- reticolo endoplasmatico
+	- mitocondri
+	- nucleo
+- correnti di calcio nei tessuti Em(mv)
+	- [[pacemaker]] cardiaco: 10/-50
+	- [[ventricolo]] cardiaco: 20/-80
+	- [[muscolatura liscia]] [[vasi]]: 5/30
+	- [[neurone]] centrale: 30/-70

@@ -1,0 +1,3 @@
+- effetto [[inotropo]]
+- Ca! [[troponina C]]
+	- 

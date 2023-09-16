@@ -1,0 +1,3 @@
+- se [[a mesenterica sup]] abbastanza lunga
+- taglio zona ostruita
+- rianastomizza a monte

@@ -1,0 +1,15 @@
+-  pressione parziale [[anestetici]] nel cervello tende ad eguagliarsi a quella del sangue
+- fattori determinanti tensione in sangue
+	- concentrazione anestetico nel gas inspirato
+		- [[ti]] proporzionale a concentrazione
+		- [[ta]] tende a concentrazione aria inspirata
+	- ventilazione polmonare
+		- +[[vmr]] = +[[ti]] e quindi +[[ta]]
+	- scambi polmonari: alveolo > sangue
+		- membrana aleolare: [[ta]] tende a [[ti]]
+		- velocita dipende da 
+			- [[solubilita anestetico nel sangue]]
+			- [[flusso ematico polmonare]]
+			- [[ta]], [[ta]]
+	- cessione anestetico ai tessuti periferici: cervello
+		- [[velocita di cessione del gas anestetico]]

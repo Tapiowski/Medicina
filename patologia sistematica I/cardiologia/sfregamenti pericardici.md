@@ -1,0 +1,3 @@
+- rumori ruvidi, aspri, alta tonalita, sisto-diastolici: linea marginosternale sin, in apnea espiratoria: pressione diaframma da fonendoscopio torace anteroflesso
+- frizione foglietto ve p pericardio, pericarditi
+- fasi: mesosistolica, mesodiastolica, presistolica

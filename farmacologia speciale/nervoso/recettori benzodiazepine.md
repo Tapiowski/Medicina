@@ -1,0 +1,22 @@
+- [[bz1]] effetti [[sedativi]]-[[ipnotici]]: [[zolpidem]], [[zaleplon]]
+- [[bz2]] effetti [[tranquillanti minori]]-[[anticonvulsionanti]]
+- [[bz3-6]] centrale, periferico corteccia surrene, rene, polmone, testicolo, fegato
+- ### ligandi recettori benzodiazepine
+	- agonisti
+		- [[diazepam]]
+	- agonisti parziali
+		- [[ro 16-6028]]
+	- antagonisti competitivi
+		- [[flumazenil]] reversibile
+	- agonisti inversi parziali
+		- [[fg 7142]]
+	- agonisti inversi
+		- [[dmcm]]
+	- ligandi endogeni?
+		- inibitori legame del [[diazepam]]
+- ### modello a due stati
+	- agonisti recettore on
+		- +affinita gaba: canali on
+	- agonisti inversi recettore off
+		- non cambia affinita gaba
+	- antagonisti legano sia on che off

@@ -1,0 +1,41 @@
+- ## meccanismo d'azione
+	- tiazidi, benzotiadiazidi
+	- sintesi da modifica [[inibitori anidrasi carbonica]]
+	- su [[tubulo distale]]
+		- inibitori [[trasporto transmembrana soluti]] simporto na/cl
+		- inibizione [[riassorbimento tubulare]] nel contorto e epitelio di nacl
+	- su [[tubulo prossimale]]
+		- gruppo [[sulfonamidi]]: [[inibitori anidrasi carbonica]]
+	- per os, secreti rene, competizione con secrezione [[acido urico]]
+		- +secrezione cl, na, k, hco3
+		- -secrezione ca
+- ## classificazione
+	- ### [[idroclorotiazide]] = esidrex +
+	- ### [[clortalidone]] = igroton
+	- ### [[clorotiazide]] +
+	- ### [[indapamide]]
+	- ### [[xipamide]]
+- ## th
+	- -[[resistenza periferica]], [[gittata cardiaca]], -[[ritenzione liquidi]] e na, -[[volume ematico]]
+		- -[[pressione arteriosa]]
+	- [[ipertensione]]
+		- moderata, combinare
+	- [[ipercalciuria]] idiopatica
+		- previene [[calcoli]]
+	- [[diabete insipido]] nefrogeno non ripsonsivo a adh
+	- [[scompenso cardiaco]] congestizio
+	- [[edema]] grave resistente: /[[metolazone]] /[[diuretici ansa]]
+- ## effetti collaterali
+	- ipokaliemia, perdita mg e cl
+		- intossicazione digitalica o fibrillazioni ventricolari con torsione di punta se in chinidina
+	- ipercalcemia, iperuricemia
+	- -tolleranza glucosio, da ipokaliemia
+	- interazioni con anticoagulanti, anestetici, sali di litio
+	- pochi effetti gi, neurologici
+- ## tossicita
+	- alcalosi ipokalemica, iperuricemia
+	- -tolleranza carboidrati: iperglicemia per -insulina
+	- iperlipidemia: +15% colesterolo sierico
+	- iponatremia
+	- reazioni allergiche: fotosensibilita, dermatite
+	- astenia e parestesie

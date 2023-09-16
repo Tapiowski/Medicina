@@ -1,0 +1,1 @@
+[[nitroglicerina]], [[furesamide]]

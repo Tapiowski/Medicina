@@ -1,0 +1,6 @@
+- [[trombosi venosa profonda]]: puo finire in circolo polmonare, morte
+- distrugge apparato valvolare
+- [[ipertensione venosa profonda]]
+- circolo superficiale tramite [[v perforanti]]
+- infersione di flusso: dilatazione vene sup
+- et anziana

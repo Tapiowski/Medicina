@@ -1,0 +1,15 @@
+- via accessoria bypassa nodo av
+- onda delta con pr/pq corto
+- sintomatia con sincope, aritmia, cardiopalmo
+- normalmente
+	- nodo av
+	- altrimenti no separazione elettrica a-v: via accessoria di conduzione
+- morte cardiaca improvvisa, arresto cardiaco: [[fibrillazione atriale pre-eccitata]]
+- patologia
+	- pre-eccitazione da via accessoria connette a-v: ecg P delta QRS, PQ corto < 0.12 s
+	- macrocircuito ruota in senso
+		- ortodromico av atri per via accessoria
+		- antidromico av ventricoli via accessoria, rientra per av
+- ablazione
+	- P delta PQ senza delta: catetere ablazione via accessoria tramite aorta
+	- dove si attiva piu precocemnte: radiofrequenza distrugge cc responsabili

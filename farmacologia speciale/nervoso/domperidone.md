@@ -1,0 +1,1 @@
+antagonista [[recettori d2]] non passa eef, previene attivazioni centro emetico

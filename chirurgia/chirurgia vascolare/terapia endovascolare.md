@@ -1,0 +1,9 @@
+- charles dotter: [[angioplastica coronaria]]
+	- sternotomia mediana e circolazione extracorporea: rafreddare, paralisi cuore farmacologica
+	- vasi chiusi ora si aprono con palloncino angio plastica
+	- prima angioplastica a iliache, poi a renali invece che bypass aorto renale
+	- riaprie occlusioni con guide attraverso arterie chiuse: ricanalizzando
+- iniziata da radiologi interventisti
+	- ora chirurgo vascolare: supporto terapeutico e alternative
+- piu usato per occlusioni [[aorto-iliaco]] e [[femoro-popliteo]]
+	- no cicatrice, mini invasivo, pz riprende in fretta

@@ -1,0 +1,9 @@
+- [[fenotiazine]]
+	- [[clorpromazina]] da [[prometazina]]
+- [[tiaxanteni]] [[tioxanteni]] meno potenti
+	- [[clorprotissene]] taractan, [[tiotissene]] navane
+- [[diazepine]]
+- [[tiazepine]]
+- [[ossazepine]]
+- ## derivati triciclici 6-7-6
+	- [[neurolettici atipici]]

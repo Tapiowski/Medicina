@@ -1,0 +1,5 @@
+- diversa localizzazione e morfologia
+- [[aneurisma aorta addominale]]
+- [[aneurisma a iliaca]] raro
+- [[aneurisma aorto-iliaco]] o [[aneurisma aorto-bis-iliaco]] +frequenti
+- +diametro = +sclerosi e contorsione aneurisma

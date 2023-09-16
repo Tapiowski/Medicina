@@ -1,0 +1,35 @@
+- [[dopamina]], [[endocannabinoidi]], [[acetilcolina]], [[encefalina]], [[beta-endorfina]]
+- [[azioni adattative comportamentali]]
+	- motore somatico
+	- motore viscero-endocrino
+- ## effetti su nucleo neurone, in dendriti
+		- da, segnale motivazionale/incentivo
+			- [[camp]], [[pka]], creb + altri fattori trascrizionali
+		- glu, segnale sensorio, processo informazione
+			- ca, [[cam]], creb
+		- risultato
+			- sintesi proteica, cambio genomico, rimodellamento sinaptico, alterazione network adattivo
+- ## circuito
+	- ### [[area ventrale tegmentale]]: output motore ricerca cibo
+		- [[mesolimbico]]
+		- [[mesocorticale]]
+		- [[nigrostriatale]], [[striatopallidale]] via [[dopamina]]
+			- [[nucleus accumbens]]
+				- [[substantia nigra]]
+					- [[putamen]], [[nucleo caudato]]
+				- [[area ventrale tegmentale]]
+			- [[globus pallidus]]
+				- [[nucleo subtalamico]]
+				- [[area ventrale tegmentale]]
+		- [[tuberoinfundibolare]]
+- ## vie nervose
+	- [[nucleus accumbens]]
+		- [[amigdala]]
+		- [[corteccia prefrontale]]
+		- [[amfetamine]], [[cocaina]], [[oppioidi]], [[cannabinoidi]], [[fenciclidina]]
+	- [[area ventrale tegmentale]]
+		- [[locus coeruleus]]
+			- [[oppioidi]]
+		- [[raphe nucleus]]
+			- [[serotonina]]
+		- [[oppioidi]], [[etanolo]], [[barbiturici]], [[benzodiazepine]]

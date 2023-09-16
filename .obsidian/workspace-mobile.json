@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "a11415a22ea21fe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "46fb4c4a34a260f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b5fae2482a666bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "farmacologia speciale/antibiotici/penicilline vs pseudomonas.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "ad1fe69ebbd43ccd"
+          }
+        ]
+      },
+      {
+        "id": "fc1faa96464d8e11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fea03e20250d83d1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "farmacologia speciale/antibiotici/penicilline vs pseudomonas.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:antibiotici",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8183220
+                      }
+                    },
+                    {
+                      "query": "path:microbiologia",
+                      "color": {
+                        "a": 1,
+                        "rgb": 12574831
+                      }
+                    },
+                    {
+                      "query": "path:patologia/condizioni",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13785737
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.7263142349971063,
+                  "close": true
+                }
+              }
+            },
+            "group": "ad1fe69ebbd43ccd"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67d38ab5d0ada2cd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "22c15cc0821cfdbb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9da1f1ee9ecc37a9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "24593ec20d9632dc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b2f77a39cdd30d93",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "56fb82bdf86f4510",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9441fea5e22d40b5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "farmacologia speciale/antibiotici/penicilline vs pseudomonas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f41df00bbccc06ab",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "farmacologia speciale/antibiotici/penicilline vs pseudomonas.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "89e9d93f32d25766",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "farmacologia speciale/antibiotici/penicilline vs pseudomonas.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": "Open command palette"
+  },
+  "active": "6b5fae2482a666bc",
+  "lastOpenFiles": [
+    "farmacologia speciale/antibiotici/piperacillina.md",
+    "farmacologia speciale/antibiotici/imipenem.md",
+    "farmacologia speciale/antibiotici/penicilline.md",
+    "farmacologia speciale/antibiotici/penicillina G, V.md",
+    "anatomia/rene.md",
+    "farmacologia speciale/antibiotici/ceftazidime.md",
+    "farmacologia speciale/antibiotici/avibactam.md",
+    "farmacologia speciale/antibiotici/inibitori beta-lattamasi.md",
+    "farmacologia speciale/antibiotici/tazobactam.md",
+    "tazobactam.md"
+  ]
+}

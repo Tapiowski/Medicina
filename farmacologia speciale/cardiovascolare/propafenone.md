@@ -1,0 +1,2 @@
+- bloccante na-ch, [[aritmie sopraventricolari]]
+- bradicardia, epato e nefrotossicita

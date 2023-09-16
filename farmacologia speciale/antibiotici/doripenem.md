@@ -1,0 +1,2 @@
+- simil [[meropenem]]
+- +attivo vs [[pseudomonas aeruginosa]]

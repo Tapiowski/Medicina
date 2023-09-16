@@ -1,0 +1,4 @@
+- [[agonisti adrenergici]] d2, antagonista [[recettori d1]]
+- stimola recettori [[serotonina]]: allucinazioni
+- idrosolubile, infusione cronica: problemi degluttizione in [[acinesia]] acuta
+- compresse da 0.1, 0.5, 1 mg

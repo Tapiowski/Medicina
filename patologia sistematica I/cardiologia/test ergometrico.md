@@ -1,0 +1,10 @@
+- [[prova da sforzo]]
+- tapis roulant o ciclergometro, carichi crescenti, f, p
+- interrotto se pz non ce la fa piu mm o sintomi, alterazioni ecg
+	- positivo se alteraizone ecg + dolore toracico
+- sottoslivellamento discendente tratto ST
+- 85% f cardiaca massimale
+- stratifica rischio
+	- tratto st
+	- durata esercizio
+	- entita angina

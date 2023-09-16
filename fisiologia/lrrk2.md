@@ -1,0 +1,38 @@
+- [[dardarina]]
+	- wt e forme mutate
+- gene lrrk2
+- maggiore contribuente genetico in [[morbo di parkinson]]
+	- 30 mutazioni: 5-13% del [[morbo di parkinson]] familiare, 1-5% mp sporadico
+- ## ingegnerizzazione [[pc12]]
+	- info
+		- [[dardarina wt]] mutata nella sintesi, secrezione, metabolismo dopamina in [[pc12]]-on sia in condizioni basali si in rilascio da [[nicotina]]
+		- -roc-cor=kindase-wd40
+			- cor+roc = r1441c: + attivita [[chinasi]]
+			- cor-roc = r1cc1c = - attivita [[gtp]]
+	- [[pc12]] con transattivazione e selezione: [[g418]] 0.4 mg/ml
+		- [[pc12]]-on
+			- transfezione: [[lrrk2]] wt o mutazione
+			- selezione: [[hygromycin]] 0.2 mg/ml
+			- pc12-on lrkk2 wt, 1441, 2019
+				- espressione [[lrrk2]] wt o mutazione con [[doxiciclina]] 1.0 mcg/ml
+				- [[hlrrk2]]
+				- [[tirossina idrossilasi]]
+				- [[b-actina]]
+		- risultato: + vescicole docked in pc12-on g2019s con [[doxicillina]]
+			- + rilascio spontaneo
+			- + rilascio con nicotina
+- locus
+	- cortex, ippocampo, striato, sn-pc, cuore, fegato
+- attivita chinasica e gtpasica
+- zattere lipidiche
+- citoscheletro: actina, miosina..
+- funzioni
+	- trafficking proteine
+	- organizzazione citoscheletro
+	- diminuzione nu [[dopamina]]
+	- insieme a [[doxiciclina]] implicata in 
+		- variazione livelli dopamina
+			- - sintesi da
+			- immagazzinamento
+			- rilascio dopamina
+			- catabolismo

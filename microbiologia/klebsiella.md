@@ -1,0 +1,3 @@
+- klebsiella granulomatis
+- klebsiella pneumoniae
+	- Klebsiella pneumoniae carbapenemasi-produttrice = [[kpc]]

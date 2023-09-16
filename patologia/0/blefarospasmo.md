@@ -1,0 +1,1 @@
+chiusura forzata palpebre

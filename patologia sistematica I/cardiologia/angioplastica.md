@@ -1,0 +1,10 @@
+- [[angioplasica coronarica]] = [[coronarografia]]?
+	- guide attraverso lesione
+	- palloncini
+	- dilatazione placca
+	- stent sui palloncini
+	- gonfiamo palloncino
+	- sgonfiamo
+	- portiamo via: protesi vascolare rimane
+		- tiene fuori materiale aterosclerotico, ripristina lume
+		- guarigione e cicatrizzazione frattura vascolare da pallone dilatato

@@ -1,0 +1,9 @@
+- -frequenza cardiaca
+	- [[farmaci beta-bloccanti]]
+	- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+- - pressione arteriosa
+	- [[farmaci beta-bloccanti]], [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+- - contrattilita
+	- [[farmaci beta-bloccanti]], [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+- vadodilatatori coronarici
+	- [[diltiazem]], [[nitrati]]..

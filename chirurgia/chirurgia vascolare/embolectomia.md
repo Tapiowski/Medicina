@@ -1,0 +1,8 @@
+- [[catetere di fogarty]]
+	- pallongino gonfiato da siringa a monte
+	- catetere con palloncino sgonfio, oltrepassiamo trombo, gonfiamo per estrarre
+	- anestesia locale
+- passato
+	- aprire addome, aorta, clampaggio asse iliaco a valle
+	- aprire arteria per lungo
+	- rimuovere trombo in anestesia totale

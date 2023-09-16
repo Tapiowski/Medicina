@@ -1,0 +1,23 @@
+- [[tea]]
+- trattamento lesione [[aterosclerotica]] carotidea
+- trombo endo arterctomia carotidea
+- clampa [[a carotide]], sup visibile [[nv ipoglosso]]
+- sgusciare, piano di clivaggio, lesione aterosclerotica: rimane solo avventizia
+- complicanze
+	- [[ictus cerebrale]] da [[embolia]]
+	- intervento preventivo per prevenire ictus
+- ## fasi
+	- [[cervicotomia]] lungo margine ant muscolo stenrocleidomastoideo
+	- preparazione [[a carotide comune]]
+		- riconoscere [[a carotide ex]] perche da [[a tiroidea sup]]
+			- [[nv ipoglosso]]
+	- clampaggio vasi a valle e a monte [[a carotide comune]] + [[eparina]] 1cc ev: scoagulato per 1.5 h
+	- aprire arteria con [[forbice di potts-smith]]
+	- trovare piano di clivaggio: sgusciare [[placca aterosclerotica]]
+	- pulire letto arteria: non creare ictus!
+		- end point placca funge da valvola se sporca
+	- iniettare acqua per ricerca fistola: non deve essere presente
+	- cotton fioc sterile per togliere lembi
+	- chiudere arteria con sutura delicata
+	- se piccola
+		- [[patch di allargamento]]

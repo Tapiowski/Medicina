@@ -1,0 +1,7 @@
+- cc non specializzate, non differenziate
+- auto-rinnovamento, cicli replicativi illimitati
+- origine condizn fisiologiche, sperimentali a cc differenziate adulte
+- embrioni staminali
+	- fecondazione > morula totipotente > blastocita pluripotente
+- [[staminali adulte]]
+	- feto multipotente > adulto unipotenti

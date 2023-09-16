@@ -1,0 +1,4 @@
+- angiografia selettiva arterie coronariche: lume coronarico, non parete
+- rischio vascolare: pungere arteria per raggiungere osti coronarici: radiale, femorale
+- complicazne renali: nefrotossico
+- compicanze cardiache: infarti da danno vaso studiato

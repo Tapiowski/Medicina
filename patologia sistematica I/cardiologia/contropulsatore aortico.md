@@ -1,0 +1,3 @@
+- gonfia pallone in aorta discendente in sincrono con battito cardiaco
+- durante diastole: pressione sale in fase perfusione coronarica
+- 

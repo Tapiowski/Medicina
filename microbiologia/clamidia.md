@@ -1,0 +1,3 @@
+- clamidia pneumoniae
+- clamidia psitacci
+- clamidia trachomatis ^749a4c

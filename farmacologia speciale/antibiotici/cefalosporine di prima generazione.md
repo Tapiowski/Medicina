@@ -1,0 +1,14 @@
+- ## classificazione
+	- ### [[cefazolina]]
+	- ### [[cefalexin]]
+	- ### [[cefadroxil]], [[cefradine]]
+- ## attivita
+	- [[gram+]], -[[gram-]]
+		- no enterococco, mrsa, s epidermidis
+	- anaerobi cavita orale
+		- no b fragilis
+	- [[moraxella catarrhalis]], [[escherichia coli]], [[klebsiella]], [[proteus mirabilis]]
+- ## uso th
+	- [[infezioni cute, tessuti molli]]
+	- [[stafilococco#^aureus]], [[streptococco#^piogene]]
+	- [[cefazolina]] pre chirurgia per flora cute

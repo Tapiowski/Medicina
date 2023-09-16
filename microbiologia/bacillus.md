@@ -1,0 +1,2 @@
+- bacillus antraci ^antrace
+- bacillus cereus

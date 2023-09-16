@@ -1,0 +1,7 @@
+- recettore presinaptico
+- in terminazioni nervose
+- regolazione secrezione [[neurotrasmettitori]]: [[catecolamine]], [[acetilcolina]]
+- attivazione = - produzione [[noradrenalina]] per feedback- e [[acetilcolina]]
+- a-2a, 2b, 2c
+	- Gi
+		- - [[adenilato ciclasi]]

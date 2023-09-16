@@ -1,0 +1,3 @@
+- [[metoclopramide]]
+	- da [[orto-metossiprocainammide]]: [[anestetici locali]], [[antiemetici]]
+	- anesteia limitata, buona antiemetica, [[antipsicotici]]: [[farmaci antidopaminerci]]

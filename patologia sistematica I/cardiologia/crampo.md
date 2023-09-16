@@ -1,0 +1,3 @@
+- insufficienze apporto ematico arti inf
+- sangue non arriva a soddisfare esigenze nutritive e metaboliche da sforzo nel mm
+- sintomo: [[claudicatio intermittens]] zoppica intermittente

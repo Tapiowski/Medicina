@@ -1,0 +1,2 @@
+-  [[delirium]]
+- perdita conoscenza, no risposta a poco dolore, riflessi presenti

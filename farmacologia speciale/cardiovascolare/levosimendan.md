@@ -1,0 +1,4 @@
+- LEV
+- studio sardo
+- + sensitivita contrattile [[miocardio]]
+- rientro ca tramite [[canali calcio]]-l [[miocita]]

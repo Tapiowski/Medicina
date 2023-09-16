@@ -1,0 +1,20 @@
+- farmacologia clinica cardiovascolare: farmaci inotropi positivi
+- [[scompenso ventricolare sistolico]]: [[cardiomiopatia]]
+- [[disfunzione diastolica]]: [[ipertensione]], [[stenosi valvolare]], [[cardiomiopatia ipertrofica primaria]]
+- [[insufficienza cardiaca]]: [[insufficienza cardiaca congestizia]]
+- ## classificazione
+	- ### [[glicosidi cardioattivi]]
+	- ### [[agonisti adrenergici]]
+		- ### [[dobutamina]]
+	- ### [[inibitori pde]] +c-amp
+	- ### [[sensibilizzatori delle miofibrille al ca]]
+- ## uso th
+	- [[insufficienza cardiaca]]
+	- [[insufficienza cardiaca acuta]]
+		- [[dopamina]]
+			- 1-3 mg/kg min: [[vasodilatazione]] vasi [[milza]]
+			- 5-15 mg/kg min: su [[recettori beta-adrenergici]]: [[inotropo]]+, [[cronotropo]]+
+		- [[dobutamina]]
+			- 2-10 mg/kg min: su [[recettori beta-1]], [[recettori beta-2]], [[recettori alfa-1]]: +[[contrattilita cardiaca]]
+	- [[insufficienza cardiaca cronica]]
+	- [[scompenso cardiaco]]

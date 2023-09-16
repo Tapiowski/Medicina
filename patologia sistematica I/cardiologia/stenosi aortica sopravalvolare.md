@@ -1,0 +1,9 @@
+- stenosi congenite sopra piano valvolare
+- sviluppo aorta anomalo, ostacolo efflusso sangue
+- aterosclerosi coronarica precoce da ipertensione
+- ### stenosi localizzata
+	- clessidra in radice aortica con restringimento anulare: a ascendente on tratto +p dove ci sono le arterie coronarie, -p post stenosi
+	- 100 pressione sistolica al braccio
+		- [[seni di valsavia]] valori 200-250: ipertensione precoce alla nascita, diagnosi tardiva fino a aterosclerosi precoce coronarie: infarto
+- ### stenosi diffusa
+	- restringimento per ipoplasia a ascendente, arco a, a ascendente: 40% morte in primi anni di vita

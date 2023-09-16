@@ -1,0 +1,5 @@
+- ### [[oxprenololo]]
+- ### [[acebutololo]]
+- ### [[pindololo]]
+- attivita simpaticomimetica intrinseca
+- -[[bradicardia]], -[[broncospasmo]], [[vasodilatazione]]

@@ -1,0 +1,1 @@
+- 14% di una dose trasformato in metabolita attivo piu potente, ev piu lunga

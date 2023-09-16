@@ -1,0 +1,3 @@
+- [[raas]]
+- 10% circolante: effetti immediati cardiovascolari, omeostasi renale
+- 90% locale: tessuti, a lungo termine, adattamento organo, rene-indipendente

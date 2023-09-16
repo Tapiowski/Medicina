@@ -1,0 +1,1 @@
+- per os, procedure [[occhio]], [[edema]] [[cornea]]

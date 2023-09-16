@@ -1,0 +1,1 @@
+- pericardite per >6 mesi

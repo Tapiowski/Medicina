@@ -1,0 +1,4 @@
+- [[sindrome da furto della succlavia]]
+- [[stenosi succlavia]] flusso ridotto del 2/3
+	- alterazione pressione arteriosa braccio
+	- decessi mal pratice nel reparto

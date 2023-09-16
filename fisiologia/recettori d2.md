@@ -1,0 +1,7 @@
+- [[dopamina]]
+- effetto [[inotropo]] positivo per [[vasodilatazione]] indiretta: inibisce rilascio na
+	- - [[camp]], + correnti k, - correnti ca
+- distribuzione
+	- [[nucleo striato]], [[substantia nigra]]-pc, [[ipofisi]]
+	- corpo interneuroni striatali, presinaptico terminazioni da nigrostriatali, effetto inibitorio striatale
+- [[antagonisti d2]]

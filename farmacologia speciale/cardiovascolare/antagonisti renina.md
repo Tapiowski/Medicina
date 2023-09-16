@@ -1,0 +1,7 @@
+- ### [[enalkiren]]
+- ### [[remikiren]]
+- ### [[aliskiren]]
+- ### [[zankiren]]
+- ## attivita
+	- inibitori [[renina]]
+	- modellate su [[angiotensinogeno]] umano: bloccano azione renina sul substrato legandosi in competizione al sito attivo: falsi substrati

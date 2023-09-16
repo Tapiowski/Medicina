@@ -1,0 +1,2 @@
+- turbolenza al fonendoscopio: segno flusso ostacolato per stenosi
+- [[ecodoppler]] dei tronchi epiaortici conferma

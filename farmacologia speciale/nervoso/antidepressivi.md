@@ -1,0 +1,49 @@
+- ## intro
+	- ipotesi monoaminergica della depressione
+	- ipotesi neurotrofica della depressione
+	- meccanismo d'azione antidepressivi
+	- farmaci antidepressivi: classificazione
+	- farmaci importanti storicamente: imao
+	- farmaci antidepressivi triciclici
+	- farmaci ssri
+	- antidepressivi atipici
+- ## [[depressione maggiore]]
+- ## meccanismo d'azione
+	- [[inibitori mao]] bloccano [[mao]] che degrada [[monoamine]]
+	- + disponibilita [[neurotrasmettitori]]: stato normale
+	- [[tca]], [[ssri]] bloccano pompa di ricaptazione
+	- [[triptofano]]
+	- [[tirosina]]
+	- dinamica temporale
+		- effetti sinaptici ore gg
+		- + [[monoamine]] sinaptiche: evento attivante
+		- effetti collaterali ore gg
+		- effetti th 2-4 wk
+			- iper attivazione superiore a qualsiasi stimolo naturale: adattamento su base omeostatica
+			- da risposta [[snc]]: modifiche genetiche lente
+				- modifiche trasduzione
+					- [[plc]], [[ac]], [[ras]], [[raf]], [[mek]], [[pi-3k]]
+					- [[camk]], [[pkc]], [[pka]], [[rak]], [[akt]] (gsk-sb unico inibitore)
+					- [[creb]] su geni [[bdnf]], [[bcl-2]]: plasticita sinaptica, neurogenesi, sopravvivenza cc
+	- effettivita
+		-  a 8 settimane
+			- 67% responsivi, 33% no
+			- placebo 33% resp, 67% no
+			- sostituzione placebo dopo trattamento antidepressivo: 50:50
+			- proseguimento con ad: 90% risposta continuata, 10% relapse
+- ## classificazione
+	- [[inibitori mao]]
+	- [[antidepressivi triciclici]]
+	- [[ssri]]
+	- [[nsri]]
+	- [[nassa]]
+	- [[antidepressivi atipici]]
+	- incerti
+		- [[iperico]]
+		- [[same]]
+		- [[amisulpiride]]
+	- altri
+		- [[venlafaxina]] simil triciclici, ipertensione a dose dip
+		- [[reboxetina]] depressioni acinetiche, collaterali anticolinergici, insonnia, sex, vertigo
+		- [[mirtazapina]] blocca a2 presin, 5ht2 postsin, antistamina: sedazione, sonno, ipotensione, +appetito e peso
+		- [[amisulpiride]]: distimia, blocco autorecettori d2, iperprolattinemia: galattorea, ginecomastia, sex, disturbi extrapiramidali ad alte dosi

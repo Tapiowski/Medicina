@@ -1,0 +1,66 @@
+- [[arteriopatia ostruttiva cronica arto inferiore]]
+- [[ischemia acuta arto]] sia sup sia inf
+- interruzione improvvisa flusso ematico arteriosos all'arto: no metaboliti, o2, rispetto richieste gruppo muscolare
+- epidemiologia: in aumento per +vita media
+- ## anatomia macroscopica
+	- [[polso tibiale ant-pedideo]]
+- ## cause
+	- urgenza
+	- trauma, embolia, trombosi
+	- dissecazione aorto-iliaca, trombosi venosa profonda iliaco-femorale massiva
+	- alterazione parete vasale + tessuti circostanti
+- ## eziologia
+	- arma da fuoco o da taglio
+	- incidenti stradali, sportivi, domestici
+	- cause iatrogene: catetere endovascolare
+	- ### [[traumi arteriosi]]
+	- ### [[embolia]]
+	- ### [[trombosi]]
+	- ### [[dissecazione aortica]]
+		- puo arrestarsi in [[asse iliaco]]: ischemia acuta arto
+	- ### [[trombosi venosa profonda]]
+		- raro
+- ## fase reversibile
+	- 6h
+	- reversibilta stabilita clinicamente in visita pz
+	- riduzione improvvisa, rapida del flusso ematico
+		- -o2, metabolismo anaerobio, no krebs
+		- [[piruvato]] > [[acido lattico]]: accumulo [[lattato]]
+		- [[acidosi metabolica]] locale
+		- [[vasodilatazione arteriolare]]
+- ## fase irreversibile
+	- alterazioni biochimiche
+	- inversione [[pompa na-k atpasi]]: na entra, cc gonfia, k esce
+	- cc si rompe
+	- enzimi lisosomiali in circolo
+	- edema, trombosi circolo
+	- definita in clinica
+- ## sintomatologia
+	- anamnesi, ispezione, palpazione, segni distali a ostruzione
+	- sintomatologia delle 6P
+		- pain: pz non sereno, smorfia dolore
+		- [[parestesia]]: spogliati in mutande, no calzini
+			- formicolii punti distali dita piedi
+			- no sensibilita piede: non si rende conto sto toccando piede
+			- disegno cerchio, sente linea
+		- [[paralisi]]: muovere dita piedi da sdraiato: un arto muove ok l'altro ha impaccio motorio
+		- [[pallore]] arto affetto piu pallido, non roseo
+		- [[ipotermia]] palpazione piede, gamba, coscia: gradiente termico che peggiora
+		- [[polsi arteriosi]]: [[polso tibiale ant-pedideo]] e [[polso tibiale post]], [[polso popliteo]], [[polso femorale]] assenti
+			- a valle ostruzione da [[embolia]] o [[trombosi]]
+	- [[ischemia acuta]]
+		- lieve, media, grave, gravissima
+		- evoluzione temporale
+			- da impaccio motorio a paralisi
+			- da parestesia ad anesetesia totale
+- ## terapia
+	- muova dita piede
+		- paralisi
+	- occhi chiusi, tocco
+		- anestesia da vasa nervorum: nervo muore
+	- se pz non sente niente, non muove niente
+		- amputazione
+	- residua mobilita e sensibilita: tempo per infervenitre
+		- discriminante terapeutica
+			- [[depasse]] sangue ad arto non vitale: [[morte]]
+			- [[sindrome da rivascolarizzazione]]

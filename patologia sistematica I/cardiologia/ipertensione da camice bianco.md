@@ -1,0 +1,4 @@
+- + pressione sistolica diastolica davanti al medico, infermieri o paramedici
+- +25 mmhg: reazione di allarme
+- in 10 min valori migliori
+- fattore prognostico sfavorevole: monitor

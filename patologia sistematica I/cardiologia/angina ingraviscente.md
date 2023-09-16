@@ -1,0 +1,1 @@
+ri+ fequenza, durata intensita, - soglia, peggioramento [[angina stabile]]

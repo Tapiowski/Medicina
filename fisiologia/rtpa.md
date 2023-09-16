@@ -1,0 +1,1 @@
+ricombinante tissutale plasminogeno attivato

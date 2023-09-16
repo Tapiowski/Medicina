@@ -1,0 +1,7 @@
+- ### [[S3]]
+	- tono aggiunto audibile dopo s2
+	- da vibrazioni riempimento rapido ventricolare ad inizio diastole ventricolare
+	- bassa f, bassa i: ottuso, breve
+	- in punta in decubito lat sin
+	- fisiologico in bambini o magri
+	- patologico > 40 yo da cardiopatia ischemica, cardiomiopatia ipertrofica o dilatativa, miocardite, cuore polmonare cronico, i valvolari, shunt intracardiaco dx-sin

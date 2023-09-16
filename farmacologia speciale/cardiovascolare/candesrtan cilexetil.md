@@ -1,0 +1,1 @@
+- usabile se tosse da [[ace inibitori]]

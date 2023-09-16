@@ -1,0 +1,35 @@
+- sostanza naturale in foglie di erytoxylon cocae
+- ## effetti
+	- [[snc]]
+		-  euforia, prontezza mentale, non percezione della fatica come [[amfetamine]]
+	- [[snp]] [[simpatico]]
+		- tachicardia, ipertensione, vasocostrizione periferica, dilatazione pupilla
+	- th
+		- [[anestetici]] locale
+			- occhio, naso, faringe
+			- effetto artimogeno se in circolo
+	- euforia, eccitazione
+	- ipervigilanza
+	- insonnia
+	- anoressia
+	- tachicardia
+	- compromissione giudizio, percezione rischio
+	- se assunzione protratta
+		- irritabilita, +aggressivita
+		- attacchi di panico
+		- disturbi del sonno
+		- paranoia
+		- agitazione motoria
+- ## assunzione
+	- orale
+		- buono, effetto dopo 40 m
+	- nasale
+		- effetto dopo 1 min, base massimo [[craving]]
+	- fumo
+		- crack ottimo assorbimento
+- ## utilizzo
+	- effetto tossico dose indipendente da uso ripetuto
+	- sport
+		- stimolante breve durata, non dimostrato effetto positivo in sport
+	- cardiotossica
+		- +alcol, anabolizzanti steroidei

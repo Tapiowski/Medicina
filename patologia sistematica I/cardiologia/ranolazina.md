@@ -1,0 +1,22 @@
+- potenziale d'azione: da due correnti di sodio
+	- corrente rapida veloce: upstroke
+	- ingresso in ripolarizzazione lento
+		- rallenta ripolarizzazione
+		- stessa quantita
+- miocita
+	- invaginazioni mm: tubuli T con canali a contatto con reticolo sarcotubulare
+	- piccole quantita, nel punto giusto: trigget
+- corrente lenta del sodio
+	- scambiato con ca in
+		- +sodio in = +ca in
+	- agisce su refrattarieta in quanto ione positivo
+	- puo aumentare in [[scompenso cardiaco]] e [[cardiopatia ischemica]]
+		- troppo sodio in = troppo ca in: ipercontrazione in diastole: cuore rigido
+		- atp non disponibile per no o2
+		- [[cuore irrigidito]]
+		- ca liberato da post potenziali precoci o tardivi: [[aritmie]]
+		- se in sistole e diastole miocita rimane contratto: comprime capillari aggravando ischemia
+- [[farmaci antiaritmici]], blocco correnti lente
+	- flusso migliore, -ipercontrazione diastolica miocardio
+	- +perfusione coronarica
+		- non su vasi ma su cuore: -compressione vasi

@@ -1,0 +1,17 @@
+- effetti benefici del fumo
+	- da nicotina
+		- metabolismo a cotinina, noricotina..
+			- meccanismi
+				- non recettoriali
+					- modula [[cyp]], [[mao]], modula complesso i mt, antiossidanti
+				- recettoriali
+					- presinaptico
+						- +ca
+							- rilascio trasmettitori
+					- postsinaptico
+						- +ca
+							- modula apoptosi, necrosi
+							- altera funzione immune
+							- +fattori trofici
+	- da altri componenti in fumo
+		- modula [[cyp]], [[mao]]

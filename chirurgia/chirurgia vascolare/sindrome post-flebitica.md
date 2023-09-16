@@ -1,0 +1,60 @@
+- ## definizione
+	- [[spf]]
+	- esito di [[trombosi venosa profonda]] avvenuta anni prima
+	- [[flebite]]
+		- coinvolgimento cutaneo se superficiale
+		- tessuti limitrofi se profonda
+- ## fisiopatologia
+	- [[trombo]] si ricanalizza: degradazione per fagocitosi, dissolto
+		- distruzione apparato valvolare
+		- vene incompetenti
+	- sistema superficiale
+		- rimozione vene superficiali, serve solo ai bypass
+	- sistema profondo
+		- distruzione vascolare problematica
+		- vene profonde non sostituibili chirurgicamente
+			- no spinta pressoria
+			- bypass tende al collasso
+			- vene delicate
+	- [[incontinenza venosa profonda]]
+		- flusso su e giu, per mancanza valvole
+		- gambe gonfie cronicamente
+		- non risolvibili se non per [[elastocompressione]]
+		- [[ipertensione venosa profonda]]: inversione flusso in vene perforanti
+	- [[v perforanti]]
+		- drenano sangue da ext a int, da sup a prof
+		- [[varici secondarie]] da pregressa [[tvp]]
+		- +p: -gradente pressorio av: shunt arterovenosi: -o2
+		- [[dermatite]], necrosi cute sottocute, ulcere
+		- legare fasi per chirurgia
+- ## sintomatologia
+	- cute dura, cartacea
+	- ulcere difficili da guarire, rischio infezioni e complicanze
+	- -qualita vita
+	- gamba gonfia, varici secondarie, [[claudicatio venosa]] da stasi
+	- [[fibrosi]] sottocute per cicatrice
+	- [[discromia]]
+	- gamba a bottiglia rovesciata
+	- ulcere venose: [[linea di cockett]], v perforanti maggiore, linea mediale da malleolo med
+	- se piede sano: vena, non arteria
+- ## diagnosi
+	- anamnesi
+		- gonfiore improvviso gamba, dolore..
+	- esame obiettivo
+		- lesioni e cicatrici, collo di bottiglia rovesciato
+		- palpazione dolori evocati, [[segni di laurel]], [[segni di homans]]
+			- palpazione gemelli polpaccio, dorsiflessione avampiede
+	- esame strumentale
+		- [[ecodoppler]] reflusso vene profonde. sonda lineare 7 mhz
+			- color venoso continuo non pulsatile
+			- rumore continuo vene
+			- compressione vena
+				- spinta flusso con mano
+				- rumore aumenta di frequenza
+				- rilascio mano: suono risucchio segno incompetenza valvolare
+- ## terapia
+	- [[elastocompressione]]
+		- bendaggio supporta mancanza valvolare
+		- no se coesiste malattia arteriosa
+	- th chirurgica
+		- legare vene comunicanti

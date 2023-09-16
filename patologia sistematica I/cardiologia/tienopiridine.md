@@ -1,0 +1,9 @@
+- inibizione [[p2y12]] per [[adp]]
+- [[ticlopidina]], [[clopidogrel]], [[prasugrel]] piu potente
+- profarmaci
+- collaterali
+	- emorragie gi
+	- allergie orali cutanee
+	- alterazioni crasi ematica: neutropenia per ticlopidina: non utilizzata
+- associazione con aspirina
+	- duplice th

@@ -1,0 +1,2 @@
+- controllo [[comportamento]], [[pensiero]], [[giudizio]], capacita di [[pianificare]], [[ragionamento]], [[motivazione]]
+- ruolo in [[comunicazione]], [[sociale]]

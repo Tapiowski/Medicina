@@ -1,0 +1,28 @@
+- controllo peso, no fumo, no alcol
+- [[farmaci diuretici]]
+	- se presente un sovraccarico di volume: [[congestione polmonare]], [[edema]] periferico
+	- [[antagonisti aldosterone]] in scompenso avanzato
+- [[ace inibitori]]
+	- th di prima linea se [[disfunzione sistolica]] del VS: -[[frazione di eiezione]], indipendente da volume di carico
+- [[glicosidi cardioattivi]]
+	- [[digossina]], digitossina: +contrattilita
+		- + se associato a rapida [[fibrillazione atriale]] stabilizzata
+		- utile se sintomi permangono in [[ace inibitori]] e [[diuretici ansa]]
+	- in [[fibrillazione atriale]], [[scompenso cardiaco]] da [[disfunzione sistolica]]
+	- combinazione [[digossina]]/[[ace inibitori]]
+	- in pz con ritmo sinusale
+	- rare intossicazioni
+- [[ace inibitori]]: -pre. post carico e libera aldosterone
+- [[farmaci vasodilatatori]]
+	- [[idralazina]], [[isosorbide]]
+	- in [[angina pectoris]] th, [[ipertensione]]
+	- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+	- [[nitrati organici]] -[[pre carico]]
+	- [[idralazina]] -[[post carico]]
+	- meno efficaci, prolungano vita in associazione
+	- usate se [[farmaci beta-bloccanti]] non tollerati
+- [[carvedilolo]]
+- [[farmaci beta-bloccanti]]
+	- [[scompenso cardiaco]] sintomatico, classe funzionale nyha ii-iv stabili in th con [[digitale]], [[farmaci diuretici]], [[ace inibitori]]
+	- in [[infarto miocardico]] recente + [[ace inibitori]] con o senza [[scompenso cardiaco]]
+- [[diuretici ansa]]

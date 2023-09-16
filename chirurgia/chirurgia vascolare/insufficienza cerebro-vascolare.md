@@ -1,0 +1,113 @@
+- ## definizione
+	- insufficienza cerebro-vascolare
+		- sintomi neurologici da -apporto ematico al tessuto cerebrale
+	- [[ictus cerebrale]]
+- ## anatomia
+	- [[tronchi sovraortici]]
+	- irrorazione [[encefalo]] da [[vasi cerebroafferenti]]
+		- [[a carotide in]]
+		- [[a vertebrale]]
+		- [[poligono di willis]]
+		- circoli intracranici di compenso
+			- [[a carotide in]]/[[a carotide ex]]
+			- [[a oftalmica]]/[[a angolare]]
+- ## epidemiologia
+	- terza causa morte al mondo
+	- prima causa invalidita
+	- picco incidenza >65 anni
+- ## fisiologia
+	- [[autoregolazione cerebrale]]
+	- se pz ha avuto [[ictus cerebrale]] o -[[poligono di willis]]
+		- <20 ml sangue / 100 g tessuto cerebrale / min
+			- sofferenza ischemica
+		- <10
+			- necrosi
+	- [[aumento frazione estrazione ossigeno]]
+	- [[diminuzione metabolismo cerebrale ossigeno]]
+- ## eziopatogenesi
+	- lesioni ostruttive vasi del collo
+		- [[aterosclerosi]] 90%
+		- rare: [[malattia di takayasu]], [[fibrodisplasia mediale]], [[kinking]], [[coiling]], [[arterite]], [[dissecazione aortica]], [[traumi]]
+	- [[cardiopatie emboligene]] 10-15%
+		- [[fibrillazione atriale]], [[endocardite batterica]], [[stenosi mitralica]], [[infarto miocardico]] recente
+	- cause emodinamiche
+		- [[crisi ipertensiva]], [[crisi ipotensiva]]
+- ## fisiopatologia
+	- [[ischemia]]
+		- blocco metabolismo aerobico, +acido lattico, blocco nak-atpasi
+			- [[edema citotossico]]
+		- lesione [[bee]], +permeabilita capillare
+			- [[edema vasogenico]]
+		- edema comprime: [[ipertensione endocranica]]: rischio [[morte]]
+		- in zona infarto, flusso ematico ridotto o assente
+		- [[acidosi tissutale]]: zona circostante [[iperemica]]
+			- furto sangue da focolaio ischemico
+			- [[penombra ischemica]] attorno a zona ischemica, reversibile
+		- pz non operabile: rischio morte: aprire carotide +flusso emorragia
+			- tessuto ischemico vulnerabile
+	- [[emorragia]]
+		- [[emorragia cerebrale]]
+			- 50% ictus da [[aterosclerosi]] [[a carotide cervicale extracranica]]
+			- [[placca aterosclerotica]] in biforcazioni arteriose: flussi turbolenti, stress parete
+			- grave: [[a carotide in]], ostruzione: stenosi significativa
+				- [[circolo di willis]] puo irrorare in cronicita, flusso retrogrado
+				- se acuto
+					- [[tea carotidea]]
+	- meccanismi patogenetici
+		- [[embolia]]
+			- [[placca aterosclerotica]] rotta, core lipidico a flusso ematico: embolia
+		- [[emodinamica]]
+			- [[aterosclerosi]] cronica fino ad ostruire vaso: ischemia
+		- misti
+			- [[placca aterosclerotica]] fibrosa, fibrolipidica, calcifica
+- ## sintomatologia
+	- ### quadri clinici
+		- asintomatici o sintomatici
+		- screening
+			- fonendo su collo pz: soffi vascolari
+			- [[ecodoppler]] [[vasi epiaortici]] a pz fumatore, >70yo con fattori rischio
+		- pz sintomatici
+			- [[tia]]
+			- [[stroke]]
+		- fattori condizionanti
+			- circoli collaterali, [[autoregolazione cerebrale]], durata e gravita ipoafflusso, importanza anatomo-funzionale area colpita
+		- [[emisindroma]]
+			- [[area di broca]]: [[afasia]], non recuperabile
+				- afasia completa: non capiscono, non parlano
+	- impatto vasi cerebro afferenti su sintomatologia ischemia cerebrale
+		- [[sintomi carotidei]]: [[emiparesi]] fino a [[emiplegia]]
+		- [[amaurosi]]: perdita vista un occhio fino a completo un occhio
+			- resistenza retina di pochi s
+		- termina in [[parestesia]] e [[disartia]]
+		- [[cefalea]] non patognomonico
+		- [[sintomi vertebro-basilari]]
+		- [[drop attacks]] -incidenza
+- ## diagnosi
+	- anamnesi
+	- esame obiettivo
+		- soffi, polsi
+		- esame neurologico
+	- valutazione lesione
+		- stenosi > 70-80% occlusione: intervento
+		- flusso ematico aumenta fino a 3 m/s da 1 m/s
+		- morfologia placca: lipidi, calcificazione
+		- presenza lesioni [[vasi cerebroafferenti]], lesioni parenchima precgresse, studio [[autoregolazione cerebrale]]: [[doppler transcranico]]: inversioni flusso
+	- diagnosi strumentale
+		- [[ecodoppler]] placca carotidea, flusso
+		- [[angiotc]] + [[angiografia]] e [[angiorm]]: stenosi carotidee angiotc meglio
+		- studio parenchima cerebrale
+			- [[TC]] [[rm]]
+			- [[ictus cerebrale]]: area ipodensa di necrosi
+			- [[tc mdc]]: alterazioni [[bee]]
+			- [[doppler transcranico]]: compensi necessari per intervento
+- ## terapia
+	- medica
+		- stenosi 50%
+		- controllo fattori rischio
+		- prevenzione primaria: non fumare, assetto lipido, metabolico, glicidico
+		- [[aspirina]] gastrolesiva se ulcere o gastrite: [[ticlopidina]] e [[clopidogrel]] o protettore gastrico
+	- chirurgica
+		- stenosi 80%
+		- [[tea carotidea]]: sutura diretta o se piccola [[tea]] con patch di allargamento
+		- [[stent carotideo]]
+- ## prognosi

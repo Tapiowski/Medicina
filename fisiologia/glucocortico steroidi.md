@@ -1,0 +1,12 @@
+- in competizione
+- [[cortisolo]], [[cortisone]] e derivati
+- effetti
+	- positivi
+		- terapeutici o primari
+			- trattamento dolore acuto, anti infiammatori
+		- secondari, indesiderati
+			- doping
+				- effetto euforizzante
+				- riduzione percezione fatica
+	- negativi
+		- disturbi elettroliti, insufficienza cardiaca, osteoporosi, immunodepressione, insufficienza renale, amenorrea ..

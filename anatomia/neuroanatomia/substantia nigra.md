@@ -1,0 +1,5 @@
+- [[area ventrale tegmentale]]
+- neuroni [[nigrali]]
+- la [[pars compacta]] contiene corpi cc [[dopaminergico]] a proiezione [[nucleo striato]]
+- la [[pars reticulata]] sede afferenze [[nucleo striato]]
+- attiva tonicamente

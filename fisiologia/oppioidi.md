@@ -1,0 +1,43 @@
+- [[oppio]]
+- [[morfina]] e [[codeina]] alcaloidi da oppio
+- [[tebaina]]
+- [[eroina]] derivato semisintetico
+- [[metadone]] prodotto di sintesi
+- antidoto per overdose: [[naloxone]]
+- ## effetti acuti
+	- [[analgesia]]
+	- [[depressione respiratoria]]
+	- [[euforia]]
+	- rilassatezza, [[sonno]]
+	- tranquillita
+	- ipotensione
+	- [[costipazione]]
+	- miosi
+	- ipotermia
+	- -secrezioni
+	- -libido
+- ## sindrome da [[astinenza]]
+	- dolore, irritabilita
+	- iperventilazione
+	- disforia, depressione
+	- insonnia, irrequietezza
+	- ostilita, irascibilita
+	- ipertensione
+	- diarrea
+	- midriasi
+	- ipertermia
+	- lacrimazione
+- ## detossificazione
+	- ### [[metadone]]
+		- per [[eroina]]
+		- 100 mg/d
+		- riduzione dosaggio sino a 5 mg/d
+		- sospensione, fine th
+		- [[naltrexone]] aiuta se dipendenza datata
+		- mantenimento con [[metadone]] 6-8 mg/d
+	- ### rapida
+		- alte dosi [[naloxone]], [[naltrexone]]: protocolli rod, raad
+		- induce [[tolleranza]] alte dosi antagonisti
+			- detossificazione completa in alcune ore, sotto anestesia
+		- passata la fase acuta di [[astinenza]]
+			- [[naltrexone]] per neutralizzare effetti neoassunzione agonisti oppioidi

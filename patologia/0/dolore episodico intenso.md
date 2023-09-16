@@ -1,0 +1,18 @@
+- [[dei]]
+- episodi dolorosi ad orari fissi in th analegesica cronica
+- caratterizzato da: insorgenza rapida, elevata intensita, breve durata: 30 m
+- episodi dolorosi che emergono in [[dolore cronico]] ben controllato
+- transitoria esacerbazione dolore in dolore persistente altrimenti stabile
+- ## classificazione
+	- [[dolore incidente]] 32-94%
+	- [[dolore idiopatico]] = spontaneo 28-45%
+	- [[dolore da fine dose]] 2-29%
+- ## caratteristiche cliniche
+	- rapida insorgenza, severa 6-7, 1-6 / g
+	- 75% episodi dura meno di 30 m, 46% massima intensita in 5 min
+	- imprevedibile in 50-60% dei casi
+	- fattore precipitante correlato
+		- tumore: localizzazione ossea, viscerale
+		- antineoplastici: neuropatie
+		- quadri patologici concomitanti: ulcere cutanee
+	- dolore descritto come acuto, lancinante, stessa sede del dolore di base

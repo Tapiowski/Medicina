@@ -1,0 +1,5 @@
+- o a toracica prossimale a succlavia sx [[de bakey]] tipo 3
+	- istmo aorta, lontane da [[piano valvolare aortico]]
+- evoluzione retrograda possibile vs arco aortico e piano valvolare, coronario, pericardio
+	- [[dissecazione aortica retrograda]]
+	- 

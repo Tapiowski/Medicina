@@ -1,0 +1,14 @@
+- [[streptococco]], [[stafilococco]]-s
+- [[morte]] per [[arresto cardiorespiratorio]]
+- ## adme
+	- orale, rapido assorbimento, distribuita -csf, iv plasma 300 ug/ml da 1h 500 mg
+	- distribuisce, concentra cc anche fagociti: molto presente in secrezioni
+	- metbolismo fegato: metaboliti inattivi, escrezione bile, 12% urine, ev 40-68 h
+	- 1, 2 h prima dei pasti
+- ## usi th
+	- [[pneumonia]], [[faringite]], [[sinusite]]
+		- 500 mg, 250 mg poi
+	- [[mycobacterium#^mai]] in [[hiv]]
+		- 500-600 mg, 1200 mg profilassi
+	- [[malattie trasmesse sessualmente]]
+		- [[tracomatosi]]

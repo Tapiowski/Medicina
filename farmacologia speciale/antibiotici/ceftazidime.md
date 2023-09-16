@@ -1,0 +1,6 @@
+- penetra csf
+- -attiva vs [[gram+]] (no stafilococco, b fragilis)
+- attiva vs ([[ceftazidime]]/[[avibactam]])
+	- [[enterobacter]]
+	- [[pseudomonas aeruginosa]]
+- parenterale, ev 1.5 h, eliminazione in rene

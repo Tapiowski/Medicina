@@ -1,0 +1,19 @@
+- racemo, simile a [[chinidina]] ma ec diversi
+- prevenzione recidive [[tachicardia]], [[fibrillazione ventricolare]]
+- blocca na-ch, effetti anti-[[acetilcolina]]
+- [[glaucoma]], stipsi, seccezza fauci, ritenzione urinaria, insufficienza cardiaca, torsade: deprime contrattilita
+- ## meccanismo d'azione
+	- +periodo refrattario, durata spike
+	- lega na-ch aperti e refrattari: stabilizza membrana//frequenza attivazione canali
+- ## farmacocinetica
+	- biodisp elevata, picco in 30' - 3 h, ev 8-16 h, eliminazione fegato 2/3
+	- tdm: se insufficienza renale o epatica
+- ## th
+	- profilassi [[aritmie ventricolari]], [[aritmie sopraventricolari]], ima
+	- th: [[extrasistolia]] atriale e ventricolare
+- ## controindicazioni
+	- aritmie complete e assolute
+- ## effetti collaterali
+	- alterazioni ritmo, sintomi colinergici
+- ## interazioni
+	- ganglioplegici, neurolettici

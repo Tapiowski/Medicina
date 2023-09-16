@@ -1,0 +1,73 @@
+# fluorochinoloni
+- ## storia
+	- [[acido nalidixico]] primo chinone, da clorochina per [[infezioni tratto urinario]]
+	- successivi fluorochinoloni ampio spettro, orali, fatali effetti collaterali in sorveglianza post market
+- ## meccanismo d'azione
+	- target
+		- DNA girasi [[gram-]]
+			- assente in eucarioti
+		- DNA topoisomerasi IV [[gram+]]
+			- tipo II in eucarioti: minore concentrazione
+- ## spettro antibatterico
+	- [[proteus mirabilis]], [[escherichia coli]], [[klebsiella]], [[salmonella]], [[shigella]], [[enterobacter]], [[campylobacter jejuni]], [[neisseria]]-r
+	- [[pseudomonas aeruginosa]]: cipro, levofloxacina
+	- [[stafilococco]] se non [[meticillina]]-r e th-r
+	- [[streptococco]]
+	- [[gram0#^intracc]]
+- ## resistenza
+	- mutazione dna girasi, topoisomerasi IV, trasporto attivo, -plasmidi proteine leganti topoisomerasi
+	- pseudomonas, stafilococco, e coli, campilobacter jejuni, salmonella, gonorrea, pneumoniae
+- ## adme
+	- orale, +assorbite, picco in 1-3 h
+	- +distribuzione
+		- + urine, rene, polmone, prostata, feci, bile, macrofagi, neutrofili
+		- - plasma, latte, cibo rallenta
+	- eliminazione renale, [[moxifloxacina]] fegato
+- ## classificazione
+	- ### [[norfloxacina]]
+	- ### [[ciprofloxacina]]
+	- ### [[levofloxacina, ofloxacina]]
+	- ### [[moxifloxacina]]
+	- ### [[gatifloxacina, gemifloxacina]]
+- ## usi terapeutici
+	- [[infezioni tratto urinario]]
+		- [[acido nalidixico]], [[fluorochinoloni]] piu potenti
+	- [[prostatite]]
+		- 4-6 wk
+	- [[malattie trasmesse sessualmente]]
+		- - treponema pallidum, + [[clamidia]] 7 d, [[haemophilus]] 3 d
+	- [[infezioni addominali]]
+		- 1-3 d, diarrea del viaggiatore, cura e profilassi
+		- [[salmonella]] typhi
+		- /[[metronidazolo]]: [[streptococco#^enterococco]], [[moxifloxacina]] agente singolo
+	- [[infezioni respiratorie]]
+		- [[streptococco#^pneumococco]], [[haemophilus]]: [[pneumonia]] comunitaria, alto
+		- [[pseudomonas aeruginosa]] in [[fibrosi cistica]]
+	- [[infezione]] [[osso]], [[articolazioni]], [[tessuti molli]]
+		- [[osteomielite]] cronica, [[stafilococco#^aureus]], [[gram-]] bastoncelli
+		- /rifampin -resistenza
+		- /antianaerobi infezioni piede [[diabete]]
+	- altro
+		- profilassi [[bacillus#^antrace]], [[tularemia]]: [[ciprofloxacina]], [[levofloxacina, ofloxacina]]
+		- [[moxifloxacina]]: [[mycobacterium]] multi-r e atipico
+		- [[gram-]] [[batteremia]] profilassi
+		- [[levofloxacina, ofloxacina]], [[ciprofloxacina]]: [[yersinia]], [[bacillus#^antrace]] prevenzione cura
+- ## reazioni avverse
+	- gi
+		- 3-17% nausea, vomito, -gi, colite clostridium difficile -r
+	- neurologici
+		- 1-11% mal di testa, vertigini +teofilline, nsaid
+		- epilessia in epilettici, neuorpatia periferica irreversibile
+	- muscoloscheletrici
+		- artalgina, dolore articolare, tendinite +corticosteroidi
+		- danno cartilagine, malformazn neonati, feti
+	- altro
+		- [[moxifloxacina]] qt elongation, torsades. aritmie
+			- -[[ciprofloxacina]]
+		- rash, fotosensitivita
+- ## interazioni farmacologiche
+	- complessi divalenti, trivalenti con cationi: -biodisponibilita, 2 h dai pasti
+	- [[ciprofloxacina]] inibisce metabolismo teofillina
+	- nsaid +displacement gaba da recettore chinoloni
+	- antiaritmiaci! qt elong, torsades
+- ## [[disinfettanti]]

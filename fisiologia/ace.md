@@ -1,0 +1,3 @@
+- chimase, converting enzime
+- [[angiotensina I]] converting enzime (in [[angiotensina II]])
+- sito attivo con legame a zn++

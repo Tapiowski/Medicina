@@ -1,0 +1,12 @@
+- nitric oxide synthase
+	- ca/calmodulina
+	- heme-fe++, biopterina-h4, fmn, fad, nadph, h2o, o2
+- enos, cnos, tipo III: epitelica
+	- palmitoilato, pka
+	- ca/cam
+	- pi, pip2, plc
+	- [[farmaci vasodilatatori]], [[aggregazione piastrinica]], omeostasi cardiovascolare
+	- legato a caveoline in membrana, inattivo
+	- [[acetilcolina]] e [[bradichinina]] attiva [[plc]] che catalizza: ip3+dag in pip2
+		- ip3 rilascia ca in, attiva calmodulina + enos: dissocia da caveolina e trasloca in citosol
+		- fosforilazione enos da pks inattiva: trasloca in caveoli

@@ -1,0 +1,19 @@
+- [[gram-]]
+	- [[klebsiella]], [[escherichia coli]], [[enterobacter]], [[proteus mirabilis]]
+- [[gram+]]
+	- [[stafilococco#^aureus]], [[streptococco#^enterococco]]
+- [[mycobacterium]]
+- [[pseudomonas aeruginosa]]-r
+- solfato neomicina
+	- orale, topicale, combinata con poimixin, bacitracin. antibiotii, corticosteroidi
+	- [[infezione]] [[cute]], [[mucosa]]
+	- preparazione chirurgia intestino orale con base [[eritromicina]]
+	- 7% non assorbito, eliminato in feci 3% in rene 10 g in 3 gg
+	- /polimixina B per irrigazione [[vescica]]
+		- [[batteremia]] catetere: 1 ml con 40 mg / 200k unita in 1L 0.9 sodio cloride
+		- 1 L/d continua
+- reazioni ipersensitivita
+	- rash cutanei 6-8% topicale, ototossicita, nefrotossicita
+	- no parenterale
+	- blocco muscolare paralisi respiratoria in irrogazione ferite, cavita sierose
+	- diarrea, azotorrea, overgrowth lieviti in intestino

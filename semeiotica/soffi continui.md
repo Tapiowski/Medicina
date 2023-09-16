@@ -1,0 +1,6 @@
+- in sistole dino a dopo S2 per intera diastole
+- da flusso persistente in fasi ciclo cardiaco, da zona +p a -p
+- dovuti a
+	- persistenza dotto arterioso di botallo: gestazione polmone non attivi, osigenazione da placenta: ventricolo dx > a polmonare > aorta, in nascita si chiude: legamento arterioso: soffio continuo
+	- coartazione aortica: restringimento aorta in tratto iniziale discendente: ipertensione arti sup e ipoperfusione sotto stenosi renale: chirurgia: soffio continuo
+	- fistole a-v congenite o acquisite

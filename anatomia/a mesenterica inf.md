@@ -1,0 +1,1 @@
+quadranti dx

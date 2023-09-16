@@ -1,0 +1,1 @@
+sensazioni abnormi non dolorose

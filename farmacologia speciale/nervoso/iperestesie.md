@@ -1,0 +1,3 @@
+[[allodinia]]
+[[iperalgesia]]
+[[iperpatia]]

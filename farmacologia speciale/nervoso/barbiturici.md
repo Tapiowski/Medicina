@@ -1,0 +1,38 @@
+- acidi deboli: derivati da [[acido barbiturico]]
+- pka = 8
+- ## classificazione
+	- base tempo comparsa effetto, durata azione
+		- azione lunga, metabolismo lento, lenta escrezione renale
+			- [[barbitale]]
+			- [[fenobarbitale]]
+		- azione breve, metabolismo rapido
+			- [[pentobarbitale]]
+		- azione brevissima, ridistribuzione da snc a tessuti
+			- [[tiopentale]]: 10 s insorgenza azione, iv
+- ## effetti
+	- ### acuti
+		- simili [[benzodiazepine]]
+		- [[tranquillanti minori]]
+		- [[ipnotici]]
+		- [[miorilassanti]]
+		- [[anticonvulsionanti]]
+		- [[farmaci analgesici]] anche iperalgesia, bassa efficacia
+		- [[perdita di coscienza]]
+		- effetti su sistema nervoso autonomo
+			- [[depressione respiratoria]] su [[centro del respiro]]: causa [[morte]] da sovradosaggio
+	- ### th ripetuta
+		- [[tolleranza]], [[dipendenze]], induzione enzimi microsomiali epatici
+- ## usi th
+	- osboleti: ansiolitici, sonniferi
+	- [[epilessia]]: [[fenobarbitale]]
+	- soppiantato da [[propofol]]
+		- indurre [[anestesia]]: [[tiopentale]]
+		- mantenere [[anestesia]]: [[tiopentale]]/[[nitrossido]]
+- ## meccanismo d'azione
+	- azione non specifica simile [[anestesia generale]]
+	- azione specifica struttura-dip
+	- attivazione [[canali cloro]] indipendente da [[gaba]]: tossicita!
+		- concentrazione dip: [[anestesia]] da barbiturici
+	- aumentano, mimano azioni [[gaba]] su [[gaba-a]]
+	- legame [[barbiturici]] ritarda dissociazione [[gaba]]
+	- + tempo di apertura [[gaba-a]]

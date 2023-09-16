@@ -1,0 +1,19 @@
+- [[terapia parkinson]]
+- th [[l-dopa]] si basa su funzionalita decarbossilasica residua nel [[nucleo striato]]
+	- perde effetto in progressione malattia [[catecolamine]]
+- alternativa a th [[l-dopa]]
+	- se pz non risponde a ldopa non risponde ad agonisti
+- ## classificazione
+	- [[apomorfine]]
+	- [[derivati ergolinici]]
+	- [[composti non ergolinici]]
+- ## vantaggi rispetto ldopa
+	- no conversione: indipendente da [[decarbossilasi]] in [[nucleo striato]]
+	- non competono con trasportatori per amminoacidi aromatici: -interferenze dieta
+	- non dipendono da uptake neuronale e dal release: direttamente du [[recettori dopaminergici]]
+	- +durata d'azione rispetto singola dose ldopa
+	- +ev [[l-dopa]]
+- ## efficacia th
+	- [[pergolide]], [[ropinirolo]], [[pramipexolo]] efficaci in monoth e associazione ldopa
+		- - incidenza complicazioni motorie in monoth
+		- 20% th per 3-5 anni senza ldopa

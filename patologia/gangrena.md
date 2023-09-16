@@ -1,0 +1,2 @@
+- [[gangrena secca]]
+- [[gangrena umida]]

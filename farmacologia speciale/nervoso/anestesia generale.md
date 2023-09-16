@@ -1,0 +1,8 @@
+- [[narcosi]]
+- via ev
+	- [[propofol]]
+- anestesia totale inalatoria: [[anestetici generali inalatori]]
+	- analgesia etere
+- anestesia bilanciata
+- TIVA anestesia totale intravenosa
+	- sedazione analgo

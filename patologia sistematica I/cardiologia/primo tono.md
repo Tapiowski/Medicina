@@ -1,0 +1,19 @@
+- ### [[S1]] tun
+	- sistole ventricolare sincrono ad itto punta
+	- chiusura valvole av
+	- quattro vibrazioni:
+		- contrazione isovolumetrica ventricolare
+		- chiusura valvola mitrale e tricuspide
+		- vibrazione da eiezione in aorta e arteria polmonare
+		- passaggio di sangue in aorta e arteria polmonare
+	- precede di 0.10 s onda sfigmica in polso radiale
+	- intenso in focolaio di punta
+	- suono sordo, prolungato, intensita maggiore
+	- variazioni intensita
+		- fisiologiche: focolaio portico e polmonare s1 < s2, in mitralico e tricuspidale s1 > s2
+		- patologiche con aumento: ipercinesia cardiaca, febbre, anemia, ipertiroidismo, stenosi mitralica, - riempimento diastolico v sin
+		- patologiche con diminuzione: blocco av 1 grado, insuff o calcificazione mitralica
+	- sdoppiamento s1:
+		- mitrale: s4 apparente
+		- triscuspide: +componente triscuspidale
+		- mitrale e tricuspidale: blocco branca dx, extrasistole ventricolare se sdoppiati s1 e s2

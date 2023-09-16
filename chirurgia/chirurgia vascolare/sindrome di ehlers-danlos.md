@@ -1,0 +1,8 @@
+- ereditario AD o AR rara
+- collagene III
+- tipo B
+	- arterio grande-medio calibro
+	- [[dissecazione arteriosa]]
+	- [[pseudoaneurismi]]
+- non operabile in chirurgia: arteria si lacera
+	- chirurgia endovascolare

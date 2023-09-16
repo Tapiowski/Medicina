@@ -1,0 +1,8 @@
+- ### [[metoprololo]]
+- ### [[atenololo]]
+- ### [[bisoprololo]]
+- minori effetti collaterali extracardiaci: bronchi, vasi
+- riduzione [[gittata cardiaca]]
+- seconda generazione [[farmaci beta-bloccanti]], cardioselettivi relativi per [[recettori beta-1]] alte dosi perdono selettivita
+- anche per [[diabete]], [[broncospasmo]]
+		- b-2 implicati in rilascio insulina, broncostrizn

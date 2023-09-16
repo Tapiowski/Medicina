@@ -1,0 +1,3 @@
+- riveste cuore e tratto iniziale grossi vasi
+- rottura aorta: sangue tra pericardio parietale e viscerale
+- liquido sieroso trascurabile ma aumenta in versamenti per rottura vasi, infiammazn infettive

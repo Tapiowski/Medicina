@@ -1,0 +1,3 @@
+- orale
+- [[infezioni tratto urinario]]: [[escherichia coli]], [[proteus mirabilis]], [[otite]] media da [[haemophilus]], [[streptococco#^piogene]], [[neisseria#^gonorrea]]
+- ev 3-4 h, urine, bile

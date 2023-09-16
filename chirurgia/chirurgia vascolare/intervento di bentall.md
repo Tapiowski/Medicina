@@ -1,0 +1,12 @@
+- sostituzione [[a ascendente]]
+- in [[valvulopatie]] aortiche
+- pz [[sindrome di marfan]]
+	- sostituzione con [[tubo valvolato]]
+		- protesi meccanica a ascendente
+- 12h
+	- sostituzione [[a toracica]], [[a discendente]], [[a addominale]]
+	- reimpianto [[vasi splancnici]]
+	- pz aperto a meta
+- intervento destruente
+	- perdita liquidi, t fino a 32C: coagulazione da ipotermia
+	- [[toraco-freno-laparotomia]] con [[sternotomia mediana]] e [[circolazione extracorporea]]

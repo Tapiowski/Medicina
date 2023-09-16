@@ -1,0 +1,7 @@
+- no metabolismo, escreto per filtrazione glomerulare, no riassorbimento
+- limita riassorbimento h2o nel tubulo prossimale e tratto discentente ansa: permeabili
+	- forza osmotica contraria
+- +vol fluido intratubulare, urinario
+- ev
+- profilassi [[insufficienza renale]] acuta
+- - [[edema]] [[cervello]], -pressione [[occhio]]

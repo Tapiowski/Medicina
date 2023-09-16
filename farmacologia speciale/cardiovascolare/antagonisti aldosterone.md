@@ -1,0 +1,4 @@
+- [[aldosterone]] antidiuretico
+- antagonisti competitivi recettori [[mineralcorticoidi]]
+	- +riassorbimento na, escrezione k in [[tubulo distale]] e [[dotto collettore]]
+- profarmaci, si trasformano in [[canrenone]], detioacetilazione 80% dose: antagonizza

@@ -1,0 +1,4 @@
+- sospeso dal commercio: epatotossico
+- reintrodotto: +benefici che rischi: profilo epatico!
+- stessi effetti collaterali [[entacapone]]
+- tavolette da 100-200 mg

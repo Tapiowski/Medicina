@@ -1,0 +1,1 @@
+proteina intestinale in enterocita assorbe colesterolo da lume a circolazione: [[NPC1L1]]: - colesterolo da dieta

@@ -1,0 +1,4 @@
+- organo infiltrato
+- proietta, [[dolore riferito]], su area cutanea sovrastante
+- sordo, non localizzato
+- se organo cavo: [[dolore colico]]

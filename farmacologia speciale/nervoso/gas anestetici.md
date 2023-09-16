@@ -1,0 +1,45 @@
+- ## storia
+	- anestesia pre 1848
+		- chirurgia rara, solo per necessita estrema
+		- [[asepsi]] non conosciuta
+		- [[hashish]], [[oppio]], [[etanolo]] come [[lenitivi]]
+		- ghiaccio, [[ischemia]] per [[terapia analgesica]]
+			- colpo al capo, strangolamento
+			- lacci
+		- pz immobilizzato con la forza
+		- 1776 priestley sintesti [[protossido]]
+		- 1798 davy proprieta anestetiche [[protossido]]
+		- 1820 michael faraday proprieta anestetiche [[etere etilico]]
+	- dopo 1848
+		- dentisti
+		- 1845 wells, boston estrazione dentaria sotto [[protossido]]
+		- 1842 long usa [[etere etilico]] in anestesia, non pubblica
+		- 1848 morton, boston [[etere etilico]] come anestetico chirurgico
+		- 1847 simpson [[cloroformio]] in scozia
+		- [[asepsi]], +sopravvivenza operatorio
+		- 1863 [[protossido]], odontoiatria
+		- 1868 associazione [[protossido]]/o2 in bombole d'acciaio
+		- 1959 [[cloropropano]], gas anestetico
+		- 1956 [[altolano]]
+		- 1956 [[curaro]]
+		- 1935 [[tiopentale]]
+		- 1967 benett, [[curaro]] in anestesia, tecniche chirurgiche
+- ## anestetici generali inalatori
+	- gas anestetico ideale, proprieta
+		- induzione, risveglio da anestesia rapida e piacevole
+		- consentire variazioni rapide del piano anestesiologico
+		- rilassamento muscolatura schelettrica
+		- margine sicurezza
+		- no effetti tossici o collaterali a dosi th
+		- ### anestesia bilanciata
+			- -necessita per primi 3
+			- anestetici generali ad ampio uso
+				- [[protossido]], [[desflurano]], +[[sevorano]]
+				- in passato: [[alotano]], [[enflurano]], [[isoflurano]]
+- ## [[anestesia]]
+	- non usati isolati quindi solo
+		- [[perdita di coscienza]]
+		- [[analgesia]]
+		- [[rilassamento muscolare]]
+- ## classificazione
+	- ### [[anestetici generali inalatori]]

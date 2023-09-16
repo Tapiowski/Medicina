@@ -1,0 +1,8 @@
+- recettore eccitatorio postsinaptico
+- mm liscia piccoli vasi ([[resistenza periferica]]), sistema urogenitale, sfinteri
+	- stimolo
+		- contrazione
+			- aumento pressione
+- a-1a, -1b, -1d
+	- Gq/11
+		- +[Ca]i

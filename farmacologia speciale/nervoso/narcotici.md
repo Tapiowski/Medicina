@@ -1,0 +1,11 @@
+- vietati solo in competizione, sempre tossici
+- assunti per ridurre [[percezione dolorifica]]
+	- dolore allarme!
+- blocco percezione dolore e aumentano tollerabilita
+	- ### [[morfina]]
+	- ### [[eroina]]
+	- atleta puo strafare
+- rischio
+	- aggravare lesioni traumatiche esistenti, danni permanenti
+- effetti indesiderati
+	- vomito, depressione respiro, dipendenza fisica e psichica, alterazione umore

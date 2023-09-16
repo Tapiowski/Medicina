@@ -1,0 +1,58 @@
+- ## effetti
+	- ### secondo tempo
+		- secondi
+			- attivazione [[plc]]
+			- generazione [[inositol]] fosfato
+			- rilascio ca++
+		- minuti
+			- attivazione [[map]]
+		- ore
+			- attivazione [[chinasi#^jak]]
+			- trasduttori segnali attivatori [[trascrizione#^stat]]
+	- ### rimodellamento tessuto
+		- crescita
+			- [[fgf]], [[mapk]], o2-
+		- fibrosi
+			- [[tgf]]-b, [[collagene]], [[pai]]-i
+		- quindi
+			- [[insufficienza cardiaca]]
+			- malattia [[coronarie]]
+			- [[insufficienza renale]]
+- ## risposta
+	- ### rapida pressoria
+		- [[vasocostrizione]]
+		- + neurotrasmissione [[noradrenalina]] periferica
+		- + risposta [[simpatico]]
+		- rilascio [[catecolamine]] da [[midollo surrenale]]
+	- ### lenta pressoria
+		- + riassorbimento no in [[tubulo prossimale]]
+		- rilascio [[aldosterone]] da [[corteccia surrenale]]
+		- emodinamica alterata: [[vasocostrizione]], + controllo na in rene
+	- ### rimodellamento vascolare, ipertrofia cardiaca
+		- effetti non emodinamici
+			- [[proto-oncogeni]]
+			- [[fattori di crescita]]
+			- sintesi [[matrice extracc]]
+		- effetti dinamici
+			- + [[post carico]]
+			- + [[pre carico]]
+- ## agisce su recettori
+	- ## [[at-1]]
+	- ## at-2
+- ## modello patogenetico
+	- [[angiotensina I]] + [[ace]], [[chinasi]]
+	- [[angiotensina II]]
+		1. [[ipertrofia cardiaca]]
+			- azione sistemica
+				- ipertensione
+				- + pressione miocardio
+			- azione locale
+				- fibrosi
+		2. dilatazione cardiaca
+		3. disfunzione contrattile
+		4. [[insufficienza cardiaca]]
+- ## ruolo emodinamico in danno glomerulare [[diabete]]
+	- [[vasocostrizione]] arteriola efferente glomerulare
+	- aumento pressorio intraglomerulare
+	- + albuminuria, proteinuria
+	- dilatazione arteriola afferente ([[prostaglandine]]) e2

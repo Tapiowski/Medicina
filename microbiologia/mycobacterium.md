@@ -1,0 +1,5 @@
+- mycobacterium marinum
+- mycobacterium avium ^mai
+- mycobacterium scrofulaceum
+- mycobacterium tubercolosis
+- mycobacterium leprae

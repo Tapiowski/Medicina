@@ -1,0 +1,13 @@
+- [[fondaparinux]]
+	- pentasaccaride di sintesi
+	- analogo sequenza che lega [[atiii]] in eparine a alto e baso pm, inibisce selettivamente [[fxa]]
+	- sottocute
+	- vantaggi rispetto eparina
+		- una somministrazione giornaliera
+		- basso sanguinamento
+		- no interazione con piastrine: no piastrinopenia, risposta prevedibile
+	- problema
+		- no antidoto
+	- uso
+		- per profilassi [[trombosi venosa profonda]]
+		- th [[sindrome coronarica acuta]] [[NSTEMI]]

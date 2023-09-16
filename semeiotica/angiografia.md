@@ -1,0 +1,4 @@
+- usato spesso in passato
+- buca arteria, mezzo di contrasto, radiografia
+- degenza due gg
+- esame di planning preoperatorio prima di th endovascolari

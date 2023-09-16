@@ -1,0 +1,1 @@
+- parte il riflesso a seguito di tosse, starnuto, stimolo minzione, esercizio, gi deglutizione, defecazione..

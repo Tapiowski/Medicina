@@ -1,0 +1,8 @@
+- effetti
+	- sedazione
+	- allucinazione
+	- analgesia
+	- irralta, sogni colorati, rivelazioni mistiche
+	- ustioni, cadute, paralisi temporanee
+	- sensazione vicino alla more
+- iniettata, bossa, sniffata: soluzione, polvere, pasticche

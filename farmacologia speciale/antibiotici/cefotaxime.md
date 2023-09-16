@@ -1,0 +1,7 @@
+- resistente a b-lattamasi spettro limitato
+- [gram+], [[gram-]] aerobi
+- no b fragilis per esbl, kpc
+- ev 1 h, ogni 4-8 h
+- metabolizzata a desacetilcefotaxime, meno attiva
+- [[csf]]
+	- [[haemophilus]], [[streptococco#^pneumococco]], [[neisseria#^meningococco]]

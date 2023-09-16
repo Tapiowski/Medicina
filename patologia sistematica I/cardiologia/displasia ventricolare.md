@@ -1,0 +1,4 @@
+- [[cardiomiopatia aritmogena]]
+- infiltrazione adiposa sostituisce tessuto miocardico
+- causa aritmie
+- onda y e t invertite in v1, v2

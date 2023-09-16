@@ -1,0 +1,16 @@
+- [[glutammato]]
+	- [[glur]]
+		- trascrizione mrna
+			- mrna traduzione per mrna trasporto
+	- [[trkb]]
+		- risc degradazione
+- nucleo
+	- gene
+		- mrna
+			- tmrna
+	- mirna
+		- legano mrna
+			- complesso risc
+				- inibizione traduzione
+				- mrna sequestro
+				- degradazione mrna

@@ -1,0 +1,8 @@
+- in acuto
+	- [[cardioversione elettrica]]
+	- [[overdrive]]
+	- [[defibrillazione]]
+- in post acuto
+	- [[ablazione trans-catetere]]
+	- [[impianto pacemaker]]
+	- [[impianto defibrillatore]]

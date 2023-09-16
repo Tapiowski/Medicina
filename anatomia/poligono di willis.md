@@ -1,0 +1,11 @@
+- network anastomotico intracerebrale
+	- formazione mirabile, eptagono
+	- comunicazione
+		- [[a carotide in]]: [[a cerebrale media]]
+			- 2 [[a cerebrale ant]]
+		- [[a vertebrale]]: [[a basilare]]
+			- 2 [[a cerebrale post]]
+		- 2 [[a comunicante post]]
+			- comunicazione [[a cerebrale media]] con [[a cerebrale post]]
+		- piccola [[a comunicante ant]]
+			- comunicazione [[a cerebrale ant]]

@@ -1,0 +1,4 @@
+- inibiscono [[trombina]]
+- [[dagigratan]]
+- [[bivalirudina]]
+	- in angioplastica coronarica in pz che non possono usare eparina non frazionata

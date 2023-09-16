@@ -1,0 +1,2 @@
+- diminuisce secrezione tubulare
+- diminuisce volume distribuzione

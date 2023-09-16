@@ -1,0 +1,56 @@
+# macrolidi
+- ## storia
+	- [[infezioni respiratorie]], [[pneumonia]] com
+	- 1952 [[eritromicina]]: metabolita streptomicene eritreo
+	- derivati semisintetici
+	- [[ketolidi]] semisintetici derivati da [[eritromicina]]: vs [[macrolidi]]-r
+		- [[telitromicina]]: -metilase-mediata erm, -efflux-mef. -msr
+		- [[gram+]] sicurezza dubbia
+	- anello lattone multimembro con deossi zuccheri attaccati
+	- stabili in acido e penetrazione tessuti: maggiore spettro d'azione
+- ## meccanismo d'azione
+	- batteriostatici, inibiscono sintesi proteica per legame irreversibile 50S o sito legante cloramfenicolo
+	- [[eritromicina]] inibisce traslocazione trna da sito accettore A a donatore P: 100X [[gram+]] che [[gram-]] 
+- ## resistenza
+	- efflusso attivo
+	- protezione ribosomale inducibile o costitutiva da enzimi metilasi: modifica ribosomi
+	- idrolisi macrolidi da esterasi enterobatteriacee
+	- mutazioni chr 50S: bacillus subtilis, campilobacter spp, micobacteria, gram+ cocci
+- ## classificazione
+	- ### [[eritromicina]] +
+	- ### [[claritromicina]]
+	- ### [[azitromicina]] +
+	- ### [[telitromicina]] + /b-l
+	- ### [[fidaxomicina]]
+- ## usi terapeutici
+	- [[infezioni respiratorie]]
+		- /[[beta-lattamine]] [[pneumonia]], [[legionellosi]], [[bronchite]] acuzie cronica, [[otite]] media acuta, [[faringite]] da [[streptococco]], [[sinusite]] batterica
+		- [[telitromicina]] migliore, meno-r, +tossica
+	- [[infezioni cute, tessuti molli]]
+		- ersipelas, [[cellulite]]
+		- se allergia [[penicilline]], [[stafilococco#^aureus]]
+	- [[clamidia]]
+		- 1 g [[azitromicina]]
+	- [[difterite]]
+		- 7 gg [[eritromicina]], antitossine per acuzie
+	- [[pertosse]]
+		- profilassi famiglia, -r in crescita
+	- [[mycobacterium]]
+		- [[claritromicina]], [[azitromicina]] per [[mycobacterium#^mai]]-hiv
+	- profilassi
+		- [[azitromicina]], [[claritromicina]] per [[mycobacterium#^mai]], [[febbre reumatica]] se allergia [[penicilline]]
+- ## reazioni avverse
+	- tossico gi
+		- orale, iv [[eritromicina]]: stress epigastrio, procinetico
+	- tossico cuore
+		- aritmie, qt elon, tachicardia ventricolare, [[arresto cardiorespiratorio]] con [[azitromicina]]. non sinergizzare
+	- tossico fegato
+		- epatite colestatica [[eritromicina]] a lungo termine, 10-20 gg da inizio th: nausea, vomito, crampi addominali, ittero, febbre, leucocitosi, eosinofilia, transaminasi elevate
+		- risolve in stop th, [[telitromicina]] grave tossicita
+	- altro, irritazione
+		- allergiche: febbre, eosinofilia, eruzioni cute, stop in stop
+		- auditorio, tintinnio, alte dosi: -accomodazione [[telitromicina]]: non usare in miastenia gravis
+- ## interazioni farmacologiche
+	- [[azitromicina]] non ha interazioni
+	- [[telitromicina]] substrato, inibitore cyp-3a4, rifampin induce cyp: -telitromicina in plasma del 80%: inibitori cyp aumentano telitromicina in plasma
+	- [[eritromicina]], [[claritromicina]], [[telitromicina]]: inibisce cyp-3a4, potenzia cabamazepine, corticosteroidi, ciclosporine, digoxine, alkaloidi, teofilline, triazolam, warfarin: metabolismo cyp-mediato

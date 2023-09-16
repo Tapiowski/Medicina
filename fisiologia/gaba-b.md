@@ -1,0 +1,6 @@
+- agonista selettivo: [[l-baclofene]]
+- antagonista selettivo: [[2-idrossi-baclofene]]
+- trasduzione segnale recettore accoppiato a [[proteine gi]]
+	- inibizione [[adenilato ciclasi]]
+	- apertura [[canali fosforo]]
+	- chiusura [[canali calcio]]

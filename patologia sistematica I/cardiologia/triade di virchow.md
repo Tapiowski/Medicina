@@ -1,0 +1,7 @@
+- causa di trombosi venosa o arteriosa formata da
+	- stasi
+	- lesione endoteliale
+		- [[placca aterosclerotica]]
+		- [[flap intimale]] da lesioni: lesione parete vaso
+	- ipercoagulabilita
+		- [[sindromi trombofiliche]]

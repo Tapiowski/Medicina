@@ -1,0 +1,4 @@
+- [[arf]]
+- malattia infiammatoria acuta diffusa immunomediata
+- conseguente a abnorme reazione a [[faringotonsilliti]] da [[streptococco#^b-emolitico]] gruppo A: cute, sistema nervoso, articolazioni e cuore
+- cardiaco: fibrosi valvolare fino a [[cardiopatia cronica]]

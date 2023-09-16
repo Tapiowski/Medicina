@@ -1,0 +1,2 @@
+- da usare sempre in [[farmaci oppioidi]]
+	- prevenzione [[stipsi]]

@@ -1,0 +1,9 @@
+- coagulase+
+	- stafilococco aureus ^aureus
+		- MRSA meticillin-resistant stafilococco aureus ^mrsa
+- coagulase-
+	- novobiocin sensitivo
+		- stafilococco epidermidis ^epidermidis
+			- MRSE meticillin-resistant stafilococco epidermidis ^mrse
+	- novobiocin resistente
+		- stafilococco saprofitico

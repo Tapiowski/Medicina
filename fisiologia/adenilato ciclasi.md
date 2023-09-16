@@ -1,0 +1,2 @@
+- [ ][ac](https://it.wikipedia.org/wiki/Adenilato_ciclasi)
+- atp: ampc con [[proteina G]]

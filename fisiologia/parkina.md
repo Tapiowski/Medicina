@@ -1,0 +1,4 @@
+- 465 aa, classe [[e3 ubiquitin ligasi]]
+	- lega catene di [[poliubiquitina]] a proteine destinate a degradazione
+	- mutazione gene park2 6q25.2-q27: condizione autosomica recessiva [[morbo di parkinson]] ar-jp
+		- non lega ubiquitine a proteine da degradare: accumulo

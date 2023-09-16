@@ -1,0 +1,7 @@
+- ultrasuoni, da anni 70
+- sonda nel distretto da esaminare
+	- sorgente e ricevente ultrasuoni
+	- ben trasmessi da tessuti molli, parenchimi, liquidi
+	- non penetrano aria: segnale vuoto
+- color
+	- identifica flusso sanguigno

@@ -1,0 +1,1 @@
+no respirazione e controllo vasomotorio, [[morte]] in pochi minuti

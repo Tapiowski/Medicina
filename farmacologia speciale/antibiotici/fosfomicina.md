@@ -1,0 +1,6 @@
+- ## attivita antimicrobica
+	- -MurA: enolpiruvil transferase catalizza inizio sintesi parete cc: no cross-r
+	- glu-6-p testing
+- ## farmacologia
+	- iv, sistemica, powder orale, 50% biodisponibile orale, ev 5-8 h, 3 g, -plasma +urine
+	- meno effetti collaterali: gi, vaginite, mal di testa, vertigine

@@ -1,0 +1,114 @@
+- ## definizione
+	- antagonisti beta-adrenoceptori
+	- antagonisti competitivi dei [[recettori beta-adrenergici]]
+		- alcuni sono agonisti parziali
+	- piu importanti farmaci vs malattie [[cuore]] dopo scoperta [[digitale]] 200 anni fa
+- ## meccanismo d'azione
+	- inibizione competitiva effetti [[catecolamine]] su [[recettori beta-adrenergici]] [[cuore]]
+	- - risposta [[cuore]] ad [[adrenalina]]
+	- -[[frequenza cardiaca]], -[[contrattilita cardiaca]] in sforzo e stress
+- ## effetti
+	- -32% [[morte]]
+	- -41% ospedalizzazione
+	- -37% rischio combinato [[morbilita]], [[mortalita]]
+	- +29% frazione di eiezione
+- ## uso th
+	- ### cardiovascolare
+		- [[angina pectoris]] stabile e instabile: consumo o2 da stress, sforzo
+		- post-[[infarto miocardico]]: [[ischemia]], [[morte]]
+		- [[tachiaritmia]] sopraventricolare
+		- [[ipertensione]] [[arterie]]
+		- [[insufficienza cardiaca]]
+			- protezione [[miocardio]], stabilizzazione [[ritmo cardiaco]], ristorazione riflessi fisiologici, riduzione [[frequenza cardiaca]] da +[[contrattilita cardiaca]]
+	- ### extracardiaco
+		- [[tireotossicosi]]
+		- [[ansia]]
+		- [[glaucoma]]
+		- [[emicrania]]
+- ## farmacodinamica
+	- privi di selettivita recettoriale
+	- selettivi per [[recettori beta-1]]: cardioselettivi
+	- attivita [[simpatico]]-mimetica instrinseca ISA
+		- diminuisce [[frequenza cardiaca]] a riposo
+	- attivita [[vasodilatazione]] periferica
+- ## farmacocinetica
+	- ### lipofili
+		- metabolismo fegato, intenso first-pass, variazioni inter-individuali, ev breve, 10-50% biodisponibilita, alto legame proteico, [[snc]]
+		- ### [[propranololo]], [[alprenololo]], [[oxprenololo]], [[metoprololo]]
+	- ### idrofili
+		- eliminazione in rene, -assorbimento gi, +ev, -variazioni interindividuali, -legame proteico
+		- ### [[atenololo]], [[sotalolo]], [[celiprololo]], [[nadololo]]
+	- ### nuova generazione
+		- +[[recettori beta-1]] selettivi
+			- [[betaxololo]], [[bisoprololo]], [[cgp 20712a]]
+			- lipofili, [[glaucoma]], potenti, selettivi
+		- +[[recettori beta-2]] selettivi
+			- [[ici 118551]]
+			- cancerogeno nel ratto
+		- [[vasodilatazione]] periferica
+			- ### [[carvedilolo]], [[celiprololo]], [[labetalolo]], [[nebivololo]]
+- ## classificazione
+	- ### [[beta-bloccanti non selettivi]]: b-1, b-2
+		- ### [[propranololo]]
+		- ### [[nadololo]]
+		- ### [[timololo]]
+	- ### ![[beta-bloccanti selettivi]]
+	- ### ![[isa]]
+- ## effetti collaterali
+	- ipotensione
+	- effetti cardiaci
+		- bradicardia, blocchi seno-atriali e atrio-ventricolari
+		- effetto inotropo negativo
+		- ipotensione, insufficienza cardiaca
+	- astenia
+	- broncospasmo
+	- effetti vascolari
+		- sindrome di raynaud
+		- peggioramento arteriopatia periferica
+	- sistema nervoso centrale
+		- depressione, in tolleranza dopo settimane
+		- incubi notturni
+		- impotenza
+		- psicosi
+	- effetti gi
+		- nausea, diarrea o stipsi
+	- effetti metabolici
+		- ipoglicemia in diabete, glicogenolisi
+	- rash cutanei
+	- sindrome da sospensione improvvisa
+- ## doping
+	- vietat in sport particolari
+		- riducono tremore di base
+		- gare di tiro
+	- effetti
+		- -pressione arteriosa, frequenza cardiaca, contrattilita cuore, consumo ossigeno, tremore, ansia
+	- effetti indesiderati
+		- -prestazioni aerobiche, +percezione sforzo, broncospasmo in asmatici, bradicardia, ipotensione, insonnia, impotenza
+- ## [[farmaci anti-anginosi]]
+	- su cuore, inotropismo e tachicardia
+		- [[recettori beta-1]]
+		- [[recettori beta-2]]
+	- su bronchi, [[recettori beta-2]] broncodilatazione
+	- betabloccanti
+		- [[bradicardia]], [[depressione contrattile]], [[broncocostrizione]]
+		- non selettivi pericolosi nell'asmatico
+	- [[beta-bloccanti selettivi]] beta1
+		- ok per broncopneumopatia cronica
+	- [[beta-bloccanti non selettivi]]
+		- [[carvedilolo]] blocca alfa e beta
+			- da vasodilatazione e bradicardia
+	- [[sotalolo]]
+		- allunga ripolarizzazione cc miocardiche: effetto anti aritmico
+		- prolunga refrattarieta
+		- [[farmaci antiaritmici]] diretto
+	- in th cronica
+		- riducono resistenze periferiche: -tono adrenergico: effetto ipotensivo
+	- [[recettori beta-adrenergici]]
+		- attivato
+		- +camp
+			- betabloccante impedisce questo aumento = -forza contrattile, -lavoro cardiaco
+		- libera ca da reticolo endoplasmatico
+		- +forza contrattile
+	- [[cronotropo]] negativo: bradicardia, [[dromotropo]] negativo: -velocita conduzione cuore, [[inotropo]] negativo su miocc
+		- -contrazioni cardiache, -intensita. quindi -forza: -lavoro cardiaco
+	- vasodilatante periferico: +carvediolo

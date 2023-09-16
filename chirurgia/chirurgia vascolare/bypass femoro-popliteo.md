@@ -1,0 +1,1 @@
+- ostruzione [[a femorale sup]], protesi da [[a femorale comune]] o [[a iliaca ext]] e anastomizza [[a poplitea]] sopra il ginocchio

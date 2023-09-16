@@ -1,0 +1,36 @@
+- concentrazione alveolare minima, 1 atm, capace di indurre immobilita in 50% pz esposti a stimolo doloroso
+	- il 50% non risponde ad 1 mac
+	- il 90% non risponde a 1.3 mac: 21 mml/l nei lipidi cerebrali
+- misura potenza [[gas anestetici]]
+- presupposto th
+	- immisurabilita \[gas anestetico]-cervello, semplice nei gas respiratori: espirazione
+	- alta vascolarizzazione cerebrale: [[ti]] = [[tensione tc]]
+	- misurazione invariante, additiva, oggettiva: indipendente da risposte a stimoli nocivi legate ad individuo
+- ## fattori modificanti
+	- sesso, peso, razza
+	- stimolazione nocicettiva
+	- durata anestesia
+	- iper/ipocaliemia
+	- iper/ipotiroidismo
+	- Pa-co2 15-95 mmhg
+	- P-o2 > 40 mmhg
+	- pam > mmhg
+	- - temperatura
+		- ipo/ipertermia > 42C
+	- eta
+		- -avanzata, +giovane
+	- alcol
+		- -acuta, +cronica
+	- - anemia, hct < 10%
+	- elettroliti
+		- - ipercalcemia
+		- + ipernatriemia
+		- - iponatriemia
+	- - gravidanza
+		- - 1/3 a 8 sett
+		- normale 72 post parto
+	- farmaci
+		- -mac
+			- anestetici locali, oppioidi, ketamina, barbiturici, bdz, verapamil, litio
+		- +mac
+			- cocaina, adrenalina

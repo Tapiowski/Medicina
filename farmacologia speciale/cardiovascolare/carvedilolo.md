@@ -1,0 +1,1 @@
+[[farmaci beta-bloccanti]], [[alfa-bloccanti]]

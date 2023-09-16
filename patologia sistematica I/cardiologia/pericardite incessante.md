@@ -1,0 +1,1 @@
+- pericarditi per 4-6 wk, per 3 mesi

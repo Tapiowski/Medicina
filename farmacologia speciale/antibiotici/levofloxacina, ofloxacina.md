@@ -1,0 +1,3 @@
+-  [[gram+]]
+	- [[streptococco]]
+- iv orale, disponibile, 250-750 mg/kg x1

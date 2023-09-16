@@ -1,0 +1,1 @@
+inizio anestesia, no perdita coscienza

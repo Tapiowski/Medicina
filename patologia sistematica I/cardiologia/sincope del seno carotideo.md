@@ -1,0 +1,2 @@
+- compressione seno carotideo: abiti colletti stretti, barba etc
+- stimolazione [[centro vasodilatatore cardioinibitore]]

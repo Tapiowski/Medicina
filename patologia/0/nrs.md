@@ -1,0 +1,9 @@
+- scale numeriche
+- 0-10
+- vantaggi
+	- chiaro, semplice
+	- condizioni fisiche cognitive compromese
+	- 2% ritiene difficile
+	- significato comune in varie culture
+- svantaggi
+	- tradurre complessita dolorosa in numero: semplificazione

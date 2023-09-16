@@ -1,0 +1,10 @@
+- bacilli aerobi
+- cocci resistenti ad altri farmaci: [[neisseria]], [[moraxella catarrhalis]], [[haemophilus]], [[klebsiella]], [[pseudomonas aeruginosa]] 
+- aminoglicoside preferito
+- ## proprieta farmacologiche
+	- [[gram-]] bacilli, -costo, +attivita
+	- parenterale, oftalmica, topica
+		- im, iv solfato gentamicina 5-7 mg/kg in 30-60 m, poi 3-5 mg/kg ogni 8-12 h
+			- [[ustioni]], [[shock settico]], [[fibrosi cistica]], +clearance farmaco
+			- neonati meno
+	- dose raccomandata non sufficiente concentrazione: determinare concentrazn plasma, assorbe lenta via cute ointment ma rapido in crema: 2-5% urine in ustioni

@@ -1,0 +1,1 @@
+- l'**astenia** è una condizione che si manifesta con uno stato di **debolezza generale** dovuto alla riduzione o alla **perdita** della **forza muscolare**, con facile affaticamento e insufficiente reazione agli stimoli

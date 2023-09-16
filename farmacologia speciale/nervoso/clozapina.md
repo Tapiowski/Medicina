@@ -1,0 +1,1 @@
+antagonista [[recettori d4]] controlla sindromi psicotiche, in seguito a [[l-dopa]]

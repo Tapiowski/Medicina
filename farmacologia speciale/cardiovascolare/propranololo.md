@@ -1,0 +1,8 @@
+- inderal
+- [[farmaci beta-bloccanti]]
+- classe II [[farmaci antiaritmici]]
+	- aumenta periodo refrattario
+	- lipofilo, assorbe e distribuisce, metabolizzato 70%
+	- 1-3 mg/kg in 1-3' sotto monitoraggio pa, ecg, funzionalita cardiaca
+- [[tranquillanti minori]]
+	- azn periferica, sopprime senso ansia da +tono simpatico: sudorazione, tremore, tachicardia

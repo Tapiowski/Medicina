@@ -1,0 +1,5 @@
+- selettivi per [[recettori d2]], [[recettori d1]]
+- [[pramipexolo]]
+- [[ropinirolo]]
+- riducono incidenza complicanze motorie
+- [[agonisti dopaminergici]] in monoth

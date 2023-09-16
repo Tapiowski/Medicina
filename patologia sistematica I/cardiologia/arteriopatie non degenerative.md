@@ -1,0 +1,6 @@
+- ### [[tromboangioite obliterante]]
+- ### [[sindromi compressive]]
+- ### [[esiti di traumi]]
+- ### [[arteriti]]
+- ### [[coartazione aortica]]
+- ### [[sindrome della piccola aorta]]

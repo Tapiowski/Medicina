@@ -1,0 +1,5 @@
+- semisintetica maggiore resistenza vs penicillasi [[stafilococco#^aureus]]
+- +attiva che [[oxacillina]], non potente quanto G, picco 8 ug/ml 60 m 1g IM
+- 90% albumina
+- maggiore concentrazione in [[bile]] che in plasma
+- penetra [[csf]] per [[meningite]] da [[stafilococco]]

@@ -1,0 +1,4 @@
+- degrada
+	- [[dopamina]]
+	-  [[l-dopa]] in 3-om-dopa inattivo
+- catecolo-o-metil-trasnferasi: ossimetilazione catecoli in periferia

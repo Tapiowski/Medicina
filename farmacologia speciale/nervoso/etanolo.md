@@ -1,0 +1,89 @@
+- [[alcool]]
+- cibo, farmaco
+	- 7 kcal/g
+	- dose media 14 g
+		- 30 mg/dl = 7 nm
+	- malnutrizione in alcolisti
+		- calorie vuote
+		- carenze vitamine
+		- malassorbimento
+		- alterato metabolismo epatico
+- ## effetti tossici
+	- diretti a fegato, rene, cuore, cervello, gi malassorbimento
+		- -attivazione, utilizzo, detossificazione in fegato
+			- +degradazione
+				- cervello
+	- calorie vuote
+		- malnutrizione
+- ## assorbimento
+	- intestinale > gastrico
+		- a digiuno picco in 30'
+			- rallentato da cibo
+				- +grassi
+				- -bevande gassate
+		- volume distribuzione 0.6-0.7 l/kg
+			- minore in donne
+		- rapido passaggio bee
+- ## metabolismo
+	- effetto di primo passaggio
+		- gastrico
+			- [[alcool deidrogenasi]]
+				- -attiva in donne, inibita da [[aspirina]]
+		- epatico
+			- [[alcool deidrogenasi]] > [[aldeide deidrogenasi]]
+				- via principale
+			- microsomi cyp450
+			- [[catalasi]]
+	- metabolismo epatico
+		- etanolemia < 22 nm
+			- +[[alcool deidrogenasi]]
+				- depauperamento nad+
+		- etanolemia > 22 nm
+			- cyp450 2e1
+				- +kn per etanolo
+				- induzione
+	- clearance
+		- 98% ossidazione epatica
+			- cinetica di ordine zero
+				- etanolemia > 9 mg/dl
+				- 10 g/h
+					-  1 drink ogni 60-90;
+					- -livelli ematici 15 mg/h
+		- minima escrezione
+			- polmonare
+				- sangue:aria=2000:1
+			- urinaria
+- ## interazioni farmacocinetiche
+	- assorbimento
+		- +[[diazepam]]
+	- metabolismo
+		- in acuto: competizione
+			- -metabolismo farmaci, tossici
+				- [[warfarin]], [[barbiturici]], [[metanolo]]
+			- -metabolismo etanolo da farmaci
+				- [[clorpromazina]], [[cimetidina]]
+		- uso cronico: induzione enzimatica
+			- +clearance farmaci
+				- [[warfarin]], [[barbiturici]], [[isoniazide]]
+			- +metaboliti tossici
+				- [[carcinogeni]], [[paracetamolo]] >
+- ## meccanismo d'azione
+	- fluidificazione membrane
+		- ipotesi desueta
+			- limitazioni steriche alcool a lunga catena
+	- modificazione canali ionici
+		- operati da recettori
+		- proteine g-dip
+		- voltaggio-dip
+- ## interazioni etanolo-recettori
+	- [[gaba]]-a
+		- bicucullina blocca consumo etanolo
+		- muscimolo sostituisce assunzione etanolo
+		- stesso sito anestetici generali
+	- [[recettori nicotinici]]
+		- attivazione o inibizione
+		- [[nicotina]] stimola assunzione [[etanolo]]
+	- [[serotonina]]
+		- attivazione
+	- [[glutammato]] e [[aspartato]]
+		- inibizione recettori [[nmda]], [[kainato]]

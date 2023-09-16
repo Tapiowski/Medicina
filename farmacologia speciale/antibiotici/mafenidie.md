@@ -1,0 +1,3 @@
+- previene colonia [[gram-]] e [[gram+]] da [[ustioni]]
+- doloroso, reazioni allergiche, assorbimento sistemico
+- contiene anidrasi carbonica: alcalinizza [[urine]], acidosi metabolica: tachipnea, iperventilazione

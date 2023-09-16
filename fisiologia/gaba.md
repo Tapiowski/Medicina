@@ -1,0 +1,8 @@
+- [[acido glutammico]]
+- recettori in canale per cl
+	- [[gaba-a]]
+	- [[gaba-b]]
+- principale [[neurotrasmettitori]] inibitore [[snc]]
+- 1/3 terminali nv [[cervello]] rilascia [[gaba]]
+- ## azione
+	- apertura [[canali calcio]], influsso ca, iperpolarizzazione post-sinaptica, inibizione trasmissione sinaptica (tra due nu eccitatori)

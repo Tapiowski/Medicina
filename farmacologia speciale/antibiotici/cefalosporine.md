@@ -1,0 +1,68 @@
+- ## info
+	- composti contenenti acido 7-aminocefalosporanico
+		- modifiche in posizione 7 anello b-lattame altera attivita antibatterica
+			- cefamicine: gruppo metossi
+		- sostituzioni in pos 3 anello diidrotiazina altera proprieta farmacocinetica
+	- stabili in acido diluito, resistenti a penicillasi
+	- 1978 brotzu
+	- inibizione [[stafilococco#^aureus]], cura [[febbre tifoide]]
+	- 3 antibiotici
+		- cefalosporina P
+		- cefalosporina N
+		- cefalosporina C
+	- semisintetici da C con 7-aminocefalosporanico
+- ## meccanismo d'azione
+	- inibizione sintesi parete cc simil [[penicilline]]
+- ## spettro antibatterico
+	- non attive vs
+		- enterococco, l monocitogene, patogeni respiratori atipici come legionella, micoplasma pneumoniae, clamidiofila pneumonia, c difficile, campilobacter jejuni, acinetobacter
+- ## resistenza
+	- raggiungere sito d'accesso, alterazione PBP
+		- [[streptococco#^pneumococco]], [[stafilococco#^mrsa]], [[stafilococco#^mrse]]
+	- distruzione per idrolisi anello b-lattamico
+		- [[cefoxitin]], [[cefuroxime]], [[cefalosporine di terza generazione]] piu resistenti
+	- vs [[cefalosporine di terza generazione]]
+		- [[ampc]] chr enc [[b-lattamasi]] in [[citrobacter]], [[enterobacter]], [[pseudomonas aeruginosa]]
+		- non inibiti da [[inibitori beta-lattamasi]]
+		- [[cefepime, cefpirone]], [[ceftolozane]] piu resistenti
+	- [[cefepime, cefpirone]], [[ceftolozane]]
+		- degradazione per [[kpc]], [[metallo-b lattamasi]]
+	- [[ceftazidime]]/[[avibactam]]
+		- vs [[ampc]], [[kpc]]
+- ## adme
+	- orali
+		- rapido assorbimento
+	- im, iv
+	- escrezione
+		- rene: [[probenecid]] rallenta escrezione
+		- bile: [[cefpiramide]], [[cefoperazone]]
+		- [[ceftriassone]] mix
+	- metabolismo
+		- [[cefotaxime]] degradato a forma meno attiva
+	- [[csf]]
+		- [[ceftriassone]], [[cefotaxime]], [[ceftazidime]], [[cefepime, cefpirone]]
+	- penetrano
+		- placenta, sinovia, pericardio, humor acqueo occhio, vitreo no
+- ## usi th
+	- infezioni acute tratto respiratorio c1, c2
+	- gonorrea, h influentiae ceftriaxone
+	- enterobacter, serratia, e coli, providencia, salmonella c3
+	- meningite gram-, setticemia c3
+- ## classificazione
+	- ###  [[cefalosporine di prima generazione]]
+	- ###  [[cefalosporine di seconda generazione]]
+	- ###  [[cefalosporine di terza generazione]]
+	- ###  [[cefalosporine anti-pseudomona]]
+	- ###  [[cefalosporine anti-mrsa]]
+- ## reazioni avverse
+	- ipersensitivita
+		- simil [[penicilline]], anafilassi, broncospasmo, orticaria
+		- rash maculopapulare, febbre, eosinofilia
+		- vs anello o catena laterale: totale o per classe
+		- skin test
+	- nefrotossicita
+		- [[necrosi tubulorenale]] se >4 g/d
+	- diarrea
+		- [[cefoperazone]]
+	- ittero
+		- [[ceftriassone]] lega albumina, disloca bilirubina

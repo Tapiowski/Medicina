@@ -1,0 +1,14 @@
+- pre shock cardiogeno
+	- [[ipoperfusione periferica]]
+	- preceduta da [[oliguria]]
+	- estremita fredde
+	- confusione da [[ipossiemia]] o [[edema cerebrale]]
+	- +lattati, [[acidosi]]
+- shock cardiogeno
+	- [[ipoperfusione]]
+	- [[pressione sistolica]] < 90 mmhg per 30'
+		- mantenuta con inotropi, ammine vasoattive o [[contropulsatore aortico]]
+	- [[indice cardiaco]] < 2.2 l/m/m2
+- shock cardiogeno refrattario
+	- non risponde a trattamento
+	- insufficienza cardiaca acuta grave, morte

@@ -1,0 +1,6 @@
+- inibizione reversibile [[p2y12]]
+- inibizione allosterica non su sito attivo recettore per adp
+	- modifica conformazione recettore, non sensibile a presenza adp
+- inibisce recettore [[tguan]] dei globuli rossi
+	- inibisce reuptake adenosina circolante
+		- vasodilatazione, metabolico, inibizione piastrinica da adenosina

@@ -1,0 +1,5 @@
+- aminosidina, simile [[neomicina]]
+- anti parassitica: [[leishmania]], [[entamoeba]], [[giardia]], [[cryptosporidium]]
+- -assorbimento orale, alta k luminale per parassiti intestinali
+	- tossicita gi: nausea, vomito, dolore, diarrea
+- cute per [[leishmania]]

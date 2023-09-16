@@ -1,0 +1,16 @@
+# alfa-, beta-bloccanti
+- ## meccanismo d'azione
+	- ### antagonisti [[recettori adrenergici]]
+	- ### azione periferica o centrale
+		- centrale:
+			- [[barocettori]] [[seno carotideo]] inibiscono [[nucleo tratto solitario]]
+			- [[centro vasomotore]]
+			- [[gangli]] sistema nervoso autonomo
+			- [[recettori beta-adrenergici]]
+- ## classificazione
+	- ### periferici
+		- ### [[farmaci beta-bloccanti]]
+		- ### [[alfa-bloccanti]]
+	- ### centrali
+		- ### [[clonidina]]
+		- ### [[alfa-metildopa]]

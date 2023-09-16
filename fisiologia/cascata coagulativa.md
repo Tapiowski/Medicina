@@ -1,0 +1,12 @@
+- [[via intrinseca]]
+	- lenta
+	- attivazione [[fxa]] da [[fattore tissutale]]
+- [[via estrinseca]]
+	- amplifica attivazione coagulativa
+- [[via finale coagulativa]]
+	- attivazione [[fxa]] trasforma [[protrombina]] in [[trombina]]
+	- [[trombina]] trasforma [[fibrinogeno]] in [[fibrina]]
+		- fibrina stabilizza [[trombo rosso]]: +consistenza [[tappo coagulativo]]
+- cofattori
+	- ca
+	- fosfolipidi

@@ -1,0 +1,13 @@
+- rene
+	- -portata cardiaca: ipoperfusione renale: -vfg
+		- vc e [[sistema renina-angiotensina]]
+			- trattiene sodio e acqua
+	- congestione venosa
+		- differenza pressoria A-V si annulla: rene filtra male rischio di [[insufficienza renale acuta]]: [[sindrome cardio-renale]]
+- acidosi per -rene, -polmone
+- iatrogena
+	- [[metformina]] peggiora acidosi
+	- [[antinfiammatori]]
+	- studi [[coronarografia]]
+	- eccesso [[farmaci diuretici]]
+		- ipoperfusione rene

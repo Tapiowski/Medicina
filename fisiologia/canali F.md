@@ -1,0 +1,3 @@
+- fase 4 ripristino ionico di partenza
+		- pompa na/k
+		- slope verso alto in pacemakers

@@ -1,0 +1,116 @@
+- aneurismos = dilatazione
+- dilatazione segmentaria, permanente di arteria, raddoppio diametro
+	- se inferiore al doppio [[ectasia]]
+- aorta addominale 2 cm diametro
+	- 4 cm = piccolo aneurisma
+	- 3 cm = ectasia
+- alterazione parete arteriosa
+	- elastico-mm tonaca media alterata
+- rottura aneurisma = 90% morte
+	- emorragia interna ad alto flusso
+- 1% morte se operato in tempo
+- asintomatico
+	- raro avvertire pulsazione addominale
+- ## incidenza
+	- [[a addominale]]
+		- soprarenale 2 cm
+		- sottorenale
+	- [[a ascendente]]
+		- radice 4 cm
+	- [[a poplitea]]
+		- <1 cm
+		- non raro
+- ## esami strumentali
+	- [[angiografia]]
+	- [[TC]]
+	- [[angiotc]] [[angiorm]]
+	- [[ecodoppler]]
+	- [[rx addome]]
+- ## diagnosi differenziale
+	- [[pesudoaneurisma]]
+		- ematoma
+		- cavita contenente sangue in comunicazione con lume arteria
+		- parete costituita da fibroso a partire da reazione tessuti a sangue
+		- post-traumatico
+			- procedure endovascolari, ferita arma bianca
+				- stent
+					- puntura, foro compromesso per 15 m: chiusura meccanica, compliance immobile pz
+					- altrimenti sangue da vaso
+			- rottura spontanea rara: tossicodipendenti, infetti
+		- anastomotici
+			- resezione e trapianto protesico su linee anastomosi: sutura imperfetta o pressione
+	- sange + grasso cutaneo
+		- reazione fibrotica circoscrive emorragia + mm, fasci, cute: guscio fibroso
+	- confusione
+		- tumefazione pulsante sincronca a sistole
+		- esame istologico parte conferma
+- ## classificazione
+	- ## morfologica
+		- ### [[aneurisma falso]]
+			-  sangue da arteria, confinato in parete arteria
+		- ### [[aneurisma vero]]
+			- ### [[aneurisma fusiforme]]
+			- ### [[aneurisma sacciforme]]
+			- ### [[aneurisma dissecante]]
+	- ## etiopatogenica
+		- base congenita
+			- ### [[sindrome di marfan]]
+			- ### [[sindrome di ehlers-danlos]]
+			- ### [[medionecrosi cistica di erdheim]]
+			- altro
+				- [[agenesia focale media]]
+				- [[sclerosi tuberosa di bourneville]]
+				- [[sindome di turner]]
+				- [[sindrome di menkes]]
+		- aneurismi acquisiti
+			- degenerativo
+				- [[aneurisma aterosclerotico]], [[anerusima fibrodisplatico]]
+			- infettivo
+				- [[aneurisma micotico]], [[aneurisma batterico]], [[aneurisma luetico]]
+			- arteriti infiammatorie
+				- [[malattia di takayasu]], [[malattia di behcet]], [[malattia di kawasaki]], [[poliarterite nodosa]], [[arterite cc giganti]], [[les]], [[pancreatite]]
+			- post-dissecazione
+				- idiopatica, necrosi cistica media, traumatica
+			- post-stenotici
+				- [[shift-stress]] vaso dilata post stenotica
+				- [[coartazione aortica]]
+				- [[sindrome stretto toracico]]: plesso vascolonervoso brachiale
+					- compressione nervo [[parestesia]], vena [[edema]], arteria [[claudicatio]] mano
+			- gravidici
+				- aneurismi splenica + in donne pluripare
+			- infiammatori a addominale
+				- degenerativi, infiammatori
+			- [[pseudoaneurismi]]
+				- anastomotici o post traumatici
+- ## patogenesi
+	- causa scatenante non nota
+		- [[aterosclerosi]] ipotesi
+			- 95% aneurismi
+			- aterosclerosi non obliterante ma steno-ostruttiva: ostruzione che accresce da intima fino a diventare ectasiante
+	- pressione arteriosa elevata, fumo, genetica
+	- fattori sviluppo aneurisma
+		- malattia tonaca media aorta
+		- controllo non accurato pressione arteriosa
+			- misure a casa
+	- -sifilide -aneurismi luetici a ascendente da proliferazione
+		- +aneurismi aterosclerotici
+	- ipotesi prima
+		- indebolimento parete congenita o acquisita o infettiva
+			- atrofia o assotigliamento tonaca media vaso
+			- -resistente a spinta pressoria
+			- fase regressiva: perdita fibre elastiche e mm lisce da tonaca media
+			- fase riparativa: connettivo cicatriziale cede ad insulti emodinamici
+		- ipertensione: 50% 60-70 yo
+			- sviluppo aneurisma per [[legge di laplace]] da [[legge di bernoulli]]
+	- ipotesi seconda
+		- ipotesi biochimica
+		- aneurisma da +[[proteasi]] in circolo, attaccano parete: [[elastasi]], [[collagenasi]], [[metalloproteasi]]
+			- =-elastina, -collageno III
+		- [[plasminogeno]] attivato da [[plasmina]]
+			- attiva [[mmp]], degrada matrice
+		- dilatazione arteriosa con rottura
+			- inibita da [[pai]] e [[timp]]
+	- [[a addominale]] componente trombotica depositata, soffio sistolico da stenosi
+	- [[a ascendente]] +flusso -trombi
+	- [[flusso sanguigno]]
+- ## [[aneurisma aortico]]

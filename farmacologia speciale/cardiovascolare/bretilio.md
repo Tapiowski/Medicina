@@ -1,0 +1,5 @@
+- bretili tosilato
+- anti-ne liberatore, prolunga [[potenziale d'azione miocardio]] in [[fibre purkinje]] non ischemiche
+- omogenizza tempo depolarizzazione e sopprime rientro
+- probabile blloco k-ch
+- ipertensione transitoria, aritmie, ipotensione, torsade

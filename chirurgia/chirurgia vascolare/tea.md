@@ -1,0 +1,2 @@
+- [[tromboendoarterectomia]]
+- chirugia carotidea: toglie placca in biforcazione

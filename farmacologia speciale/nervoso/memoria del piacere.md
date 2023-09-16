@@ -1,0 +1,7 @@
+- su cromatina attiva, aperta
+	- complesso di trascrizione
+	- [[fattori di trascrizione]]: [[creb]], [[ap1]], [[gr]]
+- su cromatina inattiva, condensata
+- cambio stato mediato da [[istoni]]
+	- acetilazione istoni: rilascio cromatina, legame [[fattori di trascrizione]], [[co-attivatori]]
+	- metilazione istoni: condensamento cromatina, repressione transcrizionale

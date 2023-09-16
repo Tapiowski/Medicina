@@ -1,0 +1,2 @@
+- ogni sostanza introdotta in organismo vivente modificante funzioni
+- determina stato di [[dipendenze]]

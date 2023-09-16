@@ -1,0 +1,3 @@
+- vibrio cholerae
+- vibrio parahaemolyticus
+- vibrio vulnificus

@@ -1,0 +1,22 @@
+- [[cannabis]]
+- [[marijuana]] 0.5-1.5%, [[hashish]] 3-7%, olio di hashish 20-40%
+	- distrcono percezione e non consentono corretta valutazione rischio
+	- atleta compie acrobazie che non compierebbe
+- effetti negativi
+	- deficit memoria
+	- psicosi, schizofrenia
+	- teratogena per feto
+	- cancerogena: fumo
+- effetti
+	- sedazione, euforia
+	- allucinogeni se ad alta dose
+	- benessere
+	- rilassamento, calore
+	- +appetito
+	- arrossamento tipico occhi
+	- percezione alterata del tempo
+	- sollievo ansia
+	- incoordinazione motoria
+	- difficolta concentrazione
+	- stato confusionale
+	- nausea

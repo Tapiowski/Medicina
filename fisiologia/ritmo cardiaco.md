@@ -1,0 +1,1 @@
+intervalli R-R costanti, se non lo sono quale aritmia?

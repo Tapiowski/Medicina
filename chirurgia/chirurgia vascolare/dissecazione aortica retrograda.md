@@ -1,0 +1,4 @@
+- coinvolge [[coronarie]]: [[infarto miocardico acuto]]
+- sangue puo accumaler in [[pericardio]]
+	- [[tamponamento cardiaco]] > [[morte]]
+- dissecazioni [[piano valvolare aortico]]

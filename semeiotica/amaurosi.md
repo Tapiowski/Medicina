@@ -1,0 +1,2 @@
+- perdita vista solo ad un occhio, improvvisa
+- transitoria in [[tia]]

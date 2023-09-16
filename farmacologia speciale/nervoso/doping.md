@@ -1,0 +1,43 @@
+- ## origine termine
+	- doop: miscela vino, tabacco, te
+	- miscuglio sostanze energetiche dei marinai olandesi
+	- to dope, doping: additivo che modifica il rendimento
+	- oop: miscela oppio, tabacco, narcotici per cavalli da corsa 800
+	- dope: sudafrica, bevanda alcolica primitiva: stimolante danze cerimoniali
+- ## storia
+	- iii secolo ac: greci sostanza da fungo per +aggressivita
+	- roma: carni associate a sostanze stimolanti
+	- 1800: miscele eccitanti: etere-cocaina
+	- 1900: eccitatnte sticnina/cognac
+	- wwi: [[anfetamine]] fino a [[morte]]
+	- 1500 paracelso: tutte le sostanze sono veleni, dose giusta differenzia dal rimedio
+- ## definizione legislativa
+	- 14 dic 200, n 376, art 1, ministero della salute
+	- costituisce doping
+		- assunzione farmaci, sostanze biologicamente o farmacologicamente attive
+		- adozione, sottoposizione a pratiche mediche non giustificare da condizioni patologiche ed idonee
+		- a modificare le condizioni psichiche, biologiche dell'organismo
+		- al fine di alterare le prestazioni agonistiche degli atleti
+- ## sostanze vietate
+	- wada: world anti-doping agency
+	- no uso senza necessita terapeutica: doping
+	- stimolanti narcotici [[cannabinoidi]] da [[snc]]
+	- [[glucocortico steroidi]] da fegato
+	- [[ormone della crescita]], [[fisiologia/ormoni peptidici]], [[alcool]], [[farmaci beta-bloccanti]], [[farmaci diuretici]]
+	- [[beta-agonisti]] 2 da polmoni
+	- [[steroidi anabolizzanti]], [[antiestrogeni]] da muscolo
+- ## farmacoterapia
+	- effetti primari, terapeutici
+	- effetti collaterali, tossici
+	- farmaci solo per curare malattie
+- ## classificazione
+	- ### [[stimolanti psicomotori]]
+	- ### [[narcotici]]
+	- ### [[cannabinoidi]]
+	- ### [[ormoni steroidei]]
+	- ### [[ormoni peptidici]]
+	- ### [[beta-2 agonisti]]
+	- ### [[agenti mascheranti]]
+	- ### [[farmaci beta-bloccanti]]
+	- ### [[alcool]]
+- ## vulnerabilita a [[dipendenze]]

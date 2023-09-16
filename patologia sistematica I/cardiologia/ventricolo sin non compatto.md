@@ -1,0 +1,5 @@
+- estese trabecolature nel ventricolo sin, con recessi intratrabecolalri
+- fiordi interni con aspetto spugnoso, ext strato basale compatto
+- arresto processo compattazione miocardica: tra V, VIII vita intrauterina, puo anche comparire in post uterina
+- miocardio non compatto: trabecolature, spugnoso si associa a fenotipo cardiomiopatia ipertrofica primaria, restrittiva, aritmogena
+- morte in giovani, sportivi

@@ -1,0 +1,4 @@
+- legame covalente
+	- dna, proteine
+- danno ossidativo
+	- dna, proteine, lipidi

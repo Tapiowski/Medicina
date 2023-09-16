@@ -1,0 +1,4 @@
+- assorbimento gi, orale, picco 3-6 h, ev 10 h, 55% albumina, [[csf]] in 4 h per 60 mg/kg
+- forma acetilata 40% e libera eliminata da rene
+	- output urine 1200 ml minimo: carbonato di sodio
+- alcanilizzazzione [[urine]] rallenta clearance: -riassorbimento [[tubulo renale]]

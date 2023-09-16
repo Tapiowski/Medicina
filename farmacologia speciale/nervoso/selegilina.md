@@ -1,0 +1,34 @@
+- [[deprenil]], fenilisopropil-n-metilpropinilamina, [[inibitori mao]]
+- inibitore irreversibile altamente selettivo [[mao-b]]
+- derivata da [[amfetamine]]
+- [[terapia parkinson]]
+	- rallenta progressione 9 mesi in 10 mg/d
+	- no rallentamento a lungo termine
+	- no incremento letale [[catecolamine]] se associata con [[l-dopa]]
+	- a dosi superiori manca selettivita per isoforma b
+- permette riduzione dosaggio [[levodopa]], -efficacia in stadi avanzati
+- ruolo protettivo in insorgenza [[parkinsonismi]] da [[mptp]]: previene [[mpp+]]
+- ritarda uso [[levodopa]] in fasi iniziali
+- effetti sintomatici o reale ritardamento?
+- non somministrabile con antidepressivi triciclici o inibitori uptake serotonina: +[[serotonina]], +tono umore: euforia, allucinazioni..
+- ## effetti collaterali
+	- vertigo, nausea, vomito, dolori addominali, xerostomia
+	- ipercinesia, allucinazioni, confusione da da
+	- crisi serotoninergica tachicardia iper piressia se associata a meperidina e ssri
+- ## farmacocinetica
+	- per os, rapido assorbimento, picco in 1 h, distribuisce
+	- 5 metaboliti: [[metilanfetamina]], [[anfetamine]]
+	- eliminazione completa in 72 h, bile e urina
+- ## trattamento, posologia
+	- fasi iniziali contrasta fluttuazioni motorie e fenomeno off
+	- selegilina cloridato: 5 mg dosi maggiori non aumentano efficacia ma + rischio interazioin con [[amine simpaticomimetiche]]
+	- /[[levodopa]] per 2-4 gg, riduce dose ldopa fino a 30%, + se [[discinesie]], [[allucinazioni]]
+	- 2/d ultima dose dopo 12 pm: metaboliti [[anfetamine]] riducono [[insonnia]]
+- ## interazioni
+	- no associazione a
+		- [[beta-2 agonisti]]: fluttuazioni p arteriosa, sedazione/amnesia
+		- [[fluoxetina]]: +ev, 5 wk spazio
+		- [[tca]], [[ssri]]: disturbi neurologici, [[morte]]
+		- [[fenilpropanolamina]]: +pressione art, 2wk spazio
+		- [[tiramina]]: +pressione art, presente in formaggi, birra, vino rosso+ne release: cheese reaction: crisi ipertensive con cefalea pulsante, emorragia intracranica da ingestione amine innocue
+		- farmaci ad azione [[simpatico]]-mimetica indiretta: [[amfetamine]]?

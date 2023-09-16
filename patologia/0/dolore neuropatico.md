@@ -1,0 +1,46 @@
+- situazioni dolorose, da disfunzione sistema nervoso p o c associata o meno a lesione nervo
+- nv periferici, centrali lesi: infiltrati, compressi o attivati in modo anomalo
+- proiettato ad area innervata da tz colpite
+- urente, trafittivo, scossa elettrica
+- dolore acuto o cronico, da lesione [[snc]], [[snp]]
+	- centrale: [[dolore da deafferentazione]]
+	- mista [[dolore neuropatico complesso]]
+	- periferica [[dolore periferico]]
+- primo neurone, secondo neurone, terzo neurone, corteccia
+- attivita abnorme du vie periferiche o centrali che trasmettono dolore
+- difficile da trattare, politerapia, alti dosi
+- danni, dolore, segni sensitivi/motori negativi e posistivi
+	- [[dolore]]
+		- spontaneo, continuo dolore centrale
+		- spontaneo parossistico intermittente nevralgia
+		- evocato in modo anomalo da movimento, tocco
+	- [[dolore spontaneo]]
+		- bruciante, intermittente, lancinante a fitta, parossistico, [[diestesie]], [[parestesie]]
+- ## caratteristiche
+	- superficiale: bruciante, urente, pungente
+	- profondo: strappa, crampo
+	- episodio parossistico: scarica elettrica, lancinante
+	- poco localizzato
+	- costante in 85% pz intermittente in 15%
+	- localizzato interno area lesa
+	- intensita modificata per fattori emotivi, movimento, postura, freddo
+	- scompare con sonno e ricompare, identico al risveglio
+- ## semeiotica del dolore neuropatico
+	- segni positivi
+		- motori
+			- [[fascicolazioni]]
+			- [[distonia]]
+		- sensitivi
+			- [[parestesie]]
+			- [[diestesie]]
+			- [[iperestesie]]
+				- [[allodinia]]
+				- [[iperalgesia]]
+	- segni negativi
+		- motori
+			- [[paresi]]
+			- [[paralisi]]
+		- sensitivi
+			- [[ipoestesia]]
+	- [[btb]] = [[dolore episodico intenso]]
+		- prevalenza 64 %

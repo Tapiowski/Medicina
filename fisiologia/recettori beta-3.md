@@ -1,0 +1,3 @@
+- recettore eccitatorio, agonisti interessanti per cura [[obesita]]
+- [[adipe]]
+- attivazione = +[[lipasi]], liberazione [[acidi grassi]] da [[trigliceridi]]

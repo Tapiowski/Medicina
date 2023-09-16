@@ -1,0 +1,40 @@
+- inibitori cotrasporto na/k/2cl, [[sulfonamidi]] tranne [[acido etacrinico]], high ceiling
+- ### [[furosemide]] = lasix
+- ### [[bumetadine]]
+- ### [[acido etacrinico]] edecrin
+- ### [[piretanide]]
+- ### [[etozolina]]
+- ### [[azosemide]]
+- ### [[torsemide]]
+- ## meccanismo d'azione
+	- derivati da acido sulfanilbenzoico - [[torsemide]], [[acido etacrinico]]
+	- effetto [[farmaci diuretici]] intenso, rapidamente assorbiti in 1-3 h, +iv, 2-3 h
+	- interazione con [[probenecid]]: -clearance renale
+	- inibizione [[trasporto transmembrana soluti]] contemporaneo na/k/2cl in branca ascendente ansa
+		- -riassorbimento na, cl: -potenziale in tubulo da ricircolo k: guida riassorbimento cationi bivalenti
+		- blocca il maggiore riassorbimento na
+		- legano sito legame cl
+	- +escrezione mg, ca
+	- +[[flusso renale]]
+	- +sintesi [[prostaglandine]] renale
+- ## usi clinici
+	- [[ascite]] [[edema]] grave
+	- [[ipercalcemia]] acuta
+	- [[ipertensione]] in emergenza o difficilmente trattabile + se [[insufficienza renale]]
+	- in pz con sovraccarico na, h2o
+		- [[edema polmonare]] acuto
+		- [[scompenso cardiaco]] congestizio in fase avanzata
+		- [[cirrosi]] complicata da [[ascite]]
+		- [[sindrome nefrotossica]]
+		- [[insufficienza renale]]
+	- [[scompenso cardiaco]]
+	- avvelenamento da alogenuri
+- ## farmacocinetica
+	- assorbita in gi, eliminata da [[filtrazione glomerulare]], [[secrezione tubulare]]
+- ## reazioni avverse, tossicita
+	- ipotensione, -vol, ipocalemia e mg fino ad aritmia, alcalosi
+	- ototossicita: ronzii, perdita udito fino a sordita irreversibile: elettroliti orecchio int
+	- attenzione con aminoglicosidi cardioattivi
+	- iperuricemia, iperglicemia, ipertrigliceridemia
+	- interazione con anticoagulanti, litio, propanololo legame proteine, aminoglicosidi ototossicita, sulfaniluree iperglicemia
+	- reazioni allergiche, disidratazione grave

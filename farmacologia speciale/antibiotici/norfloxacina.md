@@ -1,0 +1,3 @@
+- [[gram-]]
+- simil [[ciprofloxacina]], -siero, -utile per [[infezioni tratto urinario]], gi
+- ev 3-5 h, 25% non metabolizzata in urine, metabolismo fegato

@@ -1,0 +1,3 @@
+- non [[beta-lattamine]]
+- vs [[beta-lattamasi]] spettro limitato, [[esbl]], [[ampc]], [[kpc]]
+- parenterale [[ceftazidime]]

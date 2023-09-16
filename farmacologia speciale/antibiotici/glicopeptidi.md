@@ -1,0 +1,5 @@
+- [[vancomicina]]
+- [[teicoplanina]]
+- vs [[stafilococco#^mrsa]], [[stafilococco#^mrse]]: [[sepsi]], [[endocardite]], in [[colite]] pseudomembranosa da [[clostridium]]
+- -attivi che [[penicilline]], alternativa in allergia
+- irritanti per tessuti: flebiti, brividi, febbre, ipotensione, ototossico, nefrotossico, snd uomo rosso: istamina

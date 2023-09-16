@@ -1,0 +1,122 @@
+- [[farmaci oppioidi forti]]
+- oppiaceo orale di prima scelta
+	- non per migliore [[analgesia]] ma per familiarita, disponibilita, costo
+- confezioni
+	- gocce 8 gtt = 10 mg
+		- confezioni da 20 ml, 100 ml
+	- [[morfina]] cloridrato
+		- compresse 5 mg - 10 mg
+		- fl 10-20 mg uso topico, sc, ev, spinale, intratecale
+		- monodose 10-30-100 mg in 5 ml
+		- sciroppo 2 mg/ml 5 ml = 10 mg
+			- confezione 100-250 ml
+	- [[morfina]] retard:
+		- [[ms contin]] 10-30-60-100 mg
+		- [[ticinan]] 10-30-60-100-200 mg costo inferiore a ms contin
+	- morfina 
+- assorbimento
+	- 35-75%
+	- morfina pronta: cibo ritarda
+	- morfina r: cibo non ritarda, compresse da degluttire intere
+- metabolismo
+	- metaboliti attivi
+		- [[m3g]]: effetti collaterali, azn algica
+		- [[m6g]]: anzione antalgica 4X morfina
+	- epatopatie croniche risultato imprevedibile
+- eliminazione
+	- ridurre dosi in insufficienza renale
+	- dialisi rimuove metaboliti e morfina
+- racomandazioni eapc, [[dolore oncologico]]
+	- per os
+	- formulazione a cessione rapida e ritardata
+	- calcolare dosaggio
+		- morfina a cessione rapida ogni 4 h, per riacutizzazioni
+			- dose di soccorso anche ogni ora
+			- valutare totale quotidiano
+		- dosaggio calcolato sommando morfina di soccorso
+		- pz con cessione pronta ogni 4 h e dose doppia al momento di coricarsi
+- come si usano
+	- morfina ir ogni 4 h = 6 volte al d: dose doppia salta 0400
+		- 12, 24, 4, 16, 8, 20
+	- morfina sr ogni 12 h
+		- 9, 21
+- dolore non responsivo a farmaci 1 gradino oms
+	- [[morfina rapida per os]]
+		- 2.5-5 mg x6
+		- + 2.5-5 mg ab
+		- rivalutazione
+			- dolore controllato
+				- mantenimento
+			- dolore non controllato
+				- adeguamento dosaggio
+				- 6x2.5-5 mg + Nx2.5-5 /6
+				- dose serale doppia con salto dose notturna
+	- [[oramorph]] gocce
+		- 8 gtt = 10 mg
+		- 4 gocce ore 8, 12, 16-20
+		- 8 gocce ore 24: 30 mg [[morfina]]
+		- +4 gocce al bisogno: distanza minima 1 h
+		- rivalutazione dopo 24 h
+			- dolore controllato con 30 mg morfina
+				- mantenimento con [[ms contin]]
+				- 10 mg ore 8, 20 mg ore 20
+				- [[oramorph]] 4 gocce ab
+			- dolore non controllato con 30 mg
+				- adeguamento dosaggio: 30 mg + 4 somministrazioni ab 20 mg = 50 mg
+				- 7 gocce x 6
+				- mantenimento con [[ms contin]] 20 mg ore 8, 30 mg ore 20
+				- [[oramorph]] 7 gocce ab
+- dolore non responsivo a [[farmaci oppioidi deboli]] gradino 2 oms
+	- [[morfina rapida per os]]
+		- 5-10 mg x 6, salto dose notturna
+		- + 5-10 mg ab xN
+		- rivalutazione dopo 24h
+			- dolore controllato: mantenimento
+			- dolore non controllato
+				- adeguamento dosaggio
+					- dose totale assunta / 6 somministrazioni
+- assunzione
+	- per os se possibile altrimenti sottocutanea
+	- im no per dolore oncologico cronico: meno dolore
+- dopo quanto tempo risomministrare morfina
+	- per os 40-60 m
+	- sc 30-40 m
+	- ev 15-30 m
+- rapporti conversione
+	- os/sc-iv = 3/1
+		- se la dose e 360 mg die per os si passa a 120 mg die ev
+	- os/rettale = 1/1
+	- os/spinale = 10/1
+	- os/intratecale = 100/1
+- tipi di somministrazione
+	- [[morfina sottocutanea]] sc
+		- evita variabilita interindividuale
+		- evita metabolismo epatico di primo passaggio
+		- evita picchi metaboliti per gradualita steady state
+		- +biodisponibilita fino a 90%
+		- -tossica
+		- alternativa per pz intolleranti
+		- rapporto conversione: os/sc=3/1
+		- iniziare con bolo sc di 1/10 dose giornaliera programmata
+	- [[morfina topica]]
+		- per lesioni cutanee e mucose
+		- 1 fiala 20 mg sciolta in 10 mg di gel anestetico, miscela, applicazione su lesione
+		- dose aumentabile mantenendo proporzioni
+		- 1 fiala morfina 10 mg in 8g [[intrasite]] gel / 1 d
+		- non assorbita in maggior parte pz
+			- clinicamente irrilevante in lesioni estese
+	- [[morfina rettale]]
+		- per [[tenesmo rettale]]
+		- morfina 10 mg
+		- [[lidocaina]] 10 mg in sol
+		- [[idrossiacetilcellulosa]] 1%: 25 mg
+		- acqua 5-8 ml
+	- [[morfina endovenosa]]
+		- preferibile in pz con sistemi ev a permanenza, edema generalizzato, eritema irritazioni ascessi sterili con somministrazione sc, disturbi coagulazione, circolazn periferica compromessa
+		- idrofila, poco lipofila
+		- picco in 3 m
+		- picco analgesia in 15-30 m
+		- passa [[bee]] lentamente, ritardato a picco, 5 min in [[csf]], 15 m effeto th
+		- attendere 30 m tra somministrazioni
+	- [[morfina os]]
+		- effetti collaterali intollerabili in associazione con [[farmaci analgesici non oppiodi ad attivita centrale]] o adiuvanti prima di raggiungere th: oppiaceo alternativo o cambiare via

@@ -1,0 +1,1 @@
+- [[fibrillazione atriale]], [[endocardite batterica]], [[stenosi mitralica]], [[infarto miocardico]] recente

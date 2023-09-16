@@ -1,0 +1,11 @@
+- bacilli aerobi
+- cocci resistenti ad altri farmaci: [[neisseria]], [[moraxella catarrhalis]], [[haemophilus]], [[klebsiella]], [[pseudomonas aeruginosa]] 
+- ## proprieta farmacologiche
+	- ampio spettro
+	- resistente ad enzimi inattivanti aminoglicosidi
+		- per organismi resistenti a [[gentamicina]], [[tobramicina]]
+			- [[gram-]] nosocomiali
+			- [[serratia marcescens]], [[proteus mirabilis]], [[pseudomonas aeruginosa]], [[klebsiella]], [[enterobacter]], [[escherichia coli]]
+	- [[mycobacterium]] 3 wkm 25 mg/kg
+	- no vs gram+
+	- dose 15 mg/kgd, im rapido, 20 ug/ml, ev 12 h

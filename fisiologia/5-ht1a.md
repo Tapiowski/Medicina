@@ -1,0 +1,2 @@
+- recettori [[serotonina]]
+- nuclei del [[raphe nucleus]], aree di proiezione: [[pka]], [[pkc]], fosfoproteine: funzioni cc

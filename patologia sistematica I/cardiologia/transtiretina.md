@@ -1,0 +1,1 @@
+- prodotta in fegato, veicolo ormoni tiroidei

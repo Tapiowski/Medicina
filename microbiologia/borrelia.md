@@ -1,0 +1,4 @@
+- borricelia
+	- borrelia burgodorferi
+	- borrelia recurrentis
+	- borrelia hemsii, turicatae, parkeri

@@ -1,0 +1,19 @@
+- [[laparotomia mediana]]
+- entrare in [[cavita peritoneale]]
+- [[anse intestinali]]
+- spostare [[i tenue]]
+- ribaltare [[colon]]
+- accedere a [[retroperitoneo]]
+- incidere [[retroperitoneo]]
+- preparazione [[a addominale]] aneurismatica
+	- isolata, sia colletto prox che [[a iliache]]
+- [[eparinizzare]] pz
+	- scoagulare completamente pz per chiudere vaso senza trombi
+- [[clampare]] vasi
+	- pinza emostatica chiuse [[aorta]] e [[a iliache]]
+- apertura [[aneurisma]]
+- sgusciare [[trombo]] con mano
+	- letto aorta dilatata malacico
+- cucire a mano una [[protesi sintetica]]
+	- [[dacron]] corrugato o [[eptfe]] liscio
+	- biocompatibili, no rigetto, atrombotici

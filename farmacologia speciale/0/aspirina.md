@@ -1,0 +1,27 @@
+- [[inibitori cox1]]
+	- blocca [[trombossano a2]]
+- V secolo ac: foglie del salice vs dolore e febbre
+- 1800 bayer 1876 lancet
+	- farmaco antinfiammatorio, antipiretico
+	- non interferisce con cuore
+		- 1970 effetti positivi su cardiovascolare: inibizione aggregazione piastrinica
+			- acetilazione irreversibile cox-1
+				- ostacola attivazione piastrinica da txa2 per -biosintesi
+- blocco irreversibile, 10gg emivita piastrina
+- ipersensibilita, allergie, sanguinamenti gi
+- dosaggi
+	- antinfiammatorio 1g
+		- pericardite 1.3 g
+	- analgesico, antipiretico
+		- 250/500 mg
+	- antiaggregante
+		- 80/160 mg
+- prevenzione primaria
+	- pz senza eventi cardiovascolari
+	- antineoplastico e -eventi cardiovascolari: infarto, stroke, tia, morte
+		- -18% morte cardiovascolare
+		- +29% morte per emorragie
+			- no in diabetici
+	- non usata, troppi sanguinamenti, solo in eventi cardio
+- prevenzione secondaria
+	- pz con evento cardiaco, positivo

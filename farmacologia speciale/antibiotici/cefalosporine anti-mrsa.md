@@ -1,0 +1,6 @@
+- ## classificazione
+	- ### [[ceftaroline]]
+	- ### [[ceftobiprole]]
+- ## attivita
+	- legano PBP alterate espresse da
+		- [[stafilococco#^mrsa]], [[stafilococco#^mrse]], [[streptococco#^pneumococco-r]]

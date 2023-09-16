@@ -1,0 +1,8 @@
+- QT > 0.46s o 0.48
+- P = 1/2005
+- 3 varianti geniche, mutazione canali ionici
+	- tipo 1 morte in sforzo fisico
+	- tipo 2 morte in spavento, trigger uditivo, post partum: sentire sveglia
+	- tipo 3 morte nel sonno, causa di [[sids]]
+- trattamento
+	- [[farmaci beta-bloccanti]], [[defibrillatore]] impiantato se sincopi o aritmie

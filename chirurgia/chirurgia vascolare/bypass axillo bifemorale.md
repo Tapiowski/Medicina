@@ -1,0 +1,9 @@
+- ostruzione aorta
+- pz con [[sindrome di leriche]]
+- non aprire addome pz: parametri non garantiscono sopravvivenza, cuore non regge clampaggio aorta per un'ora
+	- rischio infarto acuto miocardio
+- anestesia locale
+- fossetta sottoclaveare
+- arteria succlavia ascellare: tubo lungo 1 m porta sangue a femorale, sotto cute, sopra costato torace e lat sul fianco
+- anatomizza tubo su a femorale a valle ostruzione
+- deviazione e anastomizza tubo da sorgente fino a femorale controlat a livello sovrapubico [[bypass extranatomico]]

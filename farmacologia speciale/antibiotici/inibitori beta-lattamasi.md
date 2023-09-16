@@ -1,0 +1,7 @@
+- inattivano [[beta-lattamasi]], prevengono distruzione [[beta-lattamine]]
+- i vecchi vs plasmidi-enc [[beta-lattamasi]], inattivi vs ampc-chr, gram-, [[carbapenemasi]], kpc, metallo-proteasi
+- ### vecchia generazione
+	- ### [[acido clavulanico]]
+	- ### [[sulbactam]]
+	- ### [[tazobactam]]
+- ### [[avibactam]]

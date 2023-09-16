@@ -1,0 +1,5 @@
+- elettrodo atrio dx: accoppiare intervalli tra a-v
+- elettrodo ventricolo dx: setto interventricolare
+- elettrodo sup ventricolo sin: ostio seno coronarico che raccoglie sangue refluo del cuore sin
+- si sceglie come far contrarre le pareti, con che sincronizzazione, evita che una parete si contragga e l'altra si rilasci
+- si puo cambiare la classemia: classe funzionale [[scompenso cardiaco]] per dispnea da sforzo o a riposo: migliora funzione cardiaca

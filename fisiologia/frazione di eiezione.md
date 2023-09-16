@@ -1,0 +1,1 @@
+- [[ef]] = (volume telediastolico - vol telesistolico) / col telediastolico

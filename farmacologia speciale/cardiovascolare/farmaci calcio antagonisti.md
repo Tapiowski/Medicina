@@ -1,0 +1,98 @@
+- cura [[ipertensione arteriosa]]: [[farmaci anti-ipertensivi]]
+- ## storia
+	- 1850: scoperta ruolo ingresso [[calcio]] in contrattilita muscolare
+	- 1960: fleckenstein, godfraind inizio studi
+	- 1962: hass, hartfelder: proprieta [[inotropo]], [[cronotropo]] negative del [[verapamil]]
+	- 1977: kohlhardt, fleckenstein: [[nifedipina]]
+	- 1999: dhein, klaus: dual mode of action per [[diidropiridine]]
+- ## classificazione
+	- ### 1 [[fenilalchilamine]]
+	- ### 3 [[benzotiazepine]]
+	- ### 2 [[diidropiridine]]
+	- ### [[diarilaminopropilamine]]
+	- ### [[difenilpiperazine]]
+	- ### [[bloccanti canali-t]]
+	- ### ca-antagonisti di prima generazione
+		- ### [[nifedipina]]+
+		- ### [[felodipina]]
+		- ### [[diltiazem]]+
+		- ### [[verapamil]]+
+	- ### [[lercanidipina]]
+- ## farmacocinetica
+	- per os, assorbiti gi, legame protein 70-98%
+	- effetto di primo passaggio epatico, biotrasformazione
+		- possibile saturazione
+	- metaboliti inattivi
+- ## meccanismo d'azione
+	- canale da stato di apertura post depolarizzazione a molto piu chiuso
+	- marcata diminuzione corrente transmembrana
+	- rilasciamento di lunga durata della [[muscolatura liscia]] [[vasi]]
+	- meccanismo d'azione dualistico
+		- [[diidropiridine]]
+	- effetti su [[muscolatura liscia]]
+		- rilasciamento muscolatura [[vasi]], [[bronchi]], [[gi]], [[utero]]
+		- riduzione [[resistenza periferica]]
+	- selettivita vascolare
+		- [[nimodipina]]
+	- effetto inotropo negativo
+		- non usare se pz non ha [[aritmie sopraventricolari]]
+- ## effetti clinici
+	- -tono [[arteriole]], [[resistenza periferica]]
+	- -[[pressione sanguigna]] [[arterie]], [[ventricolo]]
+	- -[[tensione parietale]] [[ventricolo]] sin
+- ## indicazioni th
+	- [[ipertensione arteriosa]]
+	- profilassi [[angina pectoris]] stabile
+	- [[fenomeno di raynaud]]
+		- [[nifedipina]], [[felodipina]]
+	- prevenzione, trattamento deficit neurologico [[emorragia subaracnoidea]]
+		- [[nimodipina]]
+	- [[cardiomiopatia]] ipertrofica
+	- profilassi [[cefalea]]
+		- [[verapamil]]
+	- [[aterosclerosi]] lieve
+		- [[diidropiridine]]
+	- contrazioni [[utero]] pretermine
+	- [[tachiaritmia]]
+	- [[fibrillazione]]
+	- [[insufficienza cardiaca]]
+		- non evidente, non sicura
+- ## effetti indesiderati
+	- -contrazione cardiaca
+		- arresto cardiaco, bradicardia, blocco av, scompenso cardiaco congestizio ([[diltiazem]])
+	- aritmie [[bepridil]]
+	- aggravamento ischemia miocardio
+	- rossore cutaneo
+	- edema
+	- ipotensione
+	- vertigini
+	- cefalea
+	- iperplasia gengivale
+	- nausea, stipsi
+- ## interazioni farmacologiche
+	- succo pompelmo: +concentrazione plasmatica
+	- ace inibitori: ipotensione
+	- alcool: ipotensione
+	- ansiolitici: inibisce metabolismo: sedazione prolungata
+	- antiaritmici: bradicardia, blocco
+	- antiipertensivi
+	- betabloccanti: bradicardia
+	- ciclosporina: +concentrazione plasmatica
+	- glicosidi cardiaci: +concentrazione plasmatica, tossicita
+- ## [[farmaci anti-anginosi]]
+	- canali l lenti del ca
+		- ca in, non serve a proteine contrattili
+		- entra in depolarizzazione
+		- stimola re che libera ca
+		- forza di contrazione
+	- riducono stimolo ca
+		- -ca per proteine contrattili
+	- [[verapamil]] e [[diltiazem]]
+		- su cellule del nodo del seno: [[bradicardia]]
+		- su nodo AV: blocco
+			- in [[fibrillazione atriale]], riduce
+		- [[inotropo]] negativo
+		- meno vasodilatanti
+	- [[nifedipina]]
+		- no cardiaco ma periferico
+		- -forza contrazione cc mm lisce vasi: [[vasodilatazione]] [[ipotensivo]]

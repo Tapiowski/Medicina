@@ -1,0 +1,8 @@
+- organici: anatomia o funzione cardiovasoclare
+- valvole semilunari in insufficienza: soffio protodiastolico
+- valvole atrio-ventricolare in stenosi o +flusso rullio diastolico
+- soffio da stenosi mitralica
+	- valvola non apre bene, reumatica, rullio a -f, relediastolico, segue schiocco apertura, apice in lat sin
+- soffio da insufficienza aortica
+	- s protodiastolico dopo a2, decrescendo, durata varia in entita rigurgito, in margino sternale dx e focolaio aortico in avanti espirazione
+	- si associa a [[soffio di austin-flint]]: rullio diastolico, innocente, da valvola mitralica non alterata ma non apre per getto rigurgitante da aorta

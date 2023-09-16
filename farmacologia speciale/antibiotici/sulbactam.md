@@ -1,0 +1,3 @@
+- simile [[acido clavulanico]]
+- im, iv: [[ampicillina]], [[cefoperazone]]
+- vs [[acinetobacter]] multi-r

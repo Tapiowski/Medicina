@@ -1,0 +1,11 @@
+- riflesse, neuromediate
+	- ++vasovagale
+	- meccanismi regolazione inadeguati: -resistenza periferica, -portata cardiaca: ipoperfusione globale
+	- tipi
+		- [[sincope vasovagale]]
+		- [[sincope situazionale]]
+		- [[sincope del seno carotideo]]
+- ortostatiche, disautonomiche
+	- -bilanciamento vagale
+- clinosatismo a ortostatismo: meccanismi regolatori sistemici: ipotensione acuta e ipoperfusione cerebrale globale
+	- [[sincope da ipotensione ortostatica]]

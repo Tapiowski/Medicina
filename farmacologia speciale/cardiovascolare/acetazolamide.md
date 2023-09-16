@@ -1,0 +1,6 @@
+- primo [[farmaci diuretici]] per os
+- ## struttura
+	- gruppo so2nh2 attivita, non sostituibile
+	- deacilazione gruppo ch3-conh- riduce attivita, +effetti collaterali
+	- metilazione
+		- [[metazolamide]]

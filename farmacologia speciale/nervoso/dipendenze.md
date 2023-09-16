@@ -1,0 +1,148 @@
+- ## info
+	- P = f(DD+CA)
+		- DD = f(spaccio)
+		- CA = f(vulnerabilita)
+	- rischio dipendenza da sostanze
+		- perche usare droghe sostanze dopanti?
+		- perche alcune diventano dipendenti?
+		- condizioni, fattori di rischio prevedibili?
+		- agire sui fattori, prevenire?
+	- dipendenza = malattia, problema, effetto
+		- cause primarie a coesistenza obbligata
+			- disponibilita di droga
+			- comportamento di assunzione
+			- nel tempo
+		- cause secondarie, cluster, catene di cause
+			- vulnerabilita
+				- fattori biologici congeniti
+				- fattori psichici, comportamentali
+				- fattori socio-ambientali
+	- definizione
+		- condizione per cui individuo e a maggiore rischio di esprire comportamento da assunzione reiterato con sviluppo dipendenza, in presenza di disponibilita sostanze d'abuso
+		- basi congenite o acquisite
+		- no sinonimo di predeterminazione: rischio derivante da fattori neurobiologici, controllato da fattori psichici, educativi, ambientali
+	- classificazione
+		- temporanea
+			- da fattori ambientali: generatori stress, disagio psichico reattivo
+		- permanente
+			- da fattori biologici: sistemi neuroendocrini alterati
+	- tratti di personalita
+		- scomposta in dimensioni psicobiologiche
+			- [[temperamento]]
+				- dimensioni ereditabili, determinate neuro-biologicamente
+			- [[carattere]]
+				- dimensioni influenzate da fattori socio-culturali
+		- inducono variabilita in comportamenti individuali, riflettono differente funzionalita cerebrale
+		- profili
+			- [[profilo a basso rischio]]
+			- [[profilo ad alto rischio]]
+	- sviluppo dipendenza
+		- cluster fattori condizionanti
+		- soggetto +/- vulnerabile
+		- ambiente +/- stress, incentivo, disponibilita droga
+		- sostanza +/- legante
+- ## definizione
+	- ricerca compulsiva di sostanza per ottenere sensazione di [[piacere]] (euforia iniziale) o per alleviare stato di sofferenza, nonostante vi siano gravi conseguenze sociali e salute
+	- condizione legata ad uso di [[sostanze psicoattive]], con scarsa o assente capacita di controllo su assunzione, nonostante conseguenze avverse
+	- [[droga]]
+		- [[droghe da abuso]]
+- ## farmaco dipendenza
+	- almeno 3 delle seguenti
+		- sintomi di [[tolleranza]]
+		- sintomi di [[astinenza]]
+		- uso eccessivo, prolungato
+		- desiderio persistente, incapacita di smettere
+		- tempo devoluto alla ricerca del farmaco
+		- riduzione attivita sociali, occupazionali
+		- uso continuato nonostante problemi sociali, economici, salute
+- ## classificazione
+	- ### [[dipendenza fisica]]
+	- ### [[dipendenza psicologica]]
+- ## fattori favorenti
+	- farmaco
+	- ambiente
+	- soggetto
+- ## farmaci euforizzanti
+	- rinforzo
+	- riproducibile nell'animale
+		- ricompensa dopo sforzo fisico
+	- aumento [[dopamina]] in [[nucleus accumbens]]
+		- persiste dopo assunzione ripetuta
+		- azione disforica di antagonisti dopaminergici
+	- altri neurotrasmettitori
+		- [[noradrenalina]], [[serotonina]], [[gaba]], [[glutammato]], [[oppioidi]]
+- ## piaceri naturali
+	- cibo
+	- acqua
+	- sesso
+	- cure parentali
+	- attivita fisica
+	- +DA [[nucleus accumbens]]
+		- rapido adattamento dopo stimoli ripetuti
+- ## piaceri artificiali
+	- stimolo elettrico [[circuito della ricompensa]]
+		- maggiore che droga
+		- [[dopamina]]
+- ## rapidita, durata d'azione
+	- liposolubilita, idrosolubilita
+	- volatilita
+	- resistenza al calore
+	- purezza
+		- droga vs principio attivo
+	- via di somministrazione
+		- buccale, gi, nasale, ev, polmonare
+	- breve emivita
+		- piu intensa astinenza
+- ## rischio di indurre dipendenza
+	- 31% [[tabacco]]
+	- 15% [[alcool]]
+	- 15% [[droghe illecite]]
+		- 9% [[cannabis]]
+		- 16% [[cocaina]]
+		- 11% [[stimolanti psicomotori]]
+		- 9% [[tranquillanti minori]]
+		- 7% [[farmaci analgesici]]
+		- 4% [[psichedelici]]
+		- 23% [[eroina]]
+		- 4% [[inalanti]]
+- ## polimorfismi genetici
+	- [[alcool]]
+		- [[tolleranza]] minima
+		- alterazioni [[aldeide deidrogenasi]]
+		- alterazioni sequenza [[neuropeptide y]]
+		- allele taqia [[recettori d2]]
+	- [[tabacco]]
+		- variazioni allele cyp2a6
+	- riduzione cyp2d6
+		- minore trasformazione [[codeina]] in [[morfina]]
+	- variazioni alleliche acido grasso [[amide idrolasi]]
+		- -inattivazione [[endocannabinoidi]], maggiore dipendenza
+- ## fattori influenti
+	- ### psicologici
+		- amanti rischio
+		- insonnia, timidezza
+		- disturbi psichiatrici
+			- [[schizofrenia]]
+			- [[depressione]]
+			- [[sindromi bipolari]]
+			- [[disturbi attenzione]]
+	- ### ambientali
+		- disponibilita
+		- costo
+		- modelli comportamentali
+		- grado culturale, occupazione
+		- altre attivita ricreative
+		- stimoli condizionati
+	- ### [[tolleranza]]
+- ## farmaci inducenti dipendenza
+	- ### [[sedativi]]
+	- ### [[psicostimolanti]]
+	- ### [[psichedelici allucinogeni]]
+	- ### [[droghe da abuso]]
+	- ### [[neurotrasmettitori]]
+- ## meccanismo d'azione
+	- su recettore, canali ionici e secondi messaggri
+		- [[gdp]] a [[gtp]]
+			- secondi messaggeri
+				- [[chinasi]] (effetti farmacologici)
+					- [[fattori di trascrizione]]

@@ -1,0 +1,12 @@
+- [[aicd]] defibrillatore impiantabile
+- dr mirowski, 1980
+- tradizionali trans venosi
+	- da vene a cuore, taschina sotto pelle
+	- puo stimolare
+- sottocutanei
+	- in tasca laterale, catetere sotto cute in margino sternale e apicale cuore
+	- -r endocardite
+	- non puo stimolare
+- indicazioni
+	- prevenzione secondaria in pz con [[fibrillazione ventricolare]]
+	- prevenzione primaria in [[cardiopatie]] gravi

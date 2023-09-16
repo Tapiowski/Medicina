@@ -1,0 +1,1 @@
+- +sarcomeri in serie, +volume v sin senza stiramento fibre, spessore parietale ok

@@ -1,0 +1,6 @@
+- ## effetti metaboloci da [[simpatico]]
+	- [[glicogenolisi]] in mm e fegato, [[neoglicogenesi]], [[chetogenesi]], [[lipolisi]] da + [[glucagone]] > +[[lattato]], [[glucosio]], [[chetoni]] e [[acidi grassi]] liberi
+- ## classificazione
+	- ### [[recettori beta-1]]
+	- ### [[recettori beta-2]]
+	- ### [[recettori beta-3]]

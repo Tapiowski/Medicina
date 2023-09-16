@@ -1,0 +1,69 @@
+- differenze con [[eroina]]
+	- orale, non iv
+	- onset 30', non immediata
+	- durata 24-36 h, non 3-6 h
+	- euforia no, non prime 2 ore
+	- astinenza dopo 24 h, non dopo 3-4 h
+- pro
+	- controlla dolore non rispondente a [[morfina]]
+	- no metaboliti attivi causanti collaterali, tossicita
+	- eliminazione fecale: usabile in insufficienza renale
+- contro
+	- ev lunga, imprevedibile
+	- farmacocinetica con variazioni pz
+	- equinanalgesia morfinica non ben definita
+- formulazioni
+	- fialoidi 5-10-20-40-80 mg
+	- fiale im-ev-sc 10 mg
+	- sciroppo 0.1% 100-500-1000 ml
+- alternativa efficace
+	- complicato da usare per varianze in ev, potenza, durata
+	- sconsigliato a medici non esperti
+- azione
+	- agonista puro [[kor]], [[mor]], antagonista [[nmda]]
+- per os
+	- effetto first pass: biodisponibilita 80% range 41-99%
+- metabolismo
+	- epatico con metaboliti inattivi, insuff epatica accumulo
+	- + in donne
+	- cyp3p4: induce attivita con riduzion plasmatica in trattamento prolungato
+- legame proteico 
+	- 60-90% con alfa1 acido glicoprot: elevate in neoplastici: riduce quota libera, effetto analgesico
+	- prot tissutali polmone, fegato, milza, reni, rilascio lento
+- steady state 7-14 g, ev 24-36 h, escrezion fecale 80%, urinaria 20%
+- durata d'azione
+	- azn analgesica 8-12 h
+	- evitare fenomeni di accumulo con collaterali: torpore, sonnolenza, sudorazione
+- dose iniziale
+	- 5 mg ogni 8-12 h: 1 somm in 24 h possibile
+- somministrazn ogni 8 h
+- [[metadone rettale]]
+	- effetto analgesico in 30 m, persiste per 8-24 h
+	- [[microenema]]:: 10 mg metadone con siringa da insulina
+- [[metadone sc]]
+	- sconsigliato, in hospice la usano
+- associazione critica con fentanil: cyp 344
+- rapporto [[eptadone ev]]:[[metadone os]] = 0.8:1
+- metadone somministrato 3 volte die
+- metadone 1 ml = 1 mg
+- [[morfina os]]/[[metadone]]
+	- se dose [[morfina]] > 150 mg / d
+	- conversione lenta in 3 gg riducendo morfina del 33% e aggiungendo metadone con dosaggio 10% della morfine tolta
+	- esempio:
+		- pz 600 mg morfina os
+		- 1 giorno: morfina 400 metadone 20
+		- 2 giorno: morfina 200, metadone aumentato se pz ha dolore moderato severo, episodi trattati con [[fans]] o [[morfina pronta]]
+		- 3 giorno: morfina 0, metadone con rapporto 1:12 ossia 50 mg
+		- 4-5 gg: + metadone in base ad entita dolore
+	- metodo stop and go
+		- giorno 1
+			- sospensione immediata morfina 600 mg pz
+			- metadone in rapporto morfina : met = 5 : 1 120 mg
+			- metadone ogni 8 h: 40 mg ogni 8 h
+			- metadone al bisogno = 1/6 dose giornaliera 20 mg
+		- giorni succ
+			- adeguamento metadone base uso, bisogno
+			- pz con 90 mg morfina: metadone piu del necessario
+				- 4:1
+			- pz con 120-400 mg morfina: metadone ridotto
+				- 12:1

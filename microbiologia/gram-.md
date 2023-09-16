@@ -1,0 +1,47 @@
+- ## ossidasi+
+	- ureasi+
+		- [[helicobacter pylori]]
+	- cresce a 42C
+		- [[campylobacter jejuni]]
+	- medium alcalino
+		- ![[vibrio]]
+- ## 2
+	- aerobi
+		- [[bordatella pertussis]]
+		- [[acinetobacter]]
+		- fancisella tularensis
+		- [[brucella]]
+	- [[pasteurella multocida]]
+	- ![[haemophilus]]
+- ## 3
+	- aerobi
+		- acido maltoso
+			- ![[neisseria]]
+			- [[moraxella catarrhalis]]
+- ## 4
+	- fermentazione lattica+
+		- bassa motilita
+			- [[citrobacter]]
+			- [[serratia marcescens]]
+		- non motile
+			- ![[klebsiella]]
+		- motile
+			- ![[escherichia coli]]
+			- [[enterobacter]]
+	- fermentazione lattica-
+		- h2s in agor
+			- non motile
+				- ![[yersinia]]
+				- ![[shigella]]
+			- motile
+				- ureasi+
+					- [[proteus mirabilis]]
+				- ![[salmonella]]
+		- ossidasi+
+			- aerobi
+				- [[pseudomonas aeruginosa]]
+				- burkaloderia cepacia
+		- anaerobi
+			- [[bacteroides fragilis]]
+			- fusobacterium
+			- eikenella corrodens

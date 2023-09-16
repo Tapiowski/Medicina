@@ -1,0 +1,9 @@
+- usati nella pratica sportiva
+	- [[amfetamine]]
+	- [[efedrina]]
+	- [[cocaina]]
+	- [[caffeina]]
+- vietati solo in competizione, sempre pericolosi
+- ## azione
+	- eccitante, antidepressiva
+	- + attenzione, -fatica, -sonno, +aggressivita

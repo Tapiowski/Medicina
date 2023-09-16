@@ -1,0 +1,3 @@
+- riparativo
+- [[plasminogeno]] in [[plasmina]]
+- su [[fibrillina]] formata in cascata coagulativa: dissolve coagulo

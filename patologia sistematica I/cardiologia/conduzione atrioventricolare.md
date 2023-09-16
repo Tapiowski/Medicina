@@ -1,0 +1,1 @@
+tratto PQ 0.12-0.20 s normale, peggio se P non seguita da QRS

@@ -1,0 +1,11 @@
+- ## attivita
+	- anti recettore [[at-1]]: antagonisti recettore [[angiotensina II]]
+	- antagonisti comptetitivi, selettivi
+	- effetto su incidenza [[nefropatia]] [[diabete]]
+- ## classificazione
+	- ### [[losartan]]
+	- ### [[valsartan]]
+	- ### [[irbesartan]]
+	- ### [[eprosartan]]
+	- ### [[candesrtan cilexetil]]
+	- ### [[olmesartan medoxomil]]

@@ -1,0 +1,2 @@
+- linea che congiunge primo metatarso su punto mezzo linea intermalleolare
+- dorso del piede

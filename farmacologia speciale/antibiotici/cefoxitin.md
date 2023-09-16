@@ -1,0 +1,6 @@
+- resistente a b-lattamasi [[gram-]] bacelli
+- maggiore spettro [[gram-]]
+	- [[haemophilus]], [[proteus mirabilis]], [[klebsiella]]
+- meno attivi vs [[gram+]]
+- i piu attivi vs anaerobi: [[bacteroides fragilis]]
+- simil [[cefmetazole]]

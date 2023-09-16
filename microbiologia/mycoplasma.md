@@ -1,0 +1,2 @@
+- mycoplasma hominis
+- mycoplasma pneumonia

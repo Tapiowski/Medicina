@@ -1,0 +1,5 @@
+- manipolazione [[farmaci analgesici]] [[narcotici]] [[petidina]]
+	- [[fenoperidina]]
+	- invertito estere, intermedio -componente [[neurolettici]]
+		- no attivita [[morfina]]-s [[neurolettici]] puri, rapidamente inattivato per idrossilazione in para
+			- sostituzione para: [[aloperidolo]]

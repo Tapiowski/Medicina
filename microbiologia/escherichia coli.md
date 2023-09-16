@@ -1,0 +1,7 @@
+- non invasivo
+	- eaec: e coli enteroaggregativo
+	- etec: e coli enterotoxigenic
+- invasivo
+	- setc, ehec: e coli enteroemorragico
+	- eiec: e coli enteropatogenico
+	- epec: e coli enteroinvasivo

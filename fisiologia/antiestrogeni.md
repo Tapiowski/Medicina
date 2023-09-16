@@ -1,0 +1,8 @@
+- proibiti in e fuori gara
+- ## classificazione
+	- ### [[clomifene]]
+	- ### [[ciclofenil]]
+	- ### [[raloxifene]]
+	- ### [[tamoxifene]]
+	- ### [[toremifene]]
+	- ### [[inibitori aromatasi]]

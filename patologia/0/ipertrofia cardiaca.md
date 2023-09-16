@@ -1,0 +1,4 @@
+- processo adattivo fisiologico
+- mantiene stress parete costante anche in + [[post carico]] da [[ipertensione]]
+- deleterio nel tempo: [[cardiomiopatia]] con ridotta contrattilita miocardio
+- [[ipertrofia cardiaca]] ventricolo sinistro: predittore [[morte]]

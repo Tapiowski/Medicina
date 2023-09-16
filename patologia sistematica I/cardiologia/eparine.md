@@ -1,0 +1,27 @@
+- [[farmaci anticoagulanti]] parenterali
+	- [[glicosaminoglicani]]
+- sintesi da mucosa intestinale porcina
+- diverso pm: frazionate o -pm
+- potenziano effetto inibizione fattori coagulazione da [[antitrombina iii]]
+	- accelera di 1000 volte
+	- non prevedibile, dipende da libelli atiii
+- complesso eparina/antitrombinaiii inibisce [[fattore x attivato]] e [[trombina]]
+	- controllo tempo di coagulazione
+- [[eparina frazionata]]
+	- endovenosa continua o boli, lega proteine plasma, monitor con [[ptt]]
+- [[eparina a basso peso molecolare]]
+	- sottocutanea o endovenosa, migliore biodisp
+	- lunga ev, -collaterali, no monitor
+- reazioni avverse
+	- sanguinamento
+		- antidoto: [[solfato di protamina]]
+			- 1 mg per 100 u eparina
+	- piastrinopenia
+		- da immunocomplessi igg/eparina rara, trombotica
+- quando usare
+	- profilassi [[trombosi venosa]], interventi, allettamento, gravidanza, neoplasie
+	- tratta [[trombosi venosa profonda]]
+	- tratta [[embolia polmonare]]
+	- [[angina instabile]] e infarto miocardio
+	- [[embricamento]] prima inizio th con anticoagulanti orali
+	- dose bassa per prevenzione, alta per trattamento

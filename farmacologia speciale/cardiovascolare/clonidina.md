@@ -1,0 +1,21 @@
+- catapresan
+- ## effetti farmacologici
+	- decongestionante nasale, anatgonisa [[recettori alfa-2]] centrali: [[nucleo tratto solitario]]
+	- picco ipertensivo: [[vasocostrizione]] [[recettori alfa-2]] periferici, [[ipotensione]] per arrivo a [[tronco encefalico]]
+		- solo per ev, non per os: dritto al [[snc]]
+- ## meccanismo d'azione
+	- affinita per [[recettori alfa-1]] presinaptici
+	- [[ipotensione]] da stimolazione [[nucleo tratto solitario]]: +feedback- su liberazione [[noradrenalina]]: -concentrazione, anche per i metaboliti
+- ## farmacocinetica
+	- biodisponibilita 100%, rene 50% non metabolizzata
+	- via transdermica possibile: 3-4 gg per steady-state
+- ## effetti collaterali
+	- sedazione, sintomi anticolinergici
+	- ipotensione ortostatica
+	- disturbi sfera sessuale
+	- bradicardia
+	- 10% pz sospende th: maggiore tolleranza via transdermica
+	- effetto rebound a brusca sospensione
+- ## utilizzo th
+	- diagnosi differnziale tra [[ipertensione]] essenziale (singola dose riduce [[noradrenalina]]) e [[feocromocitoma]]
+	- snd astinenza da [[oppiacei]]: elimina sintomi da attivazione [[simpatico]]

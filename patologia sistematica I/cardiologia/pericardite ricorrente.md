@@ -1,0 +1,2 @@
+- ricorrenza pericardite dopo primo episodio
+- periodo libero di 4-6 settimane poi recidiva

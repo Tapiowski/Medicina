@@ -1,0 +1,2 @@
+- simil [[cefuroxime]]
+- orali

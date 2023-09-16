@@ -1,0 +1,2 @@
+- salmonella enteritiadis
+- salmonella typhi

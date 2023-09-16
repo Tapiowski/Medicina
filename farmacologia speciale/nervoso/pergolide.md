@@ -1,0 +1,7 @@
+- [[agonisti adrenergici]] d2, meno d1, potente
+- efficace in [[terapia parkinson]]
+	- 0.1-0.7 mg/d
+- meno effetti collaterali
+- pergolide mesilato: compresse 0.25-0.5-1 mg
+- th con [[levodopa]]/[[inibitori decarbossilasi]]
+	- avvio 0.25 mg x2, aumento poi

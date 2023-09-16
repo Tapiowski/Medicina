@@ -1,0 +1,1 @@
+punto estroflessione sacciforme parete aortica: quasi rottura

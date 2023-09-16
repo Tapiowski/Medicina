@@ -1,0 +1,1 @@
+- focolai di collageno eosinofilo circondato da linfociti, plasmacc, macrofagi gonfi [[cc di anitschkow]]

@@ -1,0 +1,2 @@
+- neisseria meningitidis ^meningococco
+- neisseria gonorrhoeae ^gonorrea

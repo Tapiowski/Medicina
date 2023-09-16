@@ -1,0 +1,1 @@
+- scarica non sincronizzata ad alta energia

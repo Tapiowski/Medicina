@@ -1,0 +1,4 @@
+- meno attivo vs stafilococco-p
+- orale 0.5 g 2-4x
+- [[gram+]]
+- non metabolizzato, 70-100% in urine

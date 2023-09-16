@@ -1,0 +1,2 @@
+- toglie trombo
+- [[catetere di fogarty]]

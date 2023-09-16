@@ -1,0 +1,19 @@
+- origine a ascendente, arco aortico tipo 1 e 2 [[de bakey]]
+- [[a ascendente]]
+	- cardiochirurghi
+- prosegue normalmente in sesno anterogrado
+	- altrimenti [[dissecazione aortica retrograda]]
+- terapia
+	- [[a ascendente]]
+	- chirurgia, no th intensiva
+	- addormentato, [[sternotomia mediana]], [[circolazione extracorporea]]
+	- 90% muore se non operato, 20% se operato
+	- emergenza
+	- chirurgie
+		- protesi eterologa in [[dacron]]: sostituire [[arco aortico]] con reimpianto di tre vasi biaortici
+		- [[intervento di bentall]]
+		- terapia endovascolare
+			- incanula vero lume, rilascio [[covert stent]] tappa lacerazione
+			- [[carbocaina]] o [[xilocaina]]
+			- chiusura tear d'ingresso, risolve
+		- assicurare [[flusso coronarico]] non necessario per [[circolazione extracorporea]] i iniezioni K: cuore arrestato e rafreddato con ghiaccio, riscaldato a fine ricostruzione

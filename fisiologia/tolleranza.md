@@ -1,0 +1,31 @@
+- [[adattamento]]
+- riduzione della risposta farmacologica dopo dosi ripetute
+	- variabile per diversi effetti
+		- es [[eroina]]
+			- euforia, stipsi, depressione respiratoria
+- ## classificazione
+	- [[tolleranza innata]]
+	- [[tolleranza farmacocinetica]]
+	- [[tolleranza farmacodinamica]]
+	- [[tolleranza  comportamentale]]
+	- [[tolleranza inversa]]
+- ## meccanismi di tolleranza
+	- downregolazione
+		- agonista, trasmettitore
+		- -recettori anche in astinenza
+	- affinita
+		- agonista, trasmettitore
+		- recettori piu affini per agonista che per trasmettitore
+		- in astinenza trasmettitore non suff
+	- upregolazione
+		- trasmettitore, antagonista
+		- +recettori per trasmettitore, che non lega
+		- in astinenza + recettori
+	- farmaco agonista
+		- -recettori
+			- -risposta a sospensione farmaco
+		- -affinita per farmaco, non per il neurotrasmettitore endogeno
+			- +risposta in sospensione
+	- farmaco antagonista
+		- +recettori
+			- +risposta a sospensione farmaco

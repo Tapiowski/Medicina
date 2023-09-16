@@ -1,0 +1,2 @@
+- [[striato dorsale]]
+- avvio, strategia movimento: scariche precoci

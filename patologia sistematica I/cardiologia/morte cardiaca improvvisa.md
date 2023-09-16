@@ -1,0 +1,9 @@
+- morte naturale inaspettata in un ora da inizio sintomi acuti, con o senza cardiopatie note
+- verificabile
+	- senza segni premonitori, prima manifestazione cardiopatia ischemia
+	- pz con patologia cardiaca: in prime due ore dopo [[infarto miocardico]], 80% pz ha [[aterosclerosi coronarica]]
+- esempio: infarto
+	- esordio sintomi
+	- dolore toracico in minuti
+	- [[fibrillazione ventricolare]]
+- inizio immediato [[rcp]], [[defibrillazione precoce]], cure avanzate

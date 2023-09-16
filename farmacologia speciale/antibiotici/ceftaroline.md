@@ -1,0 +1,6 @@
+- ceftaroline fosamil: profarmaco, convertito in ceftarolina IV
+- +attiva vs [[gram+]], [[gram-]]
+- lega PBP a bassa affinita di [[stafilococco#^mrsa]], [[streptococco#^pneumococco-r]]
+- parenterale
+- eliminato in rene, ev 2 h, 20% proteine
+- non passa in csf

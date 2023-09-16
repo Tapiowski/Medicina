@@ -1,0 +1,2 @@
+- alterazione idiopatica tunica media aortica
+- frammentazione lamelle elastiche con infiltrazione cistica mucopolisaccaridica/: [[dissezione aortica]] e [[aneurisma]] [[a ascendente]]

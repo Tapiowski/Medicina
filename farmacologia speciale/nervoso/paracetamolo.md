@@ -1,0 +1,7 @@
+- inibisce [[cox3]], presente in [[snc]]
+- stimola [[via inibitoria discendente]]
+- [[farmaci analgesici non oppiodi ad attivita centrale]]
+- in associazione con [[fans]] ne potenzia effetto e consente - dose
+- tossicita epatica
+- dosaggio massimo 6 g, 6-7 gg
+	- 4g per lunghi periodi

@@ -1,0 +1,1 @@
+- atleti con tachicardia ventricolare polimorfa in sforzo

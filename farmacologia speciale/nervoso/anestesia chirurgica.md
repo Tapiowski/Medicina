@@ -1,0 +1,1 @@
+- no movimenti spontanei, respirazione regolare, rilassamento muscoli, -frequenza resp

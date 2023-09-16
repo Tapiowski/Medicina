@@ -1,0 +1,7 @@
+- alterazioni tessuto mesenchimale, ormonale, genetico
+- giovani, sportivi, buon tono mm
+- compromissione [[valvola safeno-femorale]]
+	- stasi sangue in 1 m di vena
+	- reflusso su vene comunicanti, perforanti
+	- aumento pressorio parte distale circolo venoso
+	- shift liquido interstizio, edema, fibrosi

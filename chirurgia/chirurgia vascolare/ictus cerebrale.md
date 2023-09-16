@@ -1,0 +1,5 @@
+- [[ischemia]]
+- [[necrosi cerebrale]]
+- rapida, improvvisa comparsa sintomi: perdita focale o globale funzione cerebrale
+	- linguaggio, capacita motoria..
+- persiste per 24h fino a [[morte]]

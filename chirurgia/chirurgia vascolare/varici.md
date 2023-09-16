@@ -1,0 +1,1 @@
+dilatazioni sacciformi portano a dilatazione e tortuosita vena principale e vene satelliti

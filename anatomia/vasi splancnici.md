@@ -1,0 +1,4 @@
+- [[tronco celiaco]]
+- [[a mesenterica sup]]
+- [[a renale]]
+- [[a mesenterica inf]]

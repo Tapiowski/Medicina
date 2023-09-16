@@ -1,0 +1,2 @@
+- ventricolo, +sarcomeri, +massa/volume
+- tenta di normalizzare stress sistolico

@@ -1,0 +1,3 @@
+- [[dolore colico]]
+- [[subocclusione intestinale]]
+- ridurre ipersecrezione

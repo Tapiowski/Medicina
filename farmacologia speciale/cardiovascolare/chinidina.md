@@ -1,0 +1,10 @@
+- mantenimento ritmo sinusale in pz con [[flutter atriale]], [[fibrillazione atriale]]
+- blocca na, concentrazione dipendente
+- blocca k
+- blocca ca, l
+- +soglia di eccitabilita e t di refrattarieta
+- -automatismo
+- blocco alfa-[[adrenalina]] e inibizione [[vago]]: [[ipotensione]], [[tachicardia]]
+- diarrea 40%, torsade da deplezione k, anche subth
+- inibisce cyp2d6: codeina, propafenone
+- -clearance digitalici: inibisce glicoproteina p

@@ -1,0 +1,2 @@
+- classico svenimento
+- da qualcosa che ci preoccupa, stazn eretta protratta in caldo e umidita

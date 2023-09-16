@@ -1,0 +1,7 @@
+- [[sda]]
+- [[antagonisti d2]]: controlla sintomi positivi [[schizofrenia]]
+	- blocco moderato via [[mesolimbico]]
+- [[antagonisti 5-ht2]]: controlla sintomi negativi
+	- efficace blocco 5ht2
+	- -disturbi movimento da blocco [[recettori d2]]
+- [[neurolettici atipici]]

@@ -1,0 +1,122 @@
+- emergenza chirurgica
+- in diversi settori
+	- ant
+	- post
+	- aneurisma fistolizza in organi cavi
+		- duodeno
+		- vena cava inf
+		- raro bacinetto renale o uretere
+- 99% [[aneurisma aorta addominale]] asintomatico
+- se dolore addominale e portatore di aneurisma aortico
+	- sospetto rottura
+	- tac addome: se mdc non fuori da aorta non rotto
+		- aneurisma sta spanciando
+		- operato in elezione in gg
+		- [[blister]]
+- ## sintomi
+	- [[dolore epi-mesogastrico]] o [[dolore lombare]]
+		- a in sede paraombelicale
+		- dolore fastidioso, mal di pancia, non colico o trafittivo, ne da pugnalata dissecazione, dolore sordo
+	- [[sudorazione algida]]
+		- massa ematica circolante ridotta
+	- [[astenia]]
+		- aspecifico
+	- [[franca ipotensione]]
+		- 80-90 mmhg sistolica
+		- da perdita sangue
+- ## quadro clinico
+	- ### rottura in spazio retroperitoneale
+		- ci da piu tempo
+		- rottura tamponata
+		- aneurisma con lume vero e falso
+		- ematoma infarcisce connettivo lasso peri-aortico
+		- solleva retroperitoneo
+			- spazio reale solo in occupazione liquida siero sangue
+			- morte per rottura, se tamponati ho tempo
+		- [[dolore addominale]] irradiato lombare, [[ipotensione]], [[tumefazione pulsante]]
+		- evoluzione a [[shock emorragico]]
+		- se massa non ha sfondato retroperitoneo possiamo trovare colletto aneurisma e clampare
+	- ### rottura in cavita peritoneale
+		- in cavita addominale libera
+		- stesso quadro addominale-lombare ma piu violento
+		- sporadico
+		- caso peggiore di rottura: lago di sangue a gittata continua si prova a clampare aorta senza scambiarla per esofago
+		- dolore violento, persistente, ipotensione rapida, no contenimento
+		- [[shock emorragico]], [[exitus]] rapido
+	- ### rottura in organo cavo
+		- +frequenti C3 duodeno dopra aorta e v cava inf
+		- duodeno
+			- sangue nel tubo digerente: [[ematemesi]], [[melena]]
+		- ipotensione vs shock emorragico
+		- protesi sintetica su terreno infetto: contaminazione aorta da germi intestino: problemi di rivascolarizzazione
+			- legare aorta, tessuti friabili da infezione
+			- aorte malate, deiscenza moncone aortico
+			- chiusura aorta con punti grossi, sangue ad arti inf con [[bypass axillo bifemorale]]
+	- ### rottura in vena cava inf
+		- frequente
+		- ipotensione fino a shock emorragico
+		- rottura dentro vena cava inf
+			- guadagna tempo ma ritorno venoso al cuore in atrio dx micidiale
+		- +p in vena cava inf: cardio-polmonare
+			- [[tachicardia]] per smaltire afflusso extra
+				- [[diastole]] piu breve
+					- -tempo di ossigenazione cardiaca
+			- [[ischemia cardiaca]], [[infarto miocardio]], morte
+		- [[insufficienza ventricolare destra]] acuta, dolore presente, rumori di soffio, [[rumori di thrill]]
+		- [[edema distale malleolare bilat improvviso]]
+			- [[ipertensione venosa]] a monte [[v iliache]], [[v femorale]], [[v tibiali]] = gambe si gonfiano
+		- pz
+			- dolore addominale, astenia, ipotensione, tumefazione pulsante addominale, tachicardia, tachipnea, caviglie gonfie all'improvviso
+	- ### in base a fase di vita
+		- pre ricovero 30-50% pz muoiono pre ospedalizzazione
+		- preoperatoria 30-40% pz muoiono da arrivo in osp all'incisione
+		- postoperatorioa 50%
+		- percentuali alte di mortalita 90%
+		- screening aneurisma aorta e palpazione addominale!
+			- pz >60 anni, fumatore, iperteso
+	- ### in base diametro trasverso massimo aneurisma
+		- <4 cm rara rottura
+		- >5 cm 3-15% rottura
+			- trattare, operare
+		- >8 cm 50% rottura all'anno
+		- tac: diametro longitudinale non ci interessa, non correlato a rottura
+- ## intervento chirurgico
+	- ### tecnica a cielo aperto
+		- alfred einstein morto per aneurisma aorta addominale
+			- wrapping cucirono intorno ad aneurisma fili di ferro per contenere la crescita, rottura, morte
+		- 1953 dubois
+			- [[laparotomia xifo-pubica]]
+	- ### tecnica endovascolare
+		- 1991 1999 [[parodi]]
+		- da [[a femorale]] protesi rilasciata in aneurisma, punti di ancoraggio
+		- esclusione parete aortica malacica prossima a rottura da circolazione arteriosa
+		- convoglio flusso sangue in protesi: problema risolto
+		- intervento: [[evar]]
+			- no cicatrice, no ileo parlitico post-laparotomia mediana
+				- 3 gg digiuno, intestino atonico, no peristalsi
+			- mortalita migliore a 10 anni
+			- se pz giovane, open meglio perche dura piu a lungo
+				- altrimenti espiantare protesi in titanio in open
+				- crescita aneurisma
+				- [[endoleak]] rifornimenti vecchia sacca non tolta
+				- non abusare evar
+				- solo eseguita da chirurgo vascolare, non cardiologo
+		- indicazioni per [[evar]]
+			- anatomia aorta impiantabile con endoprotesi aortica
+			- limite da guaine rigide
+			- piu aneurisma cresce piu si distorce, obliqua colletto prox, a iliache fanno gobbe
+			- anatomia rettiliniea meglio
+	- ### trattamento [[laparoscopia]]
+		- quebec marsiglia tivoli
+		- cosa ha fermato crescita
+			- [[anastomosi prox]]
+				- sutura protesi sintetica troppo lenta a mano
+				- learning curve lunga, non migliorava
+				- 15m in open, 1.5h in laparoscopia
+					- ago con trocar, pinza, [[robot da vinci]]
+					- aorta clampata: ore di ischemia a valle, cataboliti acidi, rivascolarizzazione critica
+			- [[suturatrice meccanica]]
+				- non brevettata
+				- in chirurgia generale anse intestinali: [[s tapler]]
+				- vasi richiedono sutura perfetta: no stenosi, no sanguinamento
+			- [[evar]] meglio

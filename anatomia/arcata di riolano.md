@@ -1,0 +1,3 @@
+- collaterale per ostruzioni
+	- [[a mesenterica sup]] riolano asc
+	- [[a mesenterica inf]] riolano disc

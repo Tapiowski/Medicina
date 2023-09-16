@@ -1,0 +1,2 @@
+- trombo in vena provoca infiammazione vena circolo superficiale
+- patologia benigna

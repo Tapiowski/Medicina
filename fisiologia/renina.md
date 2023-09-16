@@ -1,0 +1,1 @@
+[[angiotensinogeno]] > [[angiotensina I]]

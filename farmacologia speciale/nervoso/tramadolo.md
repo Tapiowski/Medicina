@@ -1,0 +1,14 @@
+- azn agonista [[u-oppioidi]]
+- inibizione reuptake sodio, [[serotonina]]
+- farmaco sintetico proprieta oppioidi e non
+- efficace nel [[dolore neuropatico]]
+- dosaggio
+	- medio 200 mg
+	- max 400 mg: 300 mg se >75 anni
+- [[tramadolo]]/[[morfina]]
+	- parenterale 10:1
+	- os 5:1
+- [[dipendenze]], [[astinenza]], [[droghe da abuso]]
+	- terzo principio attivo in [[astinenza]]
+		- trattamento per [[dolore cronico]] benigno 400 mg / d
+		- sintomi da astinenza in interruzione improvvisa

@@ -1,0 +1,13 @@
+- inibitore selettivo, specifico [[canali if]] corrente funny
+- in cc nodo del seno
+	- depolarizzaione spontanea
+	- piu veloce depol, piu rapida f battito
+- blocco azione [[canali if]]
+	- riduzione battito
+	- -lavoro cardiaco
+- frequenza cardiaca consumo
+	- in un giorno 30 kg di atp
+	- riduzione di 10 bpm = 5 kg atp risparmiati
+- azn: [[cronotropismo negativo]]
+	- no effetto su pressione arteriosa
+	- ok in ipotesi anginosi

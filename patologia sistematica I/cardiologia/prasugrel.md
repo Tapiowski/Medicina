@@ -1,0 +1,1 @@
+- profarmaco, metabolismo epatico semplice: inibizione omogenea tra pz, intensa

@@ -1,0 +1,5 @@
+- [[adrenalina]]
+- recettore inibitorio
+- mm liscia [[bronchi]], [[gi]], [[coronarie]], [[utero]],  [[vasi]] mm scheletrica
+- attivazione = rilasciamento mm, [[neoglicogenesi]], [[glicogenolisi]], secrezione [[insulina]]
+- effetto [[inotropo]] positivo su [[cuore]], [[vasi]]: -[[vasodilatazione]] periferica: - [[post carico]]

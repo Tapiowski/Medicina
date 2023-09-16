@@ -1,0 +1,8 @@
+- resiste [[beta-lattamasi]]
+- spettro limitato per [[gram-]]
+- +metalloproteasi
+- non resiste kpc, ampio spettro
+- non attiva per gram+
+- [[enterobacter]], [[pseudomonas aeruginosa]], [[haemophilus]]
+- im, iv, ev 1.7 h, urine, 2 g orni 6 h
+- no cross allergia con beta-lattami tranne [[ceftazidime]]: stessa catena laterale: usato in allergie

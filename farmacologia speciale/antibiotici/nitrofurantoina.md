@@ -1,0 +1,17 @@
+- ## attivita antimicrobica
+	- attivato da riduzione enzimatica
+	- intermediati reattivi danno dna: batteri riducono piu velocemente
+	- [[escherichia coli]], [[streptococco#^enterococco]]
+	- [[proteus mirabilis]], [[pseudomonas aeruginosa]], [[enterobacter]], [[klebsiella]]-r
+	- batteriostatico per 32 ug/ml
+	- battericida per 100 ug/ml
+	- + in ph acido
+- ## farmacologia
+	- assorbita in gi, eliminata rapidamente
+	- no plasma, ev 1 h, 40% in urine immodificata, ph 5 solubile, marrone
+	- 50-100 mg x 4 non oltre 14 d, incinta, insufficienza renale, bambini
+	- [[infezioni tratto urinario]] basse, no in pielonefrite, prostatite
+	- nausea, vomito, diarrea, macrocristallina meglio
+	- ipersensitivita, danno fegato, reversibili anche [[snc]]
+	- [[polineuropatie]] con demielinizzazione, degenerazione nv sensorio, motore
+		- + in insuff renale, lunga durata th

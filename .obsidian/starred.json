@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "farmacologia speciale",
+      "path": "farmacologia speciale/farmacologia speciale.md"
+    },
+    {
+      "type": "file",
+      "title": "patologia sistematica I",
+      "path": "patologia sistematica I/patologia sistematica I.md"
+    }
+  ]
+}

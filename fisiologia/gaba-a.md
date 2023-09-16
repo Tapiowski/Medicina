@@ -1,0 +1,23 @@
+- subunita a, b, y con sottotipi
+	- [[gaba]] lega b: necessarie due molecole per aprire canale
+- agonista diretto: [[propofol]]
+- agonistia indiretto, -selettivo: [[meprobamato]]
+- agonista selettivo: [[muscimolo]]
+- antagonista selettivo: [[bicucullina]]
+- antagonista non competitivo: [[picrotossina]] riduce durata apertura canale
+	- [[gaba]] aumenta la frequenza di apertura del canale
+- trasduzione segnale, recettore canale: recettore ionotropico permeabile a ioni cl: apertura [[canali cloro]]
+- media azioni inibitorie veloci del [[gaba]]
+- effetto: iperpolarizzazione, aumento soglia eccitibilita sinaptica
+- bersaglio farmacologico di [[benzodiazepine]] e
+	- [[tranquillanti minori]]
+	- [[ipnotici]], [[sedativi]]
+	- [[anestesia generale]]
+	- [[anticonvulsionanti]]
+	- [[miorilassanti]]
+- recettori principalmente post-sinaptici
+- ## farmacologia
+	- [[flumazenil]]: antagonizza azione [[benzodiazepine]]
+	- [[barbiturici]]: prolungano tempo apertura [[canali cloro]], anche senza [[gaba]]
+	- [[anestetici]]: [[etanolo]] potenzia funzione [[gaba-a]] e azione sinergica con [[barbiturici]], [[benzodiazepine]]
+	- [[steroidi]]: [[allopregnanolone]] metaboliti di [[progesterone]] = [[neurosteroidi]] facilitano interazione [[gaba]], [[benzodiazepine]] e attivita [[gaba]] diretta

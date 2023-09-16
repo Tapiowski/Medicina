@@ -1,0 +1,5 @@
+- occlusione coronarica incompleta, intermittente
+	- flusso residuo
+	- lesione subendocardica
+	- sottoslivellamento
+	- lievemente troponina aumenta

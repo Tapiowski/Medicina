@@ -1,0 +1,1 @@
+- [[poliartrite migrante]] articolazioni, th con [[acido acetilsalicilico]] e [[corticosteroidi]], autolimitante ma deformita articolari

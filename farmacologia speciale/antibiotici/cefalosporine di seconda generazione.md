@@ -1,0 +1,17 @@
+- ## classificazione
+	- ### [[cefamicine]]
+		- ### [[cefoxitin]]
+		- ### [[cefotetan]]
+	- ### [[cefuroxime]]
+	- ### [[cefprozil, cefaclor, loracarbef]]
+- ## attivita
+	- [[haemophilus]]
+	- [[bacteroides fragilis]]
+	- maggiore per [[gram-]]
+- ## uso th
+	- soppiantate da [[cefalosporine di terza generazione]]
+	- orali, [[infezioni respiratorie]]: [[amoxicillina]] meglio
+	- [[streptococco#^pneumococco]], [[otite]] media
+	- [[cefamicine]] profilassi perioperativa intra addominale, ginecologica
+	- mix aerobi, anaerobi: [[peritonite]], [[infiammazione]] [[pelvi]]
+		- b fragilis resistenza in aumento

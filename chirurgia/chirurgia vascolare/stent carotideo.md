@@ -1,0 +1,5 @@
+- [[terapia endovascolare]]
+- punge [[a femorale]]
+- posiziona [[stent]] in [[a carotide]]
+- apre lume arteria
+- nonpossibile se placca troppo molle o troppo dura: non rompere placca

@@ -1,0 +1,20 @@
+- [[sensibilizzazione]]
+	- +risposta dopo dosi ripetute
+	- [[condizionamento ambientale]]
+	- [[cocaina]]
+		- 1 d + [[da]]
+		- 7 d +++ [[da]]
+	- [[soluzione salina]]
+		- prima di [[cocaina]] 0
+		- dopo 7 d cocaina + [[da]]
+- stimolazione [[da]] [[area ventrale tegmentale]]
+	- [[stress]]
+	- [[psicostimolanti]], [[oppiacei]], [[etanolo]], [[nicotina]]
+- +trasmissione [[glutammato]]
+	- recettori [[ampa]]
+	- ruolo in [[apprendimento]], [[memoria]]
+- +espressione [[fattori di trascrizione]]
+	- +d-fosb
+- modifica spine dendritiche [[nucleus accumbens]]
+	- + in [[cocaina]]
+	- - in [[oppiacei]]

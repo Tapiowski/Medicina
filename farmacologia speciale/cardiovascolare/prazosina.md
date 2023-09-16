@@ -1,0 +1,12 @@
+- in sintomi ostruttivi [[vescica]], ipertrofia [[prostata]] benigna
+- anche [[tamsulosin]]
+- ## meccanismo d'azione
+	- blocco ad alta selttivita [[recettori alfa-1]]-[[adrenalina]] [[arteriole]], [[venule]]
+	- selettivita: [[adrenalina]] retroinibizione [[recettori alfa-2]]
+	- dilatazione vasi [[resistenza periferica]] e [[capacitanza]]
+	- - [[pressione sanguigna]] in posizione eretta e supina
+- ## farmacocinetica, posologia
+	- assorbita per os, metabolizzata in fegato, ev 3-4 h
+	- dosi ridotte all'inizio per evitare ipotensione posturale, perdita coscienza
+- ## effetti collaterali
+	- vertigini, palpitazioni, cefalea, astenia

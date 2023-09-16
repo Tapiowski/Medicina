@@ -1,0 +1,20 @@
+- flusso convettivo di soluto, trascinamento del solvente
+- semplice diffusione
+- diffusione mediata da canale
+- diffusione facilitata da carrier, uniporto
+- mediato da atp
+- simporto, cotrasporto
+- antiporto, controcorrente
+- ### sodio
+	- diffusione passiva nacl, trasporto attivo poi: in [[tubulo distale]]
+	- h20, [[urea]] da [[dotto collettore]] a tubulo
+- ## riassorbimento fluidi, soluti nel rene
+	- filtrazione
+		- 54k mosm
+		- 180 l
+	- escrezione
+		- 700 mosm
+		- 1.5 l
+	- riassorbimento %
+		- 87%
+		- 99%

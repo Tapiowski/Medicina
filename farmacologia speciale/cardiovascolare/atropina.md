@@ -1,0 +1,1 @@
+- [[farmaci antiaritmici]] in [[bradicardia]] nodo del seno, [[blocco sa]]

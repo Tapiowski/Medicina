@@ -1,0 +1,5 @@
+- ## adme
+	- stabile in acido, assorbita oralmente
+		- cibo diminuisce assorbimento
+	- IM 0.5-1 g ampicillina sodio: picco 7-10 ug/ml, 1h, ev 80 m
+	- bile, circolazione enteroepatica, feci

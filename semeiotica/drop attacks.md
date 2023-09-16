@@ -1,0 +1,1 @@
+- crollo su ginocchia, ripresa in secondi o minuti

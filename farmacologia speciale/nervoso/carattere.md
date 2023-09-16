@@ -1,0 +1,9 @@
+- definisce concetto di se
+- dimensioni del carattere
+	- autodeterminazione
+		- senso responsabilita, convinzione di autodefinire e mantenere proprie scelte di comportamento: locus di controllo interno
+	- capacita di collaborazione
+		- cooperare con propri pari, raggiungimento obiettivo, e costruzione imprese comuni
+		- tollerante vs altri con comportamento a ricerca di intesa
+	- autotrascendenza
+		- speranza, spinte spirituali, pensiero positivo: atteggiamento trascendente profondo, aspetti morali, percezione del futuro, capacita di andare oltre al se

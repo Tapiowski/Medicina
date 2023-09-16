@@ -1,0 +1,8 @@
+- [[pancardite]] a miocardio, endocardio, pericardio
+- endocardio: valvole insufficienti per edema, infiammazione lembi
+	- soffio sistolico: insuff mitralica
+	- soffio diastolico: insuff valvola aortica
+- [[shock cardiogeno]] con morte, [[scompenso cardiaco]]
+- [[terzo tono]], edemi declivi
+- pericardio: versamento, [[sfregamenti]]
+- intervento chirurgico per danno valvolare: [[stenosi valvolare]] con fusione commissure: no apertura a triangolo

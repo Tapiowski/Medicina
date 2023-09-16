@@ -1,0 +1,5 @@
+- episodio [[sincope]] con [[crisi convulsiva]]: ipoperfusione oltre i 15 s
+	- insorgenza spontanea, sforzo o impossibilita di aumentare frequenza, portata cardiaca
+	- crisi convulsiva dura dai 30-60 s: morte se non si ripristina il ritmo, unica o recidivante, perdita feci e urine
+- da pausa ventricolare lunga 15 s, BAV complicato da tachicardia ventricolare con torsione di punta
+- manovre rianimatorie, elettrostimolazione temporanea e def per correggere bradicardia

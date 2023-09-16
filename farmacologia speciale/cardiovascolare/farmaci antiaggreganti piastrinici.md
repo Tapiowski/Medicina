@@ -1,0 +1,30 @@
+- [[piastrine]] attivate da
+	- [[trombossano a2]]
+		- [[aspirina]] blocco sintesi cox2
+	- [[trombina]]
+	- [[adp]] su p2y12
+		- blocco recettoriale
+			- [[inibitori p2y12]]
+- attivazione piastrinica
+	- liberazione granuli infiammatori
+	- feedback positivo
+		- granuli densi con adp: autoattivazione recettore p2y12
+		- cox da trombossano
+- inibizione piastrinica irreversibile
+	- 5-7 gg per turnover
+- effetti piastrine
+	- emostasi primaria: arresto sanguinamento
+	- riparazione danno vascolare: endotelio
+	- formazione placche aterosclerotiche
+	- sviluppo trombosi arteriosa: [[sindromi coronarie acute]], [[ictus]]
+- integrita vascolare endotelio
+	- fattore antiaggregante, antitrombotico
+- attivazione piastrine
+	- tappa finale glicoproteina gpiib-iiia
+		- [[inibitori gpiiib-iiia]]
+	- fenomeno amplificazione
+	- aggregazione
+- ## linee guida
+	- [[inibitori p2y12]]: [[prasugrel]], [[ticagrelor]] meglio per pz con [[angioplastica]] o [[sindrome coronarica acuta]] per 12 mesi o se non c'e rischio emorragico
+	- [[aspirina]] pz con [[sindrome coronarica acuta]]: a vita. secondo antiaggregante solo per 12 mesi
+	- [[inibitori gpiiib-iiia]] solo in complicanze trombotiche

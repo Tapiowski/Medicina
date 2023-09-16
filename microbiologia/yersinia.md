@@ -1,0 +1,2 @@
+- yersinia pestis
+- yersinia enterocolitica

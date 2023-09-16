@@ -1,0 +1,3 @@
+- + [[fosfolipasi c]]
+	- + [[pi]] in [[ip3]]
+		- + effetti biologici

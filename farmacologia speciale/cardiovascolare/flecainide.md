@@ -1,0 +1,18 @@
+- in [[aritmie sopraventricolari]]
+- blocca na-ch, k delayed-ch, ca
+- -spike, -[[fibre purkinje]], +[[conduzione cardiaca]] ventricolare
+- effetto dose-dip
+- visione sfocata, ins cardiaca, aritmie
+- bav, bbc, shock cardiogeno, i cardiaca scompensata, ipersensibilita
+- effetto proaritmico, inotropo, dromotropo negativi
+- interazioni antiaritmici classe i, induttori enzimatici, aumenta digossinemia
+- ## meccanismo d'azione
+	- attivo su na-ch in tutto il ciclo cardiaco: dissociazione lenta
+	- rallenta [[conduzione cardiaca]] [[fibre purkinje]] h-v
+- ## farmacocinetica
+	- ampio vd 91 l, ev 7-18 h, eliminazione rene in 70% metabolito
+	- tdm
+		- se insufficienza renale +ev, o epatica in anziani, associazione ad amiodarone o farmaci induttori enzimatici
+- ## uso th
+	- [[aritmie ventricolari]], [[aritmie sopraventricolari]] da fenomeni di rientro
+	- cardioversione [[fibrillazione atriale]] in acuto

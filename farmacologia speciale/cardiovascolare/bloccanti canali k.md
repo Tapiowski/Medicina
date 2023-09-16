@@ -1,0 +1,3 @@
+- classe III
+- blocco canale k, rallenta ripolarizzazione
+- [[sotalolo]], [[amiodarone]], [[bretilio]], [[dofetilide]]

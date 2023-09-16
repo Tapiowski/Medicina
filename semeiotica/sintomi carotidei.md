@@ -1,0 +1,3 @@
+- tragici
+- [[emiparesi]] da [[tia]]
+- [[emiplegia]] da [[ictus cerebrale]]

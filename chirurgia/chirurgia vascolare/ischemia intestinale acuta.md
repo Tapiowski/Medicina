@@ -1,0 +1,53 @@
+- ## definizione
+	- forma drammatica, tipo occlusivo
+	- riduzione improvvisa [[flusso intestinale]]: [[infarto intestinale]]
+	- [[embolo]] cardiogeno imbocca [[a mesenterica]]
+		- blocco da -calibro: ostruzione, [[ischemia acuta]], [[infarto miocardico]] a valle
+	- dimensioni [[trombo]]
+		- ischemia 2/3 intestino, se [[a mesenterica sup]]
+	- circolo collaterale non apre, no tempo
+- ## eziopatogenesi
+	- ### forme occlusive
+		- [[embolia]]
+		- da [[aneurisma]] toracico o [[trombosi]] da sottostante [[ischemia intestinale cronica]], vaso occlude, flusso residuo trombizza
+		- rottura [[placca aterosclerotica]] da [[crisi ipertensiva]]
+			- cup fibrotico di traverso
+			- materiale lipidico poltaceo embolizza
+			- emorragia vasa vasorum placca: placca a palloncino
+		- [[infarto miocardio]]
+			- giovani, cocaina, stress, poco sonno
+			- placche di traverso
+			- [[ipertensione]] da vasocostrittori nicotina e cocaina
+		- [[volvoli]], [[traumi addominali]], [[erniazione]], [[strozzamento]]..
+		- [[sindrome dell'intestino corto]]: [[intestino necrotico]] resecabile
+	- ### forme non occlusive
+		- [[ipertensione]] di lunga durata
+		- [[shock]]
+		- [[droghe da abuso]]
+- ## sintomatologia
+	- aspecifica
+	- [[dolore addominale]]
+		- improvviso, presente poi attenua
+		- [[peristalsi]] presente
+		- attenzione per dd con roba da poco conto
+	- prime ore
+		- pz sta male, sempre peggio
+		- pz agitato: [[posizione antalgica]]
+		- contrattura di difeza
+		- riduzione costante della peristalsi
+		- no irritazione peritoneale
+		- [[blumberg]] negativo
+		- nausea, vomito, diarrea
+	- fine prima gg
+		- [[gangrena]] perforazione intestino, fuoriuscita feci, sepsi, shock settico, squilibri idroelettrici gravi, cid, emorragie, trombosi
+- ## diagnosi
+	- [[laparotomia esplorativa]] di urgenza
+	- [[intervento bianco]] ok
+	- [[rx diretta addome]]: livelli idroaerei
+	- [[ecoaddome]] ostacolato da aria massiva
+	- [[tc mdc]] perdita di tempo per disponibilita
+	- [[angiografia]] stenosi [[a mesenterica]]
+- ## terapia
+	- [[terapia endovascolare]]
+	- [[embolectomia]] [[catetere di fogarty]]
+	- [[resezione intestinale]] alta mortalita >70%

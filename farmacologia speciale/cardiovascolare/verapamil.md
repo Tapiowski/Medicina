@@ -1,0 +1,11 @@
+- ad alte dosi inibisce rilascio [[insulina]]
+- inibisce [[glicoproteine]] p170
+- disaccoppia stimolo/contrazion ca-dip: effetto [[inotropo]] negativo, bloccando [[canali calcio]], riducendo f scarica sa e conduzione av: effetto [[cronotropo]] e [[dromotropo]] negativo
+- ## farmacocinetica
+	- 100% biodisp, picco in 30-60', 15' iv, ampio metabolismo: norverapamil ev 10 h ma meno potente
+- ## th
+	- [[tachiaritmia]] atriale
+- ## controindicazione
+	- th concomitanti
+- ## eff collaterali
+	- meno peggiorante di altri in ischemia miocardio, possibili gravi bradicardia e ipotensione

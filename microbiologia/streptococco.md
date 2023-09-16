@@ -1,0 +1,18 @@
+- b-emolitico ^b-emolitico
+	- A bacitracin+
+		- streptococco piogene ^piogene
+		- esotossina: [[streptolisina O]]: citolisina su membrane, pori, apoptosi
+	- B bacitracin-
+		- streptococco agalactiae
+- y-emolitico ^enterococco
+	- (outdated) [[enterococco]]
+		- enterococco faecalis
+		- enterococco faecium
+- a-emolitico ^a-emolitico
+	- bile insolubile, optochin+
+		- streptococco pneumoniae ^pneumococco
+			- streptococco pneumoniae penicillin-r ^pneumococco-r
+	- bile solubile, optocin-, no capsula
+		- streptococco viridians ^viridians
+			- mutans
+			- sanguis

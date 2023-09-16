@@ -1,0 +1,2 @@
+- effetto th in settimane da inizio trattamento [[ansia]]
+- effetto legato a meccanismi adattivi [[snc]]

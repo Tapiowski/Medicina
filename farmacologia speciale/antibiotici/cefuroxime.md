@@ -1,0 +1,6 @@
+- vs [[haemophilus]], [[neisseria#^meningococco]], [[streptococco#^pneumococco]]
+- meno attivi vs [[escherichia coli]], [[klebsiella]], [[stafilococco]]
+- no vs b fragilis
+- orale, iv, im ogni 12 h
+- [[meningite]]: [[csf]] al 10%
+- cefuroxime axetil: estere, orale, ben assorbito, idrolisi a [[cefuroxime]]

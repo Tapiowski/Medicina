@@ -1,0 +1,44 @@
+- [[farmaci oppioidi forti]]
+- ## confezioni
+	- cerotto 37-52.5-75 mcg/h
+		- tagliabile per ridurre dose principio attivo
+		- no in epatopatie
+	- cpr sublinguali 0.2-2-8 mg
+	- fiale im ev 0.3 mg
+- agonista puro [[mor]], agonista [[kor]] o k?
+- ## metabolismo
+	- fegato in [[norbuprenorfina]] e metaboiti glicurono-coniugati
+	- 2/3 invariato in feci, 1/3 invariato, dealchilato, in rene
+	- legato 96%
+	- non rimosso in dialisi
+- ## usi
+	- 2 cerotti max: 70 mcg / h
+	- rimosso cerotto, ev eliminiazione 30 h
+	- applicare in punti diversi: attendere 6 gg per stessa sede
+	- no xp > 2 mesi
+	- cerotto dura 96 h
+		- lunedi mattina applicato
+		- giovedi sera rimosso
+		- efficacia protratta fino a 96 h
+	- effetto analgesico in 12 h 70 mc/h, 24 h 35 mc/h
+	- tempo di latenza coperto con [[tramadolo]]-[[buprenorfina]] sl o [[morfina]]/[[fans]]-[[paracetamolo]]
+- ## avvertenze
+	- + assorbimento
+		- lesioni cute
+		- iperpiressia
+		- +temp ext
+	- - assorbimento
+		- sudorazione, cerotto non aderisce
+	- non efficace in morenti: no termoregolazione
+- ## controindicazioni
+	- depressione respiratoria del 50% con dosi > 2 ug/kg
+		- non antagonizzata da [[naloxone]]
+			- infusione continua 2-4 mg, 5-12 mg
+- ## errori
+	- inizio th con [[durogesic]] in pz mai hanno assunto oppiacei forti
+	- dose oppiacea di soccorso errata
+	- informazione pz, famiglia
+	- rivalutazione intempestive per dolore non controllato
+	- errori dosaggio in rotazione da oppiacei
+	- farmaci adiuvanti errati
+	- no prescrizione th lassativa

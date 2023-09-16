@@ -1,0 +1,3 @@
+- [[a ipogastrica]], [[a iliaca int]]
+	- comunicazn con [[a mesenterica inf]]
+	- [[sigma]]

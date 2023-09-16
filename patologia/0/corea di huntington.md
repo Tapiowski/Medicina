@@ -1,0 +1,3 @@
+- specifica di [[arf]] tardiva in mesi da infezione, +donne
+- secondaria ad infezione snc gangli base e nucleo caudato
+- movimenti involontari dei piccoli muscoli mimici fino ad arti, debolezza, labilita emotiva

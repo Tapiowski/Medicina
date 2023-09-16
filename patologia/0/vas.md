@@ -1,0 +1,2 @@
+- scale analogiche visive
+- :) > :(

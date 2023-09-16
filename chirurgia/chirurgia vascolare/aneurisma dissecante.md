@@ -1,0 +1,6 @@
+- sangue in parte arteria da slaminamento: lesione intima
+- [[dissecazione arteriosa]]: [[crisi ipertensiva]]
+	- malacia arteria + 280 mmhg: slamina arteria, disseca
+	- vero lume e falso lume
+- non e [[dissecazione aortica]] istmo aortico dopo succlavia, sopra piano valvolare aortico
+- dissecazione cronica

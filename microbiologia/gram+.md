@@ -1,0 +1,22 @@
+## [wiki](https://en.wikipedia.org/wiki/Gram-positive_bacteria)
+- ## cocci: anaerobi facoltativi ^cocci
+	- catalase+
+		- ![[stafilococco]]
+		- [[nocardia]]
+	- catalase-
+		- ![[streptococco]]
+- ## bacilli ^bacilli
+	- formanti spore
+		- aerobi
+			- ![[bacillus]]
+		- anaerobi
+			- ![[clostridium]]
+	- non formanti spore
+		- aerobi
+			- [[listeria monocytogenes]]
+			- corynebacterium diphteriae
+			- erysipelathrix rhusiopathiac
+			- tropheryma whipplei
+		- non aerobi
+			- cutibacterium
+			- gardnerella vaginalis

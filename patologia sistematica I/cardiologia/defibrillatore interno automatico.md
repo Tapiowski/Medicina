@@ -1,0 +1,2 @@
+- se cuore in fibrillazione ventricolare o aritmia ventricolare sostenuta
+- riconosce, da scossa, defibrilla internamente e torna al ritmo evitando morte

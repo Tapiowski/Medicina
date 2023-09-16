@@ -1,0 +1,11 @@
+- palpabili
+	- [[polso carotideo]]
+	- [[polso succlavio]]
+	- [[polso ascellare]] estremita ant cavo ascellare
+	- [[polso omerale]] piega gomito
+	- [[polso radiale]] proiezione pollice
+	- [[polso ulnare]] proiezione quinto dito
+	- [[polso femorale]]
+	- [[polso popliteo]] bisettrice losanga poplitea, cavo popliteo
+	- [[polso tibiale ant/pedideo]] lat ad estensore lungo alluce, dorso piede
+	- [[polso tibiale post]] post a malleolo mediale

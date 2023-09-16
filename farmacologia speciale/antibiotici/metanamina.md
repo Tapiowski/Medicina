@@ -1,0 +1,18 @@
+- genera formaldeide a ph 7.4 no decomposizione: 6% yeald, 20% a ph 5
+	- acidificazion urine promuove generazione
+- decomposizione lenta 3 h per 90%
+- ## attivita antimicrobica
+	- formaldeide 20 ug/ml uccide ogni batterio, no r
+	- batteri che dividono urea innalzano ph: meno attivi, proteus spp
+- ## farmacologia
+	- orale, 30% decomposizione in acido gastrico, protezione coating enterico
+	- produce ammonia: insufficienza epatica!
+	- escrezione urine quantitativa, -ph batteriostatico, acidificazione amplifica: acido mandelico, ippurico
+	- stress gi da 500 mg x4 anche se protetta
+	- dolore, minturia, albuminuria, ematuria, rash 4-8 g/d
+	- insufficienza renale: acidi rischio
+	- antagonismo con sulfametixolo e sulfonamidi
+	- cura
+		- [[infezioni tratto urinario]] croniche: [[escherichia coli]], [[gram-]], [[stafilococco#^aureus]], [[stafilococco#^epidermidis]]
+		- [[enterobacter]], [[proteus mirabilis]]
+		- ph < 5 per attivita

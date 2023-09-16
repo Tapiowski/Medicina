@@ -1,0 +1,1 @@
++ sensibilita a stimoli nocivi

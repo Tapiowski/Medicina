@@ -1,0 +1,7 @@
+- monoamine?
+- biosintesi neurotrasmettitori: funzione decarbossilasica: [[decarbossilasi]]
+	- [[tirosina]] + [[tirossina idrossilasi]]
+	- [[l-dopa]] + [[dopa decarbossilasi]]
+	- [[dopamina]] + [[dopamina idrossilasi]]
+	- [[noradrenalina]] + [[metil trasnferasi]]
+	- [[adrenalina]]

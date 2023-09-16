@@ -1,0 +1,9 @@
+- [[mor]] mu
+- [[dor]] delta
+- [[kor]] kappa
+- [[nor]] r per peptide [[nocicettina]]
+- ## farmaci
+	- agonisti: legano, attivano recettore [[morfina]]
+	- antagonista: legano recettore antagonizzando effetti o scalzando agonista, trattano il sovradosaggio: [[naloxone]]
+	- agonista parziale: attivano recettore, effetto tetto [[codeina]]
+	- agonista antagonista: su certi recettori agonisti, su altri antagonisti [[pentazocina]]

@@ -1,0 +1,2 @@
+- cefopitrole medocaril profarmaco
+- attivita vs [[gram+]], [[gram-]], [[streptococco#^enterococco]]

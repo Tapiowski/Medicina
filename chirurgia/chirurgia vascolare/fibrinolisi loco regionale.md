@@ -1,0 +1,4 @@
+- iniettare endovascolare con catetere: [[fibrinolotici]]
+	- infusioni lente 3 gg max: sciolgono [[coagulo]]
+- no in [[ipertensione]]
+	- [[emorragia cerebrale]]

@@ -1,0 +1,4 @@
+- diagnosi, th, prognosi in pz con [[miocardite]]
+- centri di riferimento
+- pinzette nel ventricolo sin con cateteri, estrarre frammenti per istologia immunoistochimica e frammenti da listare per ricerca genoma virale e biologia molecolare
+- mira trattamento, prognosi, followup

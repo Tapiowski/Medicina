@@ -1,0 +1,5 @@
+- ++ aumento pressorio diastolica > 120 mmhg: danni organi
+	- infarto, dissecazione aortica, angina, emorragia subaracnoidea, encefalopatia ipertensiva, ictus
+	- esame organi bersaglio
+- th rapida, farmaci per os e venoso e sublinguale
+	- ricovero, prognosi da danno organo

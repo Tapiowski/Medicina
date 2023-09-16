@@ -1,0 +1,3 @@
+- coronarie perfette tra le crisi
+- si occludono e contraggono durante crisi
+- spasmo coronarico

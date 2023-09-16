@@ -1,0 +1,6 @@
+- [[abciximab]]
+- [[eptifibatide]]
+- [[tirofiban]]
+- antiaggreganti potenti: prevenire, trattare complicanze trombotiche
+	- interventi rivascolarizzazione
+	- endovenosi, complicanze emorragiche severe

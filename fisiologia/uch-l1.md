@@ -1,0 +1,4 @@
+- classe [[ubiquitin idrolasi]]
+	- rimuovono, smontano catene di [[poliubiquitina]] in fase di degradazione rendendo liberi monomeri [[ubiquitina]] per successive proteolisi
+	- mutazione 4q14
+		- non riciclo ubiquitina, non libera in citoplasma: no proteolisi

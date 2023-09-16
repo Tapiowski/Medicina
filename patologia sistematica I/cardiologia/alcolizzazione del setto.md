@@ -1,0 +1,1 @@
+- iniettare alcol nel ramo settale coronarico: necrosi con infarto pilotato nel setto, non contrae ostruendo efflusso

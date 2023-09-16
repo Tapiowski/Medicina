@@ -1,0 +1,1 @@
+- neoplasia atrio: valvola mitralica: ostacolo riempimento ventricolo sx: sistoli ineficaci

@@ -1,0 +1,2 @@
+- da stimolazione nocicettori per infiltrazione o infiammazione a livello cutaneo, muscolare, connettivale, periostio
+- localizzato, puntorio, gravativo

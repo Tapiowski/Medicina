@@ -1,0 +1,62 @@
+- piccoli vasi periferici
+- arti inf: [[a tibiale]] e a sotto rima articolare ginocchio
+- differente da [[arteriopatia aterosclerotica]]
+	- distretto aorto-iliaco e femoro-popliteo
+- pz con diabete va in [[arteriopatia diabetica]] da controllo metabolico: compliance terapia, dieta, eta 50-60 yo+
+- ## caratteristiche
+	- [[microangiopatia]]
+	- [[macroangiopatia]]
+- ## patogenesi
+	- [[neuropatia sensoriale]]
+		- rarefazione, occlusione [[vasa nervorum]]: perdita rivestimento mielinico: -funzione sensoriale e dolorifica, in alcuni casi dolorosa
+		- no [[claudicatio intermittens]] e [[dolore a riposo]]
+		- conseguenze
+			- [[dita ad artiglio]] peso alle teste dei metatarsi: alterazione postura
+			- [[ulcera neuropatica]] plantare, teste metatarsali: [[piede diabetico]]
+				- [[iperglicemia]]
+					- favorisce proliferazione batteri aerobi e anaerobi: problemi infettivi
+					- non sente trauma, germi entrano in ferita
+					- [[flemmone]]: amputazione in gg
+					- [[setticemia]], [[ascessi cerebrali]], intestinali
+		- precauzioni [[piede diabetico]]
+			- calzature comode, calzini puliti
+			- curare igene piedi
+			- tamponare con spugnette morbide
+			- mai camminare a piedi nudi
+			- controllare corpi estranei in scarpe
+		- [[neuropatia diabetica dolorosa]] in fase irritativa, 1/4 casi: dolore non controllabile gambe piede
+	- [[osteoartropatia]]
+		- rarefazione ossea, deformita, suscettibilita traumi, lesioni osteolitiche
+	- [[edema]]
+	- [[sclerosi arteriosa di monckeberg]] calcificazioni parete piccole arterie
+	- alterazioni [[trofismo cutaneo]] pianta piede e tallone
+	- [[infezioni micotiche]]
+	- [[gangrena umida]] da infezione: caratteristiche [[gangrena]]
+	- amputazione puo non guarire: zona amputata infetta
+		- deiscenza con riapertura punti e sovrainfezioni: amputazione superiore: fallimento totale
+- ## diagnosi
+	- [[rx standard piede]] valuta
+		- [[osteomielite]] infezione osso: -cura
+		- collasso [[articolazione di charcot]]
+	- [[ecodoppler]]
+		- arterie pervie piede, caviglia, indice caviglia-braccio non attendibile per calcificazioni
+	- misura [[tcpo2]] e [[tcpco2]]
+	- [[angiografia]] contrasto arteria perdidia e followup
+- ## th piede diabetico
+	- ### rivascolarizzazione
+		- bypass
+		- quadro angiografico discreto, stenosi, polsi deboli
+		- garantire apporto sangue massivo al piede: [[a tibiale]] simile calibro a coronaria
+		- bypass mezzo metro: rischio occlusione
+		- occhiali magnificatori, lenti ingrandimento
+		- [[v safena]] necessaria, protesi artificiale non funzionale
+		- tipi di bypass
+			- [[bypass peroneale]]
+			- [[bypass tibiale post]]
+			- [[bypass dorsale del piede]]
+	- ### ricanalizzazione
+		- guida endovascolare se passa: apre arterie per angioplastica
+		- + flusso sanguigno = +antibiotici
+	- ### amputazione
+		- fallimento th
+		- non si e ridotto il numero

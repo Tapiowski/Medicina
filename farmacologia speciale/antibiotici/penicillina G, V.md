@@ -1,0 +1,109 @@
+- ## storia
+	- 1928 stafilococco, londra, alexander fleming
+	- 1941 colture penicillum notatum
+	- 1943 200 pz
+- ## benzilpenicillina G, fenocimetil derivato V
+- ## attivita antimicrobica
+	- attivo vs
+		- actinomices israeli, streptobacillus monoliformis, [[pasteurella multocida]],  [[listeria monocytogenes]], leptospira
+		- [[treponema pallidum]], [[borrelia]]
+		- [[clostridium]]
+		- [[gram+]] aerobi
+		- [[gram+#^cocci]]
+	- non attivo vs
+		- bacteroides fragilis, prevotella
+		- amebae, plasmodia, rickettsiae, fungi, virus
+		- idrolizzati da penicillasi: stafilococco aureus
+
+- ## adme
+	- assorbimento
+		- orale
+			- rapido, picco in 30-60 m, cibo interferisce
+			- V piu stabile in medium acido, migliore assorbimento GI: 5x in plasma
+		- parenterale: [[penicillina G]]
+			- IM
+				- picco in 15-30 m, ev 30 m
+				- benzathine per rilascio lento
+				- attiva per 26 gg
+				- 1 al mese per profilassi [[febbre reumatica]], cura [[faringite]] [[streptococco]]
+			- IV sconsigliata
+	- distribuzione
+		- penicillina G
+			- corpo
+				- fegato, bile, rene, seme, fluido articolare, linfa, intestino
+			- 0.35 L/kg, 60% legame albumina
+		- penetrazione [[csf]]
+			- + in [[meningite]]
+			- 5% rispetto a plasma
+			- secreta da csf per trasporto attivo
+				- [[probenecid]] inibisce, eleva k
+			- in uremia
+				- acidi organici accumulati in csf, competizione per secrezione
+	- metabolismo
+		- fegato
+			- 40-10% metabolizzata ad acido penicilloico
+	- escrezione
+		- rene
+			- ev
+				- 30 m, 1-3 h bambini, 10 h anuria
+			- urine
+				- 60-90% in 1 h
+				- 10% filtrazione, 90% secrezione
+			-  ![[probenecid]]
+			- insufficienza renale
+				- 10% inattivato da fegato ogni h
+- ## usi terapeutici
+	- [[streptococco#^pneumococco]]
+		- [[pneumonia]]
+			- th parenterale G, 5 gg
+		- [[meningite]]
+			- [[vancomicina]] + [[cefalosporine]] III stabilisce sensitivita a penicillina
+			- dexametasone migliora outcome
+			- dose 24 M unita / die costante o boli 10-14 gg
+	- [[streptococco#^b-emolitico]]
+		- [[faringite]] da s piogene
+		- orale V, 500 mg x2, 10 gg
+		- riduce rischio [[febbre reumatica]], [[glomerulonefrite]]
+		- shock tossico, fascite necrotizzante: tossine penicillina/clindamicina
+		- [[pneumonia]], [[meningite]], [[endocardite]]
+	- [[streptococco#^viridians]]
+		- [[endocardite]] valvola, [[streptococco#^a-emolitico]] resistente
+		- IV 10-20 m, 4 wk, 2 wk con [[gentamicina]]
+	- anaerobi
+		- G infezioni [[polmone]], periodontali
+		- [[clindamicina]] meglio
+		- orale, G, V, 250 mg 4x
+		- IV se grave 12-24 mg / d
+	- [[neisseria#^meningococco]]
+		- G, no profilattico, non elimina status carrier
+	- [[sifilide]]
+		- [[treponema pallidum]]
+		- G IM 1-3 wk, 2-4 m
+		- G neurosifilide, s cardiovasolare 18-24 m
+		- incinta: unica th
+	- [[actinomicosi]]
+		- G IV, 6 wk, drenaggio
+	- [[diphteria]]
+		- antitossina unica th
+		- G elimina carrier, 10 gg
+	- [[bacillus#^antrace]]
+		- R
+	- [[clostridium]]
+		- G IV + [[clindamicina]]
+		- no effetto su tetano
+	- fusospirocete
+		- gengivosomatiti
+	- febbre morso topo
+		- sirillum minus, streptobacillus moniliformis
+		- G IV
+	- [[listeria monocytogenes]]
+		- [[ampicillina]], g + [[gentamicina]] in imm-
+	- [[pasteurella multocida]]
+		- morso cane, gatto, G
+		- resistente a [[penicilline]] e [[cefalosporine]] I
+- ## usi profilattici
+	- [[stafilococco]]
+		- piogene, [[faringite]]
+	- [[febbre reumatica]] ricorrente
+		- orale g, v, im per neonati
+	- [[sifilide]]

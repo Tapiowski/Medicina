@@ -1,0 +1,9 @@
+- temperamento prevalente
+	- - novelty seeking
+	- + harm avoidance
+	- = reward dependence
+	- = persistent
+- carattere
+	- + autodeterminazione
+	- + capacita collaborativa
+	- + selftrascendent

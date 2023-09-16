@@ -1,0 +1,1 @@
+- assorbimento lento, lunga durata

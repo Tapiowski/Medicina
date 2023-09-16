@@ -1,0 +1,26 @@
+- causano [[dipendenze]]
+	- [[nicotina]]
+	- [[benzodiazepine]]
+	- [[barbiturici]]
+	- [[etanolo]]
+	- [[fenciclidina]]
+	- [[oppioidi]]
+	- [[cannabinoidi]]
+- legali
+	- [[etanolo]]
+	- [[te]]
+	- [[caffe]]
+	- [[tabacco]]
+	- [[videogiochi]]
+	- [[social networks]]
+	- [[cellulari]]
+	- [[cibo]]
+	- ...
+- illegali
+	- [[oppioidi]]
+	- [[cocaina]] e crack
+	- [[psichedelici allucinogeni]]
+	- [[amfetamine]]
+	- [[cannabinoidi]]
+	- [[designer drugs]]
+	- [[ketamina]]

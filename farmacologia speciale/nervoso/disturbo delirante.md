@@ -1,0 +1,3 @@
+- patologia mentale
+- contenuto pensiero: diviene delirante rispetto a tema singolo
+	- [[delirium]] di gelosia, persecutorio, grandioso, somatico, erotomaniaco, misto

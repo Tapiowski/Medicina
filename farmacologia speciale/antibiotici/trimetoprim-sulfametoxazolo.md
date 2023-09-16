@@ -1,0 +1,39 @@
+# bactrim
+- ## meccanismo d'azione
+	- inibisce step 3: diidrofolato reduttasi: cotrimoxazolo
+	- tetraidrofolato per reazioni di trasferimento one-carbon
+	- selettivo per batteri: mammiferi preformato in dieta
+	- X100 k che in umani
+	- ratio 20:1=s:t
+	- concentrazioni costanti in sistema, batteriostatici, battericidi in combo
+- ## spettro antibatterico
+	- [[trimetoprim]] 20-100X potenza
+	- [[pseudomonas aeruginosa]], [[bacteroides fragilis]], [[streptococco#^enterococco]]-r, [[enterobacter]]
+	- [[streptococco#^pneumococco]]-r, [[stafilococco#^aureus]], [[stafilococco#^epidermidis]]+r, [[streptococco#^piogene]], [[streptococco#^viridians]], [[escherichia coli]], [[proteus mirabilis]], [[klebsiella]], [[enterobacter]], [[salmonella]], [[shigella]], [[pseudomonas aeruginosa]], [[serratia marcescens]], alaligenes, [[brucella]], [[pasteurella multocida]], [[yersinia]], pseudotubercolosis, enterocolica, [[nocardia]] asteroides
+- ## resistenza
+	- in crescita, meno che per agenti singoli
+	- da alterata reduttasi diidrofolati, plasmidi
+- ## adme
+	- 20:1, concentra a sangue e tessuti, orale, [[trimetoprim]] assorbimento rapido
+	- picco in 2-4 h, ev 11-12 h, 800:160 mg x2, picco 40-2 ug/ml
+	- simile infusione, 1 h
+	- [[trimetoprim]] [[csf]], sputum, 40% albumina, concentra e distribuisce 9X che [[sulfametoxazolo]], bile, eliminata urine 60% in 24 h
+- ## usi terapeutici
+	- [[infezioni tratto urinario]]
+		- resistenza per [[escherichia coli]] 20%, singola dose 4 gg, [[cistite]] 10 gg, [[pielonefrite]], [[prostatite]]
+	- [[infezioni respiratorie]]
+		- [[bronchite]] cronica in acuzie x2, no in faringite da streptococco: no eradicazione
+		- [[otite]] media, [[sinusite]] acuta mascellare per [[haemophilus]] e [[streptococco#^pneumococco]]
+	- [[infezione]] [[gi]]
+		- [[shigellosi]], no per [[diarrea del viaggiatore]]-r
+	- [[pneumocisti]]
+		- alta dose, [[pneumonia]], corticosteroidi aggiuntivi se po2 ridotta, hiv
+	- [[stafilococco#^mrsa]]
+		- incisione, drenaggio ascessi, - se invasiva e batteremia
+	- [[infezione]]
+		- [[nocardia]], [[brucellosi]] meglio [[gentamicina]], stenotropomonas maltofila, ciclospora, isospora, wegner [[granulomatosi]]
+- ## reazioni avverse
+	- estende tossicita [[sulfonamidi]], peggio in deficienza folato
+	- megalobloastosi, leucopenia, trombocitopenia, anemia, coagulazione, granulocitopenia, agranulocitosi, purpura, sulfemoglobinemia
+	- 3X reazioni dermatologiche rispetto [[sulfonamidi]] individuali
+	- ittero, danno rene permanente per cristalluria da [[sulfametoxazolo]]: fluidi liberi, creatinina plasma, riduce secrezione, hiv: ipersensitivita

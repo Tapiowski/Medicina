@@ -1,0 +1,6 @@
+- analogo [[procaina]]
+- th [[aritmie sopraventricolari]], [[aritmie ventricolari]]
+- blcoca canali attivi al na e outward al k
+- - automaticita e conduzione
+- + periodo refrattario
+- [[ipotensione]], rallentamento [[conduzione cardiaca]], nausea, torsades, aplasia midollare, lupus con rash ed artralgie, pericardite, nefrite

@@ -1,0 +1,1 @@
+ligand-gated channels, atp-sensitive

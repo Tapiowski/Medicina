@@ -1,0 +1,9 @@
+- inibitori [[pompa na-k atpasi]], [[simpatico]], no ibizione pde
+- + sensibilita struttre contrattili, a parita di ca in +[[contrattilita cardiaca]]
+	- [[troponina C]]
+- per [[insufficienza cardiaca]]: [[inotropo]] positivo
+- ## classificazione
+	- ### [[pimobendano]]
+	- ### [[sulmazolo]]
+	- di ultima generazione
+		- ### [[levosimendan]]

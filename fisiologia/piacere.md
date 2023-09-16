@@ -1,0 +1,6 @@
+- piacere, alimentazione, sport
+- ## [[circuito della ricompensa]]
+- ## [[molecole del piacere]]
+- ## [[regolazione del piacere]]
+- ## [[memoria del piacere]]
+- ## [[plasticita neuronale]]

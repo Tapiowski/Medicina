@@ -1,0 +1,4 @@
+- pungere setto
+- superare stenosi mitralica
+- dilatare con palloncino
+- in pz selezionati

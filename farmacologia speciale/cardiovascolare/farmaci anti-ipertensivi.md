@@ -1,0 +1,18 @@
+- centrali
+	- a-stimolanti
+		- [[alfa-metildopa]]
+		- [[clonidina]]
+		- [[reserpina]]
+	- [[farmaci beta-bloccanti]]
+- [[farmaci diuretici]]
+	- [[vasodilatazione]]
+- [[inibitori catecolamine]]
+- vasodilatatori diretti
+	- [[idralazina]]
+- [[alfa-bloccanti]]
+	- [[prazosina]]
+- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+	- [[nifedipina]]
+	- [[verapamil]]
+	- [[diltiazem]]
+- [[ace inibitori]]

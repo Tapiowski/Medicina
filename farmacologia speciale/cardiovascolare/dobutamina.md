@@ -1,0 +1,8 @@
+- agonista [[recettori beta-1]] e [[recettori beta-2]]
+	- +forza, [[frequenza cardiaca]]
+- antagonista [[recettori alfa-1]]
+	- annulla effetti agonisti enantiomero
+- agonista [[recettori alfa-1]]
+	- +forza [[contrattilita cardiaca]], +pressione per [[vasocostrizione]]
+- tratta [[insufficienza cardiaca]] acuta reversibile
+- causa meno tachicardia

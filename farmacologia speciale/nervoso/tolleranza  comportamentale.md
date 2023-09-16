@@ -1,0 +1,6 @@
+- [[meccanismi condizionati]]
+	- profumo, vista, ambiente
+	- crisi astinenza se ritardo assunzione
+	- +effetti se assunzione in situazione nuova
+- +livelli [[attenzione]]
+	- guida in stato di ebbrezza

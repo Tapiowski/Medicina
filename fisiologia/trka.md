@@ -1,0 +1,1 @@
+[[chinasi]]-linked recettori, controllano canali ionici, espressione genica

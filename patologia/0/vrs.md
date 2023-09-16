@@ -1,0 +1,2 @@
+- scale verbali
+- nessuno, molto lieve, lieve, moderato, forte, molto forte

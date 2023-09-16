@@ -1,0 +1,1 @@
+- tra apporto e richiesta o2: aritmia, anemia, insuff resp, ipertensione..

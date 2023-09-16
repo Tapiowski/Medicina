@@ -1,0 +1,2 @@
+- vs plasmidi [[beta-lattamasi]] ad ampio spettro
+- parenterale [[piperacillina]], [[ceftolozane]]

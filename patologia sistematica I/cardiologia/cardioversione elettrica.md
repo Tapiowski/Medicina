@@ -1,0 +1,1 @@
+- scarica sincronizzata su onda R del qrs

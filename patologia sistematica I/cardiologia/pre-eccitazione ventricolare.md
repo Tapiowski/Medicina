@@ -1,0 +1,12 @@
+- bypass nodo av
+- base ventricoli con scheletro fibroso che isola camere atriali da ventricolari
+- [[fascio di kent]] in parete lat ventricolo sin
+- forme settali o ventricolari dx
+- [[sindrome di wolff-parkinson-white]]
+	- predispone a tachicardie da rientro
+	- PR corto
+	- QRS chiamato onda delta
+	- solo se pre eccitazione sintomatica
+	- forma ortodromica
+		- extrasistole, circuito rientro
+		- qrs stretto, p dietro qrs, rp > 80 ms

@@ -1,0 +1,14 @@
+- antagonisti [[canali calcio]] l
+	- se canali inattivati, depolarizzati a +40 farmaci attivi
+	- se canali resting, iperpolarizzati -60 farmaci in recupero prolungato
+- [[farmaci anti-ipertensivi]]
+- ## classificazione
+	- ### [[nitrenpidine]]
+	- ### [[verapamil]]? no
+	- ### [[nifedipina]], [[nicardipina]]
+- ## meccanismo d'azione
+	- dual mode of action
+		- rilasciamento arterie via inibizione [[canali calcio]] l
+		- rilascio [[no]] da endotelio e piastrine
+	- alta sensibilita vascolare
+	- puo inibire [[aggregazione piastrinica]]

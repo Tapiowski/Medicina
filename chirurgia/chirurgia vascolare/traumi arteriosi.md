@@ -1,0 +1,54 @@
+- ### diretti
+	- trauma penetrante: sparo, accoltellamento, agenti chimici come irradiazione da stufa: sezione diretta vaso
+	- fratture ossee scomposte: femore rotto, [[filo di kirschner]]
+	- traumi non penetranti: proiettile si arresta in arteria, non perfora
+	- traumi da contusione o schiacciamento
+	- ematomi imponenti
+- ### indiretti
+	- lussazioni di spalla o ginocchio
+		- asse [[axillo-brachiale]], [[a omerale]] [[a ascellare]], [[a poplitea]]
+	- violente decelerazioni
+		- proiettano in avanti il tronco, flettono arco aortico: lesione [[istmo aortico]]
+- parziali o complete
+	- sezione o riduzione lume da ematomi
+	- lacerazione singolo lembo intimale
+- ## clinica
+	- shock, lesioni ossee, lesioni organi parenchima o cerebrali, codice rosso
+	- priorita
+		- frattura ossea
+			- ristabilizzare monconi per evitare danni
+			- neurochirurgo per evitare trauma cranico
+		- complicanza respiratoria
+			- anestesista mette in sicurezza, [[intubazione]]
+		- rottura arterie
+			- chirurgo vascolare per lacerazioni
+	- [[shock emodinamico]], [[ipotensione]], [[ipotermia]]
+		- arto freddo per ischemia acuta o cause centrali
+	- anestesista sicurezza vie respiratorie, [[tac total body]], chirurgo
+	- se lezione da lama completa: vaso in spasmo si oblitera: riflesso sna
+	- [[ischemia acuta arto]] mascherata nei traumi 6P
+		- dolore frattura maschera ischemico
+		- [[parestesia]] da lesione nervosa
+		- [[pallore]] da schock sistemico
+		- assenza [[polsi arteriosi]] da spasmo
+	- arteria compressa o ipertesa puo provocare frattura intimale
+		- [[dissecazione arteriosa]], ematoma sottointimale: [[trombosi]]: [[ischemia]]
+- ## complicanza traumi
+	- lacerazione vaso senza segni nell'immediato fino a pseudo [[aneurisma pulsante]]
+	- vasi femorali o altre comunicazioni arterie/vene: [[fistole]]
+	- lesioni arteriose indeboliscono parete vasale: [[aneurisma vero]]
+- ## terapia
+	- emocromo, lesioni, stato tessuti circostanti
+	- ### preoperatorio
+		- controllo emorragia
+		- risolvere stato shock: [[colloidi]] per [[plasma extender]]
+		- copertura antibiotica
+	- ### intra-operatorio
+		- toilette ferita
+		- fissazione monconi ossei
+		- trattamento vascolare, ortopedico, neurochirurgico
+	- ### post-operatorio
+		- condizioni generali
+		- sindrome da rivascolarizzazione
+		- evitare infezione
+		- controllo pervieta ristabilita

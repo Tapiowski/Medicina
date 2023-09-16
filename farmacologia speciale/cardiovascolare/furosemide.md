@@ -1,0 +1,1 @@
+- derivato da [[sulfonamidi]]

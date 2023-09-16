@@ -1,0 +1,8 @@
+- ## meccanismo d'azione
+	- [[beta-lattamine]] con anello b-lattame fuso e anello a cinque membri insaturo con atomi di C, non S
+	- maggiore spettro tra [[beta-lattamine]]
+- ## classificazione
+	- ### [[imipenem]]
+	- ### [[meropenem]]
+	- ### [[doripenem]]
+	- ### [[ertapenem]]

@@ -1,0 +1,1 @@
+stabilizza [[trombo rosso]]: +consistenza [[tappo coagulativo]]

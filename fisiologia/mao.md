@@ -1,0 +1,2 @@
+degrada [[monoamine]]
+[[monoamina ossidasi]]

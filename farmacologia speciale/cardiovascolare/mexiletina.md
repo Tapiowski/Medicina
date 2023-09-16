@@ -1,0 +1,2 @@
+- analogo [[lidocaina]] con [[tocainamide]] = mda
+- [[aplasia midollare fatale]], [[fibrosi polmonare]]

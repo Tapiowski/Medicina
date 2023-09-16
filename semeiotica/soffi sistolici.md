@@ -1,0 +1,27 @@
+- da eiezione
+	- organici
+		- flusso da ostruzione parziale valvola o vaso a: stenosi aortica, polmonare. flusso turbolento, soffi a rombo, media f, stridente
+		- stenosi aortica: restringimento valvola aorita: soffio sitolico a rombo, irradiato a carotidi 2-4 i, + tono s2, sdoppiamento paradosso s2 se severa
+	- funzionali/anorganici
+		- anemia, febbre, sforzo, ipertiroidismo: + flusso
+		- soffi innocenti, infanti, adolescenza in adulto se iperdinamica
+		- mesosistolici, dolci, 3/6 scompaiono da seduto o eretto
+		- toni cardiaci normali
+		- soffio sistolico polmonare per stenosi v polmonare
+		- soffio si still da insuff nodulare aortica
+		- soffio venoso cervicale
+		- soffi in gravidanza
+- da rigurgito organici
+	- flusso retrogrado da valvola insufficienta: mitrale triscuspidale
+	- soffi olosistolici da reflusso in sistole
+	- soffio da ins mitralica: olosistolico a plateau +f, apice, irradiato ad ascella, 2-4/6, sdoppiamento s2, s3
+	- eziopatogenesi reumatica, disfunzione ischemica mm papillare, prolasso
+	- soffio da prolasso mitralico: telesistolico da incontineza valvolare, click meso o telosistolico
+- extracardiaci
+	- sovraclaveare/brachiocefalico innocente
+	- s carotideo
+	- s mammario
+	- dilatazione aortica
+	- persistenza dotto arterioso di botallo
+	- fistole a-v
+	- coartazione aortica

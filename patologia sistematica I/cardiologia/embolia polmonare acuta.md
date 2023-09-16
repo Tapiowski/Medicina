@@ -1,0 +1,8 @@
+- diagnosi tc
+- ### anamnesi
+	- sede, irradiazione: torace
+	- tipo: trafittivo, oppressivo
+	- scatenato: nessuna, dolore aumenta con atti respiratori
+	- intensita: variabile, non regredisce con riposo, nitroglicerina
+	- durata: variabile, associabile ad infarto polmonare
+	- sintomi associati: dispnea, sincope, cardiopalmo

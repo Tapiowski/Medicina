@@ -1,0 +1,1 @@
+cellule endoteliali con foglietto parietale e viscerale

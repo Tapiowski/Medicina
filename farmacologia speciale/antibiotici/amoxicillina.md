@@ -1,0 +1,8 @@
+- ## adme
+	- semisintetica, simile [[ampicillina]]
+	- maggiore assorbimento, completo
+	- meno attiva per [[shigella]]
+	- concentrazioni plasma 2x, cibo non interferisce, meno diarrea
+	- emivita uguale, maggiore permanenza
+	- 20% albumina, simile
+	- escreta in forma attiva in urine

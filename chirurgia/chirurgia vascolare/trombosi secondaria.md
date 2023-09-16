@@ -1,0 +1,2 @@
+- arteria occlusa per trombosi, embolo, rottura, compressione
+- coagulazione in punto ostruzione a monte o a valle

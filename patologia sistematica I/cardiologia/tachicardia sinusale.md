@@ -1,0 +1,4 @@
+- nodo senoatriale f > 100 bpm, P normale
+	- P negativa in aVR, positiva in v123: [[ritmo sinusale]]
+- QRS stretto se non ho blocco di branca o fascicolare ant o post
+- non dare antiaritmici: meccanismi compenso

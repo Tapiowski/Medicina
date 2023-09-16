@@ -1,0 +1,14 @@
+- [[ansiolitici]], [[sedativi]]-[[ipnotici]], [[gaba]]
+- ## classificazione
+	- ### [[benzodiazepine]]
+	- ### [[derivati non benzodiazepinici]]
+	- ### [[barbiturici]]
+	- ### [[agonisti 5-ht1]]
+	- altri
+		- [[farmaci beta-bloccanti]]: [[propranololo]] e sostituti [[meprobamato]]
+- ## uso th
+	- [[ansia]]
+	- [[insonnia]]
+	- [[epilessia]]
+	- [[anestesia]]
+	- [[miorilassanti]]

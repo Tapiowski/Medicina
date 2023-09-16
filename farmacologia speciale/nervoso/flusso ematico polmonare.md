@@ -1,0 +1,5 @@
+- dipende da [[gittata cardiaca]], [[frequenza cardiaca]]
+- +[[flusso ematico]] = + passaggio [[gas anestetici]] da alveoli a sangue
+- pressioni parziali in sangue arterioso e venoso misto
+	- differenza di tensione diminuisce col tempo mentre il gas passa da alveolo a flusso sanguigno
+		- gradiente di diffusione dimunisce fino a plateau

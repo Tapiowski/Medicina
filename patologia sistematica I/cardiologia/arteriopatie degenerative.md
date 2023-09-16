@@ -1,0 +1,5 @@
+- ### [[aterosclerosi]]
+	- ### [[sindrome di leriche]]
+- ### [[arteriopatia diabetica]]
+- ### [[displasia]]
+- ### [[mal cistica avventiziale]]

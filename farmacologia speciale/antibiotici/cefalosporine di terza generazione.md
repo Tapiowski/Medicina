@@ -1,0 +1,27 @@
+- ## classificazione
+	- ### [[cefotaxime]] bee
+	- ### [[ceftriassone]] bee
+	- ## [[latamossef]] bee
+	- ### [[ceftizoxime]]
+	- ### [[cefpodoxime proxetil, cefditoren pivoxil]]
+	- ### [[cefixime]]
+	- ### [[ceftibuten, cefdinir]]
+	- ### [[cefoperazone]]
+- ## attivita
+	- minore per [[gram+]]
+	- [[enterobacter]], resistenza emergente
+	- [[streptococco]]
+	- [[meningite]], [[beta-lattamasi]]-r
+	- gram-
+		- [[pseudomonas aeruginosa]], [[haemophilus]], [[proteus mirabilis]]
+	- uniche cefalosporine penetratni [[csf]]
+	- eliminate da rene attive -cefoperazone, ceftriaxone
+- ## uso th
+	- serie infezioni di: [[escherichia coli]], [[klebsiella]], [[proteus mirabilis]], [[serratia marcescens]], [[haemophilus]]
+	- [[ceftriassone]]: [[gonorrea]], [[malattia lyme]]
+	- [[cefotaxime]], [[ceftriassone]]: [[meningite]] in imm+ e bambini
+	- /[[vancomicina]], /[[ampicillina]]
+		- [[haemophilus]], [[streptococco#^pneumococco]], [[neisseria#^meningococco]], [[gram-]] enterici
+			- no l monocitogeni, pneumococco-r
+		- [[pseudomonas aeruginosa]]
+	- [[streptococco#^pneumococco]] in comunita

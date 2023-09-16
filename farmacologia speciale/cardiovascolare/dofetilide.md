@@ -1,0 +1,3 @@
+- classe III
+- bloccante Ikr puro, mantiene ritmo sinusale in pz con [[fibrillazione atriale]]
+- torsade, allungamento qt

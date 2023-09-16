@@ -1,0 +1,9 @@
+- sedativi inducenti dipendenza
+	- [[benzodiazepine]]
+	- [[barbiturici]]
+	- [[acido gamma-idrossibutirrico]] ghb
+	- [[etanolo]]
+	- [[oppiacei]]
+	- [[anestetici]]
+	- [[solventi]]
+	- [[steroidi]]

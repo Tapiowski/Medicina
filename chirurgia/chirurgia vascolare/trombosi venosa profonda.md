@@ -1,0 +1,12 @@
+- ## definizione
+	- [[flebite]]
+	- [[flembotrombosi]] [[tvp]]: circolo profondo, mortale
+	- [[trombosi venosa profonda ischemizzante]]
+- ## diagnosi
+	- +valori [[d-dimero]]
+- ## terapia
+	- trombosi prossimali sopra [[legamento inguinale]]
+		- rischio [[embolia polmonare]]
+		- ombrellini da [[filtro cavale]] per prevenire embolia
+	- trombosi distali
+		- [[farmaci anticoagulanti]]

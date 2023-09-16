@@ -1,0 +1,5 @@
+- normale ritmo interrotto da battito anticipato
+- onda P precoce con diversa morfologia
+- seguita da QRS normale non slargato
+- seguita  da pausa P-P non compensatoria, non il doppio
+- ecg: ritmo sinusale, frequenza 60, battiti extrasistolici sopra-v

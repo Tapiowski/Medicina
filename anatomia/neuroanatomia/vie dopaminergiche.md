@@ -1,0 +1,5 @@
+- nel [[snc]]
+	- [[mesolimbico]]
+	- [[mesocorticale]]
+	- [[nigrostriatale]]
+	- [[tuberoinfundibolare]] [[tubero-infundibolare]]

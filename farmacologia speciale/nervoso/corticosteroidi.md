@@ -1,0 +1,22 @@
+- attivita [[antinfiammatori]], sodio ritentiva
+- ## classificazione
+	- potenza antifiammatoria + = ritenzione -
+	- [[betametasone]], [[desametasone]] 25
+		- 0.75 mg, 54 h
+	- [[triamcinolone]], [[metilprednisolone]] 5
+		- 4 mg, 36 h
+	- [[prednisone]], [[prednisolone]] 4
+		- 5 mg, 36 h
+	- [[idrocortisone]]
+		- 20 mg, 18 h
+- ## [[farmaci analgesici]]
+	- [[desametasone]] di scielta: +durata azn, minima attivita [[mineralcorticoidi]]: + atrofia muscolare
+	- 1-2 wk max, alte dosi iniziali: effetti collaterali sfavorevoli
+	- giorni alterni in lungo termine
+- ## indicazioni d'uso
+	- sindrome [[anoressia]], [[cachessia]]
+	- [[astenia]]
+	- [[nausea]], [[vomito]] da chemioth
+	- controllo [[dolore]]
+	- [[edema]], [[infiammazione]]
+	- azn [[euforia]]

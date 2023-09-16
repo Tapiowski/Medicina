@@ -1,0 +1,12 @@
+- arco aortico
+- seno carotideo
+- seno atriale, ventricolare, cardiopolmonare
+- sensibili a stiramento parete vascolare, riempimento cavita cardiache di volume e pressione
+- afferenze a
+	- [[centro vasodilatatore cardioinibitore]], efferenze a cuore, circolo
+	- regolano [[centro vasomotore]]
+		- ipotensione = -trasmissioni impulsi riducenti vasodilazatione: vasocostrizione
+		- ipertrensione = +impulsi: vasodilatazione, bradicardia
+- circolo cerebrale autoregolante
+	- costante in variazioni pressione sistemica
+	- <50 mmhg persa capacita autoregolante: [[sincope]]

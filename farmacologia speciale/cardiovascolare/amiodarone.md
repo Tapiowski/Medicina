@@ -1,0 +1,19 @@
+- analogo [[tiroxina]], [[tachicardia ventricolare]] fibrillazione resistente
+- blocco canali na inattivi, ca, k
+- adrenolitico
+- -v [[conduzione cardiaca]], accoppiamento, cc-cc
+- + pr, qrs, qt
+- ipotensione, nausea, fibrosi polmonare, danno corneale, ipo ipertiroidismo, neuropatia, fotosensibilita, torsade
+- prolunga [[potenziale d'azione miocardio]] con ritardo ripolarizzazione e aumento periodo refrattario
+- alfa-, beta- agonista non competitivo: riduce consumo os: [[farmaci antiaritmici]], [[farmaci anti-anginosi]]
+- ## farmacocinetica
+	- 50% bidisponibile, vs elevato, picco in 6-8 h, ev 14-28 gg: steady state in 6 gg
+	- dose di carico sotto monitoraggio, clearance ridotta 30% presente dopo 30 gg
+- ## th
+	- [[aritmie sopraventricolari]], [[extrasistolia]] atriale e ventricolare
+- ## controindicazioni
+	- gravidanza, ipersensibilita, blocchi conduzione, distiroidismi
+- ## efetti collaterali, tossici
+	- dispnea con polmonite interstiziale, n/v, stipsi, anoressia, aritmie, ipo/ipertiroidismi, depositi corneali, snc, fotosensibilizzazione, torsades des pointes
+- ## interazioni
+	- diuretici ipok, antiaritmici ia-ii, imao, lassativi

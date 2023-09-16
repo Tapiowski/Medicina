@@ -1,0 +1,8 @@
+- Q = vS = v pi R2
+- Q = (piR4 (P1-P2)) / 8nL
+- data differenza di pressione, flusso modificabile modificando resistenza condotto
+- calcolare resistenze sistemiche da differenza di pressione tra aorta e atrio dx:
+	- se diff = 100: flusso 5 l/m, ressitenza 1.2 unita di resistenza
+	- R polmonare 1/10 sistemica
+- fluido newtoniano con moto laminare va da alta pressione a bassa pressione
+	- formazione circoli collaterali, +p a monte delle stenosi

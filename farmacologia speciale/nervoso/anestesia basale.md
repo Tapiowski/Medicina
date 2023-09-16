@@ -1,0 +1,2 @@
+- pre [[anestesia]] = sonnolenza -[[ansia]]
+- riduce necessita per [[anestesia generale]]

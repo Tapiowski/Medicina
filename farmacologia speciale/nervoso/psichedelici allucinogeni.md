@@ -1,0 +1,21 @@
+- inducenti [[dipendenze]]
+	- [[cannabis]]
+	- [[psilocybe]]
+	- [[peyote]]
+	- [[salvia divinorum]]
+	- [[lsd]]
+	- [[mescalina]]
+	- [[fenciclidina]]
+	- [[ketamina]]
+	- [[mdma]]
+- effetti
+	- vista
+		- annebbiamento, distorsione oggetti nello spazio, percezione cambio tratti somatici propri ed altrui
+	- udito
+		- +acuita uditiva, percezione brani musicali come somma di note
+	- tatto
+		- vestiti ruvidi, pelle secca sporca
+- bad trip, flash back fino a 30' durata
+- [[psicosi acuta paranoide]]
+	- [[defenestrazione]]
+	- [[persecuzione]]

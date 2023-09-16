@@ -1,0 +1,4 @@
+- margine ant sternocleidomastoideo
+- accerta attivita cardiaca: ultimo a scomparire
+- prima sede auscultazione soffio
+- [[soffio carotideo]]

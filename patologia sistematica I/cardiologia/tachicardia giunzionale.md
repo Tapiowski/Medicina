@@ -1,0 +1,3 @@
+- negativa in D32, positiva in aVR aVL, negativa in aVF
+- vettore nel triangolo di einthoven da basso ad alto: origine giunzione av
+	- [[tachicardia giunzionale automatica]]

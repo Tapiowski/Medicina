@@ -1,0 +1,7 @@
+- famiglia [[sinucleine]], 140 aa
+- trasporto delle vescicole contenenti [[dopamina]] in terminazioni sinaptiche
+- mutazioni puntiformi in locus PARK1 4q21-23: forma autosomica dominante [[morbo di parkinson]]
+	- aggrega in filamenti in inclusioni citoplasmatiche: [[corpo di lewy]]
+		- elementi diagnostici
+	- non degradabile da sistemi proteolitici ups, ne inibisce funzione: stress proteolitico
+	- cc contenenti suscettibili a stress ossidativo

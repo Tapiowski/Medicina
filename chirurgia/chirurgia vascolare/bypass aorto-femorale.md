@@ -1,0 +1,6 @@
+- materiali sintetici altamente biocompatibili evitano rigetti e coagulazione
+- [[eptfe]]
+	- lisci o corrugati
+- [[bypass femoro-femorale cross over sovrapubico]]
+- [[bypass axillo bifemorale]]
+- [[bypass femoro-popliteo]]

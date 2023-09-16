@@ -1,0 +1,3 @@
+- [[cefalosporine di terza generazione]]
+- se da [[gram-]] multi resistenti a [[beta-lattamine]] usare intratecale, intraventricolare 5 mg [[gentamicina]]/d
+	- [[pseudomonas aeruginosa]], [[acinetobacter]]

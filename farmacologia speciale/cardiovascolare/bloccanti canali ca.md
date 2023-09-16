@@ -1,0 +1,5 @@
+- classe iv [[farmaci antiaritmici]]
+- [[aritmie sopraventricolari]]
+- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+- [[verapamil]], [[diltiazem]]
+- canali N: [[ziconotide]]

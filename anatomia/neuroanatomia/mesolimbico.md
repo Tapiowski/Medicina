@@ -1,0 +1,1 @@
+controllo [[emozioni]], [[memoria]], [[gratificazione]]

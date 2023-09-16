@@ -1,0 +1,9 @@
+- [[testosterone]]
+- [[nandrolone]]
+- potenziano muscolatura e riducono grasso
+- atleti
+	- sollevamento peso, calcio, lotta
+	- trasformamento in due anni
+- effetti avversi
+	- cancerogeni per fegato, dipendenza, modificazione caratteri sessuali
+		- ginecomastia, acne

@@ -1,0 +1,9 @@
+- intervento a cuore aperto
+- circolazione extracorporea per cardioplegia: fermare cuore, lavorare con punti
+- mammaria interna sin da succlavia
+	- staccata da parete toracica
+	- anastomizzata su interventricolare ant
+- radiale
+- vena grande safena
+	- condotto venoso, valvole!
+	- bypass da aorta a vasi malati

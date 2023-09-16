@@ -1,0 +1,13 @@
+- quantificazione gravita funzionale malattia
+- rapporto tra pressione arteriosa, in malleolo o tibiale post o ant o peroniera e pressione arteriosa sistemica su radiale
+	- fino a 50 yo rapporto 1
+		- 120 mmhg / 120 mmhg
+	- pz con ostruzione iliaca comune sin
+		- sistemica a dx 150 mmhg a sin 80 mmhg fino a 45 a valle
+		- 45/120 mmhg = 0.32
+- 1 = pz normale
+- 0.8-0.7 = pz [[claudicatio intermittens]] 500m autonomia
+- 0.5 = 100m autonomia
+- 0.25-3 = dolore a riposo
+- 0.15-0.2 = lesioni trofiche a dita piedi
+- 0 gangrena

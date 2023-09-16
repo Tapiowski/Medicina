@@ -1,0 +1,17 @@
+- rumori endocardici di durata superiore ai toni cardiaci, da moti vorticosi del flusso ematico in cavita cardiaca o grossi vasi
+- possono essere
+	- organici: anatomia
+	- funzionali: + velocita sangue, circolo ipercinetico
+- classificabili in
+	- extracardiaci, cardiaci, sistolici, diastolici, continui sisto-diastolici
+- caratteristiche
+	- frequenza: proporzionale a velocita sangue in sede origine soffio: alta, media, bassa
+	- qualita: dolce, musicale, aspro, rude, pigolante
+	- forma: da intensita e durata, in crescendo decrescendo rombo plateau irregolare
+	- sede irradiazione: valvola, struttura anatomica generante soffio, irradiazione segue flusso sanguigno
+	- intensita soffio scal di levine: da 1/6 a 6/6 udibile o meno
+- ## classificazione
+	- ### [[soffi sistolici]]
+	- ### [[soffi diastolici]]
+	- ### [[soffi continui]]
+	- ### [[sfregamenti pericardici]]

@@ -1,0 +1,3 @@
+- [[recettori alfa-1]], [[recettori alfa-2]] antagonista competitivo reversibile
+- simile [[fenossibenzamina]]
+- induce liberazione [[istamina]] da [[mastociti]]: attenzione in allergie

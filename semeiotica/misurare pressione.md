@@ -1,0 +1,11 @@
+- sfigomamotro: in pt distale a gamba e punto irrorazione
+- arteria insonorizzata
+- percepire flusso con sonda doppler
+	- rumore trifastico normale: flusso demodulato se ostruzione
+- gonfiare sfigmomamotreo, mano su sonda: flusso sparisce: manicotto chiude vaso
+- desuffla lentamente: quando rumore sistolico compare = valore pressione arteriosa a malleolo
+- registrare valore
+- misura al braccio
+	- sonda doppler registra dolo pressione massima, fonendo entrambe
+- pz con ostruzione
+	- no polso arterioso

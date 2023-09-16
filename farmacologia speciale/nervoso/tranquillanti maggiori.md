@@ -1,0 +1,29 @@
+- [[antipsicotici]] DA + 5-HT
+- [[neurolettici]] farmaci per [[psicosi]]
+- [[vie dopaminergiche]]
+- ## patologie
+	- [[schizofrenia]]
+	- [[disturbo delirante]]
+- ## meccanismo
+	- [[antagonisti serotonina]] riducono disordini [[movimento]] provocati da [[antagonisti dopamina]]
+- ## ipotesi dopaminergica [[schizofrenia]]
+	- iperattivita [[dopamina]] nel sistema [[mesolimbico]]
+		- [[levodopa]] e [[amfetamine]] inducono [[psicosi]]
+		- farmaci efficaci: [[antagonisti dopamina]]-d2: saggi di binding
+			- [[clorpromazina]], [[fenotiazine]] da [[antistaminici]] per proprieta [[sedativi]]: antagonista-[[recettori d2]]
+		- + densita [[recettori dopaminergici]] post-mortem in schizofrenici non trattati
+		- pet: + densita [[recettori dopaminergici]] non trattati, [[antipsicotici]] occupano [[recettori d2]] per il 65-89%
+	- [[farmaci antidopaminerci]] = [[antagonisti d2]]
+		- controllano sintomi positivi, peggiorano sintomi negativi per funzionalita corteccia
+		- interazione via [[nigrostriatale]] e [[tuberoinfundibolare]]
+			- collaterali [[parkinsonismi]], [[iperprolattinemie]]
+	- non sufficiente a spiegare malattia
+		- pz resistenti ad [[antagonisti d2]]
+		- [[neurolettici]] classici non curano sintomi negativi
+- ## ipotesi serotoninergica
+	- [[lsd]] [[agonisti 5-ht1]] centrali effetti [[psicotomimetici]]
+	- molecole potenzianti [[serotonina]]: [[fenfluramina]], [[triptofano]] esacerbano sintomi
+	- farmaci [[bloccanti 5-ht2]]: [[ritanserina]], [[ketanserina]] migliorano sintomi negativi
+- ## [[antagonisti serotonina-dopamina]]
+	- migliori per blocco entrambet ipotesi
+	- [[neurolettici atipici]]

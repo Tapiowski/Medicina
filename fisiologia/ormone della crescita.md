@@ -1,0 +1,7 @@
+- effetti
+	- stimola crescita tessuti corpo capaci di crescere
+	- +produzione [[igf-1]] che media effetti [[ormone della crescita]]
+	- su metabolismo
+		- +sintesi proteica: +massa magra
+		- -uso carboidrati in cc
+		- +mobilizzazione acidi grassi liberi e uso acidi grassi per produrre energia: effetto lipolitico

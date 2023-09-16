@@ -1,0 +1,42 @@
+- alterazione inizio o propagazione [[potenziale d'azione miocardio]]
+- [[tachiaritmia]]
+- causa
+	- postdepolarizzazione ritardata: [[battiti ectopici]]
+		- ca in
+	- fenomeno del rientro: blocco parziale [[conduzione cardiaca]]
+		- aree [[miocardio]] depolarizzae, conduzione da risposta lenta ca
+	- attivita ectopica di pacemaker
+		- + da [[simpatico]]
+	- blocco cardiaco
+		- danno av o [[conduzione cardiaca]]
+- clinicamente
+	- sito d'origine: sopraventricolare, ventricolare
+	- aumentano o deprimono ritmo: [[tachicardia]], [[bradicardia]]
+- alterazioni ritmo cardiaco
+	- [[aritmie ipercinetiche]]
+		- +scarica sa
+		- foci ectopici
+		- fenomeni rientro
+	- [[aritmie ipocinetiche]]
+		- -scarica sa
+		- foci ectopici
+		- alterazioni conduzione av
+	- sede
+		- origine cardiaca
+		- origine extracardiaca
+- th
+	- perdita funzione cardiaca
+	- prodromo ad aritmie piu gravi
+	- sintomatologia molesta
+- [[aritmie comuni]]
+	- [[bradicardia sinusale]]
+	- [[extrasistolia]]
+	- [[blocco av]]
+	- [[tachicardia sinusale]]
+	- [[flutter atriale]]
+	- [[fibrillazione atriale]]
+	- [[tachicardia multifocale atriale]]
+	- [[tachicardia ventricolare polimorfa, torsade]]
+	- [[tachicardia atriale con blocco av]]
+	- [[fibrillazione ventricolare]]
+- [[aritmia post-infartuale]]

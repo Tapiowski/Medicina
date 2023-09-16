@@ -1,0 +1,31 @@
+- [[morbo di buerger]]
+- arteropatia ostruttiva cronica non degenerativa da infiammazione vaso
+	- [[fascio vascolo-nervoso]]
+	- a piccolo calibro, [[a tibiale]], [[a poplitea]] e [[a femorale sup]]
+- ## epidemiologia
+	- distribuzione invertita, 20-40 yo fumatori
+		- smettere aiuta da subito
+		- flogosi diminuisce
+		- se arteria chiusa, rimane chiusa
+- ## patogenesi
+	- arterie chiuse da trombi freschi
+	- cc infiammatorie nelle tre tonache con architettura globale conservata
+		- dd [[arteriopatia aterosclerotica]] intima e media distrutte da placca
+- ## quadro clinico
+	- anche vene, [[flebiti superficiali]] o [[flebiti profonde]] migranti: guariscono spontaneamente
+	- senso di freddo, [[parestesia]], alterazione [[annessi cutanei]]
+	- evoluzione rapida, non sempre segue [[fontaine]]
+		- dolore a riposo incoercibile: infiammazione chiuse piccoli vasi del piede: deserto vascolare: no circolo in piede: [[ischemia cronica]] pz in fase 3
+	- [[claudicatio intermittens]] in qualche caso, [[polso femorale]] e [[polso popliteo]] presente, [[polso tibiale]] assente
+	- [[lesioni trofiche]] umide
+	- arti inf ma anche sup
+	- interessamento coronarico come per aterosclerotici
+		- prognosi [[quoad vitam]] sovrapponibile
+		- prognosi arto interessato pessima: perde arto, chirurgia difficile
+			- entrambi arti inf spesso
+- ## diagnosi
+	- biopsia arteria: aspetto [[coda di topo]] fino a deserto vascolare
+- ## th
+	- abolire fumo
+	- [[pireoterapia]]: vasomotoria, fibrinolitica, antifiammatoria, immunosoppressiva
+	- [[simpatectomia lombare]]: 50% casi funziona, ripristina circoli collaterali

@@ -1,0 +1,13 @@
+- ## anamnesi ed esame obiettivo
+	- [[terapia endovascolare]]
+	- [[angiologia]]
+- ## anamnesi
+		- familiare, fisiologica, patologica remota e prossima: specifica per patologia
+- ## esame obiettivo
+		- ispezione, palpazione, percussione, auscultazione
+		- ### [[polsi arteriosi]]
+- ## esami strumentali
+	- ### [[ecodoppler]]
+	- ### [[TC]]
+	- ### [[angiorm]]
+	- ### [[angiografia]]

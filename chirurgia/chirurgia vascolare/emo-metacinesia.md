@@ -1,0 +1,3 @@
+- furto ematico
+- [[artiopatia ostruttiva aorto-iliaca]]
+- circolo collaterale [[a mesenterica inf]]/[[a femorale]]

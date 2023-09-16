@@ -1,0 +1,6 @@
+- anp, atriopeptina, atrila natriuretic peptide
+- [[endotelina]], [[angiotensina I]], [[citochine]] infiammatorie
+- [[cnp]]
+	- da endotelio, vasodilatante
+- [[anp]] atriale, [[bnp]] ventricolare
+	- vasodilatante, natriuretico, antagonizzano vasocostrizione

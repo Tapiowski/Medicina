@@ -1,0 +1,6 @@
+- [[emiplegia]]
+	- [[facio-brachio-crurali]]
+	- [[facio-brachiali]]
+	- [[brachio-curali]]
+- primo motoneurone in corteccia cerbrele
+	- decussa nel bulbo: [[ictus]] a dx si manifesta a sx

@@ -1,0 +1,4 @@
+- colonizzazione microbica, [[infezione]] in [[ustioni]], no per profonde
+- aregento rilasciato lentamente: tossico per microorganismi
+- th per plasma k in ampia superficie
+- [[ustioni]], rash, prurito

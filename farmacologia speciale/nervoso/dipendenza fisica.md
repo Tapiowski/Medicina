@@ -1,0 +1,3 @@
+- condizione di [[tolleranza]] ad assunzione ripetuta di una sostanza, necessita di assumere la sostanza per mantenere [[snc]] in stato di omeostasi ed evitare
+	- [[crisi di astinenza]]: segni e sintomi seguenti brusca sospensione della sostanza con manifestazioni opposte a quelle determinate da sostanza in acuto
+- + se farmaci a breve durata

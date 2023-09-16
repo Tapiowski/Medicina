@@ -1,0 +1,173 @@
+- th antalgica: del [[dolore]], [[cura palliativa]]
+- ## algoritmo th
+	- quando trattare [[dolore]]
+		- pain score NRS 0-10
+		- trattare se > 4
+		- dolore prevedibile: manovre sturmentali, igiene, ..
+		- valutazione quantita e intensita sintomo precede trattamento
+	- come trattare
+		- th non farmacologiche
+		- th farmacologiche
+		- procedure
+		- trattamento in urgenza
+	- per dolore acuto e riacutizzazione dolore cronico
+	- 1 valutzione sintomo
+		- criterio sequenzialita: potenza analgesica crescente
+		- applicabile in ogni condizione in adulto
+	- 2 situazioni di partenza
+		- pz non in trattamento
+			- dolore acuto
+			- cronico
+			- riacutizzazione
+		- pz in trattamento
+			- mancata assunzione th
+			- aggravamento sintomo
+			- altro: frattura, colica, ..
+	- 3 andamento dolore
+		- valuta
+			- disponibilita farmaco
+			- eff collaterali
+			- conguita via somministrazione con condizioni cliniche
+		- programma
+			- successivi controlli
+		- prescrivi
+			- farmaco al bisogno
+	- pz adulto, non in th antalgica
+		- 1 [[paracetamolo]] 1 gr ev in 15 m
+			- [[fans]]: [[ketorolac]] 30 mg ev, im alternativo
+		- 2 15 min rivalutazione dolore
+			- nrs > 4
+				- [[tramadolo]] 100 mg in sf 100 ml ev in 15 m o 20-40 gtt per os
+		- 3 15 min rivalutazione
+			- nrs > 4
+				- [[morfina]] 5 mg ev o 10 mg sc
+		- 4 15 min rivalutazione
+			- nrs > 4
+				- [[morfina]] 2 mg ev, 5 mg sc ogni 10-30' fino a scomparsa dolore
+	- pz in oppiacei
+		- nrs > 8 [[morfina]] 2mg ev o 5 mg sc ogni 10 m
+- ## meccanismi modulatori vie nocicettive
+	- [[via nocicettiva]]
+		- stimolo noxa
+			- + infiammazione, mediatori
+				- -[[nsaids]]
+		- [[fibre c]]
+			- + infiammazione, ngf
+				- - [[oppiacei]]?
+		- eccitazioni di trasmissione neuroni
+			- + infiammazione, neuropeptide
+			- - [[via inibitoria discendente]] e [[oppiacei]]
+			- - [[encefalina]], [[gaba]] internu locali
+			- - [[oppiacei]]
+		- [[dolore]]
+- ## classificazn [[farmaci analgesici]]
+	- ### [[fans]]
+	- ### [[anestetici locali]]
+	- ### [[farmaci oppioidi]]
+	- ### [[farmaci analgesici non oppiodi ad attivita centrale]]
+	- ### farmaci per condizioni particolari
+	- ### futuro
+		- [[agonisti nicotinici]]: analoghi [[epibatidina]]
+		- [[bloccanti canali ca]]-n: [[ziconotide]]
+		- [[nitroaspirine]]
+		- [[inibitori enkefalinasi]]: [[tiorfano]]
+		- [[antagonisti nmda]]
+- ## sito azione in [[via nocicettiva]]
+	- 1. [[nocicettore]]
+		- trasduzione segnale
+			- [[fans]], [[inibitori cox2]]
+		- conduzione
+			- [[bloccanti canali na]]
+		- [[radice dorsale]] ganglio
+	2. sinapsi in [[corna dorsali]]
+		- trasmissione a talamo
+			- [[oppioidi]], [[antidepressivi]], [[fans]], [[anticonvulsionanti]], [[agonisti adrenergici]]-a2, [[inibitori cox2]], [[agenti leganti a2d]]
+		- trasmissione a midollo allungato
+			- afferenza [[corteccia]]
+	3. sinapsi [[nucleo ventrale posteriore laterale]] talamo
+	- proiezione a corteccia, + [[corteccia somatico sensoria primaria]]
+		- [[oppioidi]] su percezione centrale
+- ## metodiche di valutazione pqrst
+	- palliativa: cosa calma il dolore?
+		- sdraiato passa, piego gamebe passa, no farmaci antiinfiammatori, smettere di camminare
+	- provocativa: cosa provoca il dolore?
+		- se sdraio peggiora, se tosse peggio, ciclo, cammino 50 m, sfioro parte, vento, freddo, quando bevo vino bianco
+	- qualitativa: caratterisctiche, [[qualita dolore]]
+	- radiazione: si irradia? dove?
+		- scende da schiena a coscia e polpaccio vin, va sopra clavicola
+	- severita: quanto? scale intensita
+		- [[vas]]
+		- [[nrs]]
+		- [[vrs]]
+		- mantenere < 5 in th
+			- 0-4 lieve
+			- 5-6 moderato
+			- 7-10 severo
+	- tempo: quando?
+		- quanto durea: continuita
+		- dopo quanto tempo ricompare: accessionalita
+			- circadiane giornaliere
+			- settimanali
+			- mensili
+			- annuali
+		- in quanto tempo scompare in th
+	- aggiungere sedi
+- ## obiettivi th
+	- riduzione, abolizione dolore
+		- a riposo
+		- in posizione eretta o movimento
+	- aumento ore di sonno libere da dolore
+	- migliorare qualita di vita
+- ## regole utilizzo [[farmaci analgesici]]
+	- per os
+	- somministrare ad ore fisse
+	- seguire sequenza in somministrazione farmaci
+	- individualizzare trattamenti
+	- dettagliare posologia
+	- controllare i risultati
+	- usare adeguate associazioni farmacologiche
+	- conoscere controindicazioni, effetti collaterali
+- ## scala oms per [[dolore cronico]]
+	- 3 liberta dal dolore
+		- oppioidi per moderato-severo, non oppioidi, [[farmaci adiuvanti]]
+		- + dose [[farmaci oppioidi deboli]]
+		- [[farmaci oppioidi forti]]
+			- [[morfina]], [[fentanil]], [[metadone]], [[ossicodone]]
+		- ricettario in triplice copia autocopiante
+		- ricettario ministeriale a madre e figlia
+		- il sostituto non puo utilizzare il ricettario del titolare
+	- 2 dolore che persiste o cresce
+		- non oppioidi, [[farmaci adiuvanti]]
+		- [[farmaci oppioidi deboli]]
+			- [[codeina]], [[tramadolo]], [[ossicodone]]
+		- possibile bypassare 2 dritti al 3
+			- oppioidi deboli ad alte dosi efficaci quanto forti a basse dosi
+			- indugio nel 2
+	- 1 dolore che persiste o cresce
+		- non oppioidi, [[farmaci adiuvanti]]
+		- [[aspirina]], [[paracetamolo]], [[fans]]
+	- th mediche fondamento, inizio con schemi piu semplici
+	- intensita e caratteristiche del dolore guidano il farmaco
+	- [[farmaci oppioidi]]
+	- ### farmaci utilizzati
+		- [[farmaci oppioidi forti]]
+		- [[farmaci oppioidi deboli]]
+		- [[farmaci adiuvanti]]
+		- [[fans]]
+		- [[paracetamolo]]
+- ## th [[dolore neuropatico]]
+	- th [[dolore episodico intenso]]
+		- non trattabile modificando th di base
+		- non legato a non risposta oppioidi
+		- non legato a th di base non adeguata
+		- necessita trattamento specifico: rapporto efficacia/tollerabilita
+		- trattamento che favorisca discesa ardita invece che risalita del dei
+		1 [[terapia analgesica di base]] che copra anche i dei
+		2 [[farmaci oppioidi a pronto rilascio per os]]: [[morfina rapida per os]]
+		3 trattamento al bisogno -base
+	- vie rapide
+		- parenterale
+			- ev invasiva, osservazione
+			- sc lenta, ago-canula
+		- transmucosale rapida, semplice
+			- [[citrato di fentanyl transmucoso]] orale

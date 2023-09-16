@@ -1,0 +1,8 @@
+- ritmo piu alto non garantisce frequenza adeguata
+- ritmi bassi
+- deficit nodo del seno o scappavemnto ventricolare
+- nei pz cardio operati
+- 45 bpm, asintomatici
+- [[competenza cronotropa]]
+	- [[ritmo sinusale]]?
+	- pacemaker se [[fibrillazione atriale]] bloccata

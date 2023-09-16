@@ -1,0 +1,3 @@
+- ev 7-9 h
+- /[[primetamina]]: profilassi, cura [[malaria]] se [[plasmodium]]-r
+	- reazioni a [[morte]], resistenze: uso limitato

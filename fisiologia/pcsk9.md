@@ -1,0 +1,3 @@
+- proteina [[pcsk9]] lega recettore ldl epatico, internalizzata in epatocita: recettore degradato: regola colesterolo recuperato dal sangue: -pcsk9 = + recettori: fegato capta tanto ldl = - colesterolo nel sangue
+	- loss of function: sani, basso colesterolo, no aterosclerosi
+	- iperespressione: ++ colesterolo, manifestazioni a 20 anni

@@ -1,0 +1,1 @@
+normale asse elettrico, sua durata

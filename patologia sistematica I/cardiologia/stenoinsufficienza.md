@@ -1,0 +1,2 @@
+- valvola rigidam non apre e chiude bene
+- da [[stenosi]] e [[insufficienza]]

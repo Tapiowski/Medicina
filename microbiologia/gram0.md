@@ -1,0 +1,25 @@
+- ## spirochetes, troppo sottili
+	- leprospira interrogans
+	- [[treponema pallidum]]
+	- ![[borrelia]]
+- ## pleomorfici, no parete cc
+	- urease+
+		- ureaplasma urealyticum
+	- ![[mycoplasma]]
+- ## intracc ^intracc
+	- obbligati intracc
+		- ![[clamidia]]
+		- rickettsia
+			- rickettsia rickettsii
+			- rickettsia prawazekii
+			- rickettsia typhi
+		- anaplasma
+		- coxiella burnetti
+		- erlichia chafteensis
+	- prevalentemente intracc
+		- [[legionella pneumophilia]]
+		- bartonella
+			- bartonella bacilliformis
+			- bartonella quintana
+			- bartonella henselae
+		- ![[mycobacterium]]

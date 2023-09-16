@@ -1,0 +1,9 @@
+- derivato [[tirosina]]
+- [[diidrossifenilanina]], [[da]]
+- [[recettori dopaminergici]]
+- pompa uptake
+- via [[nigrostriatale]], [[striatopallidale]]
+- terminazione dopaminergica in [[nucleo striato]]
+	- via sintetica [[catecolamine]] + reuptake
+	- degradazione via [[mao-b]] presinaptico e [[comt]] post sinaptico
+	- lega [[recettori dopaminergici]]

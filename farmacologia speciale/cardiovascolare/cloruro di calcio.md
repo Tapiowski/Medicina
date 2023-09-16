@@ -1,0 +1,1 @@
+- [[farmaci antiaritmici]] in [[aritmie ventricolari]] da [[iperkalemia]]

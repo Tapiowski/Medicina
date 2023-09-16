@@ -1,0 +1,3 @@
+- polimorfismi genetici
+	- -risposta ad [[etanolo]]
+	- +incidenza [[alcolismo]]

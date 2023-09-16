@@ -1,0 +1,3 @@
+- simil [[moxifloxacina]] +[[pseudomonas aeruginosa]]. -b fragilis
+- +biodisponibilita, eliminata in rene
+- solo per [[congiuntivite]]

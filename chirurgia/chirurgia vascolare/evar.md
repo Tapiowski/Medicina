@@ -1,0 +1,8 @@
+- endo-vasculare [[aneurisma]] repair
+- anestesia locale in radioscopia: mezzo di contrasto
+- pungere arteria per via percutanea o isolazione chirurgica
+- passare guida e su questa guida passare [[introduttore]]
+- rilasciato in modo che protesi autoespanda
+- sfilare guaina, protesi espande in aorta sana e si ancora con uncini
+	- protesi autoespandibile
+- gamba aggiuntiva controlat poi inserita

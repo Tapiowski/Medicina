@@ -1,0 +1,4 @@
+- da [[a carotide comune]], [[biforcazione carotide comune]] in cartilagine tiroidea
+	- [[a carotide in]] > [[a cerebrale media]] > cervello
+	- [[a carotide ex]] > 7 collaterali > massiccio facciale
+		- differenza con in: rami collaterali in collo

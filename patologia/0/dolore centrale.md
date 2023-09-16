@@ -1,0 +1,1 @@
+da lesioni strutture centrali somato-sensoriali: accidente cerebro-vascolare, [[sclerosi multipla]]

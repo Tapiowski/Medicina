@@ -1,0 +1,7 @@
+- assorbito, escreto rapidamento, solubile: -tossico rene
+- lega proteine, 2-4 dose, picco 100-250 ug/ml, 2-4 h
+- 30% in forma acetilata, eliminato 95% in 24 h, rene
+- battericida in [[urine]], [[csf]] 1/3
+- orale, no sapore
+- /[[eritromicina]] etilsuccinato per [[otite]] media
+- rara ematuria, cristalluria per solubilita: assumere h2o

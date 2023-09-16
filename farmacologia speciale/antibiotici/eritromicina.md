@@ -1,0 +1,15 @@
+- batteriostatica, battericida in concentrazione
+- [[streptococco]], [[streptococco#^pneumococco-r]]
+- [[gram+#^bacilli]]: [[clostridium]], corynebacterium diphtariae, [[listeria monocytogenes]]
+- p multocida, [[borrelia]], [[bordatella pertussis]], [[campylobacter jejuni]], [[mycobacterium]], [[legionella pneumophilia]], [[clamidia]]
+- non attiva vs
+	- stafilococco, s aureus macrolide-r, aerobi gram- bacilli
+- meno attiva vs
+	- [[haemophilus]], [[neisseria#^meningococco]], [[neisseria#^gonorrea]]
+- ## adme
+	- assorbita in tenue, inattivata da acido gastrico: enteric-coated tabltets, capsule dissolvono in duodeno, cibo rallenta
+	- esteri di eritromicina base: stereato, estolato, etilsuccinato, +stabili
+	- buona diffusione, -csf e cervello
+	- 80% legato meglio per estolato, placenta, 20% feto, 50% latte
+	- concentra in fegato, escreta in bile, ev 1.6 h
+	- 1-2 g/d ogni 6h, non cibo, iv severa

@@ -1,0 +1,3 @@
+- stimola liberazione ca: +contrazione [[miocardio]], + rilasciamento mm [[vasi]]
+- per aumentare concentrazione
+	- stimolare [[adenilato ciclasi]], [[inibitori pde]]

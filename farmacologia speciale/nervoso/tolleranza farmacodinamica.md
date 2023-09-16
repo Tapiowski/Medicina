@@ -1,0 +1,11 @@
+- alterazioni
+	- recettoriali
+		- down regulation
+			- internalizzazione
+			- minore affinita
+		- [[tolleranza crociata]]
+			- agonisti recettoriali
+	- post recettoriali
+		- secondi messaggeri
+		- [[tolleranza crociata]]
+			- comuni mediatori intracc

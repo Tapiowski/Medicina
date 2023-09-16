@@ -1,0 +1,1 @@
+dolore da stimoli nocivi, segue lesione tessutale

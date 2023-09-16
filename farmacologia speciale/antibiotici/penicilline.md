@@ -1,0 +1,58 @@
+- ## nucleo penicillinico
+	- A anello tiazolidinico
+	- B anell B-lattame
+- ## catena laterale R
+	- inattivano enzimi b-lattamasi, modulano proprieta farmacologiche
+- ## proprieta generali
+	- dose orale, distribuzione in tutto il corpo
+	- non penetrano cc fagocitiche
+	- meno presenti in [[snc]], secrezioni prostatiche, fluido intraoculare
+	- concentrazione in [[csf]] 1% che in plasma, 5% in [[meningite]]
+	- eliminati in rene per filtrazione glomerulare, secrezione tubulare
+		- ev 30-90 m, alta concentrazione urinaria
+- ## classificazione
+	- ### [[penicillina G, V]]
+	- ### [[penicilline penicillasi-resistenti]]
+	- ### [[aminopenicilline]]
+	- ### [[penicilline anti-pseudomonas]]
+- ## reazioni avverse
+	- ### ipersensitivita
+		- comune causa allergie
+		- rash maculopapulare, urticale, cutaneo 9%
+		- febbre, broncospasmo, [[vasculite]], malattia siero igg se > 1 wk, dermatite esfoliativa, steven-jonson snd
+		- 0.001% [[morte]]: anafilassi, angioedema
+		- interruzione th rimuove manifestazioni, permangono per 2 wk
+		- cross-ipersensitivita a [[cefalosporine]] e [[carbapenemi]]
+		- prodotti metabolici
+			- apenti dopo legame covalente con proteine
+			- MDM in apertura b-lattame, ige, igm, in tutti i pz
+	- ### pz allergico
+		- storia pz
+		- 90% allergici non hanno immediata ipersensitivita: penicillin skin testing non sufficiente per minori determinanti
+		- graduale aumento dose
+			- raggiunta th max non interrompere per ricominciare a dose m
+		- ignorare rash maculopapuplare in [[endocardite]], [[meningite]]
+			- risolve in th, igg/ab
+			- [[vasculite]], dermatite esfoliativa
+	- ### altre
+		- tossicita diretta minima
+			- [[oxacillina]], [[nafcillina]]
+				- depressione midollo osseo, granulocitopenia, epatite
+			- [[piperacillina]], [[penicillina G, V]]
+				- minore emostasi per minore aggregazione piastrinica
+		- IM dolore, reazione infiammatoria sterile
+		- IV flebite, tromboflebite
+		- O nausea, vomito, diarrea
+		- infusione
+			- nervo sciatico: dolore, disfunzione
+			- intratecale: [[morte]] [[encefalopatia]]
+			- iv [[csf]]: disfunzione [[snc]]
+				- iperkalemia fatale se 20m unita rapidamente
+			- accidentale iv invece che im
+				- [[penicillina G, V]] [[procaina]] reazione immediata: nausea, tintinnio, mal di testa, allucinazioni, convulsioni
+				- liberazione [[procaina]] tossico
+		- iv [[penicillina G, V]] benzatine: [[arresto cardiorespiratorio]], [[morte]]
+	- ### reazioni non da ipersensitivita o tossicita
+		- elimina microrganismi sensibili in [[flora gi]]
+		- superinfezione possibile
+		- O colite pseudomembranosa da crescita e tossine [[clostridium#^difficile]]

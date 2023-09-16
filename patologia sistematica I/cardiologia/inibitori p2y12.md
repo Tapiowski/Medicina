@@ -1,0 +1,2 @@
+- [[ticagrelor]] reversibile
+- [[tienopiridine]]

@@ -1,0 +1,2 @@
+- non derivata da amfetamine
+- no attivita simpaticomimetica

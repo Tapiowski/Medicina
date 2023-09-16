@@ -1,0 +1,6 @@
+- [[troponina]]
+	- [[sindrome coronarica acuta]]
+	- [[infarto miocardico]]
+	- [[angina instabile]]
+	- [[ischemia]]
+	- [[embolia polmonare acuta]]

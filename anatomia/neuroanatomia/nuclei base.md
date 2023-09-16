@@ -1,0 +1,20 @@
+- facilitano, controllano movimento
+- influenzati da [[efference copy]] per valutazione errore
+- avviano cammino
+- correlano movimento a emotivita motivazione
+- [[nucleo caudato]]
+- [[putamen]]
+- [[substantia nigra]]
+- circuito
+	- [[corteccia cerebrale]]
+		- [[nucleo striato]]
+			- [[recettori d1]]
+				- affluenza + da [[substantia nigra]]-[[pars compacta]]
+				- efferenza - [[gaba]] a [[globus pallidus]]-parte interna e [[substantia nigra]]-[[pars reticulata]]
+					- efferenza [[gaba]] a [[nucleo ventrale anteriore]], [[nucleo ventrale laterale]] [[talamo]]
+						- efferenza [[glutammato]] a [[corteccia cerebrale]]
+			- [[recettori d2]]
+				- affluenza - da [[substantia nigra]]-[[pars compacta]]
+					- effluenza - [[gaba]] [[globus pallidus]]-parte ext
+						- eff [[gaba]] a [[nucleo subtalamico]]
+						- aff [[glutammato]] da [[nucleo subtalamico]]

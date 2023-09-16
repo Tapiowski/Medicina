@@ -1,0 +1,7 @@
+- su piega inguinale, 1cm med a punto di mezzo spina iliaca ant e sup a tubercolo pubico
+- terza sede auscultazione soffi
+	- soffio = stenosi a monte
+	- stenosi iliaca esterna sin o dx se monolat
+	- stenosi aortica, coartazione aortica, stenosi iliaca bilat se bilat
+- ecodoppler o ultrasuoni
+- [[fascio vascolo-nervoso inguine]]

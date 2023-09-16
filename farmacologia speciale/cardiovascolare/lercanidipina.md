@@ -1,0 +1,3 @@
+- ## meccanismo d'azione
+	- attraversa membrana, accumula in compartimento lipidico, diffonde a [[canali calcio]]
+	- rimozione rapida da plasma, lunga durata

@@ -1,0 +1,129 @@
+- mp, pd
+- malattia neurodegenerativa
+- eziologia sconosciuta
+- sporadica, rara eredita mendeliana con difetto genetico <10%
+- ## incidenza
+	- aumenta con eta
+	- 1% pop tra 65-69 anni
+	- 3% pop > 80 anni
+	- 1.5m in usa, 120k uk, 200k ita
+	- + maschi
+- ## sintomi
+	- [[rigidita]]: braccia, gambe, collo
+	- [[bradicinesia]]
+	- [[tremore]] a riposo
+	- [[instabilita posturale]]: postura inclinata
+	- [[lentezza]]
+	- [[deambulazione alterata]]
+	- secondari, disturbi non motori
+		- depressione, disturbi sonno, - peso
+		- ipotensione ortostatica
+		- incurvamento spalle
+		- gonfiore piedi, edema
+		- [[blefarospasmo]]
+		- - eloquio
+		- [[scialorrea]]
+		- [[disfagia]]
+		- problemi respiratori
+		- stipsi
+		- disturbi minzione
+		- problemi sex
+		- + sudorazione
+- ## stadi della malattia
+	- se trattata ha decorso rallentato, comune a patologie cronico degenerative, th farmacologica razionale ha ridotto mortalita
+	- stadiazione clinica della malattia di parkinson, hoehn e yahr
+		- i stadio: segni unilaterali
+		- ii stadio: segni bilaterali
+		- iii stadio: alterazione postura, sbilanciamento
+		- iv stadio: severa instabilita
+		- v stadio: pz costretto a letto
+- ## storia naturale malattia
+	- non trattata
+	- [[rigidita]] a tubo di piombo
+	- [[acinesia]]
+	- incapacita di avere cura di se
+	- [[demenza]] 20%
+	- [[morte]] per complicanze [[immobilita]]: piaghe da decubito, embolia polmonare, polmonite da aspirazione, polmonite ipostatica
+- ## cause
+	- antagonismo [[recettori d2]]
+	- genetiche 25%
+	- fattori ambientali
+		- neurotossine distruggenti nu [[dopaminergico]] [[nucleo striato]]
+	- stress ossidativo
+		- +danno, -difesa
+	- disfunzioni mitocondriali
+		- - + funzione mt
+	- eccitotossicita
+		- danno da nu eccitatori: [[glutammato]], [[aspartato]]
+- ## cause
+	- genetica, tossine
+		- [[a-sinucleina]] AD
+		- [[parkina]] AR-JP
+		- [[uch-l1]]
+		- [[mptp]] sporadico
+		- [[6-ohda]]
+		- [[rotenone]]
+	- stress ossidativo
+		- in [[substantia nigra]] anche fisiologici, aumentata in parkinson
+		- da metabolismo [[dopamina]]
+			- degradazione da enzima [[mao]] produce [[h202]] per [[mao-b]]
+				- +[[gssg]]: danno a sistema antiossidante per [[glutatione perossidasi]]
+				- + [[oh.]], [[o2.-]], [[oh-]]
+					- reazione possibile in presenza di ferro libero
+					- in patologia: [[no]] induce distacco ferro da [[ferritina]]: +fe libero cc
+						- in [[dopaminergico]], cellule [[gliali]]
+		- attivazione [[microglia]] in [[infiammazione]]: morte nu [[dopaminergico]] per rilascio azoto reattivo e specie ossigeno tossiche
+	- eccitotossicita
+		- [[ictus]] da [[glutammato]]: ischemia, accumulo e rilascio glu, lega [[nmda]]: eccessivo influsso na, ca in posts: rilascio glu da posts, morte posts: cascata tossica
+	- soglia per instaurarsi parkinsonismo
+		- con eta, %[[dopamina]] [[nucleo striato]] diminuisce
+		- calo accelerato se tossine ambientali [[ros]], [[rns]], cause genetiche, traumi cerebrali
+- ## causa perdita cc [[dopamina]]
+	- ### acuta
+		- agenti neurotossici agiscono su complesso 1 mt
+			- [[mptp]], [[6-ohda]], [[paraquat]], [[rotenone]]
+			- stress ossidativo, eccitotossicita, apoptosi
+			- morte nu [[dopamina]]
+		- [[lactacysin]]
+			- 26s proteosoma > proteine non degradate
+			- morte nu da, LBs
+		- deficit motori, LBs
+	- ### progressiva
+		- motor deficits, lb, inclusioni non fibrillari a-sin
+		- morte nu [[dopamina]], lb???
+		- protofibrille e fibrille tossiche
+		- alterata conformazione [[a-sinucleina]]
+			- transgenica
+				- wt a-sin
+				- a53t a-sin
+				- a30p a-sin
+			- non transgenica, lentivirus aav
+				- wt
+				- a53t
+				- a30p
+- ## classificazione
+	- nigro: [[substantia nigra]] pars compacta, [[nucleo striato]]: movimento, sintomatico
+	- meso-corticale: movimento, sintomatico
+	- meso-limbica: tono umore, sintomatico
+	- tubero-infundibolare: asse ipotalamo-ipofisi: dopamina inibisce [[prolattina]], eff collaterale di farmaci
+- ## circuiti neuronali coinvolti
+	- [[vie dopaminergiche]]
+		- [[nigrostriatale]]
+		- [[mesolimbico]], [[mesocorticale]] ?
+		- [[nuclei base]], strutture associate
+			- [[nucleo striato]]
+			- [[globus pallidus]]
+			- [[substantia nigra]]
+		- [[catecolamine]]: [[dopamina]]
+- ## meccanismi eziopatogenetici
+	- dopamina > dopamina transporter > da ossidazione > [[a-sinucleina]]
+		- misfolded a-sinucleina > [[corpo di lewy]] > tossicita
+		- stress ossidativo > mt > tossicita
+		- mutazioni
+			- dj-1, pink1 > mt > tox
+			- reticolo ep > paelr > accumulo [[paelr]] > tox
+			- [[uch-l1]] > [[ubiquitina]]
+		- o-glicosilazione > a-sp22 > [[parkina]]
+			- paelr, ciclina e, altri substrati, sinaptotagmina
+				- ubiquitina-proteosoma > prodotti di degradazione da parkina
+		- = morte neurone

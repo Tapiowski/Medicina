@@ -1,0 +1,5 @@
+- antagonista competitivo dei recettori [[aldosterone]] in [[miocardio]], parete [[vasi]], [[rene]]
+- diminuisce rischio [[morte]] del 30% rispetto al placebo
+- lento in giorni
+- inibizione recettori citoplasmatici [[mineralcorticoidi]] in [[dotto collettore]]
+	- inibizione sintesi [[trasporto transmembrana soluti]] atpasi na/k

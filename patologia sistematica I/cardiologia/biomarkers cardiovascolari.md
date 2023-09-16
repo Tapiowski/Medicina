@@ -1,0 +1,7 @@
+[[troponina]]: [[cardiopatia ischemica]]
+[[d-dimero]]: [[embolia polmonare]]
+[[pro-lpl]]: [[scompenso cardiaco]]
+- [[ck-mb]]
+- [[mioglobina]]
+- [[lattico deidrogenasi]]
+- [[cpk]]

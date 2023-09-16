@@ -1,0 +1,5 @@
+- [[recettori alfa-1]], [[recettori alfa-2]] legame covalente irreversibile
+- -[[resistenza periferica]]
+- attivazione [[simpatico]] riflesso
+- + [[frequenza cardiaca]], [[gittata cardiaca]], [[ritenzione liquidi]]
+- effetti amplificati da blocco feedback- presinaptico [[recettori alfa-2]]

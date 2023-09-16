@@ -1,0 +1,15 @@
+- [[aritmia]] post [[infarto miocardico]], blocco, insufficienza
+- blocca na-ch aperti e chiusi, inward rectifier
+- - automaticita
+- nistagmo, tremori, convulsioni, disrtria, alt coscienza
+- ## meccanismo d'azione
+	- blocca na-ch aperti e refrattari, dissociazione rapida
+		- blocco progressivo, previene battiti prematuri, anche in danno [[miocardio]]
+- ## farmacocinetica
+	- ev 2 h, metabolismo fegato di primo passaggio
+- ## th
+	- [[aritmia post-infartuale]], [[battiti prematuri]]
+	- [[aritmie ventricolari]]
+- ## effetti collaterali, tossici
+	- alterazioni sensorio: sonnolenza, disorientamento
+	- convulsioni

@@ -1,0 +1,148 @@
+- [[ECG]]
+- elettrocardiografia = attivita elettrica cuore
+- corrente elettrica
+	- genera in nodo senoatriale
+	- propaga in vie interatriali depolarizzando atri
+	- nodo atriovent, his, branche depolarizza purkinje
+	- miocardio di lavoro
+	- = contrazn miocardio, + p intracamerale, flusso ematico ad aorta e a polmonare
+- nodo senoatriale
+	- pacemaker + capacita autoeccitamento
+	- autodepolarizzazione da na, ca
+	- -60 mv, +20 mv
+- mm cardiaco
+	- eccitazione da endocardio ad epicardio, epicardio repolarizza prima
+- complesso qrs
+	- depolarizzazione
+- onda t
+	- ripolarizzazione ventricolare
+	- in tessuto ventricolare t ha direzione opposta
+- ## fibrocellula
+	- a riposo
+		- interno elettronegativo, ext positivo
+		- elettrodo registra isoelettrico: no differenza di potenziale
+	- eccitazione
+		- interno positivo: na, esterno negativo
+		- coda del vettore -, testa +
+		- depolarizzazione da endocardio ad epicardio: deflessione positiva
+	- ripolarizzazione
+		- da int elettropositivo, epicardio torna a stato di riposo: diviene -
+		- coda vs meno e testa verso +:
+	- ### einthoven:
+		- due elettrodi: polo positivo e negativo a galvanometro: registra diff di potenziale in onde
+			- torace conduttore sferico omogeneo con cuore al centro
+			- forze elettriche cardiache originano da centro conduttore
+			- risultante di forze rappresentabile da vettore unico
+			- punti di unione tra arti e tronco cono vertici di un triangolo equilattero in sezione longitudinale torace sferico
+		- ### tre derivazioni piano frontale
+			- ### [[derivazioni bipolari su piano]]
+				- D1 polo - in braccio dx, polo + braccio sin
+				- D2 polo - braccio dx, polo + gamba sin
+				- D3 polo - braccio sin, polo + gamba sin
+				- ![[Pasted image 20230207104525.png]]
+			- ### [[bisettrici derivazioni unipolari]]
+				- ![[Pasted image 20230207104650.png]]
+		- ### [[derivazioni precordiali unipolari]], piano trasversale
+			- V1: IV ic dx su parasternale
+			- V2: IV ic sin parasternale
+			- V3: tra V2 e V4
+			- V4: V ic sin emiclaveare
+			- V5: V ic sin ascellare ant
+			- V6: V ic sin su ascellare media
+- ## carta elettrocardiografica
+	- ascisse
+		- tempo, v = 25 mm/s, 1 mm = 0.04 s
+	- ordinate
+		- voltaggio 10 mm = 1mV
+		- altezza = mm eccitata: + alto + massa mm
+	- ordine
+		- nodo del seno
+		- propagazione ad atri per vie interatriali
+		- depolarizz atrio P
+		- nodo atrioventricolare frena attivazn ventricoli per garantire depolarizz completa atri PQ
+		- nodo atrioventricolare
+		- attivazn branche fascio his
+		- miocardio di lavoro QRS: attivazn ventricolare: fase 0
+		- fase 1234 ripolatizzazione: onta t, tratto st
+	- onde
+		- P atri
+		- Q deflessione iniziale negativa
+		- R deflessione positiva
+		- S deflessione negativa segue R
+		- T deflessione da ripolarizzazione ventricolare
+		- U onda ripolarizzazione purkinje
+		- R' seconda onda positiva r < 5 mm
+		- QS unica deflessione negativa se non ho R
+	- intervalli
+		- PQ, PR: 0.12-0.20 s
+		- QRS < 0.12 s 3 quadtratini
+		- QT corretto per f cardiaca in base QT = QT/radice R-R: 0.35-0.44 s
+	- ### cosa guardare
+		- tracciato ritmico?
+			- R-R costante e uguale
+			- frequenza cardiaca, calcolo bpm
+				- numero di quadrati da 5mm R-R / 300
+				- frequenzimetro
+					- freccia su primo QRS, salto il secondo, dove cade il terzo?
+		- tracciato non ritmico
+			- calcolo bpm
+				- numero QRS in 15 cm di carta (6s) x 10: f cardiaca media
+		- ritmo sinusale?
+			- nasce dal seno-atriale?
+			- vettore attivante atri ha asse da 0-90' in triangolo einthoven
+				- onde P con questa polarita ritmo sinusale:
+					- +D1
+					- +D2
+					- +-D3
+					- -aVR
+					- +aVF
+					- +aVL
+			- P in D1 e aVR: sinusale con -aVL per cuore verticalizzato
+			- tracciato aritmico sinusale solo in aritmia sinusale respiratoria
+		- onda P = voltaggio
+			- se > 2.5 mV +dimensioni atrio dx
+			- se > 0.12 s 4mm P mitralica + dimensioni atrio sin
+		- conduzione atrio ventricolare normale?
+			- P seguita da QRS, intervallo P-QRS allungato o normale
+			- PQ-PR tra 0.12 s e 0.20 s
+				- preecitazione ventricolare, conduzione nodale accellerata se < 0.12 s
+				- via accessoria bypass nodo atrio-ventr
+				- onda delta accessoria wolff-parkinson-white
+			- blocco atrio-ventricolare > 0.20 s
+		- QRS normale?
+			- direzione vettore, durata, ampiezza
+			- attivazione ventricoli ha vettore complessivo tra -30 e 120'
+			- deviazioni dx, sin, estrema dx, sin
+		- direzionalita asse elettrico cardiaco medio
+			- 3 derivazioni bipolari: ampiezza qrs vs positivita
+			- tutte derivazioni periferice, sia bipolari che unipolari, su piano frontale, spostare origine al centro
+			- analisi qrs
+				- derizacioni piano frontale, quale ha meno scarto tra positivo e negativo
+				- asse elettrico perpendicolare a questa derivazione
+				- se derivazione - asse eletrico in sua proiezione
+		- durata qrs
+			- 0.08-0.12 s
+			- se > 0.12 s ipertrofia ventricolare sin, blocchi conduzione intraventricolare, pacemaker, si slarga se velocita di conduzione inferiore
+		- voltaggio qrs
+			- indice ipertrofia vs
+			- sokolow-lyon: onda S in V1 + onda R in V5-V6 > 35 mm
+			- cornell: (onda R in aVL + onda S in V3) x durata qrs < 2440mm\*ms
+		- analisi tratto ST, onda T, QT
+			- dopo S punto di ritorno isoelettrica = punto j
+			- tratto ST fase tra depolarizzazione dei ventricoli e ripolarizzazione, deve giacere su isoelettrica
+			- onda T parte terminale ripolarizn ventricoli con branche asimmetriche: no triangolo isoscele
+				- stesso verso qrs tranne che in v1-2-3, non si allontani da +45'
+				- durata superiore e ampiezza inferiorea qrs
+					- desincronizzazione ripolarizzazione
+			- QT corretto con f cardiaca QT=QT/radice RR non inferiore a 0.35 s, non superiore a 0.35 s
+		- referto di un tracciato
+			- ritmico
+			- sinusale: +D1, -avR
+			- Fc: 300/3.2 = 94 bpm
+			- conduzn AV : PQ = 0,12 s normale
+			- conduzn IV: QRS 2 quadratini = 0.08 s normale, isodifasica in D1, asse elettrico aVF 90'
+			- ripolarizzazione: branche asimmetriche in tutte onde T, QT= 0.42 s normale
+- ## patologie
+	- ### [[cardiomiopatia ischemica in fase acuta]]
+	- ### [[patologie coronarie]]
+	- ### [[anomalie cardiache congenite]]

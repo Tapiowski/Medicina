@@ -1,0 +1,2 @@
+- azn centrale, agonista indiretto [[gaba-a]]
+- scarsa selettivita

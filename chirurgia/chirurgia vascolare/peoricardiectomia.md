@@ -1,0 +1,1 @@
+- rimozione materiale calcifico intorno al cuore che ostacola attivita cardiaca costringendo cuore in guscio duro

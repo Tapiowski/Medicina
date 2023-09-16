@@ -1,0 +1,1 @@
+alterazioni componente sensitiva

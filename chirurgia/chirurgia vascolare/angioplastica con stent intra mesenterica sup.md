@@ -1,0 +1,5 @@
+- punge [[a femorale]] o [[a brachiale]]
+- guida controllo radioscopico
+- [[aorta]]
+- [[a mesenterica sup]]
+- catetere, rilascio [[stent]]

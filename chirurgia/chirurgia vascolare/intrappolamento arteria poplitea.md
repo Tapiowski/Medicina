@@ -1,0 +1,32 @@
+- congenita
+- compressione estrinseca intermittene [[a poplitea]] da tendine capo mediale mm gastrocnemio [[gemello int]] o altra formazione in [[losanga poplitea]]
+- stuart, 1870
+- 20-30 yo
+- entrapment poplitea
+	- tipo 1 a mediale al capo mediale del gastrocnemio
+	- tipo 2 inserzione lat a capo med
+	- tipo 3 banda accessoria capo med
+	- tipo 4 arteria sotto mm popliteo
+- ## patogenesi
+	- iperestensione ginocchio o piede
+	- tension mm gastrocnemio
+	- compressione [[a poplitea]]
+		- intermittente, trauma ripetuto su parte arteria
+		- ispessimento fibrotico
+		- stenosi, trombosi
+		- dilatazione post stenotica
+			- frammenti trombotici embolizzano a valle: ischemia acuta arto
+	- chiusura arteria nel giovane grave
+		- arteropatia parafisiologica: collaterali potenziati nell'anziano
+- ## diagnosi
+	- dorsiflessione piede: scompare [[polso tibiale]] ant e post
+		- a riposo presente
+	- in dorsiflessione forzata sparisce segnale doppler: provocativa
+	- quadro angiografico: normale a riposo, stenosi in dorsiflessione
+	- angiotc, angiorm
+	- ecodoppler
+- ## terapia
+	- chirurgica
+		- resezione struttura comprimente tendine mediale
+		- esplorazione arteria poplitea
+		- se lesione o trombosi: resezione + innesto o bypass autologo

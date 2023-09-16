@@ -1,0 +1,16 @@
+- l
+	- muscolo e neuroni
+	- blocco da [[verapamil]]
+	- long lasting, alta soglia
+- t
+	- cuore e neuroni
+	- blocco da [[flunarizina]]
+	- short lastin, bassa soglia
+- n
+	- neuroni
+	- blocco da [[ctx]]
+	- short, alta soglia
+- p
+	- neuroni purkinje cerebellari
+	- blocco da [[ctx]]
+	- long, alta soglia

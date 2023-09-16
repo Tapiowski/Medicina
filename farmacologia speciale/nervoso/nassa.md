@@ -1,0 +1,2 @@
+- mianserina, mitrazapina
+- antagonisti [[serotonina]], [[noradrenalina]]

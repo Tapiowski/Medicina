@@ -1,0 +1,21 @@
+# imipenem
+- ## info
+	- /[[cilastrin]] inibisce degradazione da dipeptidase tubulare renale
+- ## meccanismo d'azione
+	- lega PBP, distrugge sintesi parete, morte
+	- resistente a [[beta-lattamasi]] anche [[ampc]]
+- ## spettro antibatterico
+	- aerobi, anaerobi
+	- [[streptococco]], [[streptococco#^enterococco]], [[stafilococco]], [[listeria monocytogenes]]
+	- [[enterobacter]] se no kpc
+	- [[pseudomonas aeruginosa]], [[acinetobacter]]: emergenza resistenza
+	- [[bacteroides fragilis]]
+	- [[mycobacterium]], [[nocardia]]
+- ## adme
+	- ev 1 h, 70% urine
+- ## usi terapeutici
+	- [[infezioni tratto urinario]], [[infezioni respiratorie]] basse, [[infra addominale]], [[ginecologico]], [[infezioni cute, tessuti molli]], [[osso]], [[articolazioni]]
+	- [[pseudomonas aeruginosa]] grave, resistenza in th
+- ## reazioni avverse
+	- nausea, vomito 20%, convulsioni 1.5% in lesioni [[snc]], ira
+	- ipersensitivita 1%

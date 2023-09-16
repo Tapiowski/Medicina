@@ -1,0 +1,6 @@
+- [[arteriopatia diabetica]]
+- -ritorno venoso
+- -drenaggio linfatico
+- +fenomeni infettivi
+- +effetti generali
+- +evoluzione

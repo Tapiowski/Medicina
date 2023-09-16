@@ -1,0 +1,29 @@
+- ## meccanismo d'azione
+	- inibitori canali na
+		- -riassorbimento nei [[dotto collettore]] e [[tubulo renale]]
+	- antagonizzano [[aldosterone]] nei [[dotto collettore]] corticale e [[tubulo distale]]
+		- omeostasi k
+		- impediscono secrezione k in lume, no potenziale elettrico negativo luminale
+	- assorbiti in gi
+- ## classificazione
+	- [[antagonisti aldosterone]]
+		- ### [[spironolattone]] = aldactone, spirolang
+		- ### [[potassio canrenoato]]
+	- inibitori canali na
+		- ### [[amiloride]]
+		- ### [[triamterene]]
+- ## usi th
+	- [[spironolattone]] meno usato, meno tollerato
+	- antagonisti aldosterone
+		- [[ipertensione]], [[scompenso cardiaco]], [[edema]] refrattorio
+		- [[diuresi]] in [[iperaldosteronismo]]: [[adenoma]]
+	- inibitori canali na
+		- [[cirrosi]], [[scompenso cardiaco]], [[edema]]
+		- /[[diuretici tiazidici]] per [[ipertensione]]
+- ## effetti avversi
+	- antagonisti aldosterone
+		- iperkalemia, acidosi metabolica ipercloremica, ginecomastia
+		- no in insufficienza renale
+	- inibitori canali na
+		- iperkalemia, nefrolitiasi
+		- no in insufficienza renale

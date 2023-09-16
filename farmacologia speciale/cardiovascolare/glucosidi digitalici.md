@@ -1,0 +1,3 @@
+- ca in, ca out da rs
+- ripolarizzazione ca in rs
+- - gradiente na, estrusione ca e ca in rs

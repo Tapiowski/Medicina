@@ -1,0 +1,8 @@
+- tratta [[bradiaritmia]], stimola e capta informazioni
+- [[pacemaker mono-camerale]] o [[pacemaker bi-camerale]]
+- indicazioni
+	- [[malattia del nodo del seno]]
+	- [[sindrome del seno carotideo]]
+	- [[blocco av]] 2 grado mobitz ii
+	- [[blocco av]] completo
+	- pz per [[ablate and pace]]

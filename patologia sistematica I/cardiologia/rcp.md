@@ -1,0 +1,65 @@
+- primo soccorso
+	- pz perde coscienza
+- mantenere circolazione sanguigna e trasporto ossigeno ai tessuti
+	- cuore non contrae e non convoglia sangue
+- parte delle manover del [[supporto delle funzioni vitali di base]]
+- compressioni toraciche, massaggio cardiaco esterno o mce
+	- 30 compressioni
+- ventilazione artificiale bocca-bocca o bocca-maschera
+	- 2 ventilazioni
+- mima cuore e polmoni
+- previene ipossia e danni cerebrali
+- prima di iniziare
+	- persona non coscente
+	- aprire vie aeree pz
+		- mano su fronte
+		- indece e medio sotto mento
+		- estendere capo all'indietro e sollevare mento verso alto
+		- corpi estranei? valutare respiro
+			- sistema gas, max 10s
+				- g guardare se torace alza e abbassa
+				- a ascoltare se rumori respiratori
+				- s sentire aria su guancia
+			- se respira: posizione laterale di sicurezza e 118
+			- se respira male o non respira via
+			- defibrillatore
+- via
+	- in ginocchio a lato del pz, scoprire torace
+	- massaggio cardiaco esterno 30 compressioni toraciche
+	- mano dominante al centro del torace, meta inf sterno
+	- mano sopra e intrecciare dita
+	- braccia tese, posizionare sopra torace e comprire muovendo su e giu la schiena
+	- abbassare sterno di 4-5 cm, non superare i 6 cm
+	- dopo compressione lasciare che torace ritorni in posizione
+	- non staccare mani
+	- frequenza di 100-120 compressioni al minuto: 2 compressioni al secondo
+	- 2 ventilazioni
+	- aprire via aerea con mano su fronte e dita sotto mento
+	- chiudere narici
+	- prendere fiato normalmente
+	- circondare bocca
+	- soffiare rapidamente per 1 s: torace si solleva? si abbassa quando aria esce?
+	- seconda ventilazione
+	- riprendere massaggio cardiaco: non interrompere per piu di 10 s
+- [[defibrillatore semi-automatico esterno]]
+	- uno continua compressioni
+	- altro accende dae e applica piastre su torace
+	- se dae consiglia shock
+		- allontanare mani, non toccare pz
+		- premere pulsante shock quando dae lo chiede
+		- dopo shock, riprendere compressioni, seguire indicazioni dae
+	- se dae non consiglia shock
+		- continuare rcp e seguire dae
+- rianimazione cardiopolmonare pediatrica
+	- 5 ventilazioni
+	- lattante
+		- testa in pos neutra, bocca su bocca e naso
+		- insuffiare per 1 s, torace si solleva?
+		- 15:2
+	- +1 anno
+		- 30:2
+	- mo vimento, to sse, re spiro
+		- se segni di vita continuare ventilazioni con 12-20 al minuto
+		- se no: compressioni toraciche
+			- lattante tecnica delle due dita, comprimere di 4 cm, rilasciare
+			- +1 5 cm, 100-120 compressioni al minute

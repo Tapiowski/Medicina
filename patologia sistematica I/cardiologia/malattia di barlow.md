@@ -1,0 +1,3 @@
+- forma batterica di endocardite
+- [[valvola mitrale]] mixomatosa
+- vegetazioni in lembi valvola

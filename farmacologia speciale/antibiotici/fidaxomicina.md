@@ -1,0 +1,1 @@
+- non assorbita sistemicamente, solo per [[clostridium]]

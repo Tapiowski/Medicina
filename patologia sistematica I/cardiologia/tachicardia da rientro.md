@@ -1,0 +1,20 @@
+- [[AVNRT]] rientro nodale av
+- nodo av vicino cava inf, sbocco seno coronarico
+	- via rapida
+		- in periodo refrattario quando extrasistole
+	- via lenta
+		- attivano ventricoli
+	- presupposto cortocircuito
+		- slow-fast: via lenta attiva ventricoli e via rapida, che attiva via lenta
+			- attivazione av 1:1
+			- PQ appena allungato non visibile in ecg di superficie
+		- fast-slow
+	- atri attivano ventricoli per via lenta
+	- ventricoli attivano atri atri per via veloce retrocondotta
+		- aritmia autosostenuta, cortocircuito perpetuo
+		- R-R costante in tachicardia, no onda P che viene retrocondotta
+		- R-P < 2 quadratini
+- diagnosi
+	- tachicardia, qrs stretto, p non visibile: tachicardia da rientro
+		- giovani, donne, inizio e finisce all'improvviso
+		- benigna

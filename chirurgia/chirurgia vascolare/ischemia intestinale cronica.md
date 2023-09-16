@@ -1,0 +1,58 @@
+- ## definizione
+	- stenosi o ostruzione rami tronco celiaco, mesenterica sup inf
+	- [[sindrome di leriche]]
+		- [[arcata di riolano]] circolo collaterale mesenterica sup inf
+		- [[circolo emorroidario]]
+- ## anatomia vasi
+	- [[arteriopatia]] vasi viscerali
+	- [[tronco celiaco]]
+	- [[a mesenterica sup]]
+	- [[a mesenterica inf]]
+- ## eziopatogenesi
+	- [[aterosclerosi]]
+		- stenosi, ostruzione arterie
+	- [[sindrome di danvard]]
+	- [[aneurisma aortico]]
+		- trombi occludono vasi +inf
+	- [[emo-metacinesia]]
+		- femorale furta sangue da mesenterica: crampi intestinali, ischemia cronica intestinale
+- ## fisiopatologia
+	- sintomi [[ischemia intestinale cronica]] quando flusso dopo pasto si riduce a < 1/3 quello normale
+		- 2/3 abolito da stenosi/ostruzione
+- ## sintomatologia
+	- [[angina abdomis]] dolore intestinale
+		- da mesi, occasionale poi intermittente poi continuo
+		- dopo pasto, varia intensita da cibi ingeriti
+		- crampiforme come il resto dei dolori arteriosi
+		- [[colica]]
+		- pz tende a non mangiare: dimagrisce
+			- [[calo ponderale]]
+	- alterazione alvo
+		- malassorbimento, diarrea, stipsi
+	- quindi
+		- [[dolore post prandiale]]
+		- [[calo ponderale]]
+		- [[alterazione alvo]]
+	- soffio addominale da stenosi tronchi 50% casi
+- ## diagnosi
+	- clinica
+	- [[ecodoppler]]: solo se molto magri
+	- [[angiografia]]: [[angiotc]], [[angiorm]]
+		- invasivo, immobilizzazione per 24h, anestesia locale
+	- [[angiotc]]
+		- gold standard
+	- se flusso sangue si occlude: 90% [[morte]] per [[infarto intestinale]]
+	- [[dolore addominale]] cronico: precursore occlusione vascolare mesenterica
+- ## terapia
+	- medica
+		- [[aterosclerosi]] anche del 30%: [[aspirina]]
+			- gastrolesiva, epatotossica: in pasti o gastroprotettori
+			- [[farmaci anticoagulanti]]
+	- chirurgica
+		- post medica e comportamentale
+		- [[a mesenterica sup]] ha precedenza
+		- [[terapia endovascolare]]
+			- [[angioplastica con stent intra mesenterica sup]]
+		- se arterie chiuse, guida non passa: chirurgia aperta
+			- [[bypass aorto-mesenterico]]
+			- [[reimpianto mesenterica sup]]

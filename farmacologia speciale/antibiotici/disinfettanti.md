@@ -1,0 +1,6 @@
+- agenti antisettici per [[infezioni tratto urinario]]
+- concentrati in [[tubulo renale]]
+	- inibiscono crescita, non curano infezioni sistemiche, orali
+- ### [[metanamina]]
+- ### [[nitrofurantoina]]
+- ### [[fosfomicina]]

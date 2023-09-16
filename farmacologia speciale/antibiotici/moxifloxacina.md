@@ -1,0 +1,4 @@
+- [[gram+]]
+	- [[streptococco#^pneumococco]], anaerobi, -[[pseudomonas aeruginosa]]
+- sulfatazione, glucoronidazione fegato
+	- 1/4  in urine non modificata, no uti, no accumulo in urine

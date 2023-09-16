@@ -1,0 +1,42 @@
+- ## definizione
+	- occlusione o [[stenosi]] [[a succlavia]] prima dell'emergenza [[a vertebrale]]
+	- [[a succlavia sin]] o [[tronco anonimo dx]]
+	- inversione di flusso [[a vertebrale]] omolat
+- ## eziopatogenesi
+	- malattia dei direttori d'orchestra
+		- finita sinfonia, sviene
+	- lavoro mm braccio ruba sangue dal cervello
+	- inersione flusso [[a vertebrale]] omolat
+	- furto da circolo cerebrale post
+	- [[insufficienza cerebro-vascolare]] territorio post
+	- se [[ostruzione prevertebrale]]: stenosi prima emergenza vertebrale
+		- no [[claudicatio]] braccio ma sintomo [[ischemia cerbrale]]
+- ## fisiopatologia?
+	- [[arterite di takayasu]]
+	- [[fibrodisplasia mediale]]
+	- [[kinking]]
+	- [[coiling]]
+	- [[aneurisma carotideo]]
+- ## sintomatologia
+	- assente se braccio non fa sforzi
+	- se braccio lavora
+		- [[diplopia]]
+		- [[vertigini]]
+		- [[sincope]]
+		- [[drop attacks]]
+		- transitoria
+- ## diagnosi
+	- clinica 100%
+	- pressione uguale in due braccia?
+		- 50 yo, fattori rischio, diabetici, aterosclerotici
+	- esame obiettivo
+		- no [[polso radiale]], [[polso ulnare]]
+		- [[soffio sovraclaveare]]: stenosi
+		- gradiente tra braccia: 20-30 mmhg
+	- esame strumentale: [[ecodoppler]]
+	- [[angiografia]] nota mancanza flusso [[a succlavia]] e ripresa in stop esercizio braccio
+- ## terapia
+	- [[terapia endovascolare]]
+		- [[stent carotideo]]
+	- se ostruzione totale
+		- [[bypass catorido-succlavio]]

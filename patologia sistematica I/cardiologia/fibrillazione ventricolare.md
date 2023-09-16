@@ -1,0 +1,11 @@
+- [[fv]]
+- ritmo dell'[[arresto cardiaco]] da tanti complessi non identificabili, [[defibrillatore]] con massaggio
+- cuore trema, non contrae, poi si scarica e si normalizza
+	- in arresto non perche fermo ma troppo veloce per riempirsi efficacemente
+- no polso, no respiro
+	- senza polso
+		- FV e TV senza polso sono defibrillabili
+	- con polso TV
+		- cardiovertiti
+- causa morte in [[scompenso cardiaco]] [[arresto cardiaco]]
+- defibrillatore impiantato

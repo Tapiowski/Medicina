@@ -1,0 +1,4 @@
+- rimozione liquido intorno al cuore che impedisce ritorno venoso alterando gittata
+- si passa a livello sottocifoideo: punge sacco pericardico, aspira con guida ecografica per rimuovere liquido
+- esame terapeutico e diagnostico
+- esame chimico-fisico, citologico, batterioscopico, culturale

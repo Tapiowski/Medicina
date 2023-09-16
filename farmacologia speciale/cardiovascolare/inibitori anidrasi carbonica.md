@@ -1,0 +1,38 @@
+- ### [[acetazolamide]] = diamox
+- ### [[metazolamide]]
+- ### [[diclorofenamide]]+
+- ### [[disulfamide]]
+- ## meccanismo d'azione
+	- da scoperta azione [[sulfonamidi]]
+		- - 1940 rende urine alcaline, inibizione anidrasi carbonica: [[acidosi]]
+	- agiscono su [[tubulo contorto prossimale]], presenza anche in [[dotto collettore]]
+	- -secrezione nel lume di h: non viene scambiato con na
+	- quindi [[urine]] acidificano, ph plasma aumenta
+	- blocco riassorbimento [[bicarbonato di sodio]] 85% e riduzione riserve
+		- [[acidosi]] metabolica ipercloremica
+	- siti extrarenali
+		- corpo ciliare [[occhio]], plesso coroideo: processo invertito
+	- gruppo so2nh2 ([[sulfonamidi]]) essenziale per attivita
+	- ben assorbiti per os, 30 m, 12 h
+	- [[anidrasi carbonica]]
+- ## usi th
+	- [[glaucoma]] ad angolo aperto
+		- trattamento cronico: -umor acqueo, pressione intraoculare
+		- [[dorzolamide]], [[brinzolamide]] composti ad attivita locale
+	- [[edema]] in [[scompenso cardiaco]] congestizio iniziale
+	- adiuvanti in [[convulsioni]]
+	- effetto self limiting
+	- alcalinizzazione [[urine]]
+		- +escrezione [[acido urico]] e [[cistina]] e acidi deboli come aspirina
+		- avviano risposta th, associazione con [[bicarbonato]]
+	- [[alcalosi]] metabolica
+	- [[malattia d'alta quota]]
+		- -formazione [[csf]], -ph
+		- profilassi 24h prima ascensione: impedisce formazione [[edema]] [[cervello]], [[polmone]]
+- ## reazioni avverse
+	- tossicita
+		- acidosi metabolica ipercloremica: -bicarbonato
+		- calcoli renali: fosfaturia, ipercalciuria da -bicarbonato, sali di ca insolubili a ph alcalino
+		- perdita potassio renale
+		- sonnolenza, parestesie, ipersensibilita
+		- midollare e cutanea

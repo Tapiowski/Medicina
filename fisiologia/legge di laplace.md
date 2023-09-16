@@ -1,0 +1,11 @@
+- spiega prograssione dilatazione
+- pressione intravasale sostenuta da tensione di parete
+- P = T/r
+	- pressione idrostatica
+	- tensione di parete
+	- raggio vaso
+- +vaso dilata +tende a dilatarsi
+	- +r = +t
+	- t spinge vs parete
+	- = +r
+	- +aneurisma e grande, piu cresce: iperparabolico

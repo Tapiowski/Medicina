@@ -1,0 +1,9 @@
+- eliminare causa: intossicazioni farmacologiche da [[farmaci beta-bloccanti]]: bradicardie
+- pacemaker temporaneo o definitivo se - sistema conduzione irreversibile
+- [[aritmie ipercinetiche]]
+	- defibrillatori interni autonomatici
+		- pacemaker con circuiti elettrici studiano battito e riconoscono tachiaritmia fibrillazioni ventricolari: shock ripristina ritmo
+	- farmaci antiaritmici
+	- pacemaker sottocutaneo, vena succlavia, atrio, ventricolo, stimola in sequenza atrio e ventricolo, sostituisce sistema conduzione cardiaco
+	- pacemaker definitivo se
+		- BAV III grado, BAV II grado, malattie nodo del seno, sincope neuromediata con cardioinibizione, blocchi av: sincope permanente morte no impulso ai ventricoli

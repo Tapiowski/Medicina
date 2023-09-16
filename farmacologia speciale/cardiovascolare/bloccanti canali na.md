@@ -1,0 +1,19 @@
+- classe I
+	- classe IA
+		- riduzione [[vmax]], aumento durata [[potenziale d'azione miocardio]]
+		- [[chinidina]], [[procainamide]], [[diisopiramide]], [[fenitoina]]
+	- classe IB
+		- [[vmax]] invariata, riduzione [[potenziale d'azione miocardio]]
+		- [[lidocaina]], [[mexiletina]] e [[tocainamide]], [[moricizina]]
+	- classe IC
+		- moderata riduzione [[vmax]], rallentamento [[conduzione cardiaca]], allungamento periodo refrattario
+		- [[flecainide]], [[propafenone]]
+- blocco canali rapidi del sodio
+	- upstroke meno intenso: +soglia depolarizzazione. necessario stimolo piu forte
+	- velocita conduzione rallentata
+	- circolo aritmico non si chiude
+	- recupero sodio lento
+- rieccitabilita cellula
+	- 80% canali na aperti
+	- se aperutra lenta: +refrattarieta
+- [[sotalolo]] e [[amiodarone]]

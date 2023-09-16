@@ -1,0 +1,21 @@
+- ### [[S2]] ta
+	- inizio diastole ventricolare
+	- da chiusura valvole semilunari
+	- due componenti
+		- chiusura valvola aortica intensa a2
+		- chiusura valvola polmonare p2
+	- a2 e p2 separate da < 0.30 s
+	- piu intenso in focolaio base
+	- suono alto, breve, scoccante
+	- durata prolunga fino a sdoppiamento in inspirazione forzata
+		- +ritorno venoso a cuore dx e ritardo p2: focolaio polmonare
+	- variazioni intensita
+		- aumento: a2 in ipertensione arteriosa, p2 se ipertensione polmonare
+		- diminuzione: a2 in stenosi aortica, p2 in stenosi pomonare
+	- sdoppiamento patologico s2
+		- ampio: esagera fisiologico: ritardo p2 da stenosi polmonare o blocco branca dx, anticipio a2 da insufficienza mitralica con rigurgito
+		- paradosso: p2 precede a2: blocco di branca sin, scompare in inspirazione
+		- fisso: non cambia con respirazione: scompenso ventricolare dx, sovraccarico ventricolare dx da pervieta interatriale
+	- riduzione dei toni cardiaci
+		- estrinseci: enfisema polmonare, versamento pericardico, pleurico, tessuto tra parete toracica e parete cardiaca
+		- intrinseci: + forza contrazione in cardiopatia ischemica, miocardiopatie o miocarditi

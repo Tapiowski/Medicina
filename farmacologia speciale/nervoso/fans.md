@@ -1,0 +1,15 @@
+- anti-infiammatori non steroidei =  [[nsaids]]
+- [[ibuprofene-arginina]]
+- [[piroxicam-b-ciclodestrina]]
+- [[ketorolac]]
+- ## utilizzo
+	- fanno parte del primo stadio scala oms del [[dolore]]
+	- da soli nel dolore lieve moderato
+	- farmaci adiuvanti in associazione con [[farmaci oppioidi]] deboli, forti nel dolore moderato o forte
+	- non nel dolore cronico da cancro
+		- tranne nel dolore osseo metastatico: prostaglandine da tumore
+- ## caratteristiche
+	- effetto tetto
+	- + dose = + collaterali, non th
+	- associazioni fans = + collaterali, non th
+	- - dose = cmq collaterali

@@ -1,0 +1,2 @@
+- ## segnali trasduttori attivatori
+	- stat ^stat

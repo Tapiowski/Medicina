@@ -1,0 +1,5 @@
+- 6-idrossi-dopamina
+- analogo idrossilato [[dopamina]], piu studiato per [[morbo di parkinson]]
+- captata da [[dopaminergico]] in [[dat]]
+- in cc: inibsce complesso I mt: + radicali liberi, ossidabile
+	- - atp, stress ossidativo: degenerazione nu

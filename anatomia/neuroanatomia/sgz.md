@@ -1,0 +1,1 @@
+zona subgranulare del giro dentato dell'ippocampo

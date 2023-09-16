@@ -1,0 +1,88 @@
+- ## definizione
+	- no [[aterosclerosi]] in vene, no chirurgia ricostruttiva ma ablativa: togliere varici
+	- [[varici arti inferiori]]
+		- ectasie sistema venoso superficiale
+		- sfiancamento di parete
+		- tortuosita
+		- inefficienza app valvolare
+	- varici ad arti inf per gravita, carico
+		- comune, permanente, possiamo solo rallentare
+- ## classificazione
+	- ### [[varici primitive]]
+		- fattori di rischio: pillola anticoncezionale
+	- ### [[varici secondarie]]
+		- [[trombosi]] circolo venoso profondo
+- ## anatomia
+	- circolo venoso superficiale arto inf
+		- [[v grande safena]] o interna
+			- da network venoso ant a malleolo int, dorso piede, med
+			- v superficiale, grasso sottocutaneo, sbocca in [[v femorale]]
+				- [[triangolo di scarpa]]
+		- [[v piccola safena]] esterna, lat
+			- post a malleolo ext, lat, sottofasciale e soprafasciale in ultimo tratto
+			- sfocia in [[v poplitea]] in [[cavo popliteo]]
+		- se ammalate vanno tolte
+			- [[bypass autologhi]]
+			- [[protesi eteroleghe]]
+				- infezione, perdita arto
+- ## patogenesi
+	- [[varici]], [[valvole venose]]: ritorno venoso insieme a mm, respirazione, pompa plantare
+	- sangue coaugula: [[triade di virchow]] da dilatazione parete
+	- vena infiamma: [[flebite]], cute infiamma per superficialita
+	- trombo degrada, [[eparina]], valvole inglobate in trombo: danno permanente
+	- caput mortum sangue: [[insufficienza venosa cronica]]
+	- [[frank-starling]]
+		- valvole non funzionanti
+		- +p idrostatica
+		- liquidi in spazio interstiziale
+		- edema
+		- fibrosi interstiziale
+- ## sintomatologia
+	- gambe pesanti, fatica camminare, mettersi calze e pantaloni
+		- -esercizio fisico
+	- senso tensione, crampi a polpacci: passa con camminata
+	- caviglia, piede edematosi
+	- vene turgide in pos eretta, safene e rami comunicanti, [[varici]]
+	- [[teleangectasie]]
+	- complicanze varici
+		- coagulazione sangue in vaso, flogosi, flebite guarisce in 10 gg con pomata o puntura eparina, estate, caldo
+	- [[edema fibrotico]]
+		- [[dermatite]], alterazioni cutanee
+			- inversione flusso
+			- colpo su cute: sangue ristagna
+			- non ossigenato, ulcere non guariscono
+			- curare [[v perforanti]]
+		- [[emorragia]]
+			- [[varice superficiale]] si rompe con cute: tamponare [[emorragia]]
+- ## diagnosi
+	- [[prova di perthes]]
+	- [[prova di trendelenburg]]
+	- [[ecodoppler]]
+		- deflussi con compromissione mm
+		- [[v safena]] ha rumore ventoso: comprimo a monte +flusso
+			- pz con insufficienza venosa: risucchio dopo aumento flusso
+		- in trombosi vene non collassono in appoggio sonda ecografica
+	- [[tac]]
+		- trombosi [[v cava]], [[v iliache]]
+- ## terapia
+	- [[elastocompressione]]
+		- [[calze elastiche]]: oppongono alla dilatazione
+	- farmacologia
+		- mesi estivi, sintomatica
+	- [[th sclerosante]]
+		- infinltrare capillari, soluzioni slerosanti: estetica
+	- chirurgia
+		- strippare vena safena
+			- isola con incisione
+			- pinza vena
+			- arrotola e strappa
+			- perforanti si legano ma non si strappano perche in comunicazione con circolo profondo
+		- obliterare vene con sonda raggi laser o radiofrequenza
+			- collassa vena, eliminano carico sangue su arto: no cicatrici
+			- beneficio donne, estetico
+		- curare ulcere
+			- eliminare noxa patologica
+			- videocamera a monte con trocar
+			- sfondare sottocure
+			- cauterizzare con accesso trocar [[v perforanti]]
+			- chirurgia sottofasciale

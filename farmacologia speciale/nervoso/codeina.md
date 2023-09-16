@@ -1,0 +1,19 @@
+- derivati semisintetici
+	- [[idrocodone]]
+	- [[ossicodone]]
+	- [[destromorfano]]
+- agonista parziale
+- 10% pz non metabolizza
+- marcata azione in associazione con [[paracetamolo]], [[fans]]
+- trasformata in [[morfina]] nell'organismo
+	- 10x meno potente
+- dosaggio
+	- 60 mg x4: 360 mg / 24 h
+- preparazione galenica
+	- codeina 60 mg, paracetamolo 325 mg
+	- codeina 60 mg, [[acido acetilsalicilico]] 125 mg
+	- 1 cialda ogni 4 h massimo
+- preparazioni in commercio
+	- [[co-efferalgan]] compresse 500 mg [[paracetamolo]] 30 mg [[codeina]]
+	- [[spasmoplus]] supposte cod 40 mg, [[propifenazone]] 500 mg
+	- [[lonarid]] supposte cod 20 mg, [[paracetamolo]] 400 mg

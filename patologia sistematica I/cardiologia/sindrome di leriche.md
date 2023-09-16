@@ -1,0 +1,121 @@
+- [[arteriopatie croniche ostruttive arti inf PAD]]
+- [[impotentia erigendi]]
+- morte con bava alla bocca, ingolfamento, per soffocamento
+- ostruzione calcarea aorta addominale in biforcazione
+- = ostruzione cronica, lenta, aterosclerotica della [[biforcazione aortica]]
+- sintomatologia triade
+	- [[claudicatio intermittens]] a lunga autonomia di marcia
+		- arto da gluteo a gamba
+		- dolore crampiforme costringe a stop
+	- [[impotentia erigendi]]
+		- deficit a ipogastriche che irrorano pelvi
+	- assenza [[polso femorale]] bilaterale
+- ostruzione vaso alta: +collaterali
+	- +grave in clinica una stenosi poplitea: no collaterale
+		- asintomatici, subdola, mortale
+	- ostruzione aorta: trombosi ascendente: flusso sbatte contro un muro: vortici, stasi, trombosi ascendente
+		- sale chiudendo i vasi che incontra
+		- circoli collaterali ipertrofizzano
+		- chiusura arterie renali: infarto renale con volore al fianco allarme, altro rene compensa
+			- morte se renali bilat bloccate
+			- pz beve, mangia, non urina: pressione a 200 mmhg da 120, sforzo cardiaco
+			- [[edema polmonare acuto]] sangue trasuda nei polmoni: soffocato da trasudato
+- ## classificazione [[fontaine]]
+	- stadio 1
+		- pz asintomatico, no dolore
+		- rarefazione annessi piliferi e distrofie ungueali
+	- stadio 2
+		- [[claudicatio intermittens]]
+		- dolore in salita piu che in piano
+			- crampiforme, recede con riposo
+			- riprende in ripresa deambulazione
+	- [[ischemia critica]]
+		- stadio 3
+			- flusso aggravato, sopravvivenza tessuti a riposo non garantita
+			- dolore ischemico: piede alterato colore, rubor, dolore a riposo
+			- ischemia cronica
+			- stenosi quasi ostruzione franca: a riposo tutte resistenze abbassate: 200 cm3/min flusso
+			- pz non dorme la notte, piedi fuori dal letto: edema piede peggiora
+				- infarto miocardio: ciclo sonno veglia protettivo
+			- associata a insufficienza cardiaca, broncopneumopatie ostruttive da fumo sigaretta che ha provocato ateroslerosi
+		- stadio 4
+			- apoptosi, no flusso no vitalita tessuti
+			- tessito no trofismo: gangrena parcellare, globulare da tessuti distali vs alto
+			- necrosi secca: amputare piede: perdere due dita ok
+- ## diagnosi
+	- anamnesi
+		- claudicatio intermittens con dolore crampiforme
+	- esame obiettivo
+		- polsi presenti e assenti
+		- stenosi: soffi
+	- strumentale
+		- ecodoppler, tac conferma ipotesi
+	- diagnosi differenziale
+		- [[claudicatio venosa]]
+			- stase da varici arti inf
+			- dolore gravativo non crampiforme, accumulo ac lattico, gambe gonfie
+			- sangue ristagna in safene: migliora camminando
+		- pz anemico
+			- in attivita ha dolore da ipossigenazione non venoso non crampiforme
+			- in claudicatio intermittens una gamba e peggio dell'altra: dolore speculare o bilat problema atipico, sistemico, non da ostruzione
+				- emocromocitometrico: gr, gb, f leucocitaria: anemia
+		- assenza polsi indicativa
+		- patologia ortopedica
+			- lombosciatalgie, artrosi anca, ginocchio, lombare
+			- dolori limitanti in articolazioni interessate, con carico peso o decubito
+		- lesioni trofiche tessuti
+			- lesioni arteriose
+				- da territori distali, dita piedi
+				- avampiede e tallone arteriopatie diabetiche: iperglicemia
+			- lesioni venose
+				- ulcerative in vene perforanti fascia mm: sistema superficiale comunica con profondo
+				- danno valvolare: flusso venoso caput mortum, si inverte, ipertensione venosa profonda: p venosa tibiale ant e post, v poplitea, femorale sup, cava inf
+				- sangue inverte flusso fino a cute ad ogni passeggiata: microtrauma continuo cute, ipossigenazione, ulcere venose in pz con flebite profonda
+				- in terzo inf gamba, linea di lington: vene perforanti
+					- dove originano [[v safena int]] e [[v safena ext]]
+						- int origina ant al malleolo int, sbocca in v femorale
+						- ext piccola safena, o lat a malleolo ext, sbocca in v poplitea
+						- colpite da varici arti inf
+			- lesioni neurogene
+				- [[arteriopatia diabetica]], [[lesioni a moneta]] su pianta del piede
+			- lesioni da ipertensione arteriosa mal controllata: [[ulcere ipertensive di martorell]]: tibia
+- ## diagnosi strumentale
+	- quantificazione emodinamica lesioni, evidenza clinica
+	- [[ecodoppler]], poi [[TC]], [[rm]]: confermano sospetto clinico
+	- [[ecodoppler]]
+		- calcificazioni
+		- flusso
+		- velocita flusso
+			- sonda in stenosi: accelerata in prossimita stenosi
+			- flusso pz normale in arteria: 1 m/s, in pz: 2.5-3 m/s: [[psv]]
+		- sensibilita e specificita
+			- alta
+				- stenosi aorto-iliaco, femoro-popliteo
+	- [[indice di winsor]]
+		- [[misurare pressione]]
+- ## terapia conservativa
+	- stadio 1
+		- asintomatico, rarefazione annessi piliferi
+	- stadio 2
+		- [[claudicatio intermittens]]
+		- eliminare fattori rischio: sigaretta
+		- attivita fisica per sviluppare circoli collaterali
+		- [[statine]]: [[aspirina]]
+			- anche in pz con aterosclerosi ma senza claudicatio
+		- controllo pressione arteriosa da cardiologo
+		- rieducazione alla marcia: depressione, afflizione
+		- malattia delle vetrine: dolore crampiforme si fermano a guardare le vetrine
+		- [[farmaci vasodilatatori]]: [[cilostazolo]]
+			- agevolare circoli collaterali
+			- nicotina vasocostrittore
+- ## th chirurgica
+	- stadio 3 e 4
+		- dolore a riposo o ischemia critica
+		- iniziale o finale con lesioni trofiche
+		- in mesi gangrena arto e amputazione: fallimento th
+	- [[bypass aorto-femorale]] alternativa se th endovascolare fallisce
+	- [[terapia endovascolare]]
+		- [[pta]]
+		- [[tea]]
+		- [[trombectomia]]
+		- [[simpatectomia]]

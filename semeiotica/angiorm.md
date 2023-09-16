@@ -1,0 +1,2 @@
+- immagini perfette, meno rapida, pz immobile per 25m
+- no radiazioni ionizzanti

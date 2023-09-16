@@ -1,0 +1,10 @@
+- poggia su scheletro fibroso rivestito da:
+	- [[pericardio]]
+	- [[endocardio]]
+- tessuto mm striato con fibre contrattili
+	- miocardio specifico
+	- miocardio comune
+		- piccole cc connesse da dischi intercalari: sincizio funzionale
+- contrazione
+	- filamenti sottili sugli spessi: eccido induzione da proteine [[troponina]] t i c, se danno aumentano
+	- 

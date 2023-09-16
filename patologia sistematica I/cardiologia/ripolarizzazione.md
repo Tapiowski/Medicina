@@ -1,0 +1,1 @@
+ST isoelettrico, sovraslivellato o sottoslivellato, presenza di onde T alterate o tratto QT allungato

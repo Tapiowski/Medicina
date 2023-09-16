@@ -1,0 +1,7 @@
+- [[streptococco#^enterococco]]
+- infezioni non comuni, combinata, -[[gram-]] bastoncelli
+- /[[penicillina G, V]] battericida per [[streptococco#^enterococco]] [[endocardite]], [[gentamicina]] preferita: minore tossicita, usare in resistenze
+- im profonda, iv 15-25 mg/kg/d picco 50
+- [[mycobacterium]] 1g dose singola: 30 ug/ml picco, ct 10 ug/ml, 2/3 volte alla settimana poi
+- tossicita vestibolare irreversibile
+	- disfunzione nv ottico, scotoma, neurite periferica

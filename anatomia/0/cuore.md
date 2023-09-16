@@ -1,0 +1,35 @@
+- SA nodo sinoatriale
+- AV nodo atrioventricolare
+- [[ventricolo]]
+- [[atrio]]
+- [[fibre purkinje]]
+- [[fascio di his]] bundle atrioventricolare
+- valvola mitrale
+- valvola tricuspide
+- [[potenziale d'azione miocardio]]
+	- riposo -60/-95 mv
+		- 3na/2k atpasi na_ext
+	- depolarizzazione a potenziale soglia: -40/-60 mv
+	- fase 0: ascesa, depolarizzazione rapida +10/20 mv
+		- apertura canali na: miocardio atriale e ventricolare
+		- apertura canali ca: SA, AV
+	- fase 1: ripolarizzazione rapida 0 mv
+		- parziale inattivazione canali na, apertura canali k
+	- fase 2 : plateau 0 mv
+		- apertura canali ca, contrazione cc
+	- fase 3 ripolarizzazione -60/-95 mv
+		- inattivazione corrente ioni positivi
+		- apertura canali k
+	- diastole
+- ciclo spike
+	- na out / k in
+	- na in
+	- ca in
+	- k out
+- [[propagazione impulso cardiaco]]
+	- nodo del seno
+	- P sistole apriale
+	- av ca-dip, rallentamento
+	- QRS sistole ventricolare
+	- T ripolarizzazione
+	- refrattarieta

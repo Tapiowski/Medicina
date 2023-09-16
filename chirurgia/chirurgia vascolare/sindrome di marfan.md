@@ -1,0 +1,11 @@
+- ereditaria AD
+- struttura [[fibrillina]]
+- cardiovascolare 95%
+	- [[aneurisma fusiforme]] multiplo
+		- [[a ascendente]]
+			- operare in circolazione extracorporea: insufficienza corporea
+	- [[dissecazione aortica]]
+	- [[valvulopatie]] aortica
+	- [[dilatazione radice a]]
+- [[intervento di bent]]
+	- sostituzione aorta e valvola con protesi meccanica, artificiale, legate

@@ -1,0 +1,8 @@
+- recettore [[oppioidi]] mu
+- pre, post r attivati da [[via inibitoria discendente]] inibiscono relay centrale stimolo nocicettivo
+	- presinapsi
+		- -ca influsso in risposta a spike
+			- - rilascio [[glutammato]], [[cgrp]], [[sostanza p]]
+	- post
+			- +conduttanza k: - risposta postsinaptica in risposta a spike
+				- iperpolarizzazn, - [[canali sodio]] -potenziale

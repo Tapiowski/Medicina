@@ -1,0 +1,2 @@
+phosforilase C
+fosfolipase c

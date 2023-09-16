@@ -1,0 +1,1 @@
+dilatazione omogenea per diametro arteria

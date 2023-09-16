@@ -1,0 +1,84 @@
+- [[farmaci oppioidi forti]]
+- confezioni
+	- cerotto transdermico 25-50-75-100 mcg/h
+	- ? 200-400-600-800-1200-1600 mcg
+	- fiale ev/sc 2 ml / 100 mcg
+- fentanil transdermico
+	- alternativa morfina orale per pz con esigenze oppiacee stabili
+	- pz che non riescono ad assorbire morfina per os, alternativa a morfina sottocutanea
+- errorri piu frequenti
+	- inizio th con [[durogesic]] in pz che mai hanno assunto [[farmaci oppioidi forti]]
+	- mancata prescrizione dose oppiaceo di soccorso
+	- - informazn pz, famiglia
+	- rivalutzioni intempestive per dolore non controllato, fase iniziale
+	- errori dosaggio in rotazione oppiaceo da uno ad altro, da via
+	- mancato, errato uso farmaci adiuvanti
+	- mancata prescrizione terapia lassativa
+	- applicazione: lun gio dom
+- efficacia analgesica
+	- comparabile a morfina, compare dopo 12-18 h da applicazione: continuare altro oppiaceo nel frattempo
+- steady state con ii cerotto
+- sospensione cerotto: concentrazioni plasma -50% in 17 h
+- cerotto serbatoio sostituito da cerotto a matrice
+	- rilascio per diffusione osmotica [[buprenorfina]]
+	- tagliabile in 2, 4 parti: titolazione favorita
+- assorbimento
+	- varia da 46-66% per pz
+	- diversi siti cutanei in pz variano da 20-40%
+	- importante ruotare sede cerotto! reazn locali
+- metabolismo
+	- 75% renale: metaboliti non attivi
+	- 10% renale immodificato
+	- non eliminato in emodialisi
+	- + in
+		- lesioni cutanee
+		- iperpiressia
+		- temperatura ext elevata
+	- - in
+		- ipersudorazione -adesione
+	- 0 in
+		- persone morenti: perdita termoregolazione
+	- -stipsi rispetto a morfina
+- collaterali
+	- depressione respiratoria dose dip in dosi > 3 ug /kg
+	- modificare in insufficienze renale, epatica
+- indicazioni
+	- usare solo se pz tolleranti ad oppioidi: no beneficio, no effetti collaterali per 1 wk 60 mg / d [[morfina]] per os, 30 mg [[ossicodone]] per os, 8 mg [[ossimorfone]]
+- controindicazioni
+	- uso inibitori mao
+	- pz non tolleranti oppioidi
+	- th dolore acuto
+	- dolore post operatorio o medio o intermittente
+	- pz con bpco o ipertensione endocranica
+	- prudenza in tumore cerebrale
+- associazioni critiche: cyp 344
+	- [[metadone]], fentanil
+		- azolici
+		- fluorochinolonici
+		- intossicazione come da sovradosaggio
+	- [[morfina os]], fentanil cerotto 100:1
+		- 25 mcg/h x 24 h = 0.5 mg die = 60 mg morfina
+		- 50 1.2 120
+		- 75 1.8 180
+		- 100 mcg/h x24 h = 2.4 mg die = 240 mg morfina
+- [[citrato di fentanyl transmucoso]]
+	- otfc orale
+	- tratta riacutizzazioni dolore in pz stabilizzati con [[morfina os]] o alternativo in grado 3 oms
+	- lipofilia
+		-  25% ot rapido
+		- [[bee]] in 3-5 m
+		- 50% biodisponibilita
+		- 50% non assorbito o metabolizzato: non metaboliti attivi
+	- inizio dose
+		- 200 mcg
+			- pz consuma otfc in 15 m
+			- attende 15 m, se analgesia inadeguata: seconda dose
+			- provare questa dose in episodi successivi
+		- sollievo da dolore?
+			- si: dose ottimale
+			- no: passare a concentrazione immediatamente superiore
+- [[fentanyl ev]]
+- [[fentanyl sc]]
+	- somministrazione continua, efficace, sicura
+	- rapporto [[morfina os]]:fentanil sc = 100:1
+	- fiale sc/ev 2 ml / 100 mcg = 1 ml = 50 mcg

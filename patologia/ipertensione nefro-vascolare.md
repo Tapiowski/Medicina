@@ -1,0 +1,65 @@
+- ## definizione
+	- troppo fluido o arterie troppo piccole: discrepanza contenitore/contenuto
+	- [[ipertensione]] da lesione ostruttiva o restrittiva [[a renale]]
+	- fattore rischio [[arresto cardiaco]]
+	- pressione diastolica: 100 mmhg
+	- pressione sistolica: 170-180 mmhg
+	- [[malattia renovascolare]]
+	- storia
+		- clip [[a renale]]: [[ipertensione arteriosa]] transitoria: compenso
+		- togliere rene, clip su unica a renale: ipertensione duratura
+		- 1939 [[raas]], 1950 interventi vascolari
+- ## eziopatogenesi
+	- 89-94% [[ipertensione essenziale]], no causa
+	- 6-11% [[ipertensione secondaria]], [[morbo di addison]], [[feocromocitoma]], [[patologie metaboliche]], [[stenosi a renale]]
+	- [[aterosclerosi]]
+		- origine vasi, biforcazioni o crescita placca
+	- [[fibrodisplasia]]
+		- gioanile, congenita, tratto medio vaso, tonaca media, corona di rosaroi
+	- [[insufficienza renale cronica]]
+		- mezzi di contrasto nefrotossici o diabete
+			- valutare [[azotemia]] e [[creatininemia]]
+	- quindi
+		- [[stenosi a renale]] > [[ipertensione nefro-vascolare]] + [[irc]] > [[malattia renovascolare]]
+	- ridotto afflusso glomerulare
+		- barocettore ilo renale: +[[renina]] > [[angiotensina I]] > [[angiotensina II]] vasocostrittore
+		- se [[stenosi a renale]]: ++[[angiotensina II]] e [[aldosterone]]: [[ipertensione]] eccessiva
+		- filtrato glomerulare
+			- conservato se stenosi piccola o solo in un rene
+			- entrambe a renali: ipertensione, -filtrato
+- ## fisiopatologia
+	- lieve
+	- moderata
+	- severa
+	- [[ipertensione]] nonostante trattamento
+		- [[farmaci diuretici]], [[farmaci calcio antagonisti]], [[ace inibitori]], [[farmaci beta-bloccanti]]
+		- primo fattore rischio cardiovascolare
+- ## sintomatologia
+	- asintomatico
+	- sospetto clinico
+		- [[ipertensione sisto-diastolica]] severa, resistente
+			- caduta pressoria dopo [[ace inibitori]]
+		- giovane eta
+		- [[ipokalemia]]
+		- [[soffio paraombelicale]]
+- ## diagnosi
+	- soffio difficile da ascoltare
+	- [[ecografia]]
+	- [[ecodoppler]]
+	- [[esami funzionalita renale]]: stenosi lunga durata, rene grinzo, rivascolarizzare puo essere un problema
+		- microembolia, ostruzione piccoli rami renali
+	- [[scintigrafia renale al captopril]]: esaspera ipoafflusso renale
+- ## terapia
+	- quando trattare [[ipertensione]]
+		- [[ipertensione]] da causa nefrovascolare
+		- scompenso controlat: monorene, irc grave
+		- stenosi pre-occlusive
+	- trattamenti
+		- non dare [[ace inibitori]] a pz con [[stenosi a renale]]
+			- peggiorano: ipoperfusione renale, +renina
+		- th chirurgica
+		- [[angioplastica]] con [[stent]], se guida non passa non trattare
+		- [[bypass aorto-renale]]
+		- togliere rene, operarlo su banco se lezioni periferiche interne, reimpiantarlo
+		- [[nefrectomia]]
+		- [[tromboarterectomia]]: sgusciare placca 

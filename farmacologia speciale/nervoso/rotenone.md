@@ -1,0 +1,3 @@
+- composto di derivazione naturale da radici, insetticida
+- affine per complesso i, inibitore
+- morte selettiva [[dopaminergico]], inclusioni simili a [[corpo di lewy]]

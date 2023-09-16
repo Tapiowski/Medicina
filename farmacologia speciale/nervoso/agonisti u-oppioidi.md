@@ -1,0 +1,6 @@
+- [[u-oppioidi]]
+- [[morfina]]
+- [[eroina]]
+- [[codeina]]
+- [[fentanil]]
+- su - [[u-oppioidi]] e mano su [[s-oppioidi]]

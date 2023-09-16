@@ -1,0 +1,16 @@
+- otfc, trattamento [[dei]]
+- inizio con dose 200 mcg
+- pz consuma in 15 m, attende 15 m se analgesia inadeguata: seconda dose otfc pari conc
+- prova questa dose in episodi successivi
+	- sollievo: dose ottimale
+	- persistenza dolore: dose da 400 mcg
+		- abolizione: dose successiva 400 mcg
+		- persistenza: 2 dose insieme da 400 mcg
+			- effetti collaterali: 600 mcg successiva
+			- abolizione dolore: 80 mcg successiva
+			- persistenza dolore
+				- 1 dose da 1200 mcg
+					- abolizione: dose 1200 successia
+					- persistenza
+						- dose 1600 mcg
+							- abolizione: dose succ 1600

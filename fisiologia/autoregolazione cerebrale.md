@@ -1,0 +1,13 @@
+- [[flusso cerebrale]] costante in variazioni pressione arteriosa
+	- 80-200 mmhg, massa cerebrale preservata
+- distretto nobile, seguito dal cardiaco
+- estreama [[vasodilatazione]] [[arteriole cerebrali]]
+	- massa ematica convogliata ad [[encefalo]]
+- sforzo fisico intenso
+	- pressione sanguigna elevata fino a 180 mmhg: no emorragia cerebrale
+- ++ pressione
+	- [[vasocostrizione]] [[arteriole cerebrali]], contiene flusso
+	- [[CBF]] = [[CPP]] / [[CVR]]
+		- CBF cerebral blood flow costante
+		- CPP cerebral perfusion pressure
+		- CVR cerebral vascular resistance

@@ -1,0 +1,9 @@
+- doping
+	- effetti dose dipendente
+		- piccole dosi: -ansia, -tensione nervosa, +sicurezza di se
+	- effetti indesiderati
+		- depressione attivita riflesse anche a piccole dosi
+		- alte dosi, ripetute
+			- depressione snc
+			- alterazione coordinazione
+			- danni epatici

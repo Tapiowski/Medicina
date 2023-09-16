@@ -1,0 +1,5 @@
+- [[cascata coagulativa]]
+- ### [[anticoagulanti orali]]
+- ### [[eparine]]
+- ### [[inibitori fxa attivato]]
+- ### [[farmaci antitrombinici]]

@@ -1,0 +1,11 @@
+- ### strutturale
+	- cause meccaniche: -gittata sistolica
+	- da ostruzione flusso ventricolare sin, dx..
+		- stenosi aortica, disfunzione protesica, cardiomiopatia ipertrofica ostruttiva, [[mixoma atriale]]
+		- v dx: [[embolia polmonare acuta]], [[ipertensione polmonare]]
+	- deficit di pompa: infarto miocardio
+	- -riempimento ventricolare: tamponamento cardiaco da versamento pericardico, dissezione aortica acuta, insufficienza valvolare aortica
+- ### aritmica
+	- - portata cardiaca per [[tachiaritmia]] sostenuta o [[bradicardia]] estrema
+	- BAV: difetti conduzione come [[infarto miocardico]], [[miocardite]]
+	- da tachiaritmia: [[fibrillazione]] con +f ventricolo, aritmia ereditaria, pacemaker malfunzionante, dispositivi elettrici, da farmaci

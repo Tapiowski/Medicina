@@ -1,0 +1,17 @@
+- aldomet
+- ## meccanismo d'azione
+	- entra in via biosintetica [[catecolamine]], metabolizzata a a-metilnoradrenalina: azione simile a [[noradrenalina]]
+	- azione +[[ipertensione]]: affinita per [[recettori alfa-2]] presinaptici nel [[tronco encefalico]]
+- ## effetti farmacologici
+	- -tono [[simpatico]] periferico
+	- [[ipotensione]] ortostatica, minore che in [[clonidina]]: non abolisce risposta ai [[barocettori]]
+- ## farmacocinetica
+	- profarmaco, ev 2 h, [[ipotensione]] in 6-8 h per 24 h
+	- in [[csf]]: trasportatori aminoacidi aromatici
+	- eliminata in urine coniugata-s o come protdotto metabolico [[catecolamine]]
+- ## effetti collaterali
+	- uso cronico: ritenzione na, liquidi: pseudotolleranza: associare con [[farmaci diuretici]]
+	- simili [[clonidina]], meno marcati
+	- sedazione reversibile
+	- 20% pz positivi a test di coombs: anticorpi anti-rh eritrociti: anemia emolitica
+	- depressione!

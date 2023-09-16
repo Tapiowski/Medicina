@@ -1,0 +1,2 @@
+- [[endocardite]], [[sopraslivellamento ST]], perdita coscienza, dolore toracico, aritmia
+- embolo causa occlusione e infezione: [[aneurisma micotico]]: [[ascesso splenico]]

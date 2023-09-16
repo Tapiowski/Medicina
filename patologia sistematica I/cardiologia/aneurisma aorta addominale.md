@@ -1,0 +1,79 @@
+- [[AAA]]
+- [[a addominale]] 2/3 degli aneurismi
+	- 90% sottorenali
+	- [[a renale]] trapianto, [[irc]], [[dialisi]]
+	- crescono fino a raggiungere [[asse iliaco]] fino ad [[a renale]]
+- fequenza da disposizione anatomica
+	- [[a soprarenale]]
+		- scarsa mobilita, emergenza grossi rami, +tunica media, vasa vasorum in media e strutture periaortiche adese
+	- [[a sottorenale]]
+		- mobilita tra due punti fissi, emergenza piccoli rami, -tunica media, vasa vasorum in avventizia, rivestimento da peritoneo post
+- ## epidemiologia
+	- 10 causa di morte pz >55
+	- I in aumento, alimenti, stress, [[screening ecodoppler]] migliorato
+		- roma con aneurismi di 4 cm
+		- sardegna 6-7 cm per -screening
+- ## familiarita
+	- aneurisma individuato
+		- familiarita, anamnesi su morte genitori
+		- ecodoppler, tc, chirurgo vascolare
+		- se pz con [[patologia ostruttiva cronica]] no familiare
+	- rischio sviluppo
+		- 61% fratelli di pz portatori
+			- comparsa precoce
+			- 29% m 6% f
+		- 15% in pop di controllo
+- ## sintomatologia
+	- 99% asintomatico
+	- rara autodiagnosi: anse ileo si muovono in retroperitoneo
+		- [[a toracica]] compressioni esofago con disfagia, trache e nv frenico
+	- pz gia dissecato in a addominale
+	- sintomatico se grandi dimensioni
+		- sensazione pulsazione addominale
+		- dolori intermittenti colico e sciatalgico
+		- [[microembolia periferica]]: si parte dalla ricerca in [[a poplitea]] fino a [[a addominale]]
+			- trombo puo fissurare o rottura di placca
+			- [[petecchie]], lesioni all alluce
+		- [[idronefrosi]]
+	- per dimensioni paragonare a frutta: arancia
+	- consistenza teso elastica, non lignea ne gommosa
+		- affondando mani aneurisma non si rompe
+			- vincere spinta pressione arteriosa: sente pulsazione vaso
+	- se tumefazione pulsante a adodminale
+		- chirurgo vascolare o esame strumentale
+		- addome visitato, anamnesi
+	- screening
+		- evita rottura
+	- es pz
+		- dolori addominali, astenia, ipotensione: pz aspetta
+		- palpazione addome se palpabile
+		- indirizza tc, pz aspetta
+		- diagnosi aneurisma rotto: tc mdc: irc no mdc
+		- chirurgo vascolare
+			- anemia emorragica, infarto miocardico intraoperatorio
+			- cardiopatici, broncopneumatici
+		- cercare aorta in lago di sangue, aspiratore
+		- clampare aorta, cucire protesi
+		- th intensiva
+			- muore dopo un mese di sofferenza: [[cid]]
+			- emotrasfusioni, citrato per non coagulare sacca: altera coagulazione fino a cid
+			- complicanze da shock
+				- rene [[anemia emorragica acuta]]
+				- polomone, fegato, cervello
+				- [[parenchima da shock]] fino a [[mof]]
+	- diagnosticare [[tumefazione pulsatile]] in sede addominale!
+- ## complicanze
+	- [[rottura a addominale]]
+		- emergenza chirurgica
+	- embolia
+		- urgenza chirurgica
+		- trombo da aneurisma ostruisce [[a iliaca]] o [[a femorale]] o [[a poplitea]]
+		- arto in ischemia acuta: ostruzione a valle
+	- trombosi
+		- totale della sacca aneurismatica rara
+		- via flusso cospicua, pressione alta, in genere asso iliaco controlat wash-out
+		- [[a mesenterica inf]] da [[a addominale sottorenale]] irrora intestino, ostruita da trombo asintomatica: [[arcata di riolano]] compensa
+			- se ostruzione lenta, cronica 10 anni rivascolarizza
+- ## classificazione
+	- [[aneurisma infiammtorio a addominale]]
+	- 

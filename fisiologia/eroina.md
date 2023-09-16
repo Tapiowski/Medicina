@@ -1,0 +1,17 @@
+- effetti
+	- [[terapia analgesica]]
+	- euforia
+	- dormire
+	- nausea
+	- prurito
+	- [[miosi]]
+- sindrome da [[astinenza]]
+	- ansia, irratibilita
+	- ricerca ossessiva dose: [[craving]]
+	- [[midriasi]]
+	- lacrimazione, sudorazione
+	- crampi muscolari
+- stato funzionale
+	- sottodosaggio
+	- euforia
+	- overdose

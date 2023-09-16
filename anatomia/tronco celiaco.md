@@ -1,0 +1,4 @@
+- divide in
+	- [[a epatica comune]] dx
+	- [[a gastrica sin]] alto vs stomaco
+	- [[a splenica]] sx

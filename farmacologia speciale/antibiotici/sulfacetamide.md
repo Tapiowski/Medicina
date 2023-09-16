@@ -1,0 +1,3 @@
+- 90X solubilita [[sulfadiazina]], soluzioni sale iodato
+	- [[infezione]] [[occhio]], non irrita, penetra fluidi oculari, tessuti in maggiore k
+- sensitivita rara, 30% soluzione sale iodato ha ph 7.4, altri [[sulfonamidi]] sono alcalini

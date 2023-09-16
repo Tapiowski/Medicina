@@ -1,0 +1,123 @@
+- [[patologie vascolari]]
+- qualsiasi lesione ostruttiva arteriosa a valle delle arterie renali: -perfusione arti inf
+- ## anatomia
+	- [[collaterali aorta addominale]]
+	- [[a mesenterica sup]]
+		- dx
+	- [[a mesenterica inf]]
+		- sin, colon
+	- [[tronco celiaco]]
+		- [[a gastrica sin]]
+		- [[a splenica]]
+		- [[a epatica]]
+	- arto inf, superato punto di repere [[legamento inguinale]]
+		- [[a femorale comune]]
+			- [[a femorale prof]] lat
+			- [[a femorale sup]] med
+			- fino a piede
+- ## patogenesi malattie cardiovascolari
+	- [[aterosclerosi]]
+		- arti inf: chiude [[a femorale sup]], che esce da [[canale fibroso di hunter]], mm adduttore comprime lume
+			- chiusura sale a monte, scompaiono polsi: onda sfigmica interrotta in chiusura arteriosa
+		- [[a femorale prof]] bypass naturale
+		- dopo [[canale fibroso di hunter]] [[a poplitea]] sopragenicolare, infragenicolare, sottogenicolare
+			- [[a tibiale ant]]
+			- [[tronco tibioperoniero]]
+				- biforca in [[a tibiale post]] e [[a peroniera]] o interossea
+		- garantire appoggio plantare target terapeutico
+	- [[ipertensione arteriosa]]
+	- [[ipercolesterolemia]]
+	- [[obesita]]
+	- [[diabete]]
+	- [[vita sedentaria]]
+	- [[stress]]
+	- [[fumo sigaretta]]
+	- sintomo [[crampo]]
+- ## epidemiologia
+	- [[aterosclerosi]] dopo 60-70 aa
+		- donne arterie piu piccole, arteriopatie post menopausa
+		- arterie di medio/grosso calibro
+		- nel diabete piccolo calibro
+		- malattia ubiquitaria: disseminazione placche, stenosi: + in distretto aortoiliaco e femoro popliteo, distretto distale sotto ginocchio -
+		- fattori rischio
+			- ipertensione arteriosa, ipercolesterolemia, obesita, diabete, sedentaria, stress, fumo, familiarita
+		- eta infantile: tutti hanno aterosclerosi poi arterie irrigidiscono
+		- quindi
+			- [[arteriosclerosi]] tutti quando invecchiamo
+			- [[aterosclerosi]] [[arteriosclerosi]] degenerata in patologia
+- ## fisiologia circolo arterioso mm
+	- a riposo: 1.5-6 ml/100g/min. sforzo: 80-100 ml/100g/min
+		- vasodilatazione arteriosa da innervazione intrinseca da vasa nervorum, accumulo metaboliti acidi: evitare [[crampo]] con +flusso
+		- aumentare velocita sangue non avrebbe senso: rilascio sfinteri precapillari: perfusione letto capillare inattivo
+	- [[legge di leonardo]]
+	- pz normale
+		- p 100 mmhg cuore, flusso a femorale 300 cm3/min
+		- a grosso calibro -r, capillari +r
+		- in corsetta: -r capillare: +flusso mm 5x fino a 1500 cm3/min
+			- tachicardia: cuore pompa piu velocemente
+	- pz pad cronica
+		- stenosi emodinamicamente significativa
+			- cuore p 100mmhg, ari inf decremento pressorio a valle stenosi 60 mmhg
+				- per assicurare 300 cm3/min capillari gia -r
+		- sotto sforzo
+			- pz -r: massima vd periferica flusso da 300 a 500 cm3
+			- arteriopatico non arriva a 1500 cm3: [[crampo]]
+- ## gangrena arto
+	- lesioni trofiche cominciano da dita dei piedi
+		- pz non al quarto stadio se lesioni trofiche in gambe ma dita piedi rosei e irrorati
+	- localizzazione [[claudicatio intermittens]]
+		- polpaccio
+			- +frequente, gemello int, est, soleo e mm loggia mm gamba
+			- lesione ostruttiva o semiostruttiva: -flusso da aterosclerosi grave in ass a femoro-popliteo
+			- se interessa anche coscia
+				- lesione iliaco o piu in alto
+		- gluteo
+			- +regioni caudali
+			- lesione aorto-iliaca: [[stenosi aortica serrata]] grave, in biforcazione, bilat
+		- coscia
+			- lesione iliaca
+		- piede
+			- lesione arterie gamba
+	- quadro clinico
+		- sede lesione, numero lesioni, entita, apporto ematico, qualita circoli collat
+		- concrezioni dal subendotelio concentriche o eccentriche
+		- trombi per vortici
+		- [[trombosi succlavica]] vaso chiuso da placca o trombosi
+		- rottura placca: cocre lipidico, pappa poltacea con fattori coagulazione
+	- stenosi
+		- 5-15 anni, lento e cronico
+		- arto vascolarizzato in maniere indiretta: polso scompare
+		- circolo collaterale arto inf
+			- [[a femorale prof]]
+				- ipertrofizza: no polso politeo o tibiale ant post ma cammina ok
+- ## circoli collaterali
+	- ### [[legge di poiseuille]]
+	- [[a femorale prof]]
+		- chiusura bilat [[a femorale sup]] cronica
+		- riabita f s a valle dell'ostruzione
+		- [[farmaci antiaggreganti piastrinici]] [[asa]] non gastrolesico [[ticoplidina]]
+		- [[farmaci anticoagulanti]] piu pericoosi per emoragia cerebrale
+	- [[arcata di riolano]]
+		- quadrante sin addome
+		- angiografia soggetto normale non percepibile
+			- manifesta in ostruzione [[a mesenterica sup]] o [[a mesenterica inf]]
+			- ostruzione in turbolenza flusso: biforcazioni arterie o emergenza
+			- ostruzione sup, innesca arcata di riolano ascendente e retrograda da mesenterica inf: rivascolarizza superiore a valle ostruzione
+			- ostruzione inf arcata di riolano discendente e anterograda da sup
+	- [[collaterale pelvico]]
+		- ostruzione aorta, biforcazione aorta o asse iliaco occluso
+		- rivascolarizza femorale comune pre biforcazione
+- ## classificazione [[pad]]
+	- ## [[arteriopatie degenerative]]
+		- ### [[aterosclerosi]]
+			- ### [[sindrome di leriche]]
+		- ### [[arteriopatia diabetica]]
+		- ### [[displasia]]
+		- ### [[mal cistica avventiziale]]
+	- ## [[arteriopatie non degenerative]]
+		- ### [[tromboangioite obliterante]]
+		- ### [[sindromi compressive]]
+		- ### [[esiti di traumi]]
+		- ### [[arteriti]]
+		- ### [[coartazione aortica]]
+		- ### [[sindrome della piccola aorta]]

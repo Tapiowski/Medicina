@@ -1,0 +1,11 @@
+- convenzionale
+	- massaggio per 5 s
+		- risposta positiva per asistolia per 3 s, -pressione 50 mmhg: ipersensibilita riflesso barocettoriale
+- su base sintomatica
+	- massaggiamo per altri 5s
+	- evocare sincope: vasodepressiva o cardioinibitoria-bradicardia?
+		- cardioinibitoria: pacemaker
+- in massaggio
+	- asistolia maggiore di 3 s, calo pressorio 50 mmhg
+		- ipersensibilita seno carotideo: no sincope
+		- sincope del seno carotideo: sincope

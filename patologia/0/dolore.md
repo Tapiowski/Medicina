@@ -1,0 +1,79 @@
+- fibre afferenti sensoriali in [[corna dorsali]] del midollo
+	- [[fibre ab]] meccanocettori 3-6
+	- [[fibre ad]] meccanocettori, nocicettori 5
+	- [[fibre c]] nocicettori, termocettori, meccanocettori
+- sistema di [[gate control]]: interneuroni regolano passaggio impulsi da fibre afferenti periferiche a talamo: [[fascio spinotalamico]] ipsilat, controlat
+- interneuroni attivati da [[via inibitoria discendente]] o da afferenze non nocicettive: [[fibre ab]], inibite da afferenze nocicettive [[fibre c]], [[fibre ad]]
+- ## nu [[corna dorsali]]
+	- interneurone > [[glutammato]] > calcio
+		- recettore [[nmda]]
+			- [[nos]] > [[no]]
+			- [[cox2]] > [[pg]]
+			- [[pkc]] > ca
+		- recettore opioide
+		- r nk
+	- [[fibre c]] terminali
+		- [[glutammato]]
+		- [[sp]], [[cgrp]]
+		- recettore oppioide
+		- r ep
+- ## canali, recettori, trasduzione nocicettiva
+	- eccitazione
+		- - da [[canali potassio]]
+			- [[oppiacei]], [[anandamide]] via recettori per [[oppiacei]] e [[cannabinoidi]]
+	- depolarizzazione
+		- protoni, [[capsacina]], [[anandamide]], [[stimolo doloroso]], [[calore]]
+			- recettore [[vr1]]
+				- + da [[pkc]] tramite [[bradichinina]] e [[b2-bradichinina]]-r
+		- [[ngf]]
+			- recettore [[trka]]
+			- + gene [[vr1]]
+		- protoni
+			- [[asic]]-r
+		- [[atp]]
+			- [[p2a]]-r
+		- voltage-g [[canali sodio]]
+			- + da [[pkc]] via [[prostaglandine]]
+- ## canali ionici
+	- attivati da voltaggio
+		- [[canali sodio]]
+		- [[canali calcio]]
+	- attivati da ligandi
+		- canali ionici da [[protoni]]
+		- [[canali purine]]
+		- [[recettori vanilloidi]]
+		- [[canali potassio]] non voltaggio-dip
+		- recettori ionotropi [[glutammato]]
+		- [[recettori nicotinici]]
+- ## definizioni
+	- [[dolore]]
+		- accademica: esperienza sensoriale ed emotiva spiacevole = [[diestesie]] , associata ad effettivo o potenziale danno tessutale
+		- clinica: cio che pz dice esso sia, esiste ogni volta ne afferma l'esistenza
+		- esperienza soggettiva
+	- 10% [[dolore neuropatico]]: situazioni dolorose, da disfunzione sistema nervoso p o c associata o meno a lesione nervo
+	- [[dolore nocicettivo]]: dolore da stimoli nocivi, segue lesione tessutale
+		- 46% [[dolore nocicettivo somatico]]
+			- superficiale
+			- profondo
+		- 30% [[dolore nocicettivo viscerale]]
+	- 16% misto
+	- [[wind up]]: + scarica neuroni [[corna dorsali]], da attivazione ripetuta [[fibre c]]
+	- [[dolore centrale]]: da lesioni strutture centrali somato-sensoriali: accidente cerebro-vascolare, [[sclerosi multipla]]
+	- [[iperalgesia]]: + sensibilita a stimoli nocivi
+	- [[allodinia]]: sensibilita a stimoli non nocivi
+	- nel pz oncologico
+		- nocicettivo puro 49%
+		- neuropatico puro 10%
+		- misto 41%
+	- [[dolore episodico intenso]]
+		- episodi dolorosi ad orari fissi in th analegesica cronica
+		- caratterizzato da: insorgenza rapida, elevata intensita, breve durata: 30 m
+	- [[dolore incidente]]
+	- [[dolore globale]]
+- ## modelli preclinici di dolore
+	- 
+	| modello           | stimolo                                                     | andamento temporale | input           | azione                                                                                                                                                             |
+	| ----------------- | ----------------------------------------------------------- | ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+	| acuto             | + termico, meccanico                                        | secondi             | Ad/C            | + corno dorsale, nu nocicettivi specifici                                                                                                                          |
+	| lesione tessutale | irritante esogeno, fattore endogeno, iperalgesia, allodinia | minuti, giorni      | fibre Ad, C, Ab | fattori inizianti traffico afferente, sensibilizanti terminazioni, att ripetitiva nu c dorsale sensibilizza spina, induzione recettori canali trasmettitori enzimi |
+	| lesione nervo     | iperalgesia, allodinia                                      | ore, giorni         | Ad, C, Ab       | altera trasporto fattori trofici, sprouting f afferenti in lamina II, periferia, att spontanea persistente drg, degenerazione trans-sinaptica, alterazn trasmettitori/recettori                                                                                                                                                                   |

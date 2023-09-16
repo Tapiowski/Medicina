@@ -1,0 +1,10 @@
+- [[ipotensione ortostatica iniziale]]
+	- in 30 s ipotensione, poi ripristino
+- [[ipotensione ortostatica progressiva]]
+	- no ipotensione iniziale, entra tardivamente
+- ## classificazione
+	- idiopatica
+		- da farmaci?
+			- ipovolemia, interferenza sns, vasodilatazione diretta, diuretici, abloccanti, calcio antagonisti, nitrati, antidepressivi triciclici, levodopa
+	- secondaria
+		- disfunzioni sna, diabete, alcolismo, sindrome uremica, paraneoplastica, amiloidosi, parkinson, atrofia multisistemica, tumori cerbrali, invecchiamento, allettamento, farmaci

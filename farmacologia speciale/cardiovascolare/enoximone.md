@@ -1,0 +1,2 @@
+- in [[scompenso cardiaco]] congestizio con -[[gittata cardiaca]], aumento [[pre carico]]
+- collaterali cardiaci, extrasistoli, tachicardia ventricolare, aritmie sopraventricolari, ipotensione, cefalea, nausea, vomito

@@ -1,0 +1,1 @@
+- derivato da acido fenossiacetico, lega gruppo sulfidirilo cisteina: attivazione

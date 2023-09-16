@@ -1,0 +1,7 @@
+- [[ergoline]]
+	- [[bromocriptina]] prototipo
+	- [[lisuride]]
+	- [[pergolide]]
+	- [[cabergolina]]
+- derivati segale cornuta, stessi effetti [[dopamina]]: inibizione secrezione [[prolattina]], induzione secrezione [[ormone della crescita]]
+- possono indurre versamenti, fibrosi pleurica, peritoneale, pericardica se th lunga

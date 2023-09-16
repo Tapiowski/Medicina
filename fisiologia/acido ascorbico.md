@@ -1,0 +1,11 @@
+- neutralizza, rimuove specie radicaliche
+- inibisce processi dannosi: perossidazione lipidica
+- da sangue a fluido cs attraverso plesso coroideo
+- giunge a neurone [[glut3]] > [[dha]]
+- poi ad astrocita [[glut-1]] > [[asc]]
+- strutture biologiche associate
+	- [[b tubulina iii]]/dapi
+	- [[svct-1]]/dapi
+	- [[svct-2]]: in cc tipo a immunoreattive a biii
+	- [[gfap]]/dapi
+	- [[glut-1]]/dapi cc tipo b, immunoreattive a [[gfap]]

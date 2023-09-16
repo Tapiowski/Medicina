@@ -1,0 +1,22 @@
+- pz esposti a [[nitroglicerina]] con [[angina pectoris]] dopo lavoro
+	- liberazione [[no]]
+		- [[vasodilatazione]] quindi ok sul posto di lavoro
+	- effetto rebound a casa: [[vasocostrizione]]
+- [[vasodilatazione]] distretto venoso, [[farmaci venodilatatori]]
+	- -ritorno venoso: -lavoro cardiaco
+- cura [[angina pectoris]] in 2 min
+	- far sedere pz
+- [[vasodilatazione]] arteriosa ad alte dosi
+	- post carico, -pressione
+- [[spasmo coronarico]]: [[angina variante]] [[angina di prinzmetal]]
+	- nitroglicerina risolve
+- problematiche
+	- tolleranza
+	- somministrazione per 24h
+	- smette di funzionare
+	- inducono cefalea da vasodilatazione
+	- rebound da interruzione
+	- stress ossidativo endotelio: +radicali da no
+		- infiammazione, rottura placche: peggiora coronarie
+	- solo per attacchi acuti
+	- uso max per 18h

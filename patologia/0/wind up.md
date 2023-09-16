@@ -1,0 +1,1 @@
++ scarica neuroni [[corna dorsali]], da attivazione ripetuta [[fibre c]]

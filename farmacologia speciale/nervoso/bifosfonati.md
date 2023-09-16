@@ -1,0 +1,16 @@
+- inibiscono riassorbimento osseo da osteoclasti: azione [[antinfiammatori]]
+- -ipercalcemia da neoplasia maligna
+- -dolore, uso [[farmaci analgesici]]
+- in prevenzione complicanze schel: metastasi ossea
+- effetto [[analgesia]] diretto
+- ## classificazione
+	- 1 generazione
+		- [[clodronato]], [[etidronato]]
+	- 2 generazione
+		- [[pamidronato]], [[zoledronato]], [[ibandronato]]
+- ## effetti neurolettici
+	- [[sedativi]]
+	- [[antiemetici]]
+	- [[antipsicotici]]
+	- [[procinetici]]
+		- [[nausea]], [[vomito]], [[dispepsia]], [[subocclusione intestinale]]

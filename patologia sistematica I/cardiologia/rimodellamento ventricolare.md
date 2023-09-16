@@ -1,0 +1,12 @@
+- [[rimodellamento post-infartuale]]
+- modifica dimensione, forma, funzione ventricolo dopo danno cardiaco
+- miocita + interstizio, fibroblasti, collageno, vascolarizzazn cronica
+- dilatazione ventricolare con espansione e assotigliamento parte infartuata
+- infiammazione, proliferazione, maturazione attorno necrosi
+- restante parte dilata: disfunzione cuore
+- stabilizzare profilo emodinamico
+- follow-up indici
+- dimensioni infarto
+- estensione transmurale
+- danno microcircolo
+- attivazione neuro-ormonale su gittata: raa, adre, noradre

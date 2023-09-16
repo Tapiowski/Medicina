@@ -1,0 +1,5 @@
+- subunita
+	- a1 rene
+	- a2 mm scheletrico, cuore
+	- a3 snc
+	- b localizzazione membrana
