@@ -15,7 +15,7 @@
 	- [[antiedema]]
 	- [[antispastici]]
 	- [[antisecretori]]
-	- [[antitosse]]
+	- [[antitossigeni]]
 	- [[ansiolitici]]
 	- [[farmaci chemio-antibiotici]]
 	- [[antiacidi]]

@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiologia.md",
+                "file": "vt.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiologia.md",
+                "file": "vt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiologia.md"
+                "file": "vt.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiologia.md",
+                "file": "vt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiologia.md",
+                "file": "vt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,32 +203,35 @@
   },
   "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
-    "patologia sistematica I/cardiologia/sindromi pericardiche.md",
-    "patologia sistematica I/cardiologia/cardiologia.md",
-    "patologia sistematica I/cardiologia/pericardite.md",
-    "patologia sistematica I/cardiologia/versamento pericardico.md",
-    "patologia sistematica I/cardiologia/malattie reumatiche cardiologiche.md",
-    "patologia sistematica I/cardiologia/criteri di jones.md",
-    "patologia sistematica I/cardiologia/allungamento pr.md",
-    "patologia sistematica I/cardiologia/corpi di aschoff.md",
-    "patologia sistematica I/cardiologia/febbre reumatica acuta.md",
-    "patologia/0/arf.md",
-    "patologia sistematica I/cardiologia/fibrosi valvolare.md",
-    "patologia/0/malattia reumatica.md",
-    "patologia sistematica I/cardiologia/endocardite infettiva.md",
-    "patologia sistematica I/cardiologia/TTE.md",
-    "patologia sistematica I/cardiologia/TOE.md",
-    "patologia sistematica I/cardiologia/criteri di duke.md",
-    "patologia sistematica I/cardiologia/endocardite in corso di connettiviti.md",
-    "patologia sistematica I/cardiologia/endocardite reumatica.md",
-    "patologia sistematica I/cardiologia/malattia di barlow.md",
-    "patologia/0/cardiomiopatia.md",
-    "patologia sistematica I/cardiologia/cardiomiopatie non classificabili.md",
-    "patologia sistematica I/cardiologia/ventricolo sin non compatto.md",
-    "patologia sistematica I/cardiologia/cardiomiopatie da stress.md",
-    "patologia sistematica I/cardiologia/cardiomiopatia aritmogena.md",
-    "patologia sistematica I/cardiologia/cardiomiopatia restrittiva.md",
-    "patologia sistematica I/cardiologia/amiloidosi cardiaca.md",
+    "patologia sistematica I/pneumologia/spirometria.md",
+    "tlc.md",
+    "frc.md",
+    "vc.md",
+    "100 files/Lungvolumes.png",
+    "rv.md",
+    "erv.md",
+    "irv.md",
+    "vt.md",
+    "100 files/Pasted image 20230207104525.png",
+    "patologia sistematica I/pneumologia/semeiotica pneumologica.md",
+    "100 files/Lungvolumes.svg",
+    "semeiotica/ftv.md",
+    "patologia sistematica I/pneumologia/versamento pleurico.md",
+    "patologia sistematica I/pneumologia/consolidamento polmonare.md",
+    "semeiotica/kussmaul.md",
+    "semeiotica/cheyne-stokes.md",
+    "semeiotica/suono ipofonetico.md",
+    "semeiotica/suono iperfonetico.md",
+    "semeiotica/biot.md",
+    "patologia sistematica I/pneumologia/bradipnea.md",
+    "patologia sistematica I/pneumologia/tachipnea.md",
+    "patologia sistematica I/pneumologia/polipnea.md",
+    "patologia/sindrome paraneoplastica.md",
+    "patologia/claude-bernard-horner.md",
+    "patologia/ipossemia.md",
+    "semeiotica/cianosi periferica.md",
+    "semeiotica/HBr.md",
+    "semeiotica/dolore toracico.md",
     "patologia sistematica I/pneumologia",
     "polso tibiale ant",
     "chirurgia/0",
@@ -236,7 +239,6 @@
     "antagonisti gpiiib",
     "semeiotica",
     "100 files/Pasted image 20230207104650.png",
-    "100 files/Pasted image 20230207104525.png",
     "100 files/Pasted image 20221021110844.png"
   ]
 }

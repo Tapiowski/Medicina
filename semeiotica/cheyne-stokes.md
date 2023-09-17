@@ -1,0 +1,1 @@
+atti respiratori periodici con +vol corrente fino a max, poi riduzione fino ad [[apnea]]: [[cardiopatico]]: [[scompenso cardiaco]]; [[intossicazione]] da [[sedativi]], [[encefalopatia]]

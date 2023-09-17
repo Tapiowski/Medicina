@@ -1,0 +1,11 @@
+- riflesso
+	- in [[virosi]] o [[tracheobronchite]] o [[laringo-tracheite]] elimina catarro in eccesso
+	- no [[antitossigeni]]: diverso in caso di [[cancro]] ostruente
+- fisiologia
+	- profonda inspirazione seguita da chisura glottide, x mm espiratori, improvvisa riapertura glottide con eliminazione colonna d'aria
+- qualita
+	- [[tosse secca]]: [[tracheobronchite virale]]
+	- [[tosse produttiva]]: da sovra-infezione batterica
+	- [[tosse continua]]
+	- tosse con sintomi associati: [[dispnea]]
+- cause innumerevoli

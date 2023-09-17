@@ -54,7 +54,7 @@
 		- funzione renale
 		- [[transaminasi]]
 		- [[cpk]]
-		- [[emogasanalisi]]: [[ipossiemia]]
+		- [[emogasanalisi]]: [[ipossemia]]
 	- [[ECG]]
 	- confermare sospetto = [[test di induzione dell'ischemia]]
 		- test postitivo in malato: vero positivo

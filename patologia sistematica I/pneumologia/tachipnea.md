@@ -1,0 +1,1 @@
+atti/min > 20, superficiali, frequenti

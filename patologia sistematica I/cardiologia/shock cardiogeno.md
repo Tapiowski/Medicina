@@ -2,7 +2,7 @@
 	- [[ipoperfusione periferica]]
 	- preceduta da [[oliguria]]
 	- estremita fredde
-	- confusione da [[ipossiemia]] o [[edema cerebrale]]
+	- confusione da [[ipossemia]] o [[edema cerebrale]]
 	- +lattati, [[acidosi]]
 - shock cardiogeno
 	- [[ipoperfusione]]

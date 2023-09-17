@@ -1,0 +1,1 @@
+[[consolidamento polmonare]], [[edema polmonare]], [[versamento pleurico]], ispessimento o [[neoplasia pleurica]]

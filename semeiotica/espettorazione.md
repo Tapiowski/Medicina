@@ -1,0 +1,9 @@
+- eliminazione di materia prodotta da apparato mucosecernente
+- aspetto
+	- [[muco]] biancastro
+	- [[purulento]] giallo-verde
+	- [[sangue]]
+- [[emottisi]]
+- [[emoftoe]]
+- sintomo speventoso
+	- [[neoplasia]], [[polmonite]], [[bronchiectasie]], [[tbc]], [[embolia polmonare]]

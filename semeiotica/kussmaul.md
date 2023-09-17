@@ -1,0 +1,1 @@
+respiri lenti, inspirazione prof e rumorosa, breve [[apnea inspiratoria]], [[espirazione gemente]], [[pausa espiratoria prolungata]]: [[coma diabetico]]

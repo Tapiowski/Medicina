@@ -18,7 +18,7 @@
 	- poi [[scompenso cardiaco congestizio]] conclamato
 		- [[edemi declivi]], [[turgore giugulari]], [[cianosi]]
 		- da shunt dx-sin per forame ovale pervio o dia
-		- [[cianosi centrale calda]] o se -gittata [[cianosi perifierica]]
+		- [[cianosi centrale calda]] o se -gittata [[cianosi periferica]]
 - ## storia naturale
 	- severita stenosi
 	- progressione stenosi: stenosi fissa ma organismo cresce, orifizio no

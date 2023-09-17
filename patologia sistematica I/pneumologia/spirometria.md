@@ -1,0 +1,8 @@
+- ![[Lungvolumes.png]]
+- [[volume corrente]] [[vt]]
+- [[volume di riserva inspiratoria]] [[irv]]
+- [[volume di riserva espiratoria]] [[erv]]
+- [[volume residuo]] [[rv]]
+- [[capacita vitale]] [[vc]] = [[vt]] + [[irv]] + [[erv]]
+- [[capacita funzionale residua]] [[frc]] = [[rv]] + [[erv]]
+- [[capacita polmonare totale]] [[tlc]]

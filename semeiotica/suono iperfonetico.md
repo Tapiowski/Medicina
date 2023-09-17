@@ -1,0 +1,1 @@
+percussione enfidema e pneumotorace

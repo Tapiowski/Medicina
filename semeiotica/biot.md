@@ -1,0 +1,1 @@
+respiro patologico 4-5 atti respiratori rapidi, profondi, regolari + fase [[apnea]] durata variabile: [[encefalopatia]]

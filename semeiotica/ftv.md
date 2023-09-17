@@ -1,0 +1,10 @@
+- [[fremito vocale tattile]]
+- mano su torace: trasmissione onda sonora da corde vocali su parete toracica
+- pervieta vie aeree
+- +ftv
+	- magri, [[infarto polmonare]], [[consolidamento polmonare]], [[alveolite]]
+- -ftv
+	- [[edema]]
+	- [[enfisema polmonare]]
+	- [[versamento pleurico]]
+	- [[stenosi tracho-bronchiale]]

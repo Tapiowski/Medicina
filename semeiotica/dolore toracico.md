@@ -21,5 +21,14 @@
 	- gastroesofageo
 	- neuromuscoloschelettrico
 	- altro
+- ## semeiotica polmonare
+	- no recettori dolore in [[polmone]] o [[vie aeree]]
+	- conivolta [[pleura parietale]] o [[scissure]] ricche di fibre e recettori
+	- compare brusco, graduale, vivo, profondo, +febbre o dispnea, localizzato, irradiato
+	- manifestazione
+		- dolore acuto: [[pneumotorace]]
+		- dolore sordo: per mesi, [[cancro]]
+		- dolore pleurico: parete toracica, mm e nv intercostali di vertebre e coste
+		- dolore mediastinico
 - ## classificazione
 	- ### [[dolore anginoso]]
