@@ -4,7 +4,7 @@
 	- espirazione forzata
 	- curva [[flusso-volume]]: flusso instantaneo e volume espirato
 - valutazione
-	- [[fev1]]: volume gas emesso in 1s
+	- [[fev1]] o [[vems]]: volume gas emesso in 1s
 	- [[fvc]]: vol massimo gas che puo essere emesso
 	- [[fev1]]/[[vc]]: [[indice di tiffenau]]
 - patterns

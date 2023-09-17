@@ -6,7 +6,7 @@
       {
         "id": "90031d7e25540a77",
         "type": "tabs",
-        "dimension": 57.87937743190661,
+        "dimension": 71.26436781609196,
         "children": [
           {
             "id": "028c4c1a23f379c1",
@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/pneumologia/asma bronchiale.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
       {
         "id": "431be177dea24723",
         "type": "tabs",
-        "dimension": 42.12062256809339,
+        "dimension": 28.735632183908045,
         "children": [
           {
             "id": "8f81a86fa1ef28d0",
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/pneumologia/asma bronchiale.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -66,8 +66,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224422,
-                  "close": true
+                  "scale": 1.604869790900495,
+                  "close": false
                 }
               }
             },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/pneumologia/asma bronchiale.md"
+                "file": "patologia sistematica I/pneumologia/pneumologia.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/pneumologia/asma bronchiale.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/pneumologia/asma bronchiale.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,38 +201,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2501a28e38f1325f",
+  "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
+    "patologia sistematica I/pneumologia/asma bronchiale.md",
+    "gell-coombs.md",
+    "spirometria con reversione.md",
+    "100 files/Lungvolumes.png",
+    "farmacologia speciale/cardiovascolare/inibitori pde.md",
+    "fisiologia/recettori muscarinici.md",
+    "patologia sistematica I/pneumologia/allergeni stagionali.md",
+    "patologia sistematica I/pneumologia/allergeni perenni.md",
+    "fisiologia/Th0.md",
+    "fisiologia/apc.md",
+    "patologia sistematica I/pneumologia/spirometria.md",
+    "patologia sistematica I/pneumologia/spirometria dinamica.md",
+    "patologia sistematica I/pneumologia/fev1.md",
+    "semeiotica/pet.md",
+    "templates/patologia sistematica.md",
+    "patologia sistematica I/patologia sistematica I.md",
+    "farmacologia speciale/farmacologia speciale.md",
     "Untitled 1",
     "Untitled",
     "patologia sistematica I/pneumologia/pneumologia.md",
     "patologia sistematica I/pneumologia/semeiotica pneumologica.md",
-    "pet.md",
     "semeiotica/TC.md",
-    "patologia sistematica I/patologia sistematica I.md",
-    "patologia sistematica I/pneumologia/spirometria.md",
-    "100 files/Lungvolumes.png",
     "patologia sistematica I/pneumologia/emogasanalisi.md",
-    "patologia sistematica I/pneumologia/spirometria dinamica.md",
     "patologia sistematica I/pneumologia/tlc.md",
     "patologia sistematica I/pneumologia/frc.md",
     "patologia sistematica I/pneumologia/erv.md",
     "patologia sistematica I/pneumologia/vc.md",
     "patologia sistematica I/pneumologia/rv.md",
     "patologia sistematica I/pneumologia/irv.md",
-    "patologia sistematica I/pneumologia/vt.md",
     "100 files/Pasted image 20230207104525.png",
     "100 files/Lungvolumes.svg",
-    "semeiotica/ftv.md",
-    "patologia sistematica I/pneumologia/versamento pleurico.md",
-    "patologia sistematica I/pneumologia/consolidamento polmonare.md",
-    "semeiotica/kussmaul.md",
-    "semeiotica/cheyne-stokes.md",
-    "semeiotica/suono ipofonetico.md",
-    "semeiotica/suono iperfonetico.md",
-    "semeiotica/biot.md",
-    "patologia sistematica I/pneumologia/bradipnea.md",
-    "patologia sistematica I/pneumologia/tachipnea.md",
     "patologia sistematica I/pneumologia",
     "polso tibiale ant",
     "chirurgia/0",

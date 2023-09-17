@@ -1,4 +1,4 @@
-- fosfodiesterasi tipo III cardiaco (specifica per [[camp]])
+- [[fosfodiesterasi]] tipo III cardiaco (specifica per [[camp]])
 	- atp + [[adenilato ciclasi]] = [[camp]] + pde = 5-amp + mitocondri = atp
 	- + [[camp]] = + ca in: + [[contrattilita cardiaca]]
 - area aromatica idrofobica + regione elettronegativa

@@ -1,0 +1,1 @@
+[[vems]] volume espiratorio massimo in 1s

@@ -1,7 +1,7 @@
 - ## definizione
 - ## epidemiologia
-- ## eziopatogenesi
-- ## fisiopatologia
+- ## eziologia
+- ## patogenesi
 - ## sintomatologia
 - ## diagnosi
 - ## terapia

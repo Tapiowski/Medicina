@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:\"patologia sistematica I/pneumologia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14734418
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2158387711148685,
+  "scale": 0.21583877111486843,
   "close": true
 }
