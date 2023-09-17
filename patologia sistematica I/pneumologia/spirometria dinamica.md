@@ -1,0 +1,17 @@
+- misure in funzione tempo, calcolo flussi d'aria
+- inspirazione massimale
+- espirare con massima forza
+	- espirazione forzata
+	- curva [[flusso-volume]]: flusso instantaneo e volume espirato
+- valutazione
+	- [[fev1]]: volume gas emesso in 1s
+	- [[fvc]]: vol massimo gas che puo essere emesso
+	- [[fev1]]/[[vc]]: [[indice di tiffenau]]
+- patterns
+	- [[pattern ostruttivo]] -[[fvc]], --[[fev1]], --[[indice di tiffenau]]
+		- [[asma]], [[bpco]]
+	- [[deficitg restrittivo]] -[[fvc]], -[[fev1]], [[indice di tiffenau]]
+		- [[fibrosi]], [[interstiziopatia]], danni parete neuromm
+- diffusione dei gas
+	- co2, no, o2
+	- [[legge di fick]]: diffusione attraverso tessuti: velocita trasferimento gas per membrana

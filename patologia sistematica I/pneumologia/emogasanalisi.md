@@ -1,0 +1,6 @@
+- [[ega]]
+- prelievo arterioso radiale o femorale
+- valori po2, ph, pco2, bicarbonati, eq acido-base..
+- [[ipossiemia]]: po2 < 60 mmhg
+- [[ipercapnia]]: pco2 > 45 mmhg
+- [[acidosi]] < ph 7 > [[alcalosi]]

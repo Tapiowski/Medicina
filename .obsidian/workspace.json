@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vt.md",
+                "file": "patologia sistematica I/pneumologia/asma bronchiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vt.md",
+                "file": "patologia sistematica I/pneumologia/asma bronchiale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vt.md"
+                "file": "patologia sistematica I/pneumologia/asma bronchiale.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vt.md",
+                "file": "patologia sistematica I/pneumologia/asma bronchiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vt.md",
+                "file": "patologia sistematica I/pneumologia/asma bronchiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,19 +201,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1aec9aaf59f76ac0",
+  "active": "2501a28e38f1325f",
   "lastOpenFiles": [
-    "patologia sistematica I/pneumologia/spirometria.md",
-    "tlc.md",
-    "frc.md",
-    "vc.md",
-    "100 files/Lungvolumes.png",
-    "rv.md",
-    "erv.md",
-    "irv.md",
-    "vt.md",
-    "100 files/Pasted image 20230207104525.png",
+    "Untitled 1",
+    "Untitled",
+    "patologia sistematica I/pneumologia/pneumologia.md",
     "patologia sistematica I/pneumologia/semeiotica pneumologica.md",
+    "pet.md",
+    "semeiotica/TC.md",
+    "patologia sistematica I/patologia sistematica I.md",
+    "patologia sistematica I/pneumologia/spirometria.md",
+    "100 files/Lungvolumes.png",
+    "patologia sistematica I/pneumologia/emogasanalisi.md",
+    "patologia sistematica I/pneumologia/spirometria dinamica.md",
+    "patologia sistematica I/pneumologia/tlc.md",
+    "patologia sistematica I/pneumologia/frc.md",
+    "patologia sistematica I/pneumologia/erv.md",
+    "patologia sistematica I/pneumologia/vc.md",
+    "patologia sistematica I/pneumologia/rv.md",
+    "patologia sistematica I/pneumologia/irv.md",
+    "patologia sistematica I/pneumologia/vt.md",
+    "100 files/Pasted image 20230207104525.png",
     "100 files/Lungvolumes.svg",
     "semeiotica/ftv.md",
     "patologia sistematica I/pneumologia/versamento pleurico.md",
@@ -225,13 +233,6 @@
     "semeiotica/biot.md",
     "patologia sistematica I/pneumologia/bradipnea.md",
     "patologia sistematica I/pneumologia/tachipnea.md",
-    "patologia sistematica I/pneumologia/polipnea.md",
-    "patologia/sindrome paraneoplastica.md",
-    "patologia/claude-bernard-horner.md",
-    "patologia/ipossemia.md",
-    "semeiotica/cianosi periferica.md",
-    "semeiotica/HBr.md",
-    "semeiotica/dolore toracico.md",
     "patologia sistematica I/pneumologia",
     "polso tibiale ant",
     "chirurgia/0",

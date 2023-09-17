@@ -69,3 +69,18 @@
 - ## diagnostica funzionale
 	- volumi, flussi, diffusione gas, forza contrazione mm respiratori, test da sforzo cardiopolmonare: tipi di dispnea
 	- ### [[spirometria]]
+	- ### [[emogasanalisi]]
+- ## diagnostica per immagini
+	- [[radiografia torace]]
+		- front, lat-lat
+		- campi polmonari, cuore..
+		- arco aortico, tronco polmonare, vs
+		- [[raggi x]]: attraversano spazi aerei nero vs bianco opaco tessuti densi
+		- -risoluzione anatomica tratto aereo sup, bidimensionale, incompleta, aspecifica
+	- [[TC]] +dettaglio
+	- [[pet]] stadia cancro
+	- [[ecografia]] lesioni su pareti, biopsie, toracentesi, diaframma
+	- [[scintigrafia polmonare]] radio-gallio
+- ## diagnostica broncologica
+	- [[broncoscopio]] rigido, ventilazione pz, operazioni; flessibile per biopsia lavaggio brushing broncoaspirato
+	- sedazione con [[curaro]]

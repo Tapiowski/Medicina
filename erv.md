@@ -1,1 +1,0 @@
-[[volume di riserva espiratoria]]

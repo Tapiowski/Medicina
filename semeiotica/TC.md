@@ -5,3 +5,4 @@
 - ricostruzioni su tre piani
 - radiazioni ionizzanti
 - [[angiotc]]: tc con mezzo di contrasto
+- [[tomografia computerizzata]]
