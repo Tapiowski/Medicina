@@ -1,0 +1,17 @@
+- ## definizione
+	- ostruzione acuta, parziale o completa di rami [[a polmonare]] da [[embolia]] per via venosa
+	- eziologia emboli
+		- trombotici
+		- gassosi
+			- immersioni, arterie, cerebrali
+		- grassosi
+			- traumi, fratture ossa lunghe, piccoli frammenti di midollo
+		- amniotici
+			- complicazioni parto
+- ## epidemiologia
+- ## eziologia
+- ## patogenesi
+- ## sintomatologia
+- ## diagnosi
+- ## terapia
+- ## prognosi

@@ -1,0 +1,1 @@
+blkocco enzima lisosomiale tra cui [[elastasi]]

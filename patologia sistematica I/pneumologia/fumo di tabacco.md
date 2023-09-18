@@ -1,0 +1,52 @@
+- [[bronchite cronica]]
+	- effetto cilio-statico
+		- clearance muco-ciliare
+	- effetto cilio-lesivo
+		- perdita ciglia: ristagno secrezioni, ricrescita batteri e germi: infezione
+		- secrezione muco-purulenta: -eliminazione
+	- iperplasia e ipertrofia gh mucosecernenti
+		- mucipare e sottomucose
+		- iperproduzione di secreto
+		- in normale degluttizione vs app digerente
+	- +macrofagi alveolari
+		- fagocitosi fagolisosoma, 10X numero
+		- +attivita enzimatica / -attivita battericida/batteriostatica: + attivita litica: -fibre elastiche e collagene
+		- -elasticita polmone = [[enfisema polmonare]]
+	- metaplasia squamosa
+		- puo evolvere in displasia fino a carcinoma
+	- iperattivita bronchiale
+		- anche in asma
+		- [[broncospasmo]] da radicali ossigeno, ossidazione [[a1-antitripsina]]
+		- distruzione fibre elastiche
+	- danni da coltivazione e combustione
+		- [[nicotina]] non tossica per respiratorio ma per cardiovascolare
+		- [[monossido di carbonio]] concorre con legame Hb/o2: Hb% ridotta
+		- [[idrocarburi aromatici policiclici]] cancerogeni: [[benzopirene]], [[benzoatracene]]
+		- fertilizzanti: [[aldeidi]], [[chetoni]], [[fenoli]]
+- cosa contiene sigaretta
+	- catrame, monossido di carbonio, agenti ossidanti
+	- stato gasoso e componente corpuscolata
+	- abitudine ridotta in paesi sviluppati
+	- tendenza machi a lasciare piu che le donne
+		- cmq elevata
+		- + in 2,3 decade vita, +donne
+	- livello educazionale
+		- uomini: +educazione -fumo
+		- donne: +edu +fumo
+- rischio relativo
+	- 17 cancro polmone
+	- 10 bpco
+	- cancro vie sup
+	- cancro esofago
+- rischio attribuibile
+	- malati di tumore rientrano in 90% fumatori con cancro polmone
+	- aumenta con esposizione professionale
+- fumo passivo
+	- dna figli fumatori
+	- declino polmonare a 30 anni, declino fisiologico funzione polmonare di 30 ml / anno
+	- interruzione a 45 anni: declino interrompe ma non segue quello dei non fumatori
+	- smettere a 60 anni inutile
+- conclusione
+	- smettere ha effetto a lungo e corto termine
+	- malattia coronarica: -50% rischio a 1 anno da abbandono, a 10 anni uguale a non fumatori
+	- cancro polmone: rischio -60% dopo 5 anni

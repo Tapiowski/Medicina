@@ -6,6 +6,7 @@
 - [[capacita vitale]] [[vc]] = [[vt]] + [[irv]] + [[erv]]
 - [[capacita funzionale residua]] [[frc]] = [[rv]] + [[erv]]
 - [[capacita polmonare totale]] [[tlc]]
+- [[capacita inspiratoria]] [[ic]]
 - ## misura
 	- [[cabina pletismografica]]
 	- [[spirometria dinamica]]

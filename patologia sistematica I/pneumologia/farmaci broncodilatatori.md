@@ -1,0 +1,6 @@
+- [[farmaci beta-bloccanti]] per [[recettori beta-2]]
+	- periferia vie aeree, bronchioli, alveoli
+- [[farmaci anti-muscarinici]]
+	- [[broncocostrizione]]
+- [[farmaci corticosteroidi]]
+	- riacutizzazione

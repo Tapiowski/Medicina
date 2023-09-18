@@ -1,0 +1,1 @@
+blocco [[recettori muscarinici]]: blocco [[broncocostrizione]]
