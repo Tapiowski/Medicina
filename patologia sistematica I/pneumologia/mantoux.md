@@ -1,0 +1,7 @@
+- intradermoreazione
+- iniezione antigene tubercolare in derma
+- problema vascolarizzazione: corsa linfociti della memoria
+- 5 ui di [[PPD]], 72h verifica
+- +
+	- pomfo palpabile > 6 mm, > 20 mm intensa
+	- da risposta linfociti

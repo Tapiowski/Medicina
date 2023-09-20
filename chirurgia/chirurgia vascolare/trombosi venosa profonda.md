@@ -1,4 +1,5 @@
 - ## definizione
+	- [[tvp]]
 	- [[flebite]]
 	- [[flembotrombosi]] [[tvp]]: circolo profondo, mortale
 	- [[trombosi venosa profonda ischemizzante]]

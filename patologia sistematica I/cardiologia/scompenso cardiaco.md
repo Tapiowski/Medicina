@@ -48,7 +48,7 @@
 	- [[farmaci vasodilatatori]]
 		- [[idralazina]], [[isosorbide]]
 		- in [[angina pectoris]] th, [[ipertensione]]
-		- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+		- [[farmaci calcio antagonisti]]
 		- [[nitrati organici]] -[[pre carico]]
 		- [[idralazina]] -[[post carico]]
 		- meno efficaci, prolungano vita in associazione
@@ -56,7 +56,7 @@
 	- [[farmaci antiaritmici]]
 		- [[fibrillazione atriale]]: controllo frequenza ventricolare
 		- [[digossina]], [[amiodarone]], [[farmaci beta-bloccanti]]
-		- seconda scelta [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+		- seconda scelta [[farmaci calcio antagonisti]]
 	- [[farmaci anticoagulanti]], [[farmaci antiaggreganti piastrinici]]
 		- [[aspirina]] in malattia [[coronarie]], causa piu frequente di [[scompenso cardiaco]]
 			- no evidenze su +vita, discrezionale
@@ -75,7 +75,7 @@
 		- [[ace inibitori]]
 		- [[idralazina]]-[[isosorbide]]
 		- [[farmaci beta-bloccanti]]
-		- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+		- [[farmaci calcio antagonisti]]
 	- [[glicosidi cardioattivi]]
 		- effetti tossici: [[intossicazione digitalica]]
 			- xantopsia, nausea, vomito tardivi, aritmie av, bradicardia, allucinazioni

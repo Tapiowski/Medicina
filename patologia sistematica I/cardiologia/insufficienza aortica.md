@@ -46,7 +46,7 @@
 - ## terapia farmacologica
 	- anche se asintomatica
 	- vasodilatatori per -postcarico, -quota sangue rigurgitante
-	- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]] [[diidropiridine]], [[ace inibitori]]
+	- [[farmaci calcio antagonisti]] [[diidropiridine]], [[ace inibitori]]
 - ## indicazioni chirurgia
 	- pz sintomatico, insufficienza aortica severa: sempre
 	- pz asintomatico, solo se dilatazione radice aortica e disfunzione/dilatazione vs: volume telesistolico aumentato >50mm, disfunzione sistolica fe <50%

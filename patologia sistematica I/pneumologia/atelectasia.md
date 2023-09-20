@@ -1,0 +1,1 @@
+sindrome del [[lobo medio]]

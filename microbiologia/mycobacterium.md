@@ -1,5 +1,21 @@
 - mycobacterium marinum
 - mycobacterium avium ^mai
 - mycobacterium scrofulaceum
-- mycobacterium tubercolosis
+- [[mycobacterium tubercolosis]] ^hominis
 - mycobacterium leprae
+- micobatteri complex
+	-  mycobacterium bovis
+	- m africano
+	- bcg
+- ## classificazione di runyon, non tubercolari
+	- fotocromogeni
+		- pigmento a luce
+		- glistomicrogeni al buio
+	- scotocromogeni
+	- non cromogeni
+	- a rapida crescita
+	- patogeni nei pz HIV+
+		- -cd4
+		- ora reimmunizzati non infettano
+- ## ubiquitari
+	- polmonari, linfoghiandolari, cutanee, disseminate

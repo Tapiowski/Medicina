@@ -1,0 +1,3 @@
+- necrosi caseale centrale, cc giganti langerhans, cc epitelioidi con enzimi proteolitici, macrofagi attivati
+- vallo linfocitario + connettivo
+- diagnosi certa [[tubercolosi]]

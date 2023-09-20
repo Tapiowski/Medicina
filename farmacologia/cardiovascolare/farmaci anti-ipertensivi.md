@@ -11,7 +11,7 @@
 	- [[idralazina]]
 - [[alfa-bloccanti]]
 	- [[prazosina]]
-- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+- [[farmaci calcio antagonisti]]
 	- [[nifedipina]]
 	- [[verapamil]]
 	- [[diltiazem]]

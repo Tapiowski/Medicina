@@ -16,7 +16,7 @@
 - [[farmaci vasodilatatori]]
 	- [[idralazina]], [[isosorbide]]
 	- in [[angina pectoris]] th, [[ipertensione]]
-	- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+	- [[farmaci calcio antagonisti]]
 	- [[nitrati organici]] -[[pre carico]]
 	- [[idralazina]] -[[post carico]]
 	- meno efficaci, prolungano vita in associazione

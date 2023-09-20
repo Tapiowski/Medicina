@@ -1,0 +1,1 @@
+[[alveolite]], [[linfoadenite satellite]], [[linfangite consensuale]]

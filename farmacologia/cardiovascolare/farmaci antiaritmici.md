@@ -63,7 +63,7 @@
 - ## th [[aritmia]]
 	- [[fibrillazione atriale]] parossistica
 		- [[farmaci beta-bloccanti]]
-		- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+		- [[farmaci calcio antagonisti]]
 	- [[fibrillazione atriale]] cronica
 		- [[chinidina]], [[flecainide]], [[sotalolo]], [[amiodarone]]
 	- [[aritmie ventricolari]]

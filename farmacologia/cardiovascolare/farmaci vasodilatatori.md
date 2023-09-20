@@ -1,7 +1,7 @@
 - farmaci
 	- [[nitrati organici]]
 	- [[idralazina]]
-	- [[farmacologia speciale/cardiovascolare/farmaci calcio antagonisti]]
+	- [[farmaci calcio antagonisti]]
 	- [[idralazina]]
 	- [[isosorbide]]
 	- [[captopril]]
