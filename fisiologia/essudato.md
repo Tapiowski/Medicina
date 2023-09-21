@@ -1,0 +1,1 @@
+proteine > 4 g

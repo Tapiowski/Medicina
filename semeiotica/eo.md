@@ -1,0 +1,1 @@
+aree di ottusita = focolai, rantoli crepitanti, piccole bolle

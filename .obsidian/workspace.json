@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/pneumologia/polmonite.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/pneumologia/polmonite.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/pneumologia/polmonite.md"
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/pneumologia/polmonite.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/pneumologia/polmonite.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,31 +204,31 @@
   "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
     "patologia sistematica I/pneumologia/pneumologia.md",
+    "patologia sistematica I/pneumologia/mesotelioma pleurico.md",
+    "fisiologia/trasudato.md",
+    "fisiologia/essudato.md",
     "patologia sistematica I/pneumologia/polmonite.md",
+    "patologia sistematica I/pneumologia/polmonite lobare franca.md",
+    "patologia sistematica I/pneumologia/forme emergenti di polmonite.md",
+    "patologia sistematica I/pneumologia/polmonite nosocomiale.md",
+    "semeiotica/eo.md",
+    "patologia/asbesto.md",
+    "patologia sistematica I/patologia sistematica I.md",
+    "patologia sistematica I/pneumologia/polmonite stafilococcica.md",
+    "patologia/0/shock settico.md",
+    "semeiotica/indice siero-conversione.md",
+    "farmacologia/antibiotici/eritromicina.md",
+    "farmacologia/antibiotici/macrolidi.md",
+    "microbiologia/pneumocco.md",
+    "patologia sistematica I/pneumologia/polmonite comunitaria.md",
+    "microbiologia/criteri di bartlett.md",
+    "semeiotica/ftv.md",
+    "microbiologia/clamidia.md",
+    "patologia sistematica I/pneumologia/mdr-tb.md",
     "patologia sistematica I/pneumologia/tubercolosi.md",
-    "mdr-tb.md",
     "farmacologia/0/rifampicina.md",
     "patologia sistematica I/pneumologia/quantiferon.md",
     "patologia sistematica I/pneumologia/mantoux.md",
-    "patologia sistematica I/pneumologia/PPD.md",
-    "patologia sistematica I/pneumologia/granuloma tubercolare.md",
-    "patologia sistematica I/pneumologia/gell-coombs.md",
-    "patologia sistematica I/pneumologia/PDD.md",
-    "patologia sistematica I/pneumologia/complesso primario.md",
-    "patologia sistematica I/pneumologia/atelectasia.md",
-    "patologia sistematica I/pneumologia/linfangite consensuale.md",
-    "microbiologia/mycobacterium.md",
-    "microbiologia/mycobacterium tubercolosis.md",
-    "patologia sistematica I/pneumologia/embolia polmonare.md",
-    "fisiologia/d-dimero.md",
-    "patologia sistematica I/pneumologia/infarto polmonare.md",
-    "patologia sistematica I/pneumologia/score di wells.md",
-    "semeiotica/deliquio.md",
-    "chirurgia/chirurgia vascolare/trombosi venosa profonda.md",
-    "semeiotica/crisi lipotimica.md",
-    "templates/lista 3.md",
-    "templates/lista 2.md",
-    "templates/patologia sistematica.md",
     "100 files/Lungvolumes.png",
     "Untitled 1",
     "Untitled",

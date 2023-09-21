@@ -1,2 +1,2 @@
 - mycoplasma hominis
-- mycoplasma pneumonia
+- mycoplasma pneumonia ^136ae1

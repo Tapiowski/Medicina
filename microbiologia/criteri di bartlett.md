@@ -1,0 +1,3 @@
+- conta cc
+	- se +cc epiteliali squamose scarto per contaminazn orofaringea
+	- se +polimorfonucleati, granulociti, neutrofili: ok

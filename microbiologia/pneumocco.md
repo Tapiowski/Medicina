@@ -1,0 +1,1 @@
+prima noto come [[streptococco#^pneumococco]]
