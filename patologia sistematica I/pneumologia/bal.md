@@ -1,0 +1,12 @@
+[[lavaggio bronco-alveolare]]
+- 120 ml soluzn fisiologica tiepida
+- liquido di ritono da alveoli: cerca cc
+- descrive [[alveolite]]
+	- macrofagica 90%
+	- neutrofili 70%
+		- [[fibrosi polmonare idiopatica]] o [[polmonite]]
+	- eosinofili
+		- [[polmonite eosinofila]]
+	- linfociti
+		- cd4 [[nsip]]
+		- cd8 [[polmonite da ipersensibilita]]

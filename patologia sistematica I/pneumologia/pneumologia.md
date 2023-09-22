@@ -7,7 +7,7 @@
 - ### [[tubercolosi]]
 - ### [[polmonite]]
 - ### [[mesotelioma pleurico]]
-- ### [[pneumopatia interstiziale diffuso]]
+- ### [[pneumopatia interstiziale diffusa]]
 - ### [[fibrosi polmonare idiopatica]]
 - ### [[ipertensione polmonare]]
 - ### [[broncoscopia]]

@@ -1,0 +1,1 @@
+antagonista [[endotelina]] 1

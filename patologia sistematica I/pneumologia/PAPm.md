@@ -1,0 +1,1 @@
+pressione media in [[a polmonare]]

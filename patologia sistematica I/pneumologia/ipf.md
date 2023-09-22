@@ -1,0 +1,1 @@
+forma idiopatica propriamente detta, [[pneumopatia interstiziale diffusa]]

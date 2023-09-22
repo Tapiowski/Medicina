@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md"
+                "file": "patologia sistematica I/pneumologia/pneumologia.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,32 +203,32 @@
   },
   "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
+    "patologia sistematica I/pneumologia/broncoscopia.md",
     "patologia sistematica I/pneumologia/pneumologia.md",
-    "patologia sistematica I/pneumologia/mesotelioma pleurico.md",
-    "fisiologia/trasudato.md",
-    "fisiologia/essudato.md",
+    "patologia sistematica I/pneumologia/broncoscopio.md",
+    "templates/patologia sistematica.md",
+    "templates/chirurgia.md",
+    "patologia sistematica I/pneumologia/ipertensione polmonare.md",
+    "farmacologia/cardiovascolare/nitrossido.md",
+    "patologia sistematica I/pneumologia/test di vasoreattivita.md",
+    "patologia sistematica I/pneumologia/ambrisentan.md",
+    "patologia sistematica I/pneumologia/vasoscostrizione ipossica.md",
+    "patologia sistematica I/pneumologia/PAPm.md",
+    "patologia sistematica I/pneumologia/vasocostrizione ipossica.md",
+    "patologia sistematica I/pneumologia/pneumopatia interstiziale diffusa.md",
+    "patologia sistematica I/pneumologia/fibrosi polmonare idiopatica.md",
+    "patologia sistematica I/pneumologia/vc.md",
+    "patologia sistematica I/pneumologia/spirometria.md",
+    "patologia/telomeropatie.md",
+    "patologia sistematica I/pneumologia/dlco.md",
+    "patologia sistematica I/pneumologia/uip.md",
+    "patologia sistematica I/pneumologia/bronchiettasie.md",
+    "patologia sistematica I/pneumologia/bal.md",
     "patologia sistematica I/pneumologia/polmonite.md",
-    "patologia sistematica I/pneumologia/polmonite lobare franca.md",
-    "patologia sistematica I/pneumologia/forme emergenti di polmonite.md",
-    "patologia sistematica I/pneumologia/polmonite nosocomiale.md",
-    "semeiotica/eo.md",
-    "patologia/asbesto.md",
     "patologia sistematica I/patologia sistematica I.md",
     "patologia sistematica I/pneumologia/polmonite stafilococcica.md",
-    "patologia/0/shock settico.md",
-    "semeiotica/indice siero-conversione.md",
-    "farmacologia/antibiotici/eritromicina.md",
-    "farmacologia/antibiotici/macrolidi.md",
-    "microbiologia/pneumocco.md",
-    "patologia sistematica I/pneumologia/polmonite comunitaria.md",
-    "microbiologia/criteri di bartlett.md",
-    "semeiotica/ftv.md",
-    "microbiologia/clamidia.md",
-    "patologia sistematica I/pneumologia/mdr-tb.md",
-    "patologia sistematica I/pneumologia/tubercolosi.md",
-    "farmacologia/0/rifampicina.md",
-    "patologia sistematica I/pneumologia/quantiferon.md",
-    "patologia sistematica I/pneumologia/mantoux.md",
+    "patologia sistematica I/pneumologia/polmonite nosocomiale.md",
+    "patologia sistematica I/pneumologia/forme emergenti di polmonite.md",
     "100 files/Lungvolumes.png",
     "Untitled 1",
     "Untitled",

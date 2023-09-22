@@ -1,0 +1,6 @@
+- a piccolo calibro <200 micron
+- vc
+	- diretta
+		- -fosforilazione ossidativo fibrocc muscolare lisce: -ATP/ADP, depol membrana, +Ca. +vc
+	- indiretta
+		- [[endotelina]]

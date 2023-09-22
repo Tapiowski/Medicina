@@ -1,4 +1,5 @@
 - attivita [[antinfiammatori]], sodio ritentiva
+- [[farmaci corticosteroidi]], [[farmaci steroidei]]
 - ## classificazione
 	- potenza antifiammatoria + = ritenzione -
 	- [[betametasone]], [[desametasone]] 25

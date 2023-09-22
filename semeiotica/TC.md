@@ -6,3 +6,4 @@
 - radiazioni ionizzanti
 - [[angiotc]]: tc con mezzo di contrasto
 - [[tomografia computerizzata]]
+- [[hrtc]] High-resolution computed tomography

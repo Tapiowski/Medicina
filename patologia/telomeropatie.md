@@ -1,0 +1,3 @@
+- telomero corto
+	- [[tgf]] -a, -b: proliferazione [[fibroblasto]], +collagene
+	- -apoptosi: prolif

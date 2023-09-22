@@ -6,4 +6,4 @@
 - [[emottisi]]
 - [[emoftoe]]
 - sintomo speventoso
-	- [[neoplasia]], [[polmonite]], [[bronchiectasie]], [[tbc]], [[embolia polmonare]]
+	- [[neoplasia]], [[polmonite]], [[bronchiettasie]], [[tbc]], [[embolia polmonare]]
