@@ -1,0 +1,2 @@
+- [[a polmonare]] + tono mm, +p circolo polmonare
+- sovvertimento parete se duratura, ispessimento tonache, plessi irreversibili

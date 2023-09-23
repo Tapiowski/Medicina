@@ -1,5 +1,5 @@
 - ## definizione
-	- flusso a cricolo polmonare ostacolato da restringimento in [[valovola polmonare]] o [[sopravalvolare]] o sotto
+	- flusso a cricolo polmonare ostacolato da restringimento in [[valvola polmonare]] o [[sopravalvolare]] o sotto
 	- 5-10% cardiopatie congenite
 	- associata a [[sindrome di noonan]], [[sindrome di williams]] da ipercalcemia o [[sindrome da rosolia materno infantile]] o cc congenite complesse come [[tetralogia di fallot]]
 - ## fisiopatologia

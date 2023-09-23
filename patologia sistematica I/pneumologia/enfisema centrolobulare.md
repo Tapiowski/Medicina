@@ -1,0 +1,3 @@
+- [[bronchioli respiratori]] I, II, III, parete, fumatori
+- -rapporto ventilazn/perfusione
+	- aria non arriva all'alveolo per mancanza di gradiente

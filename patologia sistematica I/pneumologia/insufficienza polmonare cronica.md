@@ -1,0 +1,7 @@
+- [[lung failure]]
+	- missmatch ventilo-perfusorio
+- tipo 1 parziale, insufficienza di scambio, [[ipossiemia]]
+	- ossigenato
+- parenchimale, [[irc]] vera e propria, [[irc ipossiemica]]
+- vie aeree, parenchima, vasi polmonari
+	- [[fibrosi polmonare]]

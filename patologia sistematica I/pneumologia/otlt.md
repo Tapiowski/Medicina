@@ -1,0 +1,15 @@
+- ossigenoth domiciliare a lungo termine
+- somministrazn o2
+	- canule nasali
+		- +uso
+		- flussi da narici
+		- saturazn > 90%
+			- superare 80%
+	- maschere semplici
+		- coprono viso, bocca
+		- [[fio2]] 90% o2
+	- maschere venturi
+		- valvola regola po2 60%
+		- 15 l flusso max
+		- o2 da canale sottile regolabile, regola [[fio2]], erogazione
+			- livelli fio2 max 60%

@@ -1,3 +1,4 @@
+- [[prova funzionalita respiratoria]]
 - misure in funzione tempo, calcolo flussi d'aria
 - inspirazione massimale
 - espirare con massima forza

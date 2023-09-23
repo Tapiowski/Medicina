@@ -11,5 +11,5 @@
 - ### [[fibrosi polmonare idiopatica]]
 - ### [[ipertensione polmonare]]
 - ### [[broncoscopia]]
-- ### [[insufficienza polmonare cronica]]
+- ### [[insufficienza respiratoria cronica]]
 - ### [[sindrome apnee notturne]]

@@ -1,5 +1,13 @@
 - difficolta respiratoria: respiro corto, oppressione al petto, respiro sibilante e fischiante, costrizione toracica
 - diurna, in attivita, postura, accompagnata a fischi tosse edemi arti compressione toracica o sintomi di accompagnamento
+- fame d'aria, respiro non basta
+- [[dissociazione neuromm]]
+	- recettori: [[glomi carotidei]], [[glomi aortici]]
+		- po2, pco2
+	- recettori polmonari di distensione
+		- pao2-, paco2+
+	- trasmissione snc: riparare
+	- mm non funzionanti: no riparo
 - ## quantificazione
 	- scala [[vas]]. [[borg]], [[bdi-tdi]]
 	- questionari [[mrc]]

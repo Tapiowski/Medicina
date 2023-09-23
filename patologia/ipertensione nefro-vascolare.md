@@ -20,7 +20,7 @@
 		- mezzi di contrasto nefrotossici o diabete
 			- valutare [[azotemia]] e [[creatininemia]]
 	- quindi
-		- [[stenosi a renale]] > [[ipertensione nefro-vascolare]] + [[irc]] > [[malattia renovascolare]]
+		- [[stenosi a renale]] > [[ipertensione nefro-vascolare]] + [[insufficienza renale cronica]] > [[malattia renovascolare]]
 	- ridotto afflusso glomerulare
 		- barocettore ilo renale: +[[renina]] > [[angiotensina I]] > [[angiotensina II]] vasocostrittore
 		- se [[stenosi a renale]]: ++[[angiotensina II]] e [[aldosterone]]: [[ipertensione]] eccessiva

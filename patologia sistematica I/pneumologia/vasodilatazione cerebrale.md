@@ -1,0 +1,6 @@
+- vasoperm, [[edema cerebrale]]
+- [[stupor]]. [[coma ipercapnico]]
+- 80 mmhg co2: coma, difficile sveglia
+- [[fascicolazioni]] arti sup precede coma
+- sintomi
+	- [[cefalea]], [[edema cerebrale]], [[nausea]], [[vomito]], [[ipertensione endocranica]]

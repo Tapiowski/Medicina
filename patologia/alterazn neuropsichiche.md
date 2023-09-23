@@ -1,0 +1,12 @@
+- -o2
+	- [[cefalea]]
+	- perde [[memoria]]
+	- [[tono umore]]
+	- [[incoordinazn motoria]]
+	- [[agitazione]]
+	- [[insonnia]]
+- +co2
+	- [[flapping]]
+	- [[contrazn mm]]
+	- [[parestesia]]
+	- [[acufene]]

@@ -1,0 +1,7 @@
+- [[pump failure]]
+	- ipoventilazn alveolare
+- tipo 2, globale, insuff di pompa, [[ipercapnia]]
+- pompa ventilatoria = mm torace: meccanica ventilatoria non polmonare
+- [[ipossiemia]] e [[ipercapnia]]
+	- ossigenato e ventilato
+- malattie numm, [[bpco]]

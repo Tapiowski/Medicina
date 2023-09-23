@@ -1,1 +1,9 @@
-[[enfisema panacinare]]
+- [[enfisema panacinare]]
+- [[lobulo primario polmonare]] + base, [[indice di reid]] normale
+- -[[a1-antitripsina]] piccola parte dei soggetti con enfisema, resto da tabacco
+- pz [[ipernisufflato]], trattiene volume residuo
+	- +[[frc]], [[rv]]
+	- -[[irv]], -[[ic]]
+	- respira a volume corrente alto, vicino a [[tlc]]
+- [[respiro a labbra increspate]] +pervieta bronchi
+- rapporto ventilazione/perfusione non cambia: distruzione epitelio alveolo e vasi

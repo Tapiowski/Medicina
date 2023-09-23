@@ -1,0 +1,1 @@
+pao2 in sangue arterioso < 60 mmhg

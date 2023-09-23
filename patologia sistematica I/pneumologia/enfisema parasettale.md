@@ -1,1 +1,4 @@
-[[enfisema mantellare]]
+- [[enfisema mantellare]]
+- parenchima adiacente a [[setti interlobulari]] e [[spazi subpleurici]]
+- non pregiudica funzione respiratoria
+- rottura comporta [[pneumotorace]] frequente

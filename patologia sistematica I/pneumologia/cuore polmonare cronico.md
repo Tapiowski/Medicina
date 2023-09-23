@@ -1,0 +1,1 @@
++dimensione camere cardiache, +pressione a monte venosa, gonfio, [[edema]] non solo arti

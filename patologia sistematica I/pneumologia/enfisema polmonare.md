@@ -1,4 +1,5 @@
 - ## definizione
+	- [[enfisema]]
 	- storia naturale
 		- malattia complessa -genetica
 		- [[enfisema giovanile]], a 40 anni, cerco variazioni gene
@@ -31,22 +32,9 @@
 - ## patogenesi
 	- classificazione
 		- ### [[enfisema centrolobulare]]
-			- [[bronchioli respiratori]] I, II, III, parete, fumatori
 		- ### [[enfisema panlobulare]]
-			- [[lobulo primario polmonare]] + base, [[indice di reid]] normale
-			- -[[a1-antitripsina]] piccola parte dei soggetti con enfisema, resto da tabacco
-			- pz [[ipernisufflato]], trattiene volume residuo
-				- +[[frc]], [[rv]]
-				- -[[irv]], -[[ic]]
-				- respira a volume corrente alto, vicino a [[tlc]]
-			- [[respiro a labbra increspate]] +pervieta bronchi
-			- rapporto ventilazione/perfusione non cambia: distruzione epitelio alveolo e vasi
 		- ### [[enfisema parasettale]]
-			- parenchima adiacente a [[setti interlobulari]] e [[spazi subpleurici]]
-			- non pregiudica funzione respiratoria
-			- rottura comporta [[pneumotorace]] frequente
 		- ### [[enfisema paracicatriziale]]
-			- prossimo a esiti cicatriziali da disordine strutturale
 - ## sintomatologia
 	- fenotipi enfisema di soggetti con [[bpco]], burrows
 	- [[pink puffer]]

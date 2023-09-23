@@ -1,7 +1,7 @@
 - [[AAA]]
 - [[a addominale]] 2/3 degli aneurismi
 	- 90% sottorenali
-	- [[a renale]] trapianto, [[irc]], [[dialisi]]
+	- [[a renale]] trapianto, insuff renale cronica, [[dialisi]]
 	- crescono fino a raggiungere [[asse iliaco]] fino ad [[a renale]]
 - fequenza da disposizione anatomica
 	- [[a soprarenale]]
