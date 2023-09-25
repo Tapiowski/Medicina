@@ -1,0 +1,8 @@
+- [[dispositivi di avanzamento mandibolare]]
+- alternativa a [[cpap]] per lieve-moderata [[osas]], non obesi, +se deficienze mandibolari
+- [[byte]] imponta bimascellare a vite: progressivo allungamneto mascellare inf vs basso e avanti
+- ## effetto su [[saturazione notturna]]
+	- avanzamento di
+		- 2mm: grosse desaturazioni
+		- 4mm riduzione
+		- 6mm normalizzazione curva saturimetrica

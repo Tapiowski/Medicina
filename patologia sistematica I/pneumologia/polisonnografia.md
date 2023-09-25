@@ -1,0 +1,36 @@
+- valuta
+	- [[flusso nasale]]
+	- [[saturimetria]]
+	- [[ecg]]
+	- movimenti oculari
+	- attivita limbica
+- a casa o ospedale
+- ## tipi
+	- ### polisonnografia notturna con sistema portatile
+		- eeg 2 derivazn unipolatri
+		- [[eog]], [[emg]] sottomentiero
+		- rumore respiratorio
+		- flusso aereo oro-nasale
+		- movimenti toraco-addominali
+		- f cardiaca
+		- ossimetria
+		- posizione corporea
+		- identifica
+			- stadiazione sonno
+				- s1 s2 s3 rem
+			- elementi microstruttrali
+			- identificazn diretta eventi respiratori
+	- ### polisonnografia notturna in lab
+		- parametri stadiazione sonno
+			- eeg, eog, emg sottomentiero
+		- pz dorme in stanza da solo, registrazn in stanza attigua: interviene senza disturbare pz
+- ## parametri
+	- [[stadiazione sonno]]
+	- tempo presunto di sonno riferito da pz
+		- diario del sonno
+			- annotare ora in cui si va a dormire
+			- ora in cui si e addormentato
+			- ora risveglio
+			- ora in cui si e alzato
+			- momenti notturni di risveglio
+		- [[tempo di sonno presunto]] calcola [[indici sonno]]

@@ -1,0 +1,6 @@
+- [[apnea]] pausa respiratoria di 10 s min
+- [[ipoapnea]] 10s respiro ok, ventilazn < 50%
+- [[AHI]]
+- [[arousals]]
+- [[rdi]]
+- [[odi]]

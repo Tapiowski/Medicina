@@ -1,0 +1,47 @@
+- [[ventilazione meccanica a pressione+ continua]]
+	- pervieta vie aeree
+		- faringea
+		- sostegno pneumatic: previene oscillazioni pareti faringee
+	- +capacita funzionale residua
+- ## terapia ventilatoria
+	- pressione positiva continua a vie sup
+	- gold standard [[osas]]
+	- +successo -collaterali
+- ## collaterali
+	- claustrofobia
+	- -aderenza a trattamento
+	- interfaccia cpap-pz
+- ## struttura
+	- generatore di flusso: 120-180 litri aria/m
+	- p da 3-4 cm h2o fino a 20 cm
+	- tubo corrugato: maschera nasale o facciale, sistema ancoraggio, foro o sfiato per espirazione
+	- pressione fa collassare pareti faringe in condizione normale
+		- cpap pressione controbilancia: supporto pneumatico
+		- impedisce apnee
+- ## indicazioni a trattamento
+	- [[AHI]] > 15
+	- [[AHI]] 5-15 con sintomatologia o concomitanza cardiovasc
+		- meglio la posizionale
+- ## presidio
+	- cpap fissa: prima scelta, tutta la notte
+	- autocpap: +aderenza
+		- riconosce ipoventilazn, ipopnee, russamento, apnee
+		- +p erogazione
+	- auto bi-level: obesita ipoventilazn frequenti apnee
+	- bilevel: tolleranza per frammentazione pressioni elevate, frammenta 18 cm h2o in due pressioni gestibili
+		- ipap pressione inspiratoria piu alta in inspirazn
+		- epap piu bassa per alleviare sforzo espiratorio
+- ## titolazn pressione
+	- indagine [[polisonnografia]] lab
+		- +1cm ogni 5 m in base a eventi ostruttivi
+		- -1cm in assenza
+	- indagine ps completa: titolazn con auto-cpap, macchinario regola
+	- indagine ps completa e monitor cardioresp completo notturno: durante cpap, dati da auto-cpap precedente capcae di correggere 95% eventi. poi auto-cpap notte successiva
+- ## interfaccia
+	- maschera ugelli nasali, nasale, facciale, oronasale
+- ## collaterali
+	- sensazn soffocamento
+	- xerostomia
+	- rinite, rinorrea
+	- congiuntivite
+	- lesioni da decubito: no maschera
