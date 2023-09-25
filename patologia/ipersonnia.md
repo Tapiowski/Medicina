@@ -1,0 +1,2 @@
+- tendenza ad addormentarsi
+- colpi di sonno

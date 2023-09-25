@@ -1,0 +1,37 @@
+- 4-5 cicli in 8h
+	- 5 fasi
+		- ultima [[rem]] se portata a termine ok: riposati, tranquilli, sereni
+- fasi
+	- 1-2 addormentamento
+		- -durata, non riposano
+		- movimenti tonico clonici
+			- irrigidimento mm corporea: sovrapposizione momenti decontrazn
+		- - battito, respiro
+	- 3
+		- +profondo
+		- [[onda delta]]
+	- 4
+		- [[onda delta]] ampia
+		- ritmo cardiaco e respiro in fase di riposo
+		- profondo
+	- 5
+		- [[rem]]
+		- riposo piu completo
+		- [[sogno]]
+- ## funzioni sonno
+	- recupero fisico
+	- +ormone crescita
+	- +anabolismo
+	- recupero mentale
+	- isolamento funzionale snc da visioni e impulsi sonori
+	- risparmio energie: metabolismo/qualita sonno
+- ## funzioni sonno rem
+	- recupero mentale
+		- +stress +rem
+		- -rem +ansia, irritabilita
+	- stimolazn sistema oculomotore, funz cerebrali sup
+	- maturazn encefalo
+		- comportamenti innati geneticamente determinati
+	- memoria
+		- protezn anti interferenze
+		- consolidazn tracce memoria

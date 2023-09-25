@@ -1,9 +1,97 @@
 - ## definizione
 	- [[osas]]
+	- [[sonno]] 8h/die = 25 anni
+	- [[sindrome di pickwick]]
+	- mortalita, morbilita
+		- +cardiovascolare, +incidenti stradali e lavoro
 - ## epidemiologia
+	- fattori rischio
+		- m fino a menopausa, poi eguaglia
+		- habitus: distribuzn andoide t adiposo collo
+		- morfologia cranio facciale: palato, lingua, micrognatici e retrognatici: schiaccia all'indietro palato molle
+		- [[score di mallampati]]
+		- alcol
+		- alimentazn pesante
+		- eta
+		- gravidanza con +peso, edema faringeo diffuso
+		- effetto sonno su mm dilatatore faringe
+	- I > +eta
+	- P con bmi 25-28 kg/m2
+		- 1/5 [[AHI]] > 5
+		- 1/15 AHI > 15
+		- 1.5% grave
+	- geo
+		- 5% adulti occidentali rischio osas
+		- 6000 [[polisonnografia]] no diff con afroamericani
+		- AHI > 15 5% hong kong per cranio-faccia
 - ## eziologia
+	- [[sonnolenza diurna]]
+		- qualita, sonno frammentato
+		- quantita, deprivazione di sonno
+		- lavoro come turnista
+		- depressione
+		- narcolessia
+		- ipotiroidismo
+		- snd gambe senza riposo
+		- farmaci: sedativi, stimolanti, bbloccanti, ssri, ipersonnolenza idiopatica, +alcol, neuro, distrofia miotonica, encefalite, trauma cranico, parkinsonismo
 - ## fisiopatologia
+	- [[sonno]]
+		- chiusura [[palato molle]] come si addormenta
+		- risveglio dopo fase 3
+	- [[risveglio]]
+		- inconsapevole
+		- interrompe ciclo sonno
+		- ricomincia da prima fase: non recupera bene
+	- flusso aria nasale, pervieta vie aeree: tonicita palato molle
+		- occlusione vie aeree
+		- +p a monte e valle del palato molle: +r, +ostruzn
+		- 80 volte in un ora: [[ipossiemia]]
+	- giorno
+		- stanco, assonnato
+	- -sonno giornaliero: -fase rem; fisiologico
 - ## clinica
+	- 30 episodi [[apnea]] / 1h
+		- pz [[desaturazione]], -po2, -[[ossigenazione]] miocardica, snc
+	- quadro clinico
+		- +[[sonnolenza]] diurna
+		- -concentrazn
+		- [[russamento]]
+			- intenso
+			- da lungo tempo
+			- interrotto da pause respiratorie, ripresa ventilazn rumorosa
+			- abituale tutte le notti, persistente da 6 mesi
+		- sonno non ristoratore
+		- soffocamento durante il sonno [[gasping]]
+		- apnee riferite
+		- sonno agitato
+		- irritabilita / variazn personalita
+		- nicturia
+		- -libido
+	- segni clinici
+		- obesita
+		- collo grosso
+		- ipertensione arteriosa: 2/3 farmaci
+		- disturbi cardiovascolari, cerebrovascolari
+	- [[ipersonnia]], [[sonnolenza]]
+	- complicanze
+		- sonnolenza diurna
+		- problemi psicologici
+		- -funzioni cognitive
+		- -qualita vita
+		- ipertensione resistente a th
+		- malattie coronarie
+		- infarto
+		- diabete -tolleranza glucidica, r insulinica
+	- ### disturbi cardiovascolari
+		- [[ipertensione arteriosa]]
+			- [[ipossemia]] intermittente > snp da -po2: +r periferiche, +sistolica, +diastolica
+			- pressione arteriosa aumenta alla fine di ogni evento ostruttivo
+		- [[scompenso cardiaco]]
+			- [[apnea centrale]], [[iperventilazione]] per garantire ossigenazn: [[ipercapnia]] stimolo- snc: inibizn centro respiro
+		- [[aritmie]]
+			- 
+		- [[ischemia miocardica]]
+		- alterazn cerebrovascolari
 - ## diagnosi
 - ## terapia
 - ## prognosi

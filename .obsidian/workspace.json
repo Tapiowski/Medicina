@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
+                "file": "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
+                "file": "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md"
+                "file": "patologia sistematica I/pneumologia/sindrome apnee notturne.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
+                "file": "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
+                "file": "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,32 +204,32 @@
   },
   "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
-    "prova funzionalita respiratoria.md",
+    "patologia sistematica I/pneumologia/apnea centrale.md",
+    "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
+    "patologia/sonnolenza.md",
+    "patologia/ipersonnia.md",
+    "fisiologia/sonno.md",
+    "patologia sistematica I/pneumologia/sindrome di pickwick.md",
+    "patologia sistematica I/pneumologia/pneumologia.md",
+    "patologia sistematica I/patologia sistematica I.md",
+    "patologia sistematica I/pneumologia/prova funzionalita respiratoria.md",
+    "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
     "patologia sistematica I/pneumologia/vems.md",
     "patologia sistematica I/pneumologia/spirometria dinamica.md",
-    "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
     "patologia sistematica I/pneumologia/peep intrinseca.md",
     "patologia sistematica I/pneumologia/fev1.md",
     "patologia sistematica I/pneumologia/capacita funzionale residua.md",
     "patologia sistematica I/pneumologia/spirometria.md",
     "patologia sistematica I/pneumologia/indice di tiffenau.md",
-    "patologia sistematica I/pneumologia/pneumologia.md",
     "patologia sistematica I/pneumologia/semeiotica pneumologica.md",
     "patologia sistematica I/pneumologia/cabina pletismografica.md",
     "patologia sistematica I/pneumologia/capacita vitale forzata.md",
     "patologia sistematica I/pneumologia/ossigenoterapia.md",
     "patologia sistematica I/pneumologia/bronchite cronica.md",
     "patologia sistematica I/pneumologia/enfisema polmonare.md",
-    "patologia sistematica I/patologia sistematica I.md",
     "patologia sistematica I/pneumologia/vmd.md",
     "patologia sistematica I/pneumologia/enfisema.md",
     "patologia sistematica I/pneumologia/bpco.md",
-    "patologia sistematica I/cardiologia/psv.md",
-    "patologia sistematica I/pneumologia/otlt.md",
-    "patologia sistematica I/pneumologia/fio2.md",
-    "patologia sistematica I/pneumologia/mip.md",
-    "patologia sistematica I/pneumologia/mep.md",
-    "patologia sistematica I/pneumologia/vasodilatazione cerebrale.md",
     "100 files/Lungvolumes.png",
     "Untitled 1",
     "Untitled",
