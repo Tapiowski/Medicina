@@ -1,6 +1,7 @@
-- [[farmaci beta-bloccanti]] per [[recettori beta-2]]
-	- periferia vie aeree, bronchioli, alveoli
-- [[farmaci anti-muscarinici]]
+- tono mm liscia e flow espiratorio: vie aeree pervie, non cambio in risposta elastica
+- -iperinflazione, +performance
+- [[fev1]] change: nebolizzatore, base regolare, non usare a corto effetto
+- ### [[farmaci beta-2 agonisti]]
+- ### [[farmaci anti-muscarinici]]
 	- [[broncocostrizione]]
-- [[farmaci corticosteroidi]]
-	- riacutizzazione
+- ### [[metilxantine]]

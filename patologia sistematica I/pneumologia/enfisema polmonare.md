@@ -48,7 +48,7 @@
 		- bronchioli pervi da attacchi alveolari: non collassano in normale espirazione
 			- no elastico collasso immediato: [[air cropping]] alveolare
 			- [[respiro a labbra increspate]]
-	- [[blue bloater bronchitico]] o bronchiolitico
+	- [[blue bloater]] bronchitico o bronchiolitico
 		- fuma per anni, tosse cronica, catarro, cianotico, labbra viola
 		- [[cianosi]] -po2, Hbr > 5g/100ml
 			- pomelli nasali, labbra, orecchie, ippocratismo digitale, obeso, massa grassa, atrofia muscolare

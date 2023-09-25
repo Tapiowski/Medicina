@@ -1,0 +1,10 @@
+- soffiatore rosa
+- [[enfisema panlobulare]]
+- roseo, non cianotico, magro, atrofia muscolare, ipertrofia sternocleidomastoidei e scaleni, +spazi intercostali, orizzontalizzazione coste
+- rx: rientramento inspiratorio spazi intercostali, giugulo, fosse sopraclaveari
+- seduto curvo in avanti: +mobilita apici da mm accessori
+- no ritorno elastico
+- espirazione con parete and addome: solleva diaframma, svuota alveoli
+- bronchioli pervi da attacchi alveolari: non collassano in normale espirazione
+	- no elastico collasso immediato: [[air cropping]] alveolare
+	- [[respiro a labbra increspate]]

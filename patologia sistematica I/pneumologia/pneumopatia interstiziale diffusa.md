@@ -1,4 +1,5 @@
 - ## definizione
+	- [[polmonite interstiziale]]
 	- [[dpld]] diffusa parenchymal lung disease
 	- [[ipf]], pneumopatie infiltrative diffuse
 	- [[fibrosi polmonare]]

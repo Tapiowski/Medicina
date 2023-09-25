@@ -1,0 +1,32 @@
+- anabolizzanti non ormonali
+- in/out
+- uso th
+	- prevenire asma da esercizio fisico
+	- 20-80 ug/d
+- ## doping
+	- azione su massa muscolare senza effetti collaterali da [[steroidi anabolizzanti]]
+	- 100-140 ug/d
+	- [[clenbuterolo]]
+		- anabolismo proteico in muscolo normale e in fase catabolica
+		- crescita massa, aumento forza
+		- effetti collaterali da alto dosaggio
+			- tremore, cardiovascolare, ansia, vertigini, cefalea, insonnia, spasmi muscolari
+	- [[clonidina]]
+	- [[medetomidina]]
+- ## farmaci
+	- +[[recettori beta-2]] +camp +rilasciamento
+	- periferia vie aeree, bronchioli, alveoli
+	- ### [[saba]]
+		- 4-6 h
+	- ### [[laba]]
+		- 12h
+		- [[formoterol]], [[salmeterol]] 2x
+			- +[[fev1]], volume polmonare, dispnea
+			- no effetto on mortalita, rateo declino funzione
+		- [[indacaterol]] 1x
+			- +rateo esacerbazione, +dispnea
+			- collat tosse
+		- [[oladaterol]], [[vilanterol]] 1x
+			- +funzione, -sintomi
+- ## effetti avversi
+	- [[tachicardia]] a riposo, tremore, [[ipokalemia]] se +[[diuretici tiazidici]], -pao2

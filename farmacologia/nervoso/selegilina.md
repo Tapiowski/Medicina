@@ -26,7 +26,7 @@
 	- 2/d ultima dose dopo 12 pm: metaboliti [[anfetamine]] riducono [[insonnia]]
 - ## interazioni
 	- no associazione a
-		- [[beta-2 agonisti]]: fluttuazioni p arteriosa, sedazione/amnesia
+		- [[farmaci beta-2 agonisti]]: fluttuazioni p arteriosa, sedazione/amnesia
 		- [[fluoxetina]]: +ev, 5 wk spazio
 		- [[tca]], [[ssri]]: disturbi neurologici, [[morte]]
 		- [[fenilpropanolamina]]: +pressione art, 2wk spazio

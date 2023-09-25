@@ -1,9 +1,10 @@
 - ### [[semeiotica pneumologica]]
 - ### [[asma bronchiale]]
-- 
-- ### [[bronchite cronica]]
-- ### [[enfisema polmonare]]
-- 
+
+- ## [[bpco]]
+	- ### [[bronchite cronica]]
+	- ### [[enfisema polmonare]]
+
 - ### [[cancro polmone]]
 - ### [[embolia polmonare]]
 - ### [[tubercolosi]]
@@ -15,3 +16,7 @@
 - ### [[broncoscopia]]
 - ### [[insufficienza respiratoria cronica]]
 - ### [[sindrome apnee notturne]]
+
+- ### [[covid-19]]
+
+prof

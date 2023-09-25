@@ -36,7 +36,7 @@
 	- ### [[cannabinoidi]]
 	- ### [[ormoni steroidei]]
 	- ### [[ormoni peptidici]]
-	- ### [[beta-2 agonisti]]
+	- ### [[farmaci beta-2 agonisti]]
 	- ### [[agenti mascheranti]]
 	- ### [[farmaci beta-bloccanti]]
 	- ### [[alcool]]

@@ -1,1 +1,16 @@
-blocco [[recettori muscarinici]]: blocco [[broncocostrizione]]
+- blocco [[recettori muscarinici]]
+- blocco [[broncocostrizione]] da [[acetilcolina]] su [[m3]] in mm liscia via aeree
+- [[sama]]
+	- [[ipratropium]], [[oxitropium]]: blocco [[m2]]: [[broncocostrizione]] [[vago]]
+- [[lama]]
+	- [[tiotropium]], [[aclidinium]], [[glycopyrronium bromide]], [[umeclidinium]]
+	- m3, m2 fast dissociation: +effetto
+	- 1-2 dosi/die
+	- +sintomi: tosse e sputo e qualita vita
+	- +riabilitazione polmonare, -esacerbazioni quindi -ospedalizzazione
+		- -esarcerbazioni che [[laba]]
+- effetti avversi
+	- inalati poco assorbiti
+	- bocca secca, sintomi urinari, sapore metallico
+	- respimat cardio vascolare
+	- maschera facciale puo precipitare [[glaucoma]]: soluzione/occhio

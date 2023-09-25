@@ -1,0 +1,6 @@
+- [[b-coronavirus]]
+- 120-160 nm a rna singolo filamento non frammentato
+- via trasmissione: aerea, droplets < 6um o aerosol
+	- oro-fecale: in feci per settimane da negativazione
+- attivo su superfici per ore, sensibile a temperature: 56C per 30' sterilizza, disinfettanti alcolici, ipoclorito di sodio
+- capside, pericapside, spike protein

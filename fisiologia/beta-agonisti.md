@@ -1,1 +1,1 @@
-[[beta-2 agonisti]]
+[[farmaci beta-2 agonisti]]

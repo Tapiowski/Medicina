@@ -1,3 +1,26 @@
-[[bronco-pneumopatia cronica ostruttiva]]
-[[visus pletorico]]
-[[infiammatoria cronica]] vie aeree
+- [[bronco-pneumopatia cronica ostruttiva]]
+- [[visus pletorico]]
+- [[infiammatoria cronica]] vie aeree
+- [[copd]]
+- ## definizione
+	- insieme di [[enfisema]] e [[bronchite cronica]]
+	- differenze tra [[pink puffer]] e [[blue bloater]] 
+- ## terapia
+	- ### stabile
+		- -sintomi, -f acuzie, +tollerazna esercizio e qualita vita
+		- -declino [[fev1]] 5 ml/anno
+		- [[farmaci broncodilatatori]] 4.9
+			- terapia di combinazione
+			- [[saba]]+[[sama]]
+			- [[laba]]+[[lama]] in singolo inhaler
+				- previene acutizzazioni laba+ics fose meglio
+		- [[farmaci anti-infiammatori]]
+			- [[corticosteroidi inalatori]] 7.3
+			- [[inibitori pde]] 4: +funzione, -acutie migliora laba+ics
+			- [[farmaci chemio-antibiotici]]
+				- [[azitromicina]], [[eritromicina]] -acuzie
+				- [[azitromicina]] +r batterica, -udito
+			- [[mucolitici]]
+				- [[erdosteine]], [[carbocisteina]], [[nac]]
+	- ### riacutizzazioni
+		- - [[farmaci corticosteroidi]]

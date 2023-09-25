@@ -1,0 +1,5 @@
+- bronchitico o bronchiolitico
+- fuma per anni, tosse cronica, catarro, cianotico, labbra viola
+- [[cianosi]] -po2, Hbr > 5g/100ml
+	- pomelli nasali, labbra, orecchie, ippocratismo digitale, obeso, massa grassa, atrofia muscolare
+	- turgore giugulari [[ipossiemia cronica]] con [[riflesso vasoipossico]] con vc e +p polmonare: [[cuore polmonare]] spingere sangue vs pressione da vd: sfiancamento mm, cronico, +p giugulare, vene, [[edema periferico]], gonfio

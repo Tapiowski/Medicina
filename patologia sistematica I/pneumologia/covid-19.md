@@ -1,0 +1,40 @@
+- ## definizione
+	- [[coronavirus]]
+		- [[sars-cov-2]]
+	- fase acuta [[polmonite]]\
+	- ### storia
+		- pandemie analoghe
+			- peste nera 300: 50m morti
+			- hiv '80 39m morti
+			- influenza spagnola 18 20m morti
+			- influenza asiatica '60 2m morti
+			- settima epidemia colera 61 570k
+			- flu suina h1n1 2009 284k
+			- ebola 2014 5k
+			- morbillo 2011 4.5k
+			- sars 2002 774, diffusa
+		- a 2020
+			- 1.2m morti in 9 mesi
+		- 8 dic 2019, wuhan
+			- [[polmonite interstiziale]] eziologia sconosciuta
+				- causa coronavirus 7 gen 2020
+				- prima morte 9 gen 2020
+				- 13 gen thailandia primo caso fuori da cino
+				- 2 feb filippina morti
+				- 11 feb, oms: [[covid-19]]
+				- ita, resto del mondo
+		- 32m nuovi casi, 1.2m morti
+- ## epidemiologia
+	- +m, peggiore mortalita, incidenza, prevalenza
+- ## eziologia
+	- proteine di superficie
+		- [[s protein]] lega recettori di membrana cc epiteliali +ace2
+			- [[ards]], recettori polmonari
+			- anche endotelio capillare
+		- [[tmprss2]]: prot transmemb serina, farmaci
+		- [[adam17]] lega ace2 creando ace-2 solubile: lega virus, impedisce infezn ospite. genitali, +testicolo, 
+- ## fisiopatologia
+- ## clinica
+- ## diagnosi
+- ## terapia
+- ## prognosi

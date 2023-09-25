@@ -1,0 +1,14 @@
+- [[corticosteroidi inalatori]] + [[laba]] = -acuzie [[bpco]]
+- -[[polmonite]]
+- tripla terapia inalatoria
+	- [[laba]]+[[lama]]+[[ics]]: +funzione polmonare, -sintomi, +vita, -acuzie
+	- meglio per mortalita se ++acutie
+- infiammazione [[bpco]] non risponde molto
+	- altri agenti sensibilizzano risposta
+	- beneficio per fumatori
+- efficacia
+	- ics monoth
+		- no modifica [[fev1]] o mortalita [[copd]]
+	- ics + [[laba]] = [[fdc]]
+		- -acuzie 8%, no diff in pneumonia
+	- conta [[eosinofil]]
