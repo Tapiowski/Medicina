@@ -1,1 +1,0 @@
-riducono riacutizzazione [[bpco]]

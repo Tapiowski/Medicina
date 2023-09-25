@@ -9,7 +9,7 @@
 	- [[infiammatoria cronica]], [[bronco ostruzione]] reversibile spontaneamente e trattabile, iniltrato infiammatorio con linfociti e eosinofili
 - ## epidemiologia
 	- aumento, +costi con +gravita
-	- [[asma infanzia]]: atopica, genetica, [[IgE]] vs acari, allergico, controllabile con farmaci, puop scomparire in adolescenza, stop th
+	- [[asma infanzia]]: atopica, genetica, [[IgE]] vs acari, allergico, controllabile con farmaci, puo scomparire in adolescenza, stop th
 	- [[asma adulto]]: +ostruttivo, aggrava, -bronco reversibile fino a non reversibilita, >50 yo, -[[vems]]
 	- riacutizzazioni asmatiche in entrambi: [[virosi]] vie sup
 	- [[atopia]]: genetica, ambiente sviluppa per presenza o meno di antigene
@@ -109,7 +109,7 @@
 	- lieve/intermittente
 		- th broncodilatatrice al bisogno
 	- lieve/persistente
-		- +[[farmaco corticosteroideo]] inalatorio vs flogosi
+		- +[[corticosteroidi]] inalatorio vs flogosi
 	- moderato/persistente
 		- [[glucocorticoidi]] e [[farmaci beta-bloccanti]] a lunga azn, inalati
 	- grave/persistente

@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/pneumologia/sindrome apnee notturne.md"
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +204,16 @@
   },
   "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
-    "trachestomia.md",
+    "patologia sistematica I/pneumologia/pneumologia.md",
+    "patologia sistematica I/pneumologia/enfisema polmonare.md",
+    "patologia sistematica I/pneumologia/bronchite cronica.md",
+    "farmacologia/nervoso/corticosteroidi.md",
+    "patologia sistematica I/pneumologia/riflesso vasotossico.md",
+    "patologia sistematica I/pneumologia/asma bronchiale.md",
+    "farmacologia/0/farmaci corticosteroidi.md",
+    "patologia sistematica I/patologia sistematica I.md",
     "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
+    "trachestomia.md",
     "sistema pillar.md",
     "patologia sistematica I/pneumologia/cpap.md",
     "patologia sistematica I/pneumologia/polisonnografia.md",
@@ -222,14 +230,6 @@
     "semeiotica/emg.md",
     "semeiotica/eog.md",
     "patologia sistematica I/pneumologia/apnea mista.md",
-    "patologia sistematica I/pneumologia/score di mallampati.md",
-    "patologia sistematica I/pneumologia/apnea ostruttiva.md",
-    "patologia sistematica I/pneumologia/multiple sleep latency test.md",
-    "patologia/narcolessia.md",
-    "patologia/ipersonnia.md",
-    "patologia sistematica I/pneumologia/prova funzionalita respiratoria.md",
-    "patologia sistematica I/pneumologia/mainenance of wakefulness test.md",
-    "patologia sistematica I/pneumologia/apnea centrale.md",
     "100 files/Lungvolumes.png",
     "Untitled 1",
     "Untitled",

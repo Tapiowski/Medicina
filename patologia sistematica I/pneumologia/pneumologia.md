@@ -1,7 +1,9 @@
 - ### [[semeiotica pneumologica]]
 - ### [[asma bronchiale]]
+- 
 - ### [[bronchite cronica]]
 - ### [[enfisema polmonare]]
+- 
 - ### [[cancro polmone]]
 - ### [[embolia polmonare]]
 - ### [[tubercolosi]]

@@ -124,4 +124,6 @@
 		- [[ipossiemia]] fino a [[riflesso vasotossico]]
 	- anamnesi, esame obiettivo, spirometria, test reversibilita no in ostruzione bronchiale, gas ematici e rx torace
 - ## terapia
+	-  [[cortisone]]+[[antibiotico terapia]] 1wk poi ok
+	- riacutizza: [[corticosteroidi]]
 - ## prognosi

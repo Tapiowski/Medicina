@@ -1,5 +1,6 @@
 - attivita [[antinfiammatori]], sodio ritentiva
 - [[farmaci corticosteroidi]], [[farmaci steroidei]]
+- riducono riacutizzazione [[bpco]]
 - ## classificazione
 	- potenza antifiammatoria + = ritenzione -
 	- [[betametasone]], [[desametasone]] 25
