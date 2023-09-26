@@ -56,5 +56,23 @@
 					- trapianto e riduzione volume polmonare [[lvrs]]: +2y
 						- [[enfisema apicale]], -esercizio
 						- peggio per non apicale, +esercizio
+		- altri farmaci
+			- [[a1-antitripsina]] aumentatori: iv, rallenta enfisema
 	- ### riacutizzazioni
-		- - [[ics]], [[glucocorticoidi orali]]
+		- sintomi severi: dispnea a riposo, rateo respiratorio, -saturazione o2, confusione, nausea
+		- insufficienza respiratoria acuta
+		- segni fisici cianosi, edema periferico
+		- -risposta th
+		- comorbidita
+		- -supporto casalingo
+		- [[ics]], [[glucocorticoidi orali]]
+		- gradi
+			- grave, no rischio vita
+				- gravita dei sintomi
+				- ossigeno th, emogasanalisi, ossimetria polso
+				- [[farmaci broncodilatatori]]
+				- [[corticosteroidi orali]]
+				- [[farmaci chemio-antibiotici]] orali se infzn batt
+				- [[NIV]]
+				- monitor fluidi, eparina per profilassi tromboembolismo, condizioni associate
+		- followup wk, 1m, 4m

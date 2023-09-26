@@ -13,3 +13,25 @@
 		- 15 l flusso max
 		- o2 da canale sottile regolabile, regola [[fio2]], erogazione
 			- livelli fio2 max 60%
+[[ossigenoterapia]] domiciliare a lungo termine
+	- [[ossigenoterapia]] +prognosi
+	- 18h th al giorno [[cot]]
+	- +sopravvivenza, -[[ipertensione polmonare]], -[[desaturazione]] sonno e sforzo, -[[ricovero]], +qualita vita
+	- [[ipossiemia continua]]
+		- pao2 < 55 mmhg
+		- fino a 60
+			- ematocrito > 55
+			- [[cuore polmonare cronico]]
+			- [[cardiopatia ischemica]]
+			- [[aritmie]]
+			- [[pressione polmonare]] > 25mmhg
+	- [[ipossiemia intermittente]]
+		- [[desaturazione notturna]]: [[osas]] desaturano notte, [[saturazione notturna]] < 90% per 30% durata sonno
+		- [[desaturazione da sforzo]] ir compensata, pao2 > 60mmhg a riposo, desatura in sforzo < 90%, correzione con ossigeno
+	- rischio
+		- blocco [[centro del respiro]]
+		- [[ipossiemia]], [[centro del respiro]] manda impulsi, +[[ventilazione]]
+		- +po2 = -[[centro del respiro]]: [[ipercapnia]] possibile
+		- no flussi elevati, no 100% saturazione, 92% ok flusso min
+			- [[ventilazione]] se ipercapnico
+		- riabilitazione, nutrizione

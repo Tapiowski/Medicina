@@ -5,6 +5,7 @@
 	- distribuisce, concentra cc anche fagociti: molto presente in secrezioni
 	- metbolismo fegato: metaboliti inattivi, escrezione bile, 12% urine, ev 40-68 h
 	- 1, 2 h prima dei pasti
+	- effetto immunomodulante: [[farmaci anti-infiammatori]]
 - ## usi th
 	- [[pneumonia]], [[faringite]], [[sinusite]]
 		- 500 mg, 250 mg poi

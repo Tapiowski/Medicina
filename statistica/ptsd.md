@@ -1,0 +1,1 @@
+saindrome da stress post-traumatico

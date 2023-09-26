@@ -64,7 +64,7 @@
 		- [[soffio bronchiale]]: trachea, turbolenza da aria attraverso prima rima glottidea, no in periferia: [[polmonite]], [[pleurite]], [[tumore]]
 		- [[rumore respiratorio accessorio]]: [[rumore bronchiale]], [[rumore polmonare]], [[rumore pleurico]], [[rumore laringeo]]
 		- [[rumore bronchiale]]
-			- secco: fischi, sibili, ronchi, gemiti: [[patologia ostruttiva]]: [[ronchi]]. da aria in stenosi, fischi sibili e gemiti in periferia. [[bronchite acuta]], [[bronchite cronica]], [[asma bronchiale]]
+			- secco: fischi, sibili, ronchi, gemiti: [[patologia ostruttiva]]: [[ronchi]]. da aria in stenosi, fischi sibili e gemiti in periferia. [[bronchite acuta]], [[bronchite cronica]], [[asma]]
 			- umido: [[polmonite]], [[crisi asmatica]], [[edema polmonare]]: [[rantoli]]. aria in fluido divide in bolle che scoppiano in superficie: vibrazione sonora. grosse, medie, piccole bolle: [[edema polmonare acuto]]
 - ## diagnostica funzionale
 	- volumi, flussi, diffusione gas, forza contrazione mm respiratori, test da sforzo cardiopolmonare: tipi di dispnea

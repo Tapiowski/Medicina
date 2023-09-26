@@ -2,7 +2,7 @@
 	- ### cause polmonari
 		- malattie vie aeree
 			- ipoventilazn da -spazio respiratorio
-				- [[tumore]], [[edema]], [[asma bronchiale]], [[bronchiolite]]
+				- [[tumore]], [[edema]], [[asma]], [[bronchiolite]]
 				- -ventilazn -eliminazn co2
 		- malattie parenchima polmonare
 			- mm ok, ma faticati

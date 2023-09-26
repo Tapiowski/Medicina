@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/pneumologia/inalatore.md",
+                "file": "patologia sistematica I/pneumologia/covid-19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/pneumologia/inalatore.md",
+                "file": "patologia sistematica I/pneumologia/covid-19.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/pneumologia/inalatore.md"
+                "file": "patologia sistematica I/pneumologia/covid-19.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/pneumologia/inalatore.md",
+                "file": "patologia sistematica I/pneumologia/covid-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/pneumologia/inalatore.md",
+                "file": "patologia sistematica I/pneumologia/covid-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,32 +204,32 @@
   },
   "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
+    "patologia sistematica I/pneumologia/pneumologia.md",
+    "patologia sistematica I/pneumologia/covid-19.md",
+    "patologia sistematica I/pneumologia/sars-cov-2.md",
+    "fisiologia/adam17.md",
+    "farmacologia/cardiovascolare/ace inibitori.md",
+    "farmacologia/cardiovascolare/farmaci vasopressori.md",
+    "statistica/anosmia.md",
+    "statistica/mods.md",
+    "farmacologia/antibiotici/azitromicina.md",
+    "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
+    "patologia sistematica I/pneumologia/asma.md",
     "patologia sistematica I/pneumologia/bpco.md",
+    "statistica/ptsd.md",
+    "chirurgia/chirurgia vascolare/cid.md",
+    "patologia sistematica I/pneumologia/ards.md",
+    "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
+    "patologia sistematica I/pneumologia/NIV.md",
+    "patologia sistematica I/pneumologia/ltot.md",
+    "patologia sistematica I/patologia sistematica I.md",
     "patologia sistematica I/pneumologia/inalatore.md",
     "patologia sistematica I/pneumologia/lvrs.md",
     "patologia sistematica I/pneumologia/nppv.md",
-    "patologia sistematica I/pneumologia/pneumologia.md",
-    "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
-    "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
-    "patologia sistematica I/pneumologia/ltot.md",
-    "patologia sistematica I/patologia sistematica I.md",
     "patologia sistematica I/pneumologia/long therm oxygen therapy.md",
     "patologia sistematica I/pneumologia/riabilitazione polmonare.md",
     "farmacologia/0/farmaci anti-infiammatori.md",
     "farmacologia/cardiovascolare/inibitori pde.md",
-    "farmacologia/0/glucocorticoidi orali.md",
-    "farmacologia/0/ics.md",
-    "patologia sistematica I/pneumologia/farmaci broncodilatatori.md",
-    "farmacologia/0/farmaci corticosteroidi.md",
-    "farmacologia/0/corticosteroidi inalatori.md",
-    "farmacologia/0/fdc.md",
-    "farmacologia/nervoso/fans.md",
-    "farmacologia/0/agenti mucoregolatori.md",
-    "farmacologia/antibiotici/azitromicina.md",
-    "farmacologia/antibiotici/macrolidi.md",
-    "farmacologia/antibiotici/farmaci chemio-antibiotici.md",
-    "farmacologia/cardiovascolare/amrinone.md",
-    "farmacologia/cardiovascolare/milrinone.md",
     "100 files/Lungvolumes.png",
     "Untitled 1",
     "Untitled",

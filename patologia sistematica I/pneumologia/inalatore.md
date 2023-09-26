@@ -1,15 +1,21 @@
 - 33 terapie, [[farmaci broncodilatatori]], [[ics]]
 - 22 inalatori
 	- nebulizzatori
-	- mdi meterd-dose inhaler
+	- MDI meterd-dose inhaler
 		- con o senza valved holding chamber vhc/spacers
 		- bais breath actuated mdi
-		- soft mist smi
+		- soft mist SMI
 		- dry power inhaler dpi
-	- multi dose dpi
+	- multi dose DPI
 		- powder in reservoir or individual blisters
 	- size, protabilita, step preparazione, forza per attivarli o caricarli, tempo di delivery drug, carbon footpriont: propellente, materiale, manifattura, riutilizzo o riciclo
 	- smart inhalers: data, tempo uso, flow in, volume in
 		- aderenza, tecnica
 - particelle > 5um micros
-	- deposito in orofarin
+	- deposito in orofaringe
+	- per vie r inf e polmoni: <2-5 um
+	- flow respiratorio, accelerazione, volume inalatorio
+	- MDI, SMI slow and deep, DPI inspirazione forzata per rompere particelle
+- uso
+	- vhc/spacer se non possono usare correttamente pmdi
+	- vhc 50-250 ml

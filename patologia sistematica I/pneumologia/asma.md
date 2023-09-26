@@ -1,5 +1,5 @@
 - ## definizione
-	- [[asma]]
+	- [[asma bronchiale]]
 	- antica, frequente 5% popolazione
 	- = respiro breve: [[dispnea]], [[dispnea accessionale]], [[dispnea sibilante]]: fischio +espiratorio che inspiratorio
 	- patologia vie aeree: [[infiammazione cronica]]

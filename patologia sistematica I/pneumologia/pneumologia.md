@@ -1,5 +1,5 @@
 - ### [[semeiotica pneumologica]]
-- ### [[asma bronchiale]]
+- ### [[asma]]
 
 - ## [[bpco]]
 	- ### [[bronchite cronica]]
@@ -19,4 +19,4 @@
 
 - ### [[covid-19]]
 
-prof
+prof Pirina
