@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "farmacologia/0/ics.md",
+                "file": "patologia sistematica I/pneumologia/inalatore.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "farmacologia/0/ics.md",
+                "file": "patologia sistematica I/pneumologia/inalatore.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "farmacologia/0/ics.md"
+                "file": "patologia sistematica I/pneumologia/inalatore.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "farmacologia/0/ics.md",
+                "file": "patologia sistematica I/pneumologia/inalatore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "farmacologia/0/ics.md",
+                "file": "patologia sistematica I/pneumologia/inalatore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,32 +204,32 @@
   },
   "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
-    "farmacologia/0/fdc.md",
-    "farmacologia/0/ics.md",
-    "farmacologia/0/farmaci anti-infiammatori.md",
     "patologia sistematica I/pneumologia/bpco.md",
+    "patologia sistematica I/pneumologia/inalatore.md",
+    "patologia sistematica I/pneumologia/lvrs.md",
+    "patologia sistematica I/pneumologia/nppv.md",
+    "patologia sistematica I/pneumologia/pneumologia.md",
+    "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
+    "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
+    "patologia sistematica I/pneumologia/ltot.md",
+    "patologia sistematica I/patologia sistematica I.md",
+    "patologia sistematica I/pneumologia/long therm oxygen therapy.md",
+    "patologia sistematica I/pneumologia/riabilitazione polmonare.md",
+    "farmacologia/0/farmaci anti-infiammatori.md",
+    "farmacologia/cardiovascolare/inibitori pde.md",
+    "farmacologia/0/glucocorticoidi orali.md",
+    "farmacologia/0/ics.md",
+    "patologia sistematica I/pneumologia/farmaci broncodilatatori.md",
+    "farmacologia/0/farmaci corticosteroidi.md",
     "farmacologia/0/corticosteroidi inalatori.md",
+    "farmacologia/0/fdc.md",
     "farmacologia/nervoso/fans.md",
     "farmacologia/0/agenti mucoregolatori.md",
     "farmacologia/antibiotici/azitromicina.md",
     "farmacologia/antibiotici/macrolidi.md",
     "farmacologia/antibiotici/farmaci chemio-antibiotici.md",
-    "patologia sistematica I/pneumologia/pneumologia.md",
-    "farmacologia/cardiovascolare/inibitori pde.md",
     "farmacologia/cardiovascolare/amrinone.md",
     "farmacologia/cardiovascolare/milrinone.md",
-    "farmacologia/cardiovascolare/enoximone.md",
-    "farmacologia/0/glucocorticoidi orali.md",
-    "farmacologia/0/farmaci corticosteroidi.md",
-    "patologia sistematica I/pneumologia/farmaci broncodilatatori.md",
-    "farmacologia/0/farmaci anti-muscarinici.md",
-    "fisiologia/farmaci beta-2 agonisti.md",
-    "farmacologia/nervoso/metilxantine.md",
-    "patologia/0/glaucoma.md",
-    "fisiologia/m3.md",
-    "fisiologia/recettori muscarinici.md",
-    "patologia sistematica I/pneumologia/fev1.md",
-    "patologia sistematica I/pneumologia/blue bloater.md",
     "100 files/Lungvolumes.png",
     "Untitled 1",
     "Untitled",

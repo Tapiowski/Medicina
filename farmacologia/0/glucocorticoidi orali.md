@@ -1,1 +1,3 @@
 - effetti collaterali
+	- miopatia steroidea fino a [[insufficienza polmonare]]
+- acuzie [[bpco]]

@@ -3,7 +3,16 @@
 	- + [[camp]] = + ca in: + [[contrattilita cardiaca]]
 - area aromatica idrofobica + regione elettronegativa
 - collaterali: gi, trombocitopenia
-- ## classificazione
+- ## [[PDE3]]
 	- ### [[enoximone]]
 	- ### [[milrinone]]
 	- ### [[amrinone]]
+- ## [[PDE4]]
+	- -rottura camp
+	- [[roflumilast]] 1/d, non broncodilatore
+		- -acuzie +[[glucocorticoidi orali]]
+		- +[[laba]], +[[laba]]+[[ics]]
+	- avversi
+		- diarrea, nausea, -appetito, -peso, dolore addominale, -sleep, malditesta
+		- reversibili, early th
+		- -2kg: monitor

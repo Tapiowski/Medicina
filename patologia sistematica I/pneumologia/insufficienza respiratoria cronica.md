@@ -133,7 +133,7 @@
 - ## terapia
 	- controllo patologia di base causante irc
 	- [[ossigenazione]], [[ventilazione meccanica]]
-	- ### [[otlt]] [[ossigenoterapia]] domiciliare a lungo termine
+	- ### [[ltot]] [[ossigenoterapia]] domiciliare a lungo termine
 		- [[ossigenoterapia]] +prognosi
 		- 18h th al giorno [[cot]]
 		- +sopravvivenza, -[[ipertensione polmonare]], -[[desaturazione]] sonno e sforzo, -[[ricovero]], +qualita vita
@@ -155,7 +155,7 @@
 			- no flussi elevati, no 100% saturazione, 92% ok flusso min
 				- [[ventilazione]] se ipercapnico
 			- riabilitazione, nutrizione
-	- ### [[ventilazione meccanica non invasiva]]
+	- ###[[ventilazione meccanica non invasiva]]
 		- [[ventilatore portatile]] eroga volumi e pressioni: [[ventilazione]] artificiale
 		- maschere naso-bucali: no dispersione pressioni
 		- doppio tubo
@@ -223,7 +223,7 @@
 				- [[vems]] 40%: chiuso
 		- entrambi
 			- [[insufficienza respiratoria]]: prima [[irc ipossiemica]] poi [[irc ipercapnica]]
-			- [[otlt]] e [[ventilazione meccanica non invasiva]]
+			- [[ltot]] e [[ventilazione meccanica non invasiva]]
 			- [[indice di tiffenau]] > 70%
 			- [[iperinsufflato]], [[volume residuo]] x1.23, [[capacita funzionale residua]]+
 			- [[capacita polmonare totale]] ok

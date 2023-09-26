@@ -2,7 +2,7 @@
 - -[[polmonite]]
 - tripla terapia inalatoria
 	- [[laba]]+[[lama]]+[[ics]]: +funzione polmonare, -sintomi, +vita, -acuzie
-	- meglio per mortalita se ++acutie
+	- -mortalita se ++acutie
 - infiammazione [[bpco]] non risponde molto
 	- altri agenti sensibilizzano risposta
 	- beneficio per fumatori
@@ -11,4 +11,9 @@
 		- no modifica [[fev1]] o mortalita [[copd]]
 	- ics + [[laba]] = [[fdc]]
 		- -acuzie 8%, no diff in pneumonia
-	- conta [[eosinofil]]
+	- conta [[eosinofili]]
+- sintomi da interruzione th
+	- +acuzie, sintomi
+	- -fev1 40 ml da +eosinofili in circolo
+		- >300 cc/ul
+	- [[laba]] minimizzano
