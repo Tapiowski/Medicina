@@ -1,20 +1,20 @@
 - [[ECG]]
 - elettrocardiografia = attivita elettrica cuore
 - corrente elettrica
-	- genera in nodo senoatriale
+	- genera in [[nodo senoatriale]]
 	- propaga in vie interatriali depolarizzando atri
-	- nodo atriovent, his, branche depolarizza purkinje
+	- [[nodo atrioventricolare]], his, branche depolarizza purkinje
 	- miocardio di lavoro
 	- = contrazn miocardio, + p intracamerale, flusso ematico ad aorta e a polmonare
-- nodo senoatriale
+- [[nodo senoatriale]]
 	- pacemaker + capacita autoeccitamento
 	- autodepolarizzazione da na, ca
 	- -60 mv, +20 mv
 - mm cardiaco
 	- eccitazione da endocardio ad epicardio, epicardio repolarizza prima
-- complesso qrs
+- complesso [[qrs]]
 	- depolarizzazione
-- onda t
+- [[onda t]]
 	- ripolarizzazione ventricolare
 	- in tessuto ventricolare t ha direzione opposta
 - ## fibrocellula
@@ -76,9 +76,9 @@
 		- R' seconda onda positiva r < 5 mm
 		- QS unica deflessione negativa se non ho R
 	- intervalli
-		- PQ, PR: 0.12-0.20 s
-		- QRS < 0.12 s 3 quadtratini
-		- QT corretto per f cardiaca in base QT = QT/radice R-R: 0.35-0.44 s
+		- [[PQ]], PR: 0.12-0.20 s
+		- [[QRS]] < 0.12 s 3 quadtratini
+		- [[QT]] corretto per f cardiaca in base QT = QT/radice R-R: 0.35-0.44 s
 	- ### cosa guardare
 		- tracciato ritmico?
 			- R-R costante e uguale
@@ -87,30 +87,10 @@
 				- frequenzimetro
 					- freccia su primo QRS, salto il secondo, dove cade il terzo?
 		- tracciato non ritmico
-			- calcolo bpm
-				- numero QRS in 15 cm di carta (6s) x 10: f cardiaca media
-		- ritmo sinusale?
-			- nasce dal seno-atriale?
-			- vettore attivante atri ha asse da 0-90' in triangolo einthoven
-				- onde P con questa polarita ritmo sinusale:
-					- +D1
-					- +D2
-					- +-D3
-					- -aVR
-					- +aVF
-					- +aVL
-			- P in D1 e aVR: sinusale con -aVL per cuore verticalizzato
-			- tracciato aritmico sinusale solo in aritmia sinusale respiratoria
-		- onda P = voltaggio
-			- se > 2.5 mV +dimensioni atrio dx
-			- se > 0.12 s 4mm P mitralica + dimensioni atrio sin
-		- conduzione atrio ventricolare normale?
-			- P seguita da QRS, intervallo P-QRS allungato o normale
-			- PQ-PR tra 0.12 s e 0.20 s
-				- preecitazione ventricolare, conduzione nodale accellerata se < 0.12 s
-				- via accessoria bypass nodo atrio-ventr
-				- onda delta accessoria wolff-parkinson-white
-			- blocco atrio-ventricolare > 0.20 s
+			- calcolo [[bpm]]
+		- [[ritmo sinusale]]?
+		- [[onda P]] = voltaggio
+		- [[conduzione atrioventricolare]] normale?
 		- QRS normale?
 			- direzione vettore, durata, ampiezza
 			- attivazione ventricoli ha vettore complessivo tra -30 e 120'

@@ -1,0 +1,1 @@
+corretto per f cardiaca in base QT = QT/radice R-R: 0.35-0.44 s

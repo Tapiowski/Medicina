@@ -1,0 +1,1 @@
+numero QRS in 15 cm di carta (6s) x 10: f cardiaca media

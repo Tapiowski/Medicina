@@ -1,0 +1,3 @@
+- pacemaker + capacita autoeccitamento
+- autodepolarizzazione da na, ca
+- -60 mv, +20 mv

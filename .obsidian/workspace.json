@@ -11,8 +11,12 @@
             "id": "1aec9aaf59f76ac0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "patologia sistematica I/cardiologia/elettrocardiografia.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "a7dec35695fe04e4"
           }
@@ -28,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "farmacologia/nervoso/anestetici generali inalatori.md",
+                "file": "patologia sistematica I/cardiologia/elettrocardiografia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "patologia sistematica I/cardiologia/elettrocardiografia.md"
+              }
             }
           },
           {
@@ -143,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "patologia sistematica I/cardiologia/elettrocardiografia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "patologia sistematica I/cardiologia/elettrocardiografia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,33 +192,33 @@
   },
   "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
+    "patologia sistematica I/cardiologia/conduzione atrioventricolare.md",
+    "patologia sistematica I/cardiologia/elettrocardiografia.md",
+    "fisiologia/onda p.md",
+    "patologia sistematica I/cardiologia/ritmo sinusale.md",
+    "fisiologia/bpm.md",
+    "fisiologia/QT.md",
+    "fisiologia/qrs.md",
+    "fisiologia/PQ.md",
+    "anatomia/nodo senoatriale.md",
+    "anatomia/nodo atrioventricolare.md",
+    "patologia sistematica I/cardiologia/aritmie.md",
+    "fisiologia/onda t.md",
+    "patologia sistematica I/cardiologia/cardiologia.md",
+    "patologia sistematica I/cardiologia/anomalie cardiache congenite.md",
+    "patologia sistematica I/cardiologia/sindrome qt lungo.md",
+    "patologia sistematica I/cardiologia/sindrome di brugada.md",
+    "patologia sistematica I/cardiologia/cardiomiopatia ischemica in fase acuta.md",
+    "patologia sistematica I/patologia sistematica I.md",
+    "patologia sistematica I/pneumologia/pneumologia.md",
     "farmacologia/nervoso/anestetici generali inalatori.md",
     "anatomia/neuroanatomia/cervello.md",
     "farmacologia/cardiovascolare/farmaci beta-bloccanti.md",
-    "patologia sistematica I/patologia sistematica I.md",
-    "patologia sistematica I/cardiologia/cardiologia.md",
-    "patologia sistematica I/pneumologia/pneumologia.md",
-    "patologia sistematica I/cardiologia/cardiomiopatia ischemica in fase acuta.md",
     "patologia sistematica I/cardiologia/ischemia subepicardica.md",
     "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
     "patologia sistematica I/cardiologia/sindrome aortica acuta.md",
     "patologia sistematica I/cardiologia/semeiotica cardiovascolare.md",
-    "patologia sistematica I/cardiologia/apparato cardiovascolare.md",
-    "fisiologia/legge di poiseuille.md",
-    "fisiologia/frank-starling.md",
-    "anatomia/miocardio comune.md",
-    "anatomia/miocardio specifico.md",
-    "semeiotica/ritmi di galoppo.md",
-    "semeiotica/focolai auscultazione cardiaca.md",
-    "semeiotica/polso arterioso.md",
-    "semeiotica/polso paradosso.md",
-    "semeiotica/polso raro.md",
-    "semeiotica/bradisfigmia.md",
-    "semeiotica/tachisfigmia.md",
-    "semeiotica/normosfigmia.md",
-    "semeiotica/polso pedideo-tibiale ant.md",
     "polso tibiale ant",
-    "patologia/cianosi centrale.md",
     "100 files/Untitled drawing(2).svg",
     "100 files/Untitled drawing.svg",
     "100 files/Untitled drawing.pdf",
