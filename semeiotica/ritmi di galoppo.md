@@ -1,0 +1,3 @@
+- tono aggiunti udibili e accentuati
+- galoppo atriale o presistolico: S4 breve cupo sordo
+- galoppo ventricolare protodiastolico S3 debole -tonalita

@@ -1,0 +1,1 @@
+fredda: +hb ridotta da -o2 o +estrazione da tessuti. in estremita fredde, da insufficienza cardiaca, ostruzione venosa, fenomeno di raynaud: generalizzata o distrettuale

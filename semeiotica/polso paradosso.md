@@ -1,0 +1,2 @@
+- - ampiezza polso in inspirazione per + ritorno venoso al torace: ventricolo dx espande a spese del ventricolo sin che si riempie meno con sistole meno efficace, segue un ritorno a condizioni normali
+- in polso paradosso: esasperata riduzione ampiezza in normale inspirazione per eccessiva caduta inspiratoria di pressione a > 10 mmhg: tamponamento cardiaco

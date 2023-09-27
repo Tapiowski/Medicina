@@ -1,0 +1,2 @@
+- emodinamica cuore dx e pressioni venose, tronco a 45 su asse orizzonatale, testa in asse con tronco
+- polso venoso: PVC pressione venosa centrale. atrio dx 5 cm sotto angolo sternale di louis: distanza tra angolo e punto oscillazioni + 5 cm - stima pvc: non superi i 9 cm! aumenta in insufficienza cardiaca, valvulopatie tricuspidaliche, pericarditi, ostruzione vena cava, ipervolemia. oscillazioni polso venoso giugulare: morfologia onde, onda a contrazione atrio, c ventricolo, x rilascio atriale, v riempimento atriale, y svuotamento atriale

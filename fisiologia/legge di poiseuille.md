@@ -1,3 +1,4 @@
+- regolazione
 - Q = vS = v pi R2
 - Q = (piR4 (P1-P2)) / 8nL
 - data differenza di pressione, flusso modificabile modificando resistenza condotto

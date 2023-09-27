@@ -7,5 +7,5 @@
 	- [[polso ulnare]] proiezione quinto dito
 	- [[polso femorale]]
 	- [[polso popliteo]] bisettrice losanga poplitea, cavo popliteo
-	- [[polso tibiale ant/pedideo]] lat ad estensore lungo alluce, dorso piede
+	- [[polso pedideo-tibiale ant]] lat ad estensore lungo alluce, dorso piede
 	- [[polso tibiale post]] post a malleolo mediale

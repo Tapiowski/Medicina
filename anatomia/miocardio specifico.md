@@ -1,0 +1,5 @@
+- inizio impulso elettrico, pacemaker, nodo del seno 1 cm, occupa tutto spessore, contrazione involontaria
+- tre fasce connettono nodo seno-atriale, atrio-ventr, fascio di his 1 cm, branche dx e sin ai ventricoli
+- no fase di riposo stabile: ripolarizzazione spontanea e depol rapida a soglia: pacemaker e propagazn
+- danno elettrico: ecg!
+- contrazn atri riempie ventricoli, contrazn ventricoli da apice a base

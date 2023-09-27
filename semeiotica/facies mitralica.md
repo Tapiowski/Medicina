@@ -1,0 +1,1 @@
+stenosi mitrale: cianosi, rossore guance

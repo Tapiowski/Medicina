@@ -28,6 +28,7 @@
 	- ripolarizzazione
 		- da int elettropositivo, epicardio torna a stato di riposo: diviene -
 		- coda vs meno e testa verso +:
+- ## derivazioni
 	- ### einthoven:
 		- due elettrodi: polo positivo e negativo a galvanometro: registra diff di potenziale in onde
 			- torace conduttore sferico omogeneo con cuore al centro
@@ -42,13 +43,14 @@
 				- ![[Pasted image 20230207104525.png]]
 			- ### [[bisettrici derivazioni unipolari]]
 				- ![[Pasted image 20230207104650.png]]
-		- ### [[derivazioni precordiali unipolari]], piano trasversale
-			- V1: IV ic dx su parasternale
-			- V2: IV ic sin parasternale
-			- V3: tra V2 e V4
-			- V4: V ic sin emiclaveare
-			- V5: V ic sin ascellare ant
-			- V6: V ic sin su ascellare media
+		- ### piano trasversale
+			- ### [[derivazioni precordiali unipolari]]
+				- V1: IV ic dx su parasternale
+				- V2: IV ic sin parasternale
+				- V3: tra V2 e V4
+				- V4: V ic sin emiclaveare
+				- V5: V ic sin ascellare ant
+				- V6: V ic sin su ascellare media
 - ## carta elettrocardiografica
 	- ascisse
 		- tempo, v = 25 mm/s, 1 mm = 0.04 s
@@ -142,7 +144,3 @@
 			- conduzn AV : PQ = 0,12 s normale
 			- conduzn IV: QRS 2 quadratini = 0.08 s normale, isodifasica in D1, asse elettrico aVF 90'
 			- ripolarizzazione: branche asimmetriche in tutte onde T, QT= 0.42 s normale
-- ## patologie
-	- ### [[cardiomiopatia ischemica in fase acuta]]
-	- ### [[patologie coronarie]]
-	- ### [[anomalie cardiache congenite]]

@@ -99,16 +99,7 @@
 	- [[epicardio]]
 - ## sistema conduzione
 	- [[miocardio specifico]]
-		- inizio impulso elettrico, pacemaker, nodo del seno 1 cm, occupa tutto spessore, contrazione involontaria
-		- tre fasce connettono nodo seno-atriale, atrio-ventr, fascio di his 1 cm, branche dx e sin ai ventricoli
-		- no fase di riposo stabile: ripolarizzazione spontanea e depol rapida a soglia: pacemaker e propagazn
-		- danno elettrico: ecg!
-		- contrazn atri riempie ventricoli, contrazn ventricoli da apice a base
 	- [[miocardio comune]]
-		- forma potenziale d'azn stabile
-		- eccitato con fronte d'onda e depolarizzazione rapida da correnti na
-		- mv: picco, fase plateau, ripolarizzazn k na, fase riposo
-		- depol membrana cc: risposta meccanica di contrazione
 - ## pompa aspirante e premente
 	- circolo
 		- sistole atriale a fine diascole riempie i ventricoli
@@ -139,12 +130,7 @@
 		- gittata sistolica
 			- +- contrattilita
 		- catecolamine
-- ## legge del cuore di frank-starling
-	- cuore si adatta a variazioni ritorno venoso:
-		- + sangue a atrio dx = +stiramento miocardio per interdigitazn actina miosina = + forza contrazione
-	- adattibilita a varaizioni di
-		- precarico: riempimento, ritorno venoso e volume ematico
-		- postcarico: resistenze periferiche
+- ## legge del cuore [[frank-starling]]
 - ## sistema vasale
 	- arterie
 		- fibre elastiche, mm liscia, variano calibro
@@ -154,10 +140,4 @@
 			- avventizia: collagene, fibre elastiche nve vasa vasorum
 	- capillari: endotelio
 	- vene: parete meno spessa, meno elastica
-- ## regolazione, [[legge di poiseuille]]
-	- Q = vS = v pi R2
-	- Q = (piR4 (P1-P2)) / 8nL
-	- data differenza di pressione, flusso modificabile modificando resistenza condotto
-	- calcolare resistenze sistemiche da differenza di pressione tra aorta e atrio dx:
-		- se diff = 100: flusso 5 l/m, ressitenza 1.2 unita di resistenza
-		- R polmonare 1/10 sistemica
+- ## [[legge di poiseuille]]

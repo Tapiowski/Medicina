@@ -2,9 +2,12 @@
 - ### [[elettrocardiografia]]
 - ### [[semeiotica cardiovascolare]]
 
+- ### [[cardiomiopatia ischemica in fase acuta]]
+- ### [[patologie coronarie]]
+- ### [[anomalie cardiache congenite]]
+
 - ### [[cardiopatia ischemica]]
 - ### [[sindrome aortica acuta]]
-
 - ### [[aritmie]]
 - ### [[ipertensione arteriosa]]
 - ### [[aterosclerosi]]

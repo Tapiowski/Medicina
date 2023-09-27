@@ -1,0 +1,4 @@
+- mitralae: V ic emiclaveare sin
+- tricuspide: iv ic marginosternale dx e sin
+- aortico: ii ic marginosternale dx
+- polmonare: ii ic marginosternale sin

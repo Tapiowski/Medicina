@@ -1,0 +1,6 @@
+- legge del cuore
+- cuore si adatta a variazioni ritorno venoso:
+	- + sangue a atrio dx = +stiramento miocardio per interdigitazn actina miosina = + forza contrazione
+- adattibilita a varaizioni di
+	- precarico: riempimento, ritorno venoso e volume ematico
+	- postcarico: resistenze periferiche

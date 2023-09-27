@@ -1,0 +1,5 @@
+- sensazione vibratoria, palmo della mano, rumori intensi, aspri, frequenza bassa
+- f da stenosi aortica: III ic dx
+- f da stenosi polmonare III ic sin
+- f da difetto interventricolare IV ic
+- [[fremito sistolico]], [[fremito vocale tattile]]

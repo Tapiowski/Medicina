@@ -1,7 +1,7 @@
 - ### [[semeiotica pneumologica]]
 - ### [[asma]]
 
-- ## [[bpco]]
+- ### [[bpco]]
 	- ### [[bronchite cronica]]
 	- ### [[enfisema polmonare]]
 

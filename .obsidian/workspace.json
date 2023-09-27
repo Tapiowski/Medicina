@@ -6,23 +6,15 @@
       {
         "id": "90031d7e25540a77",
         "type": "tabs",
-        "dimension": 71.09905020352781,
+        "dimension": 52.08574739281576,
         "children": [
-          {
-            "id": "028c4c1a23f379c1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
           {
             "id": "1aec9aaf59f76ac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/pneumologia/covid-19.md",
+                "file": "patologia sistematica I/cardiologia/cardiomiopatia ischemica in fase acuta.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -30,13 +22,12 @@
             },
             "group": "955036a3d567f0b5"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "431be177dea24723",
         "type": "tabs",
-        "dimension": 28.900949796472187,
+        "dimension": 47.914252607184245,
         "children": [
           {
             "id": "8f81a86fa1ef28d0",
@@ -44,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/pneumologia/covid-19.md",
+                "file": "patologia sistematica I/cardiologia/cardiomiopatia ischemica in fase acuta.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -104,7 +95,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -151,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/pneumologia/covid-19.md"
+                "file": "patologia sistematica I/cardiologia/cardiomiopatia ischemica in fase acuta.md"
               }
             }
           },
@@ -161,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/pneumologia/covid-19.md",
+                "file": "patologia sistematica I/cardiologia/cardiomiopatia ischemica in fase acuta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/pneumologia/covid-19.md",
+                "file": "patologia sistematica I/cardiologia/cardiomiopatia ischemica in fase acuta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,41 +193,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1aec9aaf59f76ac0",
+  "active": "8f81a86fa1ef28d0",
   "lastOpenFiles": [
-    "patologia sistematica I/pneumologia/pneumologia.md",
-    "patologia sistematica I/pneumologia/covid-19.md",
-    "patologia sistematica I/pneumologia/sars-cov-2.md",
-    "fisiologia/adam17.md",
-    "farmacologia/cardiovascolare/ace inibitori.md",
-    "farmacologia/cardiovascolare/farmaci vasopressori.md",
-    "statistica/anosmia.md",
-    "statistica/mods.md",
-    "farmacologia/antibiotici/azitromicina.md",
-    "patologia sistematica I/pneumologia/sindrome apnee notturne.md",
-    "patologia sistematica I/pneumologia/asma.md",
-    "patologia sistematica I/pneumologia/bpco.md",
-    "statistica/ptsd.md",
-    "chirurgia/chirurgia vascolare/cid.md",
-    "patologia sistematica I/pneumologia/ards.md",
-    "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
-    "patologia sistematica I/pneumologia/NIV.md",
-    "patologia sistematica I/pneumologia/ltot.md",
-    "patologia sistematica I/patologia sistematica I.md",
-    "patologia sistematica I/pneumologia/inalatore.md",
-    "patologia sistematica I/pneumologia/lvrs.md",
-    "patologia sistematica I/pneumologia/nppv.md",
-    "patologia sistematica I/pneumologia/long therm oxygen therapy.md",
-    "patologia sistematica I/pneumologia/riabilitazione polmonare.md",
-    "farmacologia/0/farmaci anti-infiammatori.md",
-    "farmacologia/cardiovascolare/inibitori pde.md",
+    "patologia sistematica I/cardiologia/ischemia subepicardica.md",
+    "patologia sistematica I/cardiologia/cardiomiopatia ischemica in fase acuta.md",
+    "patologia sistematica I/cardiologia/cardiologia.md",
+    "patologia sistematica I/cardiologia/sindrome aortica acuta.md",
+    "patologia sistematica I/cardiologia/semeiotica cardiovascolare.md",
+    "patologia sistematica I/cardiologia/apparato cardiovascolare.md",
+    "fisiologia/legge di poiseuille.md",
+    "fisiologia/frank-starling.md",
+    "anatomia/miocardio comune.md",
+    "anatomia/miocardio specifico.md",
+    "semeiotica/ritmi di galoppo.md",
+    "semeiotica/focolai auscultazione cardiaca.md",
+    "semeiotica/polso arterioso.md",
+    "semeiotica/polso paradosso.md",
+    "semeiotica/polso raro.md",
+    "semeiotica/bradisfigmia.md",
+    "semeiotica/tachisfigmia.md",
+    "semeiotica/normosfigmia.md",
+    "semeiotica/polso pedideo-tibiale ant.md",
+    "polso tibiale ant",
+    "patologia/cianosi centrale.md",
+    "semeiotica/turgore giugulari.md",
+    "semeiotica/fremito.md",
+    "patologia/0/edema.md",
+    "semeiotica/cianosi periferica.md",
+    "patologia/sindrome di williams.md",
+    "semeiotica/facies mongoloide.md",
+    "100 files/Untitled drawing(2).svg",
+    "100 files/Untitled drawing.svg",
+    "100 files/Untitled drawing.pdf",
     "100 files/Lungvolumes.png",
     "Untitled 1",
     "Untitled",
     "100 files/Pasted image 20230207104525.png",
     "100 files/Lungvolumes.svg",
     "patologia sistematica I/pneumologia",
-    "polso tibiale ant",
     "chirurgia/0",
     "chirurgia/chirurgia vascolare",
     "antagonisti gpiiib",

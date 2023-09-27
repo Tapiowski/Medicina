@@ -1,0 +1,1 @@
+calda: ipossemia arteriosa: congiuntive, palato, lingua, estremita calde. cardiopatie congenite con shunt dx-sin, fistole arterovenose, bpco, poliglobulia e clubbing digitale

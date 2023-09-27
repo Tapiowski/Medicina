@@ -1,0 +1,4 @@
+- forma potenziale d'azn stabile
+- eccitato con fronte d'onda e depolarizzazione rapida da correnti na
+- mv: picco, fase plateau, ripolarizzazn k na, fase riposo
+- depol membrana cc: risposta meccanica di contrazione
