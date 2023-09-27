@@ -1,1 +1,6 @@
-numero QRS in 15 cm di carta (6s) x 10: f cardiaca media
+- [[tracciato ritmico]]?
+	- numero di quadrati da 5mm R-R / 300
+	- frequenzimetro
+		- freccia su primo [[QRS]], salto il secondo, dove cade il terzo?
+- tracciato non ritmico
+	- numero [[QRS]] in 15 cm di carta (6s) x 10: f cardiaca media

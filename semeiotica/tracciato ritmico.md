@@ -1,0 +1,1 @@
+- R-R costante e uguale

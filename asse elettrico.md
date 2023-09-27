@@ -1,0 +1,7 @@
+- direzionalita [[asse elettrico]] cardiaco medio
+	- 3 derivazioni bipolari: ampiezza qrs vs positivita
+	- tutte derivazioni periferice, sia bipolari che unipolari, su piano frontale, spostare origine al centro
+	- analisi [[qrs]]
+		- derizacioni piano frontale, quale ha meno scarto tra positivo e negativo
+		- asse elettrico perpendicolare a questa derivazione
+		- se derivazione - asse eletrico in sua proiezione

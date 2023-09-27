@@ -1,0 +1,6 @@
+- ritmico
+- [[ritmo sinusale]]: +D1, -avR
+- [[frequenza cardiaca]]: 300/3.2 = 94 bpm
+- [[conduzione atrioventricolare]]: PQ = 0,12 s normale
+- [[conduzione intraventricolare]]: QRS 2 quadratini = 0.08 s normale, isodifasica in D1, asse elettrico aVF 90'
+- [[ripolarizzazione]]: branche asimmetriche in tutte onde T, QT= 0.42 s normale

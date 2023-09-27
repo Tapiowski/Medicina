@@ -3,9 +3,9 @@
 - ### [[elettrocardiografia]]
 - ### [[semeiotica cardiovascolare]]
 
-- ### [[cardiomiopatia ischemica in fase acuta]]
 - ### [[patologie coronarie]]
 - ### [[anomalie cardiache congenite]]
+- ### [[embolia polmonare acuta]]
 
 - ### [[cardiopatia ischemica]]
 - ### [[sindrome aortica acuta]]

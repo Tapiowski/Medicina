@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/cardiologia/elettrocardiografia.md",
+                "file": "patologia sistematica I/cardiologia/cardiologia.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/cardiologia/elettrocardiografia.md",
+                "file": "patologia sistematica I/cardiologia/cardiologia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/cardiologia/elettrocardiografia.md"
+                "file": "patologia sistematica I/cardiologia/cardiologia.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/cardiologia/elettrocardiografia.md",
+                "file": "patologia sistematica I/cardiologia/cardiologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/cardiologia/elettrocardiografia.md",
+                "file": "patologia sistematica I/cardiologia/cardiologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,32 +192,32 @@
   },
   "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
-    "patologia sistematica I/cardiologia/conduzione atrioventricolare.md",
-    "patologia sistematica I/cardiologia/elettrocardiografia.md",
-    "fisiologia/onda p.md",
-    "patologia sistematica I/cardiologia/ritmo sinusale.md",
-    "fisiologia/bpm.md",
-    "fisiologia/QT.md",
-    "fisiologia/qrs.md",
-    "fisiologia/PQ.md",
-    "anatomia/nodo senoatriale.md",
-    "anatomia/nodo atrioventricolare.md",
-    "patologia sistematica I/cardiologia/aritmie.md",
-    "fisiologia/onda t.md",
+    "patologia sistematica I/cardiologia/cardiopatia ischemica.md",
+    "patologia sistematica I/cardiologia/angina pectoris.md",
     "patologia sistematica I/cardiologia/cardiologia.md",
-    "patologia sistematica I/cardiologia/anomalie cardiache congenite.md",
-    "patologia sistematica I/cardiologia/sindrome qt lungo.md",
-    "patologia sistematica I/cardiologia/sindrome di brugada.md",
+    "patologia sistematica I/cardiologia/sindrome coronarica acuta.md",
+    "patologia sistematica I/cardiologia/infarto miocardico.md",
     "patologia sistematica I/cardiologia/cardiomiopatia ischemica in fase acuta.md",
-    "patologia sistematica I/patologia sistematica I.md",
-    "patologia sistematica I/pneumologia/pneumologia.md",
-    "farmacologia/nervoso/anestetici generali inalatori.md",
-    "anatomia/neuroanatomia/cervello.md",
-    "farmacologia/cardiovascolare/farmaci beta-bloccanti.md",
-    "patologia sistematica I/cardiologia/ischemia subepicardica.md",
-    "patologia sistematica I/pneumologia/insufficienza respiratoria cronica.md",
-    "patologia sistematica I/cardiologia/sindrome aortica acuta.md",
     "patologia sistematica I/cardiologia/semeiotica cardiovascolare.md",
+    "patologia sistematica I/cardiologia/dolore anginoso.md",
+    "patologia sistematica I/cardiologia/embolia polmonare acuta.md",
+    "patologia sistematica I/cardiologia/infarto miocardico acuto.md",
+    "semeiotica/dolore toracico.md",
+    "patologia sistematica I/cardiologia/cardiopatie.md",
+    "patologia sistematica I/patologia sistematica I.md",
+    "patologia sistematica I/cardiologia/elettrocardiografia.md",
+    "patologia sistematica I/cardiologia/derivazioni precordiali unipolari.md",
+    "patologia sistematica I/cardiologia/derivazioni bipolari su piano frontale.md",
+    "anatomia/nodo senoatriale.md",
+    "asse elettrico.md",
+    "fisiologia/onde cardiache.md",
+    "fisiologia/QS.md",
+    "semeiotica/tracciato ritmico.md",
+    "fisiologia/onda u.md",
+    "fisiologia/onda r'.md",
+    "fisiologia/onda s.md",
+    "fisiologia/onda r.md",
+    "fisiologia/onda q.md",
     "polso tibiale ant",
     "100 files/Untitled drawing(2).svg",
     "100 files/Untitled drawing.svg",

@@ -1,22 +1,14 @@
 - [[ECG]]
 - elettrocardiografia = attivita elettrica cuore
-- corrente elettrica
+- ## corrente elettrica
 	- genera in [[nodo senoatriale]]
 	- propaga in vie interatriali depolarizzando atri
 	- [[nodo atrioventricolare]], his, branche depolarizza purkinje
 	- miocardio di lavoro
 	- = contrazn miocardio, + p intracamerale, flusso ematico ad aorta e a polmonare
-- [[nodo senoatriale]]
-	- pacemaker + capacita autoeccitamento
-	- autodepolarizzazione da na, ca
-	- -60 mv, +20 mv
-- mm cardiaco
-	- eccitazione da endocardio ad epicardio, epicardio repolarizza prima
-- complesso [[qrs]]
-	- depolarizzazione
-- [[onda t]]
-	- ripolarizzazione ventricolare
-	- in tessuto ventricolare t ha direzione opposta
+	- mm cardiaco
+		- eccitazione da endocardio ad epicardio, epicardio repolarizza prima
+	- [[onde cardiache]]
 - ## fibrocellula
 	- a riposo
 		- interno elettronegativo, ext positivo
@@ -35,22 +27,23 @@
 			- forze elettriche cardiache originano da centro conduttore
 			- risultante di forze rappresentabile da vettore unico
 			- punti di unione tra arti e tronco cono vertici di un triangolo equilattero in sezione longitudinale torace sferico
-		- ### tre derivazioni piano frontale
-			- ### [[derivazioni bipolari su piano]]
-				- D1 polo - in braccio dx, polo + braccio sin
-				- D2 polo - braccio dx, polo + gamba sin
-				- D3 polo - braccio sin, polo + gamba sin
-				- ![[Pasted image 20230207104525.png]]
-			- ### [[bisettrici derivazioni unipolari]]
-				- ![[Pasted image 20230207104650.png]]
-		- ### piano trasversale
-			- ### [[derivazioni precordiali unipolari]]
-				- V1: IV ic dx su parasternale
-				- V2: IV ic sin parasternale
-				- V3: tra V2 e V4
-				- V4: V ic sin emiclaveare
-				- V5: V ic sin ascellare ant
-				- V6: V ic sin su ascellare media
+	- ### [[derivazioni bipolari su piano frontale]]
+		- D1 polo - in braccio dx, polo + braccio sin
+		- D2 polo - braccio dx, polo + gamba sin
+		- D3 polo - braccio sin, polo + gamba sin
+			- ![[Pasted image 20230207104525.png]]
+	- ### [[bisettrici derivazioni unipolari]]
+		- ![[Pasted image 20230207104650.png]]
+		- avr
+		- avl 
+		- avf
+	- ### [[derivazioni precordiali unipolari]] trasv
+		- V1: IV ic dx su parasternale
+		- V2: IV ic sin parasternale
+		- V3: tra V2 e V4
+		- V4: V ic sin emiclaveare
+		- V5: V ic sin ascellare ant
+		- V6: V ic sin su ascellare media
 - ## carta elettrocardiografica
 	- ascisse
 		- tempo, v = 25 mm/s, 1 mm = 0.04 s
@@ -66,61 +59,12 @@
 		- attivazn branche fascio his
 		- miocardio di lavoro QRS: attivazn ventricolare: fase 0
 		- fase 1234 ripolatizzazione: onta t, tratto st
-	- onde
-		- P atri
-		- Q deflessione iniziale negativa
-		- R deflessione positiva
-		- S deflessione negativa segue R
-		- T deflessione da ripolarizzazione ventricolare
-		- U onda ripolarizzazione purkinje
-		- R' seconda onda positiva r < 5 mm
-		- QS unica deflessione negativa se non ho R
-	- intervalli
-		- [[PQ]], PR: 0.12-0.20 s
-		- [[QRS]] < 0.12 s 3 quadtratini
-		- [[QT]] corretto per f cardiaca in base QT = QT/radice R-R: 0.35-0.44 s
-	- ### cosa guardare
-		- tracciato ritmico?
-			- R-R costante e uguale
-			- frequenza cardiaca, calcolo bpm
-				- numero di quadrati da 5mm R-R / 300
-				- frequenzimetro
-					- freccia su primo QRS, salto il secondo, dove cade il terzo?
-		- tracciato non ritmico
-			- calcolo [[bpm]]
-		- [[ritmo sinusale]]?
-		- [[onda P]] = voltaggio
-		- [[conduzione atrioventricolare]] normale?
-		- QRS normale?
-			- direzione vettore, durata, ampiezza
-			- attivazione ventricoli ha vettore complessivo tra -30 e 120'
-			- deviazioni dx, sin, estrema dx, sin
-		- direzionalita asse elettrico cardiaco medio
-			- 3 derivazioni bipolari: ampiezza qrs vs positivita
-			- tutte derivazioni periferice, sia bipolari che unipolari, su piano frontale, spostare origine al centro
-			- analisi qrs
-				- derizacioni piano frontale, quale ha meno scarto tra positivo e negativo
-				- asse elettrico perpendicolare a questa derivazione
-				- se derivazione - asse eletrico in sua proiezione
-		- durata qrs
-			- 0.08-0.12 s
-			- se > 0.12 s ipertrofia ventricolare sin, blocchi conduzione intraventricolare, pacemaker, si slarga se velocita di conduzione inferiore
-		- voltaggio qrs
-			- indice ipertrofia vs
-			- sokolow-lyon: onda S in V1 + onda R in V5-V6 > 35 mm
-			- cornell: (onda R in aVL + onda S in V3) x durata qrs < 2440mm\*ms
-		- analisi tratto ST, onda T, QT
-			- dopo S punto di ritorno isoelettrica = punto j
-			- tratto ST fase tra depolarizzazione dei ventricoli e ripolarizzazione, deve giacere su isoelettrica
-			- onda T parte terminale ripolarizn ventricoli con branche asimmetriche: no triangolo isoscele
-				- stesso verso qrs tranne che in v1-2-3, non si allontani da +45'
-				- durata superiore e ampiezza inferiorea qrs
-					- desincronizzazione ripolarizzazione
-			- QT corretto con f cardiaca QT=QT/radice RR non inferiore a 0.35 s, non superiore a 0.35 s
-		- referto di un tracciato
-			- ritmico
-			- sinusale: +D1, -avR
-			- Fc: 300/3.2 = 94 bpm
-			- conduzn AV : PQ = 0,12 s normale
-			- conduzn IV: QRS 2 quadratini = 0.08 s normale, isodifasica in D1, asse elettrico aVF 90'
-			- ripolarizzazione: branche asimmetriche in tutte onde T, QT= 0.42 s normale
+	- [[onde cardiache]] e intervalli
+- ### [[tracciato elettrocardiografico]]
+	- [[bpm]]
+	- [[ritmo sinusale]]?
+	- [[onda P]] = voltaggio
+	- [[conduzione atrioventricolare]] normale?
+	- [[QRS]]
+	- [[asse elettrico]]
+	- [[onde cardiache#^intervalli]]

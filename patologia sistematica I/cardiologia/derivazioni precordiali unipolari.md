@@ -1,3 +1,4 @@
+piano trasversale
 - V1: IV ic dx su parasternale
 - V2: IV ic sin parasternale
 - V3: tra V2 e V4

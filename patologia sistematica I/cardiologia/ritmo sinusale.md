@@ -1,4 +1,4 @@
-forma, polarita onda P negativa in aVr e positiva in D1
++D1, -avR: forma, polarita onda P negativa in aVr e positiva in D1
 P negativa in aVR, positiva in v123
 - nasce dal seno-atriale?
 - vettore attivante atri ha asse da 0-90' in triangolo einthoven

@@ -26,3 +26,4 @@
 - ## classificazione
 	- ### [[sindrome coronarica acuta]]
 	- ### [[sindrome coronarica cronica]]
+	- ### [[cardiomiopatia ischemica in fase acuta]]?

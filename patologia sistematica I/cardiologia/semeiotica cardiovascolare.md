@@ -10,16 +10,12 @@
 	- patologica prossima
 		- disturbo per cui il pz consulta il medico, modalita insorgenza disturbi: momento, modalita, sede, durata, caratteristiche e intensita dolore, irradiazione, alvo diuresi, sonno astenia tosse dispnea. anamnesi farmacologica e tossicologica
 - ## sintomi per [[cardiopatie]]
-	- dolore toracico: [[infarto miocardio]]
-	- dispnea: [[scompenso cardiaco]], [[insufficienza cardiaca]]
-	- cardiopalmo: [[aritmie]] cardiache
+	- [[dolore toracico]]: [[infarto miocardio]]
+	- [[dispnea]]: [[scompenso cardiaco]], [[insufficienza cardiaca]]
+	- [[cardiopalmo]]: [[aritmie]] cardiache
 	- [[sincope]]
 	- sintomi associati, non fanno diagnosi ma aiutano
-		- astenia, tosse, emottisi, nicturia, anoressia, nausea, vomito
-- ## [[dolore toracico]]
-	- da punta naso fino ad addome: torace, spalle, braccia, dorso, collo, mandibola
-	- grado 0-10, no rapporto intensita dolore con gravita patologia
-	- sede, irradiazione, tipologia, condizioni scatenanti, intensita, durata, sintomi associati
+		- [[astenia]], [[tosse]], [[emottisi]], [[nicturia]], [[anoressia]], [[nausea]], [[vomito]]
 - ## anamnesi patologica
 	- ### [[angina pectoris]]
 	- ### [[infarto miocardico acuto]]
