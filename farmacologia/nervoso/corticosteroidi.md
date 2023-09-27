@@ -11,6 +11,7 @@
 		- 5 mg, 36 h
 	- [[idrocortisone]]
 		- 20 mg, 18 h
+	- [[ics]]
 - ## [[farmaci analgesici]]
 	- [[desametasone]] di scielta: +durata azn, minima attivita [[mineralcorticoidi]]: + atrofia muscolare
 	- 1-2 wk max, alte dosi iniziali: effetti collaterali sfavorevoli

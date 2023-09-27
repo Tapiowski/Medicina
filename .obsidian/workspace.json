@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiologia.md",
+                "file": "patologia sistematica I/pneumologia/bpco.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiologia.md",
+                "file": "patologia sistematica I/pneumologia/bpco.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -43,8 +43,30 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:farmacologia ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5407200
+                      }
+                    },
+                    {
+                      "query": "path:\"patologia sistematica I/cardiologia\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:\"patologia sistematica I/pneumologia\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14731602
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -55,7 +77,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.25,
+                  "scale": 0.6666666666666666,
                   "close": true
                 }
               }
@@ -139,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiologia.md"
+                "file": "patologia sistematica I/pneumologia/bpco.md"
               }
             }
           },
@@ -149,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiologia.md",
+                "file": "patologia sistematica I/pneumologia/bpco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiologia.md",
+                "file": "patologia sistematica I/pneumologia/bpco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,11 +212,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1aec9aaf59f76ac0",
+  "active": "05efa9f8ddafa8b6",
   "lastOpenFiles": [
+    "patologia sistematica I/pneumologia/enfisema polmonare.md",
+    "patologia sistematica I/pneumologia/dispnea.md",
+    "patologia sistematica I/pneumologia/enfisematoso.md",
+    "patologia sistematica I/pneumologia/insufficienza respiratoria.md",
+    "patologia sistematica I/pneumologia/insufficienza respiratoria acuta.md",
+    "patologia sistematica I/pneumologia/bpco.md",
+    "patologia sistematica I/pneumologia/copd eosinofilica.md",
+    "farmacologia/nervoso/corticosteroidi.md",
+    "farmacologia/0/ics.md",
+    "farmacologia/0/corticosteroidi inalatori.md",
+    "patologia sistematica I/cardiologia/aritmie.md",
+    "patologia sistematica I/cardiologia/cardiologia.md",
+    "patologia sistematica I/cardiologia/apparato cardiovascolare.md",
     "patologia sistematica I/cardiologia/cardiopatia ischemica.md",
     "patologia sistematica I/cardiologia/angina pectoris.md",
-    "patologia sistematica I/cardiologia/cardiologia.md",
     "patologia sistematica I/cardiologia/sindrome coronarica acuta.md",
     "patologia sistematica I/cardiologia/infarto miocardico.md",
     "patologia sistematica I/cardiologia/cardiomiopatia ischemica in fase acuta.md",
@@ -206,18 +240,6 @@
     "patologia sistematica I/cardiologia/cardiopatie.md",
     "patologia sistematica I/patologia sistematica I.md",
     "patologia sistematica I/cardiologia/elettrocardiografia.md",
-    "patologia sistematica I/cardiologia/derivazioni precordiali unipolari.md",
-    "patologia sistematica I/cardiologia/derivazioni bipolari su piano frontale.md",
-    "anatomia/nodo senoatriale.md",
-    "asse elettrico.md",
-    "fisiologia/onde cardiache.md",
-    "fisiologia/QS.md",
-    "semeiotica/tracciato ritmico.md",
-    "fisiologia/onda u.md",
-    "fisiologia/onda r'.md",
-    "fisiologia/onda s.md",
-    "fisiologia/onda r.md",
-    "fisiologia/onda q.md",
     "polso tibiale ant",
     "100 files/Untitled drawing(2).svg",
     "100 files/Untitled drawing.svg",
