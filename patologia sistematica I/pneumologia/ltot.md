@@ -1,4 +1,4 @@
-- ossigenoth domiciliare a lungo termine
+- [[ossigenoterapia]] domiciliare a lungo termine
 - somministrazn o2
 	- canule nasali
 		- +uso
