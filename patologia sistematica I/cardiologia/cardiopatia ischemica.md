@@ -27,3 +27,41 @@
 	- ### [[sindrome coronarica acuta]]
 	- ### [[sindrome coronarica cronica]]
 	- ### [[cardiomiopatia ischemica in fase acuta]]?
+- in infarto
+	- derivazioni da sovraslivellamento st e speculare sottoslivellamento delle altre derivazioni
+	- d2,3 avf inf cuore
+	- v1,2 setto intraventricolare
+	- v3,4 ant cuore
+	- di, avl, v5,6 lat cuore
+	- zona sovraslivellata = zona interessata da infarto, le altre sottoslivellano
+- ## anatomia coronarie
+	- coronaria sin da trnco comune biforca in:
+		- arteria interventricolare ant: decorre nel setto, shock cardiogeno se occlusa
+			- rami settali
+			- rami diagonali
+			- a circonflessa
+	- coronaria dx
+		- rami per margine acuto
+		- a interventricolare post
+	- ecg, dove occlusione coronaria
+		- stemi inf: sovraslivellamento d2,3,avf: occlusione coronaria dx o circonflessa
+			- diff:
+				- sottoslivellato d1: coronaria dx
+				- dopraslivellato d1: a circonflessa
+			- ST in D1 isoelettrico: controllo d2
+				- sovraslivellamento > 2-3 mv circonflessa
+				- sovraslivellamento < 2-3 mv coronaria dx
+		- discriminazione elettrocardiografica tra arterie originate da coronaria sin
+			- calcolo asse sovraslivellamento st
+				- asse vs avr: tronco comune con shock cardiogeno, fase pre-arresto
+				- sottoslivellamento st di almeno 1mm in piano frontale, 2mm in precordiali, downcloping orizzontale non upsloping ascendente
+	- aprire coronaria occlusa endoscopicamente
+		- accesso venoso
+		- valutazione ecg
+		- catetere in femorale o radiale
+		- guida nell'aorta
+		- seguo guida per mettere catetere
+		- angiografia per occlusione
+		- angioplastica: supero lesione on catetere, gonfio pallone per schiacciare placca, stente rete metallica: aprire arteria
+	- rimodellamento post infartuale
+		- alterata ripolarizzazione con qrs slargato > 0.12 s e complessi qs in sede settale

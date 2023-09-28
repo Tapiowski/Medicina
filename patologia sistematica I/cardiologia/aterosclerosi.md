@@ -25,6 +25,7 @@
 				- +spesso +innocuo
 				- sottile: placca corrode e ldl a sangue: fattori coagulazione: trombo, ostruzione
 				- stabilizzare placca: [[statine]]
+	- [[aterosclerosi coronarica]]
 - ## epidemiologia
 	- prima causa ospedalizzazione e mortalita in europa
 	- prima causa morte nel mondo

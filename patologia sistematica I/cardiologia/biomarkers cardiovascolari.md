@@ -1,7 +1,18 @@
-[[troponina]]: [[cardiopatia ischemica]]
-[[d-dimero]]: [[embolia polmonare]]
-[[pro-lpl]]: [[scompenso cardiaco]]
+- [[troponina]]: [[cardiopatia ischemica]]
+	- [[troponina i]], [[troponina t]]
+		- alterate per settimane, piu attendibile, anche in infarti limitati < 1 g
+		- aumentano in aritmie, cardiomiopatie, shock, ipotensione, insuff respiratoria, anemia, ipertensione, spasmo, embolia coronaria, miocardite, chirurgia, stress, sepsi, insuff renale, malattie neurologiche acute, stress fisico
+		- valutazione qualitativa: tipo danno base incremento decremento
+		- val quantitativa: + valore + probabile infarto
+		- [[NSTEMI]] primo dosaggio
+			- 3-5X normale: diagnosi infarto
+			- lieve elevato, rivalutare in 3 h
+			- normale/dolore > 6 h, escludere infarto
+			- normale/dolore < 6 h rivalutare in 3 h
+- [[d-dimero]]: [[embolia polmonare]]
+- [[pro-lpl]]: [[scompenso cardiaco]]
 - [[ck-mb]]
 - [[mioglobina]]
 - [[lattico deidrogenasi]]
 - [[cpk]]
+- non aspettare il laboratorio per il trattamento

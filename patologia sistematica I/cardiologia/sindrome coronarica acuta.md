@@ -1,3 +1,4 @@
+- [[coronaropatia]]
 - ischemia miocardica secondaria a riduzione acuta di flusso coronarico
 - ## classificazione
 	- ### [[angina instabile]] tessuto non rilascia troponina

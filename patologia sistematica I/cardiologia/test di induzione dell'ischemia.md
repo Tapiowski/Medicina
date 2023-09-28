@@ -1,0 +1,11 @@
+- test postitivo in malato: vero positivo
+- falso positivo o negativo, accuratezza diagnostica = somma veri p n / test
+	- sensibilita: %malati con test positivo, specificita % sani con negativo
+- ecocardiografia da stress, [[ecostress]]
+	- [[dobutamina]] stimola esercizio fisico, [[dipiridamolo]] vasodilata
+- [[scintigrafia]] miocardica di perfusione, [[spect]]
+	- sforzo o farmaco
+	- no difetti perfusione
+	- difetto sotto sforzo e a riposo: ipoperfusione necrosi
+	- deficit reversibile: sforzo deficit, riposo omogeneo
+- [[test ergometrico]]

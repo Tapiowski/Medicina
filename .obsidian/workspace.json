@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiopatia ischemica.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiopatia ischemica.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiopatia ischemica.md"
+                "file": "patologia sistematica I/pneumologia/pneumologia.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiopatia ischemica.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/cardiologia/cardiopatia ischemica.md",
+                "file": "patologia sistematica I/pneumologia/pneumologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,35 +219,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05efa9f8ddafa8b6",
+  "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
-    "patologia sistematica I/pneumologia/ltot.md",
-    "patologia sistematica I/cardiologia/cardiopatia ischemica.md",
-    "patologia sistematica I/cardiologia/cardiologia.md",
     "patologia sistematica I/patologia sistematica I.md",
-    "chirurgia/chirurgia vascolare/alcolizzazione del setto.md",
-    "patologia sistematica I/cardiologia/cardiomiopatia ipertrofica primaria.md",
-    "patologia/0/cardiomiopatia.md",
-    "chirurgia/chirurgia vascolare/miectomia chirurgica.md",
-    "farmacologia/cardiovascolare/farmaci calcio antagonisti.md",
-    "patologia sistematica I/cardiologia/angina pectoris.md",
-    "chirurgia/chirurgia toracica/chirurgia toracica.md",
-    "chirurgia/chirurgia.md",
-    "chirurgia/chirurgia toracica",
-    "chirurgia/chirurgia vascolare/chirurgia vascolare.md",
-    "patologia sistematica I/pneumologia/bpco.md",
-    "patologia sistematica I/pneumologia/enfisema polmonare.md",
-    "patologia sistematica I/pneumologia/dispnea.md",
-    "patologia sistematica I/pneumologia/enfisematoso.md",
-    "patologia sistematica I/pneumologia/insufficienza respiratoria.md",
-    "patologia sistematica I/pneumologia/insufficienza respiratoria acuta.md",
-    "patologia sistematica I/pneumologia/copd eosinofilica.md",
-    "farmacologia/nervoso/corticosteroidi.md",
-    "farmacologia/0/ics.md",
-    "farmacologia/0/corticosteroidi inalatori.md",
+    "patologia sistematica I/pneumologia/pneumologia.md",
+    "patologia sistematica I/pneumologia/broncoscopia.md",
+    "patologia sistematica I/cardiologia/cardiologia.md",
+    "patologia sistematica I/cardiologia/sincope.md",
+    "patologia sistematica I/cardiologia/sindrome aortica acuta.md",
     "patologia sistematica I/cardiologia/aritmie.md",
-    "patologia sistematica I/cardiologia/apparato cardiovascolare.md",
+    "patologia sistematica I/cardiologia/terapie elettriche.md",
+    "farmacologia/cardiovascolare/farmaci anticoagulanti.md",
+    "farmacologia/cardiovascolare/farmaci antiaritmici.md",
+    "patologia sistematica I/cardiologia/classificazione KILLIP.md",
+    "patologia sistematica I/cardiologia/classificazione di svensson.md",
+    "patologia sistematica I/cardiologia/cardiopatia ischemica.md",
     "patologia sistematica I/cardiologia/sindrome coronarica acuta.md",
+    "patologia sistematica I/cardiologia/STEMI.md",
+    "patologia sistematica I/cardiologia/NSTEMI.md",
+    "patologia sistematica I/cardiologia/infarto miocardico.md",
+    "patologia sistematica I/cardiologia/biomarkers cardiovascolari.md",
+    "patologia sistematica I/cardiologia/aneurisma.md",
+    "patologia sistematica I/cardiologia/aneurisma falso.md",
+    "patologia sistematica I/cardiologia/aneurisma vero.md",
+    "patologia sistematica I/cardiologia/infarto miocardico spontaneo.md",
+    "patologia sistematica I/cardiologia/morte cardiaca improvvisa.md",
+    "patologia sistematica I/cardiologia/aterosclerosi.md",
+    "patologia sistematica I/cardiologia/angina instabile.md",
+    "patologia sistematica I/cardiologia/aterosclerosi coronarica.md",
+    "chirurgia/chirurgia toracica",
     "polso tibiale ant",
     "100 files/Untitled drawing(2).svg",
     "100 files/Untitled drawing.svg",

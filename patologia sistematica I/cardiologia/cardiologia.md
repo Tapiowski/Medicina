@@ -3,10 +3,6 @@
 - ### [[elettrocardiografia]]
 - ### [[semeiotica cardiovascolare]]
 
-- ### [[patologie coronarie]]
-- ### [[anomalie cardiache congenite]]
-- ### [[embolia polmonare acuta]]
-
 - ### [[cardiopatia ischemica]]
 - ### [[sindrome aortica acuta]]
 - ### [[aritmie]]
@@ -24,6 +20,7 @@
 - ### [[scompenso cardiaco]]
 - ### [[valvulopatie]]
 - ### [[cardiopatie congenite]]
+- ### [[anomalie cardiache congenite]]
 
 - ### [[farmaci cardiologici]]
 - ### [[rianimazione cardiopolmonare]]

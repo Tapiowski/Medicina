@@ -43,3 +43,9 @@
 		- diabete: th [[ipoglicemizzanti]], dieta
 		- ipertensione: farmaci [[farmaci anti-ipertensivi]] [[ace inibitori]]
 		- obesita/sedentarieta: esercizio, dieta
+- ## sintomi
+	- [[dolore toracico]] > 20 m retrosternale, irradiato a braccio sin, mandibola
+	- [[dispnea]]
+	- [[sincope]]
+	- aspecifici [[astenia]] malessere anziano
+	- complicanze

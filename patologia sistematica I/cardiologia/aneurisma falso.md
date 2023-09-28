@@ -1,0 +1,1 @@
+sangue da arteria, confinato in parete arteria

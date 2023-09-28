@@ -21,11 +21,10 @@
 			- patologici se vengono meno
 	- ### rapporti
 		- nv vago tra carotide e succlavia, circonda arco aortico con nv laringeo ricorrente, nv frenico con pericardio a sx dx
-- ## classificazione
-	- di [[svensson]]
-		- ### [[dissecazione aortica]]
-		- ### [[ematoma intramurale]]
-		- ### [[ulcera penetrante]]
+- ## [[classificazione di svensson]]
+	- ### [[dissecazione aortica]]
+	- ### [[ematoma intramurale]]
+	- ### [[ulcera penetrante]]
 - ## patologia
 	- dolore, origine aortica, ipertensione
 	- comune eziopatogenesi

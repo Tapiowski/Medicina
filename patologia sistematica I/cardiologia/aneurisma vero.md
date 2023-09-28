@@ -1,0 +1,3 @@
+- ### [[aneurisma fusiforme]]
+- ### [[aneurisma sacciforme]]
+- ### [[aneurisma dissecante]]

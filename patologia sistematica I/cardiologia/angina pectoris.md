@@ -55,29 +55,17 @@
 		- [[transaminasi]]
 		- [[cpk]]
 		- [[emogasanalisi]]: [[ipossemia]]
-	- [[ECG]]
 	- confermare sospetto = [[test di induzione dell'ischemia]]
-		- test postitivo in malato: vero positivo
-		- falso positivo o negativo, accuratezza diagnostica = somma veri p n / test
-			- sensibilita: %malati con test positivo, specificita % sani con negativo
-		- th di bayes
-			- probabilita pre-test: se <15% no test
-				- tipo angina tipica o atipica o non anginoso
-				- sesso
-				- eta
 - ## iter diagnostico
 	- calcolare probabilita pre-test
+		- th di bayes
+			- probabilita pre-test: se <15% no test
+			- tipo angina tipica o atipica o non anginoso
+			- sesso
+			- eta
 	- test non invasivi per confermare diagnosi: inducenti ischemia
-		- ecocardiografia da stress, [[ecostress]]
-			- [[dobutamina]] stimola esercizio fisico, [[dipiridamolo]] vasodilata
-		- [[scintigrafia]] miocardica di perfusione, [[spect]]
-			- sforzo o farmaco
-			- no difetti perfusione
-			- difetto sotto sforzo e a riposo: ipoperfusione necrosi
-			- deficit reversibile: sforzo deficit, riposo omogeneo
-		- [[test ergometrico]]
-		- [[angioTC]]
-			- anatomia coronarica se test sotto stress non conclusivi
+	- [[angioTC]]
+	- anatomia coronarica se test sotto stress non conclusivi
 	- th medica ottimale
 	- stratificare rischio
 	- [[coronarografia]]
