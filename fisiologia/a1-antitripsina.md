@@ -1,1 +1,1 @@
-blkocco enzima lisosomiale tra cui [[elastasi]]
+blocco enzima lisosomiale tra cui [[elastasi]]

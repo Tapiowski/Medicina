@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/pneumologia/pneumologia.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia sistematica I/pneumologia/pneumologia.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/pneumologia/pneumologia.md"
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/pneumologia/pneumologia.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/pneumologia/pneumologia.md",
+                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,32 +221,32 @@
   },
   "active": "1aec9aaf59f76ac0",
   "lastOpenFiles": [
-    "patologia sistematica I/patologia sistematica I.md",
+    "patologia/0/fibrosi cistica.md",
+    "patologia sistematica I/pneumologia/enfisema polmonare.md",
+    "fisiologia/a1-antitripsina.md",
+    "patologia sistematica I/pneumologia/vems.md",
     "patologia sistematica I/pneumologia/pneumologia.md",
+    "patologia sistematica I/pneumologia/asma.md",
+    "patologia sistematica I/pneumologia/enfisema polmonare acuto.md",
+    "patologia sistematica I/pneumologia/pneumopatia interstiziale diffusa.md",
+    "patologia/0/fibrosi polmonare.md",
+    "patologia sistematica I/pneumologia/ipf.md",
+    "patologia sistematica I/pneumologia/fibrosi polmonare idiopatica.md",
+    "patologia sistematica I/pneumologia/ipertensione polmonare.md",
+    "patologia sistematica I/pneumologia/PAPm.md",
     "patologia sistematica I/pneumologia/broncoscopia.md",
-    "patologia sistematica I/cardiologia/cardiologia.md",
-    "patologia sistematica I/cardiologia/sincope.md",
-    "patologia sistematica I/cardiologia/sindrome aortica acuta.md",
-    "patologia sistematica I/cardiologia/aritmie.md",
-    "patologia sistematica I/cardiologia/terapie elettriche.md",
-    "farmacologia/cardiovascolare/farmaci anticoagulanti.md",
-    "farmacologia/cardiovascolare/farmaci antiaritmici.md",
-    "patologia sistematica I/cardiologia/classificazione KILLIP.md",
-    "patologia sistematica I/cardiologia/classificazione di svensson.md",
-    "patologia sistematica I/cardiologia/cardiopatia ischemica.md",
-    "patologia sistematica I/cardiologia/sindrome coronarica acuta.md",
-    "patologia sistematica I/cardiologia/STEMI.md",
-    "patologia sistematica I/cardiologia/NSTEMI.md",
-    "patologia sistematica I/cardiologia/infarto miocardico.md",
-    "patologia sistematica I/cardiologia/biomarkers cardiovascolari.md",
-    "patologia sistematica I/cardiologia/aneurisma.md",
-    "patologia sistematica I/cardiologia/aneurisma falso.md",
-    "patologia sistematica I/cardiologia/aneurisma vero.md",
-    "patologia sistematica I/cardiologia/infarto miocardico spontaneo.md",
-    "patologia sistematica I/cardiologia/morte cardiaca improvvisa.md",
-    "patologia sistematica I/cardiologia/aterosclerosi.md",
-    "patologia sistematica I/cardiologia/angina instabile.md",
-    "patologia sistematica I/cardiologia/aterosclerosi coronarica.md",
+    "patologia sistematica I/pneumologia/polmonite.md",
+    "patologia sistematica I/pneumologia/polmonite comunitaria.md",
+    "patologia sistematica I/pneumologia/bronchite cronica.md",
+    "patologia sistematica I/pneumologia/bpco.md",
+    "farmacologia/0/ics.md",
+    "patologia sistematica I/pneumologia/farmaci broncodilatatori.md",
+    "fisiologia/farmaci beta-2 agonisti.md",
+    "fisiologia/recettori beta-2.md",
+    "patologia sistematica I/pneumologia/sama.md",
+    "patologia sistematica I/pneumologia/laba.md",
+    "patologia sistematica I/pneumologia/saba.md",
+    "farmacologia/0/farmaci anti-muscarinici.md",
     "chirurgia/chirurgia toracica",
     "polso tibiale ant",
     "100 files/Untitled drawing(2).svg",
