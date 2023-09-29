@@ -10,7 +10,7 @@
 			- pausa lunga il doppio della distanza tra due P precedenti
 	- ### blocco di  3 grado
 		- ecg di superficie: assenza onde P per lungo tratto
-		- pausa non multipla, mancano onde P: asistolia, pacemaker
+		- pausa non multipla, mancano onde P: [[asistolia]], [[pacemaker]]
 	- nodo AV depolarizza piu frequentemente altrimenti
 		- nodo AV 40-50 bpm
 		- fascio di his 40 bpm

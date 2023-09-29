@@ -90,8 +90,21 @@
               }
             },
             "group": "a7dec35695fe04e4"
+          },
+          {
+            "id": "7686e71b7eae0208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/pneumologia/pneumologia.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/pneumologia/pneumologia.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/pneumologia/pneumologia.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,10 +232,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05efa9f8ddafa8b6",
+  "active": "7686e71b7eae0208",
   "lastOpenFiles": [
-    "patologia sistematica I/pneumologia/mesotelioma pleurico.md",
     "patologia sistematica I/pneumologia/pneumologia.md",
+    "conflict-files-obsidian-git.md",
+    "patologia sistematica I/pneumologia/sama.md",
+    "patologia sistematica I/pneumologia/saba.md",
+    "patologia sistematica I/pneumologia/lama.md",
+    "patologia sistematica I/pneumologia/laba.md",
+    "patologia sistematica I/pneumologia/enfisema polmonare acuto.md",
+    "patologia sistematica I/pneumologia/mesotelioma pleurico.md",
     "patologia sistematica I/patologia sistematica I.md",
     "patologia sistematica I/pneumologia/broncoscopia.md",
     "patologia sistematica I/cardiologia/cardiologia.md",
@@ -241,12 +260,6 @@
     "patologia sistematica I/cardiologia/infarto miocardico.md",
     "patologia sistematica I/cardiologia/biomarkers cardiovascolari.md",
     "patologia sistematica I/cardiologia/aneurisma.md",
-    "patologia sistematica I/cardiologia/aneurisma falso.md",
-    "patologia sistematica I/cardiologia/aneurisma vero.md",
-    "patologia sistematica I/cardiologia/infarto miocardico spontaneo.md",
-    "patologia sistematica I/cardiologia/morte cardiaca improvvisa.md",
-    "patologia sistematica I/cardiologia/aterosclerosi.md",
-    "patologia sistematica I/cardiologia/angina instabile.md",
     "chirurgia/chirurgia toracica",
     "polso tibiale ant",
     "100 files/Untitled drawing(2).svg",
