@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia/pneumologia/semeiotica pneumologica.md",
+                "file": "patologia/pneumologia/pneumologia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "patologia/pneumologia/semeiotica pneumologica.md"
+                        "file": "patologia/pneumologia/pneumologia.md"
                       }
                     },
                     "group": "ed412e0d4b0d543f"
@@ -58,7 +58,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "patologia/pneumologia/semeiotica pneumologica.md",
+                        "file": "patologia/pneumologia/pneumologia.md",
                         "collapseAll": true,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "patologia/pneumologia/semeiotica pneumologica.md",
+                    "file": "patologia/pneumologia/pneumologia.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/pneumologia/semeiotica pneumologica.md",
+                "file": "patologia/pneumologia/pneumologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/pneumologia/semeiotica pneumologica.md",
+                "file": "patologia/pneumologia/pneumologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia/pneumologia/semeiotica pneumologica.md"
+                "file": "patologia/pneumologia/pneumologia.md"
               }
             }
           }
@@ -247,31 +247,31 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
+    "patologia/pneumologia/cancro polmone.md",
+    "patologia/0/adenocarcinoma.md",
+    "patologia/pneumologia/cancro a piccole cc.md",
+    "patologia/pneumologia/cancro a grandi cc.md",
     "patologia/pneumologia/pneumologia.md",
+    "patologia/pneumologia/enfisema polmonare.md",
+    "patologia/pneumologia/bpco.md",
+    "patologia/pneumologia/bronchite cronica.md",
+    "patologia/pneumologia/blue bloater.md",
+    "patologia/pneumologia/enfisema paracicatriziale.md",
+    "patologia/pneumologia/enfisema parasettale.md",
+    "patologia/pneumologia/enfisema panlobulare.md",
+    "patologia/pneumologia/enfisema centrolobulare.md",
+    "fisiologia/a1-antitripsina.md",
+    "fisiologia/a1-globulina.md",
+    "patologia/pneumologia/fumo di tabacco.md",
+    "farmacologia/antibiotici/antibiotico terapia.md",
+    "patologia/pneumologia/vie aeree.md",
+    "patologia/pneumologia/NIV.md",
+    "patologia/pneumologia/ventilazione meccanica non invasiva.md",
+    "patologia/pneumologia/insufficienza respiratoria acuta.md",
+    "patologia/pneumologia/asma.md",
     "patologia/patologia sistematica I.md",
-    "patologia/cardiologia/cardiologia.md",
-    "patologia/cardiologia/cardiopatia ischemica.md",
-    "patologia/cardiologia/rianimazione cardiopolmonare.md",
-    "patologia/cardiologia/defibrillatore semi-automatico esterno.md",
-    "patologia/cardiologia/classificazione funzionale NYHA.md",
-    "patologia/cardiologia/rcp.md",
-    "patologia/cardiologia/farmaci cardiologici.md",
-    "patologia/cardiologia/farmaci antitrombotici.md",
-    "chirurgia/chirurgia vascolare/trombosi.md",
-    "farmacologia/cardiovascolare/digitale.md",
-    "farmacologia/cardiovascolare/farmaci antiaritmici.md",
-    "farmacologia/cardiovascolare/antiaritmici cationico-amfifilici.md",
-    "farmacologia/cardiovascolare/farmaci anti-anginosi.md",
-    "patologia/cardiologia/anomalie cardiache congenite.md",
-    "patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
-    "patologia/cardiologia/displasia ventricolare.md",
-    "patologia/cardiologia/sindrome qt lungo.md",
-    "patologia/cardiologia/sindrome di brugada.md",
-    "patologia/cardiologia/cardiopatie congenite.md",
-    "patologia/cardiologia/valvulopatie.md",
-    "patologia/cardiologia/transposizione grossi vasi.md",
-    "patologia/cardiologia/anomalia di ebstein.md",
-    "patologia/cardiologia/tetralogia di fallot.md",
-    "patologia/cardiologia/coartazione aortica.md"
+    "templates/lista 3.md",
+    "templates/patologia sistematica.md",
+    "templates/lista 2.md"
   ]
 }
