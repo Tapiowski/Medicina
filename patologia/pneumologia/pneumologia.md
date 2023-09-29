@@ -4,7 +4,7 @@
 - ### [[bronchite cronica]]
 - ### [[enfisema polmonare]]
 ### [[cancro polmone]]
-- ### [[embolia polmonare]]
+### [[embolia polmonare]]
 - ### [[tubercolosi]]
 - ### [[polmonite]]
 - ### [[mesotelioma pleurico]]
