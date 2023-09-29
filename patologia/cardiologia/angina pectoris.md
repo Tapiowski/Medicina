@@ -40,7 +40,7 @@
 - ## diagnosi
 	- [[rx torace]]
 		- se esame obiettivo con segni [[scompenso cardiaco]]: crepitii alle basi, edemi declivi, dispnea
-	- [[ecg]]
+	- [[ECG]]
 		- normale: anche in aterosclerosi coronarica e dolore toracico sotto sforzo
 		- alterato: [[ipertrofia venticolare]] sx per [[infarto miocardio]] pregresso, sottoslivellamento st che poi normale = [[ischemia subendocardica]]
 		- morfologia, funzione cuore, esclude casue angina

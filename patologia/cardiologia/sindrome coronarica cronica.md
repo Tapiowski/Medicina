@@ -8,7 +8,7 @@
 	- spasmo coronarico da + tensione parietale, donne, giovani
 	- a riposo
 	- [[aterosclerosi coronarica]] ostruttiva possibile
-	- [[sopraslivellamento st]] per [[ischemia]] transmurale
+	- [[sopraslivellamento ST]] per [[ischemia]] transmurale
 	- prognosi favorevole th con [[farmaci vasodilatatori]]
 - ## epidemiologia
 	- esordio cardiopatia ischemica in 50% casi, aumenta con eta rischio cardiovascolare

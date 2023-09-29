@@ -6,92 +6,144 @@
       {
         "id": "90031d7e25540a77",
         "type": "tabs",
+        "dimension": 64.7313691507799,
         "children": [
           {
             "id": "1aec9aaf59f76ac0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
+                "file": "patologia/cardiologia/apparato cardiovascolare.md",
                 "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e498b8fa2a0ca457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "patologia/pneumologia/embolia polmonare.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             },
-            "group": "a7dec35695fe04e4"
+            "group": "c2f9f2ad1c8782c2"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "2e029162c08fcd72",
-        "type": "tabs",
+        "id": "7177d0f091ad2d94",
+        "type": "split",
+        "dimension": 35.26863084922011,
         "children": [
           {
-            "id": "05efa9f8ddafa8b6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:farmacologia ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5407200
-                      }
-                    },
-                    {
-                      "query": "path:\"patologia sistematica I/cardiologia\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:\"patologia sistematica I/pneumologia\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14731602
-                      }
-                    },
-                    {
-                      "query": "path:chirurgia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431378
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.442708333333333,
-                  "repelStrength": 13.4375,
-                  "linkStrength": 1,
-                  "linkDistance": 209,
-                  "scale": 0.6666666666666666,
-                  "close": true
+            "id": "aeae40e3ff5ed355",
+            "type": "tabs",
+            "dimension": 48.95688456189152,
+            "children": [
+              {
+                "id": "d080193d286299d5",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
                 }
               }
-            },
-            "group": "a7dec35695fe04e4"
+            ]
+          },
+          {
+            "id": "a127289fa07123d7",
+            "type": "tabs",
+            "dimension": 51.04311543810849,
+            "children": [
+              {
+                "id": "05efa9f8ddafa8b6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "patologia/pneumologia/embolia polmonare.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:farmacologia ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5407200
+                          }
+                        },
+                        {
+                          "query": "path:patologia/cardiologia  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14701138
+                          }
+                        },
+                        {
+                          "query": "path:patologia/pneumologia  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14731602
+                          }
+                        },
+                        {
+                          "query": "path:chirurgia  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 5431378
+                          }
+                        },
+                        {
+                          "query": "path:patologia/0  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.442708333333333,
+                      "repelStrength": 13.4375,
+                      "linkStrength": 1,
+                      "linkDistance": 209,
+                      "scale": 0.6666666666666679,
+                      "close": true
+                    }
+                  },
+                  "pinned": true
+                },
+                "group": "c2f9f2ad1c8782c2"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -168,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md"
+                "file": "patologia/pneumologia/embolia polmonare.md"
               }
             }
           },
@@ -178,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
+                "file": "patologia/pneumologia/embolia polmonare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia sistematica I/pneumologia/enfisema polmonare.md",
+                "file": "patologia/pneumologia/embolia polmonare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,34 +271,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1aec9aaf59f76ac0",
+  "active": "e498b8fa2a0ca457",
   "lastOpenFiles": [
+    "morte improvvia.md",
+    "patologia/pneumologia/embolia polmonare.md",
+    "patologia/cardiologia/stasi venosa.md",
+    "patologia/pneumologia/pneumologia.md",
+    "patologia/patologia sistematica I.md",
+    "patologia/0/adenocarcinoma.md",
+    "patologia/pneumologia/cancro polmone.md",
+    "patologia/0",
+    "farmacologia/cardiovascolare/farmaci beta-bloccanti.md",
+    "patologia/pneumologia/insufficienza respiratoria cronica.md",
+    "patologia/cardiologia/sincope.md",
+    "patologia/cardiologia/massaggio seno carotideo.md",
+    "patologia/cardiologia/cardiologia.md",
+    "patologia/cardiologia/aritmie.md",
+    "fisiologia/ritmo cardiaco.md",
+    "patologia/cardiologia/scompenso cardiaco.md",
+    "patologia/cardiologia/scompenso cardiaco acuto.md",
+    "patologia/cardiologia/aneurisma.md",
+    "anatomia/0/arterie.md",
+    "patologia/cardiologia/bradiaritmia.md",
+    "patologia/cardiologia/malattie reumatiche cardiologiche.md",
+    "patologia/cardiologia/cardiomiopatia.md",
+    "patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
+    "patologia/cardiologia/apparato cardiovascolare.md",
+    "patologia/pneumologia/enfisema polmonare.md",
     "patologia/0/fibrosi cistica.md",
-    "patologia sistematica I/pneumologia/enfisema polmonare.md",
     "fisiologia/a1-antitripsina.md",
-    "patologia sistematica I/pneumologia/vems.md",
-    "patologia sistematica I/pneumologia/pneumologia.md",
-    "patologia sistematica I/pneumologia/asma.md",
-    "patologia sistematica I/pneumologia/enfisema polmonare acuto.md",
-    "patologia sistematica I/pneumologia/pneumopatia interstiziale diffusa.md",
-    "patologia/0/fibrosi polmonare.md",
-    "patologia sistematica I/pneumologia/ipf.md",
-    "patologia sistematica I/pneumologia/fibrosi polmonare idiopatica.md",
-    "patologia sistematica I/pneumologia/ipertensione polmonare.md",
-    "patologia sistematica I/pneumologia/PAPm.md",
-    "patologia sistematica I/pneumologia/broncoscopia.md",
-    "patologia sistematica I/pneumologia/polmonite.md",
-    "patologia sistematica I/pneumologia/polmonite comunitaria.md",
-    "patologia sistematica I/pneumologia/bronchite cronica.md",
-    "patologia sistematica I/pneumologia/bpco.md",
-    "farmacologia/0/ics.md",
-    "patologia sistematica I/pneumologia/farmaci broncodilatatori.md",
-    "fisiologia/farmaci beta-2 agonisti.md",
-    "fisiologia/recettori beta-2.md",
-    "patologia sistematica I/pneumologia/sama.md",
-    "patologia sistematica I/pneumologia/laba.md",
-    "patologia sistematica I/pneumologia/saba.md",
-    "farmacologia/0/farmaci anti-muscarinici.md",
     "chirurgia/chirurgia toracica",
     "polso tibiale ant",
     "100 files/Untitled drawing(2).svg",
@@ -256,7 +309,7 @@
     "Untitled 1",
     "100 files/Pasted image 20230207104525.png",
     "100 files/Lungvolumes.svg",
-    "patologia sistematica I/pneumologia",
+    "patologia/pneumologia",
     "chirurgia/0",
     "chirurgia/chirurgia vascolare",
     "antagonisti gpiiib",

@@ -187,7 +187,7 @@
 	- identificare causa [[scompenso cardiaco acuto]]
 		- CHAMP
 			- C [[infarto miocardico]]
-				- [[ecg]] e esame obiettivo
+				- [[ECG]] e esame obiettivo
 			- H [[emergenza ipertensiva]]
 				- misurare pressione
 			- A [[aritmia]]

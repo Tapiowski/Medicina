@@ -1,4 +1,12 @@
 {
-  "accentColor": "#f29f05",
-  "baseFontSize": 15
+  "accentColor": "#000000",
+  "baseFontSize": 18,
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Roboto",
+  "textFontFamily": "Roboto",
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": true
 }

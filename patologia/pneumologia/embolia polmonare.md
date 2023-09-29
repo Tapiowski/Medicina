@@ -70,7 +70,7 @@
 			- migrazione cronica emboli
 	- [[ep]]
 		- da diametro a colpita
-			- [[morte improvvia]] se a cavallo su rami principali [[a polmonare]]
+			- [[morte cardiaca improvvisa]] se a cavallo su rami principali [[a polmonare]]
 		- embolie polmonari periferiche multiple
 		- favorita da post operatorio, allattamento, th intensiva, neoplasie, gravidanza: utero gravidico comprime vena cava inf: trombofilia, familiarita, estro pogestinici
 	- [[ipossiemia]], [[insufficienza respiratoria]]

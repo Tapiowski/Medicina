@@ -172,7 +172,7 @@
 		- ant, irradiato a spalla sin, epigastio, spalle, interscapolare
 		- pesante, bruciante, costringente: lacerante
 		- persistente, non mitiga, fisso: trafittivo, pugnalata, lacernate, migrante da migrazione dissecazione, ripercorre decorso dissecazione
-		- associato a [[ipotensione]], [[ecg]], [[enzimi cardiaci]]: [[soffio sistolico]]
+		- associato a [[ipotensione]], [[ECG]], [[enzimi cardiaci]]: [[soffio sistolico]]
 	- pressione
 		- nromale perche [[crisi ipertensiva]] gia effettuato danno e massa ematica gia in [[falso lume]]
 		- ipertensione 180-200 mmhg anche mezz;ora prima

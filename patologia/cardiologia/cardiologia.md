@@ -1,4 +1,3 @@
-# MED/11
 - ### [[apparato cardiovascolare]]
 - ### [[elettrocardiografia]]
 - ### [[semeiotica cardiovascolare]]
@@ -25,4 +24,4 @@
 - ### [[farmaci cardiologici]]
 - ### [[rianimazione cardiopolmonare]]
 
-prof. guido parodi, gparodi@uniss.it, [[cardiopatie]]
+prof. guido parodi, gparodi@uniss.it, [[cardiopatie]], MED/11

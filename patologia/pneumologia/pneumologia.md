@@ -1,4 +1,3 @@
-# MED/10
 - ### [[semeiotica pneumologica]]
 - ### [[asma]]
 
@@ -20,4 +19,4 @@
 
 - ### [[covid-19]]
 
-prof Pirina
+prof Pirina, MED/10

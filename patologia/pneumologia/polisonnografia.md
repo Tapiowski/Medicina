@@ -1,7 +1,7 @@
 - valuta
 	- [[flusso nasale]]
 	- [[saturimetria]]
-	- [[ecg]]
+	- [[ECG]]
 	- movimenti oculari
 	- attivita limbica
 - a casa o ospedale
