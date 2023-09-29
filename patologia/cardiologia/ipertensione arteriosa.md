@@ -82,7 +82,7 @@
 	- clinica strumentale
 		- + 2 tono, spostamento a sin itto punta
 		- in stenosi a renale: soffio paraombelicale rilevabile
-	- elettrocardiografia
+	- [[elettrocardiografia]]
 		- ipertrofia ventricolare sx: + spessore ventricolo, ipertrofia, dilatazione atrio, ectasia radice aortica, disfunzione diastolica, sistolica ventricolo sx: adattamenti cardiaci a ipertensione
 - ## diagnosi
 	- confermare stato ipertensione arteriosa

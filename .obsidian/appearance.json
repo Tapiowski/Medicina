@@ -2,7 +2,7 @@
   "accentColor": "#000000",
   "baseFontSize": 18,
   "theme": "moonstone",
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "interfaceFontFamily": "Roboto",
   "textFontFamily": "Roboto",
   "baseFontSizeAction": true,
