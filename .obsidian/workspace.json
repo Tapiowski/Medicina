@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia/cardiologia/scompenso cardiaco acuto.md",
+                "file": "patologia/pneumologia/semeiotica pneumologica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "patologia/cardiologia/scompenso cardiaco acuto.md"
+                        "file": "patologia/pneumologia/semeiotica pneumologica.md"
                       }
                     },
                     "group": "ed412e0d4b0d543f"
@@ -58,7 +58,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "patologia/cardiologia/scompenso cardiaco acuto.md",
+                        "file": "patologia/pneumologia/semeiotica pneumologica.md",
                         "collapseAll": true,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "patologia/cardiologia/scompenso cardiaco acuto.md",
+                    "file": "patologia/pneumologia/semeiotica pneumologica.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/cardiologia/scompenso cardiaco acuto.md",
+                "file": "patologia/pneumologia/semeiotica pneumologica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/cardiologia/scompenso cardiaco acuto.md",
+                "file": "patologia/pneumologia/semeiotica pneumologica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia/cardiologia/scompenso cardiaco acuto.md"
+                "file": "patologia/pneumologia/semeiotica pneumologica.md"
               }
             }
           }
@@ -247,31 +247,31 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "patologia/cardiologia/scompenso cardiaco.md",
-    "patologia/cardiologia/scompenso cardiaco cronico.md",
-    "classificazione funzionale NYHA.md",
-    "patologia/0/insufficienza ventricolare sinistra.md",
-    "patologia/cardiologia/insufficienza cardiaca congestizia.md",
-    "patologia/cardiologia/scompenso cardiaco acuto.md",
-    "patologia/0/insufficienza cardiaca acuta.md",
-    "patologia/0/insufficienza cardiaca cronica.md",
+    "patologia/pneumologia/pneumologia.md",
+    "patologia/patologia sistematica I.md",
     "patologia/cardiologia/cardiologia.md",
-    "patologia/cardiologia/miocardite.md",
-    "patologia/cardiologia/miocardite fulminante.md",
-    "patologia/cardiologia/sindromi pericardiche.md",
-    "patologia/cardiologia/apparato cardiovascolare.md",
-    "patologia/cardiologia/pericardite costrittiva.md",
-    "patologia/cardiologia/tamponamento cardiaco.md",
-    "patologia/cardiologia/shock cardiogeno.md",
-    "patologia/cardiologia/versamento pericardico.md",
-    "patologia/cardiologia/pericardite.md",
-    "patologia/cardiologia/pericardite cronica.md",
-    "patologia/cardiologia/pericardite ricorrente.md",
-    "patologia/cardiologia/pericardite incessante.md",
-    "patologia/cardiologia/pericardite acuta.md",
-    "patologia/cardiologia/malattie reumatiche cardiologiche.md",
-    "patologia/0/arf.md",
-    "patologia/cardiologia/endocardite infettiva.md",
-    "fisiologia/legge di poiseuille.md"
+    "patologia/cardiologia/cardiopatia ischemica.md",
+    "patologia/cardiologia/rianimazione cardiopolmonare.md",
+    "patologia/cardiologia/defibrillatore semi-automatico esterno.md",
+    "patologia/cardiologia/classificazione funzionale NYHA.md",
+    "patologia/cardiologia/rcp.md",
+    "patologia/cardiologia/farmaci cardiologici.md",
+    "patologia/cardiologia/farmaci antitrombotici.md",
+    "chirurgia/chirurgia vascolare/trombosi.md",
+    "farmacologia/cardiovascolare/digitale.md",
+    "farmacologia/cardiovascolare/farmaci antiaritmici.md",
+    "farmacologia/cardiovascolare/antiaritmici cationico-amfifilici.md",
+    "farmacologia/cardiovascolare/farmaci anti-anginosi.md",
+    "patologia/cardiologia/anomalie cardiache congenite.md",
+    "patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
+    "patologia/cardiologia/displasia ventricolare.md",
+    "patologia/cardiologia/sindrome qt lungo.md",
+    "patologia/cardiologia/sindrome di brugada.md",
+    "patologia/cardiologia/cardiopatie congenite.md",
+    "patologia/cardiologia/valvulopatie.md",
+    "patologia/cardiologia/transposizione grossi vasi.md",
+    "patologia/cardiologia/anomalia di ebstein.md",
+    "patologia/cardiologia/tetralogia di fallot.md",
+    "patologia/cardiologia/coartazione aortica.md"
   ]
 }

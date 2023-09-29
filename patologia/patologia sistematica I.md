@@ -1,6 +1,6 @@
-- ## [[cardiologia]]
-- ## [[pneumologia]]
-- ## [[chirurgia vascolare]] -
-- ## [[chirurgia toracica]] -
+## [[cardiologia]]
+## [[pneumologia]]
+## [[chirurgia vascolare]] -
+## [[chirurgia toracica]] -
 
 B-444

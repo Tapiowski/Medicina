@@ -1,4 +1,4 @@
-- ### [[semeiotica pneumologica]]
+### [[semeiotica pneumologica]]
 - ### [[asma]]
 - ### [[bpco]]
 	- ### [[bronchite cronica]]

@@ -1,3 +1,4 @@
+## definzione
 - [[transposizione grosse arterie]]
 - connessione discordante tra ventricoli e grandi arterie
 - trasposizione semplice
@@ -7,7 +8,8 @@
 	- vasi in parallelo con circolazione polmonare e sistemica
 		- sangue ossigenato va a polmoni e deossigenato circola
 - shunt necessario per sangue ossigenato a circolazione sistemica
-- ## trattamento
-	- primi mesi di vita
-		- [[intervento di switch]]
-			- scambiare aorta e polmonare
+
+## terapia
+- primi mesi di vita
+	- [[intervento di switch]]
+		- scambiare aorta e polmonare

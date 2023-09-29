@@ -1,2 +1,3 @@
 - valvola non chiude bene lembi non coartano: [[reflusso]] in orifizio valvolare
 - ### [[insufficienza mitralica]]
+- ### [[insufficienza aortica]]

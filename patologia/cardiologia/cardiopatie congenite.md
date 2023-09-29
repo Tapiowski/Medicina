@@ -1,64 +1,66 @@
-- ## definizione
-	- malformazioni alla nascita, semplici o complesse
-	- apparato cardiovascolare
-- ## epidemiologia
-	- 10/1000 nati vivi
-	- 10% aborti spontanei
-	- malformazioni piu frequenti
-	- [[difetto interventricolare]] 1/3 dei casi
-	- sopravvivenza a 25 anni del 85%
-	- ### classificazione per frequenza
-		- [[difetto interventricolare]]
-		- [[dotto arterioso di botallo pervio]]
-		- [[difetto interatriale]]
-		- [[difetto setto atrioventricolare]]
-		- [[stenosi polmonare congenita]]
-		- [[stenosi aortica congenita]]
-		- [[coartazione aortica]]
-		- [[transposizione grossi vasi]]
-		- [[tetralogia di fallot]]
-- ## eziologia
-	- multifattoriale 80%
-	- solo genetica 15%
-		- difetto genetico
-		- anomalie cromosomiche
-		- [[trisomia 18]]
-		- [[trisomia 21]]
-		- [[monosomia x0]]
-	- solo ambientale 35%
-		- [[diabete materno]]
-		- fumo, alcol
-		- farmaci
-		- virus [[rosolia]] [[sindrome materna infantile]]
-- ## classificazione
-	- ### semplici
-		- [[dia]]
-		- [[div]]
-		- [[pervieta dotto botallo]]
-		- [[stenosi polmonare congenita]]
-		- [[stenosi aortica congenita]]
-		- [[coartazione aortica]]
-	- ### complesse
-		- [[tetralogia di fallot]]
-		- [[transposizione grossi vasi]]
-		- [[canale atrioventricolare]]
-	- ### con o senza shunt
-		- passaggio di sangue da cuore sin a dx per +pressione sin, da buchi
-	- ### clinica
-		- non cianogene
-			- con sovraccarico di volume
-				- [[difetto interatriale]]
-				- [[difetto interventricolare]]
-				- [[canale atrioventricolare]]
-				- [[pervieta dotto botallo]]
-				- [[sindrome di eisenmenger]]
-			- con sovraccarico di pressione
-				- [[stenosi polmonare congenita]]
-				- [[stenosi aortica congenita]]
-				- [[coartazione aortica]]
-		- cianogene
-			- con ipoafflusso polmonare
-				- [[tetralogia di fallot]]
-				- [[anomalia di ebstein]]
-			- con iperafflusso polmonare
-				- [[transposizione grossi vasi]]
+## definizione
+- malformazioni alla nascita, semplici o complesse
+- apparato cardiovascolare
+
+## epidemiologia
+- 10/1000 nati vivi
+- 10% aborti spontanei
+- malformazioni piu frequenti
+- [[difetto interventricolare]] 1/3 dei casi
+- sopravvivenza a 25 anni del 85%
+- ### classificazione per frequenza
+	- [[difetto interventricolare]]
+	- [[dotto arterioso di botallo pervio]]
+	- [[difetto interatriale]]
+	- [[difetto setto atrioventricolare]]
+	- [[stenosi polmonare congenita]]
+	- [[stenosi aortica congenita]]
+	- [[coartazione aortica]]
+	- [[transposizione grossi vasi]]
+	- [[tetralogia di fallot]]
+
+## eziologia
+- multifattoriale 80%
+- solo genetica 15%
+	- difetto genetico
+	- anomalie cromosomiche
+	- [[trisomia 18]]
+	- [[trisomia 21]]
+	- [[monosomia x0]]
+- solo ambientale 35%
+	- [[diabete materno]]
+	- fumo, alcol
+	- farmaci
+	- virus [[rosolia]] [[sindrome materna infantile]]
+### classificazione
+- #### semplici
+	- [[dia]]
+	- [[div]]
+	- [[pervieta dotto botallo]]
+	- [[stenosi polmonare congenita]]
+	- [[stenosi aortica congenita]]
+	- [[coartazione aortica]]
+- #### complesse
+	- [[tetralogia di fallot]]
+	- [[transposizione grossi vasi]]
+	- [[canale atrioventricolare]]
+- #### con o senza shunt
+	- passaggio di sangue da cuore sin a dx per +pressione sin, da buchi
+- #### clinica
+	- non cianogene
+		- con sovraccarico di volume
+			- ##### [[difetto interatriale]]
+			- ##### [[difetto interventricolare]]
+			- ##### [[canale atrioventricolare]]
+			- ##### [[pervieta dotto botallo]]
+			- ##### [[sindrome di eisenmenger]]
+		- con sovraccarico di pressione
+			- ##### [[stenosi polmonare congenita]]
+			- ##### [[stenosi aortica congenita]]
+			- ##### [[coartazione aortica]]
+	- cianogene
+		- con ipoafflusso polmonare
+			- ##### [[tetralogia di fallot]]
+			- ##### [[anomalia di ebstein]]
+		- con iperafflusso polmonare
+			- ##### [[transposizione grossi vasi]]

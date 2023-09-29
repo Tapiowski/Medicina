@@ -1,3 +1,4 @@
+## meccanismo d'azione
 - [[digitalis]], [[glicosidi cardioattivi]]
 - correnti lente di sodio
 	- da escludere per ca
@@ -14,8 +15,10 @@
 		- in [[fibrillazione atriale]] e in scompensi da [[tachiaritmia]]
 		- rallenta frequenza
 	- [[vasocostrizione]]
+
+## terapia
 - baso indice th
-	- tossicita con sintomi cardiaci
-		- bradicardia, blocco av, aritmie
-	- sintomi psichiatrici e visivi e gastrointestinali
-		- visione gialla
+- tossicita con sintomi cardiaci
+	- bradicardia, blocco av, aritmie
+- sintomi psichiatrici e visivi e gastrointestinali
+	- visione gialla

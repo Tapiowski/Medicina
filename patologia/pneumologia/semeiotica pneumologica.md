@@ -1,9 +1,12 @@
+## descrizione
 - familiare, personale, patologica remota, patologica prossima: tipo sintomo, modalita insorgenza, intensita, esami effettuati
-- ## sintomi frequenti
-	- ### [[dispnea]]
-	- ### [[tosse]]
-	- ### [[espettorazione]]
-	- ### [[dolore toracico]]
+
+## sintomi frequenti
+- ### [[dispnea]]
+- ### [[tosse]]
+- ### [[espettorazione]]
+- ### [[dolore toracico]]
+
 - ## esame obiettivo
 	- ### ispezione
 		- ritmo, frequenza, decubito, morfologia torace

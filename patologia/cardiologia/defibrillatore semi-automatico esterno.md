@@ -1,0 +1,8 @@
+- uno continua compressioni
+- altro accende dae e applica piastre su torace
+- se dae consiglia shock
+	- allontanare mani, non toccare pz
+	- premere pulsante shock quando dae lo chiede
+	- dopo shock, riprendere compressioni, seguire indicazioni dae
+- se dae non consiglia shock
+	- continuare rcp e seguire dae
