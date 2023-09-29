@@ -48,7 +48,7 @@
 - ## trattamento
 	- ### farmacologico
 		- acute: vasodilatatatori riducono postcarico e favoriscono eiezione in aorta
-		- croniche: no se non coesiste ipertensione arteriosa
+		- croniche: no se non coesiste [[ipertensione arteriosa]]
 	- ### chirurgico
 		- indicazioni: se [[insufficienza mitralica]] severa, sintomi o asintomi, [[indici disfunzione ventricolare sin]]. alto rischio se --f eiezione
 		- riparativo: [[anuloplastica riduttiva]], [[resezione lembo]], [[ricostruzione corde tendinee]]

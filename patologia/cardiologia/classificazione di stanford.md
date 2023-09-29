@@ -1,0 +1,3 @@
+- lesione in base ad origine lesione
+- ### [[dissecazione aortica tipo A]] 1 2
+- ### [[dissecazione aortica tipo B]] 3

@@ -1,1 +1,12 @@
-[[qrs]]>130 ms
+- [[qrs]]>130 ms
+- si divide in fascicolo ant e post, maggiore massa
+- branca dx funziona, ventricolo dx con inversione del vettore per maggiore massa del setto rispetto a parete ventricolo dx: vettore orientato vs massa piu importante
+	- V1 Q, V6 R
+- cerca di tornare all'isoelettrica ma non sempre riesce
+- attivazione sin per miocardio di lavoro
+	- V1 S, V6 R
+	- qs in V1, R o R' in V6 R-R'
+- alterato recupero ripolarizzazione per blocco conduzione
+- avviene in individui con cuore slargato
+	- pareti perdono sincronismo
+	- [[th re-sincronizzazione]]

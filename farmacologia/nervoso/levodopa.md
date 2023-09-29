@@ -57,7 +57,7 @@
 		- alterazioni comportamento: disturbi psichici da iperattivazione via [[dopaminergico]] [[meso-limbo-corticale]]
 	- ### cardiovascolari
 		- decarbossilazione periferica l-dopa: +[[da]] sistemica azn su [[recettori adrenergici]]
-		-  [[da]] libera [[adrenalina]] da [[recettori adrenergici]] vascolari: ipertensione arteriosa, aritmia, [[recettori beta-adrenergici]]
+		-  [[da]] libera [[adrenalina]] da [[recettori adrenergici]] vascolari: [[ipertensione arteriosa]], aritmia, [[recettori beta-adrenergici]]
 			- tachicardia transitoria, aritmia
 			- +contrattilita miocardio, consumo o2
 			- diuresi, migliora insufficienti cardiaci
@@ -71,7 +71,7 @@
 		- radicali in via sintesi [[catecolamine]]
 			- manganese aumenta autoossidazione l-dopa in striato
 	- ### collaterali
-		- precoci: nausea, vomito non usare antiemetici, anoressia, sofferenza epigastrio, aritmie cardiache, ipertensione arteriosa, +frequenza cardiaca, dolori addominali
+		- precoci: nausea, vomito non usare antiemetici, anoressia, sofferenza epigastrio, aritmie cardiache, [[ipertensione arteriosa]], +frequenza cardiaca, dolori addominali
 		- tardivi
 			- movimenti involontari anormali 50% pz in 4 mesi, tic, smorfie, spasmi, ciondolamento capo, distonia, respiratori anormali: apnea-dispnea-iperpnea: supersensibilita recettori da. no tolleranza a questi effetti motori: ridurre dosaggio
 			- disturbipsichici: ipertono da: allucinazioni, paranoia, mania, ansia, insonnia, risveglio interesse sessuale

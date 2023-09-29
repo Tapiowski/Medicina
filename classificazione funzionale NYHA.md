@@ -1,0 +1,4 @@
+- I classe: no limitazione fisica, cuore ok a riposo
+- II lieve limitazione: affanno in sforzo ordinario
+- III marcata limitazione anche per sforzi minimi
+- IV sintomi a riposo

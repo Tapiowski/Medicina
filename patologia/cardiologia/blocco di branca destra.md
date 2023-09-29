@@ -1,0 +1,5 @@
+- SA attiva, atri depol, setto depol da sin a dx, V1 onda R, V6 onda Q
+- ventricolo di sin attiva per primo: V1 onda S, V6 onda R
+- poi il ventricolo dx eccitamento tramite miocardio di lavoro: V1 onda R, V6 coda vettore S slargata
+	- alterazione r-r' orecchie di coniglio
+	- anche in D1

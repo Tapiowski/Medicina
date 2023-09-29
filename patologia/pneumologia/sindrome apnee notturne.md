@@ -73,7 +73,7 @@
 	- segni clinici
 		- obesita
 		- collo grosso
-		- ipertensione arteriosa: 2/3 farmaci
+		- [[ipertensione arteriosa]]: 2/3 farmaci
 		- disturbi cardiovascolari, cerebrovascolari
 	- [[ipersonnia]], [[sonnolenza]]
 	- complicanze

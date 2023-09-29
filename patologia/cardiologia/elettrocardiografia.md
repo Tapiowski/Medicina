@@ -1,6 +1,6 @@
-[[ECG]]
-elettrocardiografia = attivita elettrica cuore
 ## corrente elettrica
+- [[ECG]]
+- elettrocardiografia = attivita elettrica cuore
 - genera in [[nodo senoatriale]]
 - propaga in vie interatriali depolarizzando atri
 - [[nodo atrioventricolare]], his, branche depolarizza purkinje
@@ -9,6 +9,7 @@ elettrocardiografia = attivita elettrica cuore
 - mm cardiaco
 	- eccitazione da endocardio ad epicardio, epicardio repolarizza prima
 - [[onde cardiache]]
+
 ## fibrocellula
 - a riposo
 	- interno elettronegativo, ext positivo
@@ -20,6 +21,7 @@ elettrocardiografia = attivita elettrica cuore
 - ripolarizzazione
 	- da int elettropositivo, epicardio torna a stato di riposo: diviene -
 	- coda vs meno e testa verso +:
+
 ## derivazioni
 - ### einthoven:
 	- due elettrodi: polo positivo e negativo a galvanometro: registra diff di potenziale in onde

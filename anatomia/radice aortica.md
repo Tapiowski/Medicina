@@ -1,0 +1,6 @@
+- anello valvolare aortico
+	- lembi valvolari
+	- triangolo interleaflet
+	- seni aortici di valsalva
+		- a coronariche
+	- giunzione sino-tubulare con a ascendente

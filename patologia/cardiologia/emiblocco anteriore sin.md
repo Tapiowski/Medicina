@@ -1,0 +1,2 @@
+- asse elettrico in ecg di superficie > -30', deviato a sin. a dx se post
+- derivazioni del piano frontale, derivazione isodifasca: asse perpendicolare a derivazione individuata: se negativa asse in proiezione

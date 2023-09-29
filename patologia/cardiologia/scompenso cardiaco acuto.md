@@ -1,3 +1,6 @@
+## definizione
+- nuova insorgenza, ricorrenza di scompenso cardiaco: trattamento urgente con ricovero
+- comparsa improvvisa o decorso subacuto con graduale peggioramento fino a ricovero non programmato
 - [[insufficienza cardiaca acuta]]
 - piu rapido, da causa precipitante
 - pressione sistolica < 90 mmhg
@@ -7,25 +10,25 @@
 	- classificati
 		- caldo e secco: non congesto, meno grave
 		- freddo e umido: pz con liquidi e ipoteso: scioccato, piu grave
-- ## terapia
-	- pz congesto 95%
-		- perfusione ok o iperteso scompensato: [[farmaci vasodilatatori]], [[farmaci diuretici]] per abbassare pressione
-		- se anche ipoperfuso <90 mmhg: pz in shock [[farmaci diuretici]] e +pressione
-	- pz secco ipoperfuso: ipovolemico per [[farmaci diuretici]]
-		- dare liquidi e diuretici, solo nel 5% dei casi
-	- identificata causa: th medica [[th re-sincronizzazione]], [[sostituzione valvolare]], -f cardiaca
-	- [[dopamina]]
-		- 1-3 mg/kg min: [[vasodilatazione]] vasi [[milza]]
-		- 5-15 mg/kg min: su [[recettori beta-adrenergici]]: [[inotropo]]+, [[cronotropo]]+
-	- [[dobutamina]]
-		- 2-10 mg/kg min: su [[recettori beta-1]], [[recettori beta-2]], [[recettori alfa-1]]: +[[contrattilita cardiaca]]
-- ## definizione
-	- nuova insorgenza, ricorrenza di scompenso cardiaco: trattamento urgente con ricovero
-	- comparsa improvvisa o decorso subacuto con graduale peggioramento fino a ricovero non programmato
+
 - ## epidemiologia
 	- primo motivo ospedalizzazione in > 65 anni
 	- P=1-2% fino a 10% in >75
 	- mortalita - 2-20% da gravita e gestione pz
+
+## terapia
+- pz congesto 95%
+	- perfusione ok o iperteso scompensato: [[farmaci vasodilatatori]], [[farmaci diuretici]] per abbassare pressione
+	- se anche ipoperfuso <90 mmhg: pz in shock [[farmaci diuretici]] e +pressione
+- pz secco ipoperfuso: ipovolemico per [[farmaci diuretici]]
+	- dare liquidi e diuretici, solo nel 5% dei casi
+- identificata causa: th medica [[th re-sincronizzazione]], [[sostituzione valvolare]], -f cardiaca
+- [[dopamina]]
+	- 1-3 mg/kg min: [[vasodilatazione]] vasi [[milza]]
+	- 5-15 mg/kg min: su [[recettori beta-adrenergici]]: [[inotropo]]+, [[cronotropo]]+
+- [[dobutamina]]
+	- 2-10 mg/kg min: su [[recettori beta-1]], [[recettori beta-2]], [[recettori alfa-1]]: +[[contrattilita cardiaca]]
+
 - ## eziologia
 	- fattori scatenanti
 		- patologie strutturali
@@ -36,14 +39,16 @@
 			- +post carico da +p sistolica: [[disfunzione diastolica]]: [[crisi ipertensiva]]
 				- -riempimento ventricolare, -portata
 			- infezioni: [[endocardite infettiva]]
-- ## fisiopatologia
-	- cuore non eietta adeguatamente, +PD
-		- ipoperfusione a valle
-		- congestione a monte
-			- del vs: vene polmonari con edema polmonare
-			- del vd: vene cave, fegato, rene intestino circolo splancnico
-	- mediato da [[sistema renina-angiotensina]], [[sistema simpatico]], [[peptidi natriuretici]]
-- ## manifestazione clinica
+
+## fisiopatologia
+- cuore non eietta adeguatamente, +PD
+	- ipoperfusione a valle
+	- congestione a monte
+		- del vs: vene polmonari con edema polmonare
+		- del vd: vene cave, fegato, rene intestino circolo splancnico
+- mediato da [[sistema renina-angiotensina]], [[sistema simpatico]], [[peptidi natriuretici]]
+
+- ## clinica
 	- [[edema polmonare acuto]]
 	- [[insufficienza respiratoria acuta]]
 	- [[ipossia]]

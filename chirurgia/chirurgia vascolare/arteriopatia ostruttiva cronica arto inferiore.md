@@ -40,7 +40,7 @@
 		- nel diabete piccolo calibro
 		- malattia ubiquitaria: disseminazione placche, stenosi: + in distretto aortoiliaco e femoro popliteo, distretto distale sotto ginocchio -
 		- fattori rischio
-			- ipertensione arteriosa, ipercolesterolemia, obesita, diabete, sedentaria, stress, fumo, familiarita
+			- [[ipertensione arteriosa]], ipercolesterolemia, obesita, diabete, sedentaria, stress, fumo, familiarita
 		- eta infantile: tutti hanno aterosclerosi poi arterie irrigidiscono
 		- quindi
 			- [[arteriosclerosi]] tutti quando invecchiamo

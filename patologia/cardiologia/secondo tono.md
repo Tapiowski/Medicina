@@ -10,7 +10,7 @@
 	- durata prolunga fino a sdoppiamento in inspirazione forzata
 		- +ritorno venoso a cuore dx e ritardo p2: focolaio polmonare
 	- variazioni intensita
-		- aumento: a2 in ipertensione arteriosa, p2 se ipertensione polmonare
+		- aumento: a2 in [[ipertensione arteriosa]], p2 se ipertensione polmonare
 		- diminuzione: a2 in stenosi aortica, p2 in stenosi pomonare
 	- sdoppiamento patologico s2
 		- ampio: esagera fisiologico: ritardo p2 da stenosi polmonare o blocco branca dx, anticipio a2 da insufficienza mitralica con rigurgito

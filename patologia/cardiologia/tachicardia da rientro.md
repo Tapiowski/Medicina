@@ -14,7 +14,7 @@
 		- aritmia autosostenuta, cortocircuito perpetuo
 		- R-R costante in tachicardia, no onda P che viene retrocondotta
 		- R-P < 2 quadratini
-- diagnosi
-	- tachicardia, qrs stretto, p non visibile: tachicardia da rientro
-		- giovani, donne, inizio e finisce all'improvviso
-		- benigna
+## diagnosi
+- tachicardia, qrs stretto, p non visibile: tachicardia da rientro
+	- giovani, donne, inizio e finisce all'improvviso
+	- benigna

@@ -1,0 +1,12 @@
+- fase 0 depolarizzazione rapida
+	- na in, inversione potenziale da -90 a +20 mb
+- fase 1 ripolarizzazione rapida iniziale
+	- k out, permeabile a cl. + out, - in
+- fase 2 plateau
+	- ca in bilancia k out
+- fase 3 ripolarizzazione terminale
+	- ca chiuso, k out
+- fase 4 ripristino ionico di partenza
+	- pompa na/k
+	- slope verso alto in pacemakers
+		- [[canali F]]

@@ -1,0 +1,1 @@
+aumento improvviso, stabile, marziale del valore sistolico > 180 max 120 min

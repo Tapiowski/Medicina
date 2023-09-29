@@ -1,33 +1,35 @@
-- chf
+## definizione
+- [[chf]]
 - [[insufficienza cardiaca]]
-- ## definizione
-		-sintomi, manifestazioni fisiche: cuore non assolve funione contrattile di pompa, non soddisfa apporto sangue ad organi
-	- lungo decorso: anomalia cronicizza per terapia fino ad episodi frequenti e [[deficit di pompa]]
-	- [[adrenalina]]
-		- cardiotossicita, +[[contrattilita cardiaca]], +[[frequenza cardiaca]]: +mvo2
-	- [[sistema renina-angiotensina]]
-		- cardiotossicita, [[vasocostrizione]], +volume: stress parete
-	- danno miocita, ipertrofia
-	- [[contrattilita cardiaca]]
-- ## classificazione
-	- [[insufficienza cardiaca acuta]]
-	- [[insufficienza cardiaca cronica]]
-	- [[insufficienza cardiaca congestizia]]
-	- [[insufficienza ventricolare sinistra]]
-- farmaci utilizzati: effetto [[inotropo]] positivo, +ca: depolarizza potenziale, oscillatori, [[aritmia]] , +conduttanza k: -resistenza di membrana
-	- [[farmaci inotropi positivi]]
-		- [[digossina]]
-		- [[milrinone]]
-		- [[dobutamina]]
-	- [[farmaci diuretici]]
-		- [[diuretici tiazidici]]
-		- [[irusemide]]
-		- [[bumetadine]]
-	- [[farmaci vasodilatatori]]
-		- [[captopril]]
-		- [[enalpril]]
-- - controllo peso, no fumo, no alcol
+- -sintomi, manifestazioni fisiche: cuore non assolve funione contrattile di pompa, non soddisfa apporto sangue ad organi
+- lungo decorso: anomalia cronicizza per terapia fino ad episodi frequenti e [[deficit di pompa]]
+- [[adrenalina]]
+	- cardiotossicita, +[[contrattilita cardiaca]], +[[frequenza cardiaca]]: +mvo2
+- [[sistema renina-angiotensina]]
+	- cardiotossicita, [[vasocostrizione]], +volume: stress parete
+- danno miocita, ipertrofia
+- [[contrattilita cardiaca]]
+
+## eziologia
+- ### [[insufficienza cardiaca congestizia]]
+- ### [[insufficienza ventricolare sinistra]]
+- ### [[scompenso cardiaco cronico]]
+- ### [[scompenso cardiaco acuto]]
+
 - ## farmaci
+	- farmaci utilizzati: effetto [[inotropo]] positivo, +ca: depolarizza potenziale, oscillatori, [[aritmia]] , +conduttanza k: -resistenza di membrana
+		- [[farmaci inotropi positivi]]
+			- [[digossina]]
+			- [[milrinone]]
+			- [[dobutamina]]
+		- [[farmaci diuretici]]
+			- [[diuretici tiazidici]]
+			- [[irusemide]]
+			- [[bumetadine]]
+		- [[farmaci vasodilatatori]]
+			- [[captopril]]
+			- [[enalpril]]
+	- controllo peso, no fumo, no alcol
 	- [[farmaci diuretici]]
 		- se presente un sovraccarico di volume: [[congestione polmonare]], [[edema]] periferico
 		- [[antagonisti aldosterone]] in scompenso avanzato
@@ -61,32 +63,30 @@
 		- [[aspirina]] in malattia [[coronarie]], causa piu frequente di [[scompenso cardiaco]]
 			- no evidenze su +vita, discrezionale
 			- in [[insufficienza renale]]: [[ace inibitori]]/[[aspirina]], sospendere [[aspirina]]
-- ## interazioni, farmaci da evitare
+	- ### interazioni, farmaci da evitare
 		- se in th per [[scompenso cardiaco]]
 		- fans, antiaritmici classe i, calcio antagonisti, antidepressivi triclici, corticosteroidi, litio, aspirina
-- ## terapia
-	- -na in dieta
-	- resistenza a [[farmaci diuretici]]
-		- [[diuretici ansa]]: -simporto na/k/cl
-		- [[diuretici tiazidici]]: cotrasportatore na/cl in
-		- [[diuretici risparmiatori di potassio]]: -conduttanza na al [[dotto collettore]]
-		- [[antagonisti aldosterone]]
-	- [[farmaci vasodilatatori]]: riduce [[pre carico]], [[post carico]]
-		- [[ace inibitori]]
-		- [[idralazina]]-[[isosorbide]]
-		- [[farmaci beta-bloccanti]]
-		- [[farmaci calcio antagonisti]]
-	- [[glicosidi cardioattivi]]
-		- effetti tossici: [[intossicazione digitalica]]
-			- xantopsia, nausea, vomito tardivi, aritmie av, bradicardia, allucinazioni
-			- trattare con k, glucosio, insulina, ca antagonisti
-	- [[farmaci inotropi positivi]]
-		- da mimetici: [[ibopamina]
-		- [[inibitori pde]]
-	- [[farmaci anticoagulanti]], [[farmaci antiaggreganti piastrinici]]
-		- [[warfarin]], [[aspirina]], [[ticlopidina]]
-	- [[farmaci antiaritmici]]
-		- [[amiodarone]], altri +[[frequenza cardiaca]], [[inotropo]] negativi
-- ## classificazione
-	- ### [[scompenso cardiaco cronico]]
-	- ### [[scompenso cardiaco acuto]]
+
+## terapia
+- -na in dieta
+- resistenza a [[farmaci diuretici]]
+	- [[diuretici ansa]]: -simporto na/k/cl
+	- [[diuretici tiazidici]]: cotrasportatore na/cl in
+	- [[diuretici risparmiatori di potassio]]: -conduttanza na al [[dotto collettore]]
+	- [[antagonisti aldosterone]]
+- [[farmaci vasodilatatori]]: riduce [[pre carico]], [[post carico]]
+	- [[ace inibitori]]
+	- [[idralazina]]-[[isosorbide]]
+	- [[farmaci beta-bloccanti]]
+	- [[farmaci calcio antagonisti]]
+- [[glicosidi cardioattivi]]
+	- effetti tossici: [[intossicazione digitalica]]
+		- xantopsia, nausea, vomito tardivi, aritmie av, bradicardia, allucinazioni
+		- trattare con k, glucosio, insulina, ca antagonisti
+- [[farmaci inotropi positivi]]
+	- da mimetici: [[ibopamina]
+	- [[inibitori pde]]
+- [[farmaci anticoagulanti]], [[farmaci antiaggreganti piastrinici]]
+	- [[warfarin]], [[aspirina]], [[ticlopidina]]
+- [[farmaci antiaritmici]]
+	- [[amiodarone]], altri +[[frequenza cardiaca]], [[inotropo]] negativi

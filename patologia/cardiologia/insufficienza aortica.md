@@ -42,7 +42,7 @@
 	- evoluzione lenta, fase asintomatica
 	- ecacardiografia annuale
 	- prognosi svavorevole se sintomatica
-	- sopravvivenza inversamente proporzionale a grado [[nyha]]
+	- sopravvivenza inversamente proporzionale a grado [[classificazione funzionale NYHA]]
 - ## terapia farmacologica
 	- anche se asintomatica
 	- vasodilatatori per -postcarico, -quota sangue rigurgitante

@@ -1,0 +1,8 @@
+- [[coronaria sn]] da trnco comune biforca in:
+	- arteria interventricolare ant: decorre nel setto, shock cardiogeno se occlusa
+		- rami settali
+		- rami diagonali
+		- a circonflessa
+- [[coronaria dx]]
+	- rami per margine acuto
+	- a interventricolare post

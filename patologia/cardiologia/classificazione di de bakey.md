@@ -1,0 +1,6 @@
+- base punto in cui origina e fin dove si espande
+	- tipo 1: origine [[a ascendente]] fino a [[carrefour iliaco]] o a femorale A
+	- tipo 2: origine [[a ascendente]] e si limita ad essa A
+	- tipo 3: origine in [[a toracica]] discendente B
+		- 3a: propaga solo in a toracica
+		- 3b: fino a toracoaddominale

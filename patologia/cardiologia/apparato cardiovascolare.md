@@ -19,6 +19,7 @@
 	- sonda elettrocardiografica
 	- eco trans-esofageo: atri, porzioni post cuore e aorta toracica
 - cono appiattito in senso antpost, diretto ant in basso a sin, pugno
+
 ## configurazione esterna
 - faccia sternocostale ant
 	- solchi
@@ -39,6 +40,7 @@
 	- atri
 		 - dx: tetto atrio riceve vene polmonari
 		- sin: seno cavale con cava sup e inf
+
 ## configurazione interna
 ### 4 cavita
 - atri e ventricolo tramite valvole atrioventricolari, ventricoli a grossi vasi tramite valvole semilunari
@@ -90,16 +92,19 @@
 		- seno sin: coronaria sin
 		- seno post non coronarico
 		- malattia = [[infarto miocardio]]
-- [[coronaria sin]]: da tronco comune, 1mm lunga, intraventr ant e circonflessa, dominanza sin se post e infpost da sin
+- [[coronaria sn]]: da tronco comune, 1mm lunga, intraventr ant e circonflessa, dominanza sin se post e infpost da sin
 - [[coronaria dx]]: ventricolo dx, post cuore, dominanza dx se post e infpost cuore
 - codominanza possibile
+
 ## struttura
 - [[miocardio]]
 - [[pericardio]]
 - [[epicardio]]
+
 ## sistema conduzione
 - [[miocardio specifico]]
 - [[miocardio comune]]
+
 ## pompa aspirante e premente
 - circolo
 	- sistole atriale a fine diascole riempie i ventricoli
@@ -112,6 +117,7 @@
 	- chiusura semilunari in aorta pressione minima, in sistole parete aorta accumula en potenziale che in diascole convertita in cinetica
 		- flusso ematico anche in diastole: perfusione
 		- flusso oscilla meno e diviene continuo a livello capillare con pressione piu bassa
+
 ## circoli vascolari
 - piccolo circolo: basse r e p: 25-10 mmhg
 - grande circolo: +R +P 120-80
@@ -120,7 +126,8 @@
 	- 9% polmoni
 	- 7% cuore
 	- 7% capillari
-## gittata cardiaca
+
+## [[gittata cardiaca]]
 - quantita di sangue eiettato in unita di tempo, 5 l/m
 - prodotto tra f cardiaca e gittata sistolica: Gc = Gx x Fc
 	- gittata sistolica: q.ta sangue espulsa da ventricolo ad ogni battito, da forza contrazn miocardio
@@ -131,6 +138,7 @@
 		- +- contrattilita
 	- catecolamine
 ## legge del cuore [[frank-starling]] e [[legge di poiseuille]]
+
 ## sistema vasale
 - arterie
 	- fibre elastiche, mm liscia, variano calibro

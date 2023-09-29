@@ -1,6 +1,6 @@
 ## anamnesi
 - familiare, potenziale base genetica
-	- infarto, ipertensione arteriosa, diabete mellito, dislipidemia, cardiomiopatia ipertrofica o dilatativa, morte improvvisa
+	- infarto, [[ipertensione arteriosa]], diabete mellito, dislipidemia, cardiomiopatia ipertrofica o dilatativa, morte improvvisa
 - fisiologica
 	- accrescimento, scolarita, fumo, potus alcoolici, stupefacenti, dieta, dislipidemia obesita, +- peso, esercizio, alvo diuresi
 - patologica remota
@@ -14,6 +14,7 @@
 	- ### [[infarto miocardico acuto]]
 	- ### [[dissecazione aortica]]
 	- ### [[embolia polmonare acuta]]
+
 ## sintomi per [[cardiopatie]]
 - [[dolore toracico]]: [[infarto miocardio]]
 - [[dispnea]]: [[scompenso cardiaco]], [[insufficienza cardiaca]]
@@ -21,11 +22,13 @@
 - [[sincope]]
 - sintomi associati, non fanno diagnosi ma aiutano
 	- [[astenia]], [[tosse]], [[emottisi]], [[nicturia]], [[anoressia]], [[nausea]], [[vomito]] 
+
 ## fattori di rischio cardiovascolare
-- fumo
-- dislipidemia
+- [[fumo]]
+- [[dislipidemia]]
 - ipertensione
-- diabete mellito
+- [[diabete mellito]]
+
 ## esame obiettivo
 ### ispezione
 - ispezione generale
@@ -80,6 +83,7 @@
 - #### [[toni cardiaci]]
 - #### [[ritmi di galoppo]]
 - #### [[soffi cardiaci]]
+
 ## semeiotica strumentale
 ### [[elettrocardiografia]]
 - a riposo: basale, istantanea

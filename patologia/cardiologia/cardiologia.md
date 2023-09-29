@@ -1,7 +1,6 @@
 ### [[apparato cardiovascolare]]
 ### [[elettrocardiografia]]
 ### [[semeiotica cardiovascolare]]
-
 ### [[cardiopatia ischemica]]
 ### [[sindrome aortica acuta]]
 ### [[aritmie]]
@@ -10,17 +9,14 @@
 ### [[cardiopalmo]]
 ### [[sincope]]
 ### [[cardiomiopatia]]
-
 ### [[endocardite infettiva]]
 ### [[malattie reumatiche cardiologiche]]
 ### [[sindromi pericardiche]]
 ### [[miocardite]]
-
 ### [[scompenso cardiaco]]
 ### [[valvulopatie]]
 ### [[cardiopatie congenite]]
 ### [[anomalie cardiache congenite]]
-
 ### [[farmaci cardiologici]]
 ### [[rianimazione cardiopolmonare]]
 

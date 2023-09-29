@@ -78,7 +78,7 @@
 						- colpite da varici arti inf
 			- lesioni neurogene
 				- [[arteriopatia diabetica]], [[lesioni a moneta]] su pianta del piede
-			- lesioni da ipertensione arteriosa mal controllata: [[ulcere ipertensive di martorell]]: tibia
+			- lesioni da [[ipertensione arteriosa]] mal controllata: [[ulcere ipertensive di martorell]]: tibia
 - ## diagnosi strumentale
 	- quantificazione emodinamica lesioni, evidenza clinica
 	- [[ecodoppler]], poi [[TC]], [[rm]]: confermano sospetto clinico

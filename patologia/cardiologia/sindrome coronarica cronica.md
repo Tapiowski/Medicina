@@ -56,7 +56,7 @@
 		- [[aspirina]], secondo farmaco
 	- cambio stile di vita
 		- [[statine]] riducono rischio complicanze aterosclerotiche: prevenzione primaria e secondaria
-		- [[ace inibitori]] in pz aterosclerotico se diabete mellito, ipertensione arteriosa, disfunzione ventricolare
+		- [[ace inibitori]] in pz aterosclerotico se diabete mellito, [[ipertensione arteriosa]], disfunzione ventricolare
 			- tosse, [[sartani]] se troppo
 	- [[anti-ischemici]]
 	- funzione ventricolo sin e numero vasi malati: rivascolarizzazione
