@@ -7,11 +7,11 @@
 	- giovani, anziani, toracica e extra
 	- no espettorato: intracc
 	- analisi sierologica igm
-	- rx: no polmonite lobare ma ispessimento interstiziale
+	- rx: no [[polmonite]] lobare ma ispessimento interstiziale
 - [[mycoplasma#^136ae1]]
 	- reticolo-nodulare interstiziale
 	- addensativa se espande
-	- simil polmonite interstiziale tipiche virus
+	- simil [[polmonite]] interstiziale tipiche virus
 		- flogosi interstiziale, edema, infil linfocita
 	- sintomatologia generica febbre escreato
 	- rx lievi addensamenti nodulari con fine disegno reticolare a vetro smerigliato

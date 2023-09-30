@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia/pneumologia/pneumologia.md",
+                "file": "patologia/cardiologia/cardiologia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "patologia/pneumologia/pneumologia.md"
+                        "file": "patologia/cardiologia/cardiologia.md"
                       }
                     },
                     "group": "ed412e0d4b0d543f"
@@ -58,7 +58,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "patologia/pneumologia/pneumologia.md",
+                        "file": "patologia/cardiologia/cardiologia.md",
                         "collapseAll": true,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "patologia/pneumologia/pneumologia.md",
+                    "file": "patologia/cardiologia/cardiologia.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/pneumologia/pneumologia.md",
+                "file": "patologia/cardiologia/cardiologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/pneumologia/pneumologia.md",
+                "file": "patologia/cardiologia/cardiologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia/pneumologia/pneumologia.md"
+                "file": "patologia/cardiologia/cardiologia.md"
               }
             }
           }
@@ -247,31 +247,31 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "patologia/pneumologia/polmonite.md",
-    "patologia/pneumologia/pneumologia.md",
-    "patologia/pneumologia/covid-19.md",
-    "patologia/pneumologia/sindrome apnee notturne.md",
-    "patologia/pneumologia/insufficienza respiratoria cronica.md",
-    "patologia/pneumologia/insufficienza ventilatoria cronica.md",
-    "patologia/pneumologia/insufficienza polmonare cronica.md",
-    "patologia/pneumologia/broncoscopia.md",
-    "patologia/pneumologia/broncoscopio.md",
-    "patologia/pneumologia/ipertensione polmonare.md",
-    "patologia/pneumologia/pneumopatia interstiziale diffusa.md",
-    "patologia/pneumologia/mesotelioma pleurico.md",
-    "patologia/pneumologia/fibrosi polmonare idiopatica.md",
+    "patologia/cardiologia/elettrocardiografia.md",
+    "patologia/cardiologia/cardiologia.md",
+    "patologia/cardiologia/semeiotica cardiovascolare.md",
+    "statistica/tomografia computerizzata.md",
     "semeiotica/TC.md",
-    "patologia/pneumologia/polmonite stafilococcica.md",
-    "patologia/pneumologia/polmonite nosocomiale.md",
-    "patologia/pneumologia/polmonite comunitaria.md",
-    "patologia/pneumologia/forme emergenti di polmonite.md",
-    "patologia/pneumologia/polmonite lobare franca.md",
-    "patologia/pneumologia/tubercolosi.md",
-    "patologia/pneumologia/enfisema polmonare.md",
-    "patologia/pneumologia/enfisema paracicatriziale.md",
-    "patologia/pneumologia/enfisema centrolobulare.md",
-    "patologia/pneumologia/embolia polmonare.md",
-    "patologia/pneumologia/score di wells.md",
-    "chirurgia/chirurgia vascolare/trombosi venosa profonda.md"
+    "semeiotica/risonanza magnetica.md",
+    "semeiotica/rm.md",
+    "semeiotica/angiografia.md",
+    "patologia/cardiologia/ecocardiografia.md",
+    "patologia/cardiologia/cardiopatia ischemica.md",
+    "patologia/cardiologia/angina pectoris.md",
+    "patologia/cardiologia/sindrome coronarica cronica.md",
+    "patologia/cardiologia/angina stabile.md",
+    "patologia/cardiologia/angina da sforzo.md",
+    "semeiotica/dolore toracico.md",
+    "fisiologia/flusso coronarico.md",
+    "patologia/cardiologia/sindrome coronarica acuta.md",
+    "patologia/cardiologia/cardiomiopatia ischemica in fase acuta.md",
+    "patologia/cardiologia/NSTEMI.md",
+    "patologia/cardiologia/STEMI.md",
+    "patologia/cardiologia/angioplastica.md",
+    "patologia/cardiologia/infarto miocardico.md",
+    "patologia/cardiologia/morte cardiaca improvvisa.md",
+    "patologia/cardiologia/angina instabile.md",
+    "patologia/cardiologia/scompenso cardiaco.md",
+    "patologia/patologia sistematica I.md"
   ]
 }

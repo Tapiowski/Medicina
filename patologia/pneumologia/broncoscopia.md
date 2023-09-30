@@ -1,5 +1,5 @@
 ## definizione
-- pneumologia interventistica: invasive diagnostiche e terapeutiche
+- [[pneumologia interventistica]]: invasive diagnostiche e terapeutiche
 - esplora albero tracheo-bronchiale: [[broncoscopio]] a fibre ottiche sensibili
 - medici esperti + anestesia
 

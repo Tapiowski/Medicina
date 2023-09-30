@@ -22,7 +22,7 @@
 ### classificazione
 - #### [[sindrome coronarica acuta]]
 - #### [[sindrome coronarica cronica]]
-- #### [[cardiomiopatia ischemica in fase acuta]]?
+- #### [[cardiomiopatia ischemica in fase acuta]]
 	- in infarto
 		- derivazioni da sovraslivellamento st e speculare sottoslivellamento delle altre derivazioni
 		- d2,3 avf inf cuore

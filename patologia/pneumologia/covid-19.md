@@ -84,7 +84,7 @@
 ## clinica
 - sintomi
 	- 89% [[febbre]]: no in anergici, anziani, diabetici
-		- polmonite grave con decorso asintomatico
+		- [[polmonite]] grave con decorso asintomatico
 	- 58% [[tosse]]: tosse secca, produttiva per sovrainfezn, emottisi rara
 	- 45% [[dispnea]]: aggravamento quadro, dopo il 7 gg
 		- monitor pz: compliance p, pao2

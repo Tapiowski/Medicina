@@ -89,15 +89,15 @@
 - a riposo: basale, istantanea
 - dinamica, holter: registrazione per 24+ h rileva alterazioni ritmo
 - ergometria, sotto sforzo: variazioni di pressione sistolica diastolica, frequenza
-### ecocardiografia
+### [[ecocardiografia]]
 - morfologia, funzione cardiaca, sonda ultrasuoni
 - tecniche: monodimensionali, bidimensionali, tridimensionali, cordifica a colori dei flussi per rigurgiti
 - basale, transtoracica
 - sotto stress: sforzo fisico, stress farmacologico: ischemia miocardica: dipiridamolo, dobutamina simula sforzo
 - tranesofagea
-### cateterismo cardiaco e angiografia
+### cateterismo cardiaco e [[angiografia]]
 - pressione arteriosa e venosa, cateteri spruzzano mezzo contrasto in vasi di interesse: verifica integrita e lume, occlusioni o restringimenti
-### tomografia computerizzata cardiaca
-- anatomia cardiaca: tc cardiaca o coronarica
-### risonanza magnetica cardiaca
+### [[tomografia computerizzata]] cardiaca
+- anatomia cardiaca: [[tc]] cardiaca o coronarica
+### [[risonanza magnetica]] cardiaca
 - camere cardiache, dimensioni, funzionalita, come tc

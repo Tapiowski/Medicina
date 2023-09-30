@@ -43,7 +43,7 @@
 	- [[acinesia]]
 	- incapacita di avere cura di se
 	- [[demenza]] 20%
-	- [[morte]] per complicanze [[immobilita]]: piaghe da decubito, embolia polmonare, polmonite da aspirazione, polmonite ipostatica
+	- [[morte]] per complicanze [[immobilita]]: piaghe da decubito, embolia polmonare, [[polmonite]] da aspirazione, [[polmonite]] ipostatica
 - ## cause
 	- antagonismo [[recettori d2]]
 	- genetiche 25%

@@ -78,7 +78,7 @@
 - sospetto diagnostico
 	- >45 yo, [[tosse secca]], [[dispnea]] +esercizio, [[velcro sound]], radiologia
 - dd
-	- malattia connettivo, amiodarone, polmonite da ipersensibilita, istiocitosi x
+	- malattia connettivo, amiodarone, [[polmonite]] da ipersensibilita, istiocitosi x
 - esami strumentali, lab
 	- rx: interstizio con accumuli fibrotici
 	- tac: cisti circondate da fibrosi, bronchestasia da trazione, foci fibroblastici, polmone alveolare, perdita volumi, flussi ridotti

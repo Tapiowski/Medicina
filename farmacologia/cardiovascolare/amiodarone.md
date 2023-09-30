@@ -14,6 +14,6 @@
 - ## controindicazioni
 	- gravidanza, ipersensibilita, blocchi conduzione, distiroidismi
 - ## efetti collaterali, tossici
-	- dispnea con polmonite interstiziale, n/v, stipsi, anoressia, aritmie, ipo/ipertiroidismi, depositi corneali, snc, fotosensibilizzazione, torsades des pointes
+	- dispnea con [[polmonite]] interstiziale, n/v, stipsi, anoressia, aritmie, ipo/ipertiroidismi, depositi corneali, snc, fotosensibilizzazione, torsades des pointes
 - ## interazioni
 	- diuretici ipok, antiaritmici ia-ii, imao, lassativi

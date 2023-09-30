@@ -40,7 +40,7 @@
 	- tuorlo uovo, albumina, sost nutritive selettive
 	- crescita varia 15-60 gg
 - nei liquidi
-	- [[secrezioni bronchiali]]: tosse, catarro, gastroaspirato perche degluttita, acido-alcol resistente, broncoscopia invasiva
+	- [[secrezioni bronchiali]]: tosse, catarro, gastroaspirato perche degluttita, acido-alcol resistente, [[broncoscopia]] invasiva
 	- secondo colorante blu di metilene: bacilli rossi su campo blu
 	- dd lebbra, falsi positivi
 - tecnologia molecolare, pcr
@@ -119,7 +119,7 @@
 	- [[complesso primario]]
 		- [[alveolite]], [[linfoadenite satellite]], [[linfangite consensuale]]
 	- linfonodi ingrossati, adenopatia mediastinica
-		- compressione bronco lobale medio: [[atelectasia]]: [[broncopolmonite]]: stenosi con broncoscopia
+		- compressione bronco lobale medio: [[atelectasia]]: [[broncopolmonite]]: stenosi con [[broncoscopia]]
 		- [[linfadenite tubercolare]] e [[linfadenite iliare]]: th antibiotica e cura linfadenite
 	- -sintomi
 		- da spostamento vs ilo e linfonodi omolat: complesso primario

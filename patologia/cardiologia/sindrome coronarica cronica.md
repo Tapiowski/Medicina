@@ -1,20 +1,14 @@
+## definzione
 - sofferenza miocardio da squilibrio richieste/apporto o2
 - [[cardiopatia ischemica cronica]], [[cardiomiopatia ischemica stabile]]
-- ## sintomi
-	- ### [[dolore toracico]]
-	- ### [[angina stabile]]
-	- pz con quadro [[angina pectoris]] per prima volta: condizione stabile, sintomi gia avuti in passato
-	- pz sintomatici per [[cardiomiopatia ischemica in fase acuta]], asintomatici e stabili per trattamento, regolare follow-up: [[sindrome coronarica acuta]]
-	- spasmo coronarico da + tensione parietale, donne, giovani
-	- a riposo
-	- [[aterosclerosi coronarica]] ostruttiva possibile
-	- [[sopraslivellamento ST]] per [[ischemia]] transmurale
-	- prognosi favorevole th con [[farmaci vasodilatatori]]
-- ## epidemiologia
-	- esordio cardiopatia ischemica in 50% casi, aumenta con eta rischio cardiovascolare
-	- incidenza 4% in eta avanzate, 2-3% in giovani, m
-- ## [[flusso coronarico]]
-- ## conseguenze metaboliche ischemia
+- - [[flusso coronarico]]
+
+## epidemiologia
+- esordio cardiopatia ischemica in 50% casi, aumenta con eta rischio cardiovascolare
+- incidenza 4% in eta avanzate, 2-3% in giovani, m
+
+## fisiopatologia
+- ### [[ischemia]]
 	- metabolismo anaerobio: acido lattico per glicolisi, deplezione atp, perdita potassio
 	- reversibile se < 20-30 m: poi danni irreversibili
 	- cascata eventi
@@ -23,7 +17,7 @@
 	- condizioni
 		- [[stordimento miocardico]] segue ipoperfusione, si ristabilisce: cc vitale, si contrae dopo aver recuperato
 		- [[ibernazione miocardica]] da ischemia subletale con ipoperfusione: cc non funziona sino a rivascolarizzazione 
-- ## cascata ischemica
+- ### cascata ischemica
 	- deficit perfusione relativo, disomogeneita perfusione miocardio
 		- [[scintigrafia]]
 	- alterazioni metaboliche
@@ -33,35 +27,48 @@
 	- alterazioni ecg
 		- ecg
 	- dolore
-- ## prognosi
-	- migliore per [[angina stabile]] che non per [[sindrome coronarica acuta]]
-	- pz stabile, - rischio [[angina instabile]], [[infarto miocardico]], [[morte]], eventi gravi
-- ## terapia
-	- ridurre, eliminare sintomi, + qualita vita, migliorare prognosi prevenendo eventi pesanti, morte, infarto
-	- componenti
-		- identificare, trattare patologia associate scatenanti o aggravanti angina: escludere [[anemia]], [[ipossia]], [[ipertiroidismo]]
-		- controllare fattori rischio cardiovascolari
-		- angina pectoris da [[aterosclerosi]]: blocco processo aterosclerotico: [[anti-ischemici]]
-		- rivascolarizzazione miocardica [[bypass aorto-coronarico]], [[angioplastica]] percutanea, non causare ischemia miocardica, progressione malattia
-	- blocco aterosclerosi in tutto organismo
-		- th medica ottimale
-		- rivascolarizzazione percutanea con [[angioplastica]] con o senza stent
-		- rivascolarizzazione chirurgica con [[bypass aorto-coronarico]]
-	- stratificare rischio pz
-		- mortalita attesa massa ad un anno: th medica ottimale
-		- rischio intermedio: th ottimale e considerare coronarografia
-		- rischio alto: coronarografia, rivascolarizzazione, th medica
-		- in base a tipo angina, entita ischemia, test non invasivi, tipo malattia
-	- th antitrombotica in pz aterosclerotico
-		- [[aspirina]], secondo farmaco
-	- cambio stile di vita
-		- [[statine]] riducono rischio complicanze aterosclerotiche: prevenzione primaria e secondaria
-		- [[ace inibitori]] in pz aterosclerotico se diabete mellito, [[ipertensione arteriosa]], disfunzione ventricolare
-			- tosse, [[sartani]] se troppo
-	- [[anti-ischemici]]
-	- funzione ventricolo sin e numero vasi malati: rivascolarizzazione
-		- [[angioplastica]] 1, 2 vasi coronarici, rischio pz di chirurgia alto
-			- no interventricolare ant prox: vaso piu grosso
-		- [[bypass aorto-coronarico]] coronopatia multivasale, rischio ok
-		- syntax score, gravita malattia
-			- numero, severita, complessita lesioni
+
+- ## clinica
+	- ### [[dolore toracico]]
+	- ### [[angina stabile]]
+	- pz con quadro [[angina pectoris]] per prima volta: condizione stabile, sintomi gia avuti in passato
+	- pz sintomatici per [[cardiomiopatia ischemica in fase acuta]], asintomatici e stabili per trattamento, regolare follow-up: [[sindrome coronarica acuta]]
+	- spasmo coronarico da + tensione parietale, donne, giovani
+	- a riposo
+	- [[aterosclerosi coronarica]] ostruttiva possibile
+	- [[sopraslivellamento ST]] per [[ischemia]] transmurale
+	- prognosi favorevole th con [[farmaci vasodilatatori]]
+
+## terapia
+- ridurre, eliminare sintomi, + qualita vita, migliorare prognosi prevenendo eventi pesanti, morte, infarto
+- componenti
+	- identificare, trattare patologia associate scatenanti o aggravanti angina: escludere [[anemia]], [[ipossia]], [[ipertiroidismo]]
+	- controllare fattori rischio cardiovascolari
+	- angina pectoris da [[aterosclerosi]]: blocco processo aterosclerotico: [[anti-ischemici]]
+	- rivascolarizzazione miocardica [[bypass aorto-coronarico]], [[angioplastica]] percutanea, non causare ischemia miocardica, progressione malattia
+- blocco aterosclerosi in tutto organismo
+	- th medica ottimale
+	- rivascolarizzazione percutanea con [[angioplastica]] con o senza stent
+	- rivascolarizzazione chirurgica con [[bypass aorto-coronarico]]
+- stratificare rischio pz
+	- mortalita attesa massa ad un anno: th medica ottimale
+	- rischio intermedio: th ottimale e considerare coronarografia
+	- rischio alto: coronarografia, rivascolarizzazione, th medica
+	- in base a tipo angina, entita ischemia, test non invasivi, tipo malattia
+- th antitrombotica in pz aterosclerotico
+	- [[aspirina]], secondo farmaco
+- cambio stile di vita
+	- [[statine]] riducono rischio complicanze aterosclerotiche: prevenzione primaria e secondaria
+	- [[ace inibitori]] in pz aterosclerotico se diabete mellito, [[ipertensione arteriosa]], disfunzione ventricolare
+		- tosse, [[sartani]] se troppo
+- [[anti-ischemici]]
+- funzione ventricolo sin e numero vasi malati: rivascolarizzazione
+	- [[angioplastica]] 1, 2 vasi coronarici, rischio pz di chirurgia alto
+		- no interventricolare ant prox: vaso piu grosso
+	- [[bypass aorto-coronarico]] coronopatia multivasale, rischio ok
+	- syntax score, gravita malattia
+		- numero, severita, complessita lesioni
+
+## prognosi
+- migliore per [[angina stabile]] che non per [[sindrome coronarica acuta]]
+- pz stabile, - rischio [[angina instabile]], [[infarto miocardico]], [[morte]], eventi gravi

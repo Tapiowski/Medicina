@@ -1,8 +1,11 @@
+## definzione
 - [[coronaropatia]]
 - ischemia miocardica secondaria a riduzione acuta di flusso coronarico
-- ## classificazione
-	- ### [[angina instabile]] tessuto non rilascia troponina
-	- ### [[morte cardiaca improvvisa]]
-	- ### [[infarto miocardico]]
-		- ### [[NSTEMI]] non st elevation miocardial infarction
-		- ### [[STEMI]] st-elevation myocardical infarction
+- [[sca]]
+
+## classificazione
+- ### [[angina instabile]] tessuto non rilascia troponina
+- ### [[morte cardiaca improvvisa]]
+- ### [[infarto miocardico]]
+	- ### [[NSTEMI]] non st elevation miocardial infarction
+	- ### [[STEMI]] st-elevation myocardical infarction

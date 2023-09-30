@@ -94,7 +94,7 @@
 		- dd infarto miocardio: dolore acuto; tamponamento cardiaco, pneumotorace, aneurisma dissecante
 	- parziale
 		- paucisintomatica, dispnea sottosforzo, dolore arti inf, tachicardia, tachipnea, rantoli, quarto tono
-		- dd polmonite, pneumotorace, edema polmonare
+		- dd [[polmonite]], [[pneumotorace]], [[edema polmonare]]
 - [[score di wells]]
 	- >3 alta probabilita [[ep]]
 	- 1-2 moderata, 1 bassa

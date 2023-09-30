@@ -37,7 +37,7 @@
 	- [[aip]] [[polmonite interstiziale acuta]] morte in mesi
 	- [[nsip]] [[polmonite interstiziale non specifica]] ground-glass alto, 4-13 y prognosi, risponde a [[corticosteroidi]], 50 yo, honeycombing in basso
 	- [[rb-ild]] [[bronchiolite alveolare]], intrappolamento aria a valle in inspirazione, bronchiolo infiammato si chiude, alveolo gonfia, [[corticosteroidi]]+
-	- [[cop]] [[polmonite interstiziale criptogenetica]] seguono [[polmonite]], th per polmonite, [[corticosteroidi]] guariscono
+	- [[cop]] [[polmonite interstiziale criptogenetica]] seguono [[polmonite]], th per [[polmonite]], [[corticosteroidi]] guariscono
 	- [[lip]] [[polmonite interstiziale linfocitaria]]
 - forme cistiche
 	- [[lam]] [[linfangioleiomiomatosi]] pattern cistico, giovani f, fumo, in mantello e midollo, pareti sottili, non risparmia aree, non recuperabile con stop fumo
@@ -72,5 +72,5 @@
 		- fibrosi da asbesto placche pleuriche
 	- no criteri ats/ers
 - se aspetto atipico: ground-glass o cistico
-	- broncoscopia con [[bal]]
+	- [[broncoscopia]] con [[bal]]
 	- biopsia chirurgica

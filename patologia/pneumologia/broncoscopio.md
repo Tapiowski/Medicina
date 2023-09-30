@@ -7,7 +7,7 @@
 - pulsante di aspirazione
 - canale operativo
 - navigatore elettromagnetico optional
-	- tac, broncoscopia virtuale
+	- tac, [[broncoscopia]] virtuale
 	- punti di repere traslati su pz
 	- macchina indirizza medico su tessuto
 	- possibilita di prelievo

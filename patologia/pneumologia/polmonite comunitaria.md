@@ -73,9 +73,9 @@
 	- rx
 		- opacita da addensamento
 		- dd neoplasia
-			- broncogramma aereo da bronchi ripieni d'aria 95% polmonite
+			- broncogramma aereo da bronchi ripieni d'aria 95% [[polmonite]]
 	- tc
-		- dd addensamento polmonite/tumore: pervieta
+		- dd addensamento [[polmonite]]/tumore: pervieta
 - th empirica
 	- antibiotici ampio spettro
 - approccio pz
