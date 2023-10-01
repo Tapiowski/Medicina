@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia/cardiologia/apparato cardiovascolare.md",
+                "file": "patologia/cardiologia/cardiologia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -28,11 +28,11 @@
         "type": "split",
         "children": [
           {
-            "id": "ad60d76feb9f04ce",
+            "id": "78246adfa7689027",
             "type": "split",
             "children": [
               {
-                "id": "ed167765fbab145d",
+                "id": "395025ed5ca04a32",
                 "type": "tabs",
                 "children": [
                   {
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "patologia/cardiologia/apparato cardiovascolare.md"
+                        "file": "patologia/cardiologia/cardiologia.md"
                       }
                     },
                     "group": "ed412e0d4b0d543f"
@@ -49,23 +49,23 @@
                 ]
               },
               {
-                "id": "0a9fdf27c9a51ae5",
+                "id": "8673ea1cc20e01ab",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "b75ea612cf59f395",
+                    "id": "c3d92fc4a27d017d",
                     "type": "leaf",
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "patologia/cardiologia/apparato cardiovascolare.md",
-                        "collapseAll": true,
+                        "file": "patologia/cardiologia/cardiologia.md",
+                        "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
                         "showSearch": false,
                         "searchQuery": "",
                         "backlinkCollapsed": false,
-                        "unlinkedCollapsed": false
+                        "unlinkedCollapsed": true
                       }
                     },
                     "group": "ed412e0d4b0d543f"
@@ -85,7 +85,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "patologia/cardiologia/apparato cardiovascolare.md",
+                    "file": "patologia/cardiologia/cardiologia.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/cardiologia/apparato cardiovascolare.md",
+                "file": "patologia/cardiologia/cardiologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/cardiologia/apparato cardiovascolare.md",
+                "file": "patologia/cardiologia/cardiologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia/cardiologia/apparato cardiovascolare.md"
+                "file": "patologia/cardiologia/cardiologia.md"
               }
             }
           }
@@ -242,17 +242,19 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
+    "patologia/cardiologia/sindrome aortica acuta.md",
     "patologia/cardiologia/cardiologia.md",
-    "patologia/cardiologia/apparato cardiovascolare.md",
+    "patologia/cardiologia/semeiotica cardiovascolare.md",
     "patologia/patologia sistematica I.md",
+    "patologia/cardiologia/apparato cardiovascolare.md",
     "patologia/cardiologia/dissecazione aortica.md",
     "patologia/cardiologia/coartazione aortica.md",
-    "patologia/cardiologia/sindrome aortica acuta.md",
     "patologia/0/ematoma intramurale.md",
     "patologia/0/ulcera penetrante.md",
     "chirurgia/chirurgia vascolare/dissecazione aortica tipo B.md",
@@ -271,7 +273,6 @@
     "patologia/cardiologia/NSTEMI.md",
     "patologia/cardiologia/angina instabile.md",
     "farmacologia/cardiovascolare/farmaci calcio antagonisti.md",
-    "farmacologia/cardiovascolare/nitrossido.md",
-    "patologia/cardiologia/cardiomiopatia ischemica in fase acuta.md"
+    "farmacologia/cardiovascolare/nitrossido.md"
   ]
 }
