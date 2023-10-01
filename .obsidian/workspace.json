@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia/cardiologia/dissecazione aortica.md",
+                "file": "patologia/cardiologia/apparato cardiovascolare.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "patologia/cardiologia/dissecazione aortica.md"
+                        "file": "patologia/cardiologia/apparato cardiovascolare.md"
                       }
                     },
                     "group": "ed412e0d4b0d543f"
@@ -58,7 +58,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "patologia/cardiologia/dissecazione aortica.md",
+                        "file": "patologia/cardiologia/apparato cardiovascolare.md",
                         "collapseAll": true,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "patologia/cardiologia/dissecazione aortica.md",
+                    "file": "patologia/cardiologia/apparato cardiovascolare.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/cardiologia/dissecazione aortica.md",
+                "file": "patologia/cardiologia/apparato cardiovascolare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/cardiologia/dissecazione aortica.md",
+                "file": "patologia/cardiologia/apparato cardiovascolare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia/cardiologia/dissecazione aortica.md"
+                "file": "patologia/cardiologia/apparato cardiovascolare.md"
               }
             }
           }
@@ -247,8 +247,11 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "patologia/cardiologia/coartazione aortica.md",
+    "patologia/cardiologia/cardiologia.md",
+    "patologia/cardiologia/apparato cardiovascolare.md",
+    "patologia/patologia sistematica I.md",
     "patologia/cardiologia/dissecazione aortica.md",
+    "patologia/cardiologia/coartazione aortica.md",
     "patologia/cardiologia/sindrome aortica acuta.md",
     "patologia/0/ematoma intramurale.md",
     "patologia/0/ulcera penetrante.md",
@@ -262,7 +265,6 @@
     "chirurgia/chirurgia vascolare/sindrome di marfan.md",
     "patologia/0/sindrome di loeys-dietz.md",
     "anatomia/aorta.md",
-    "patologia/cardiologia/cardiologia.md",
     "patologia/cardiologia/cardiopatia ischemica.md",
     "patologia/cardiologia/sindrome coronarica acuta.md",
     "patologia/cardiologia/STEMI.md",
@@ -270,8 +272,6 @@
     "patologia/cardiologia/angina instabile.md",
     "farmacologia/cardiovascolare/farmaci calcio antagonisti.md",
     "farmacologia/cardiovascolare/nitrossido.md",
-    "patologia/cardiologia/cardiomiopatia ischemica in fase acuta.md",
-    "patologia/patologia sistematica I.md",
-    "templates/patologia sistematica.md"
+    "patologia/cardiologia/cardiomiopatia ischemica in fase acuta.md"
   ]
 }
