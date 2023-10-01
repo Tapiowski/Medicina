@@ -1,0 +1,1 @@
+lassita tessuti per modifica procollagene: dissezioni, fragilita tessuti splancnici

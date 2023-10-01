@@ -1,5 +1,5 @@
 - patologia
-	- vaso arterosclerotico, rottura placca, attivazione piastrinica in minuti/or occlue vaso con formazione trombo
+	- vaso arterosclerotico, rottura placca, attivazione piastrinica in minuti/ore occlude vaso con formazione trombo
 	- ischemia a valle
 	- necrosi
 - eventi elettrici
@@ -20,5 +20,5 @@
 		- lesione epicardica transmurale: lesione da endocardio ad epicardio: sopraslivellamento ST
 		- lesione endocardica: da sano a malato, da epicardio a endocardio, sottoslivellamento ST
 - in necrosi
-	- Q, QS, da buco elettrico: cariche negative da interno cavita, dal lato oopposto
+	- Q, QS, da buco elettrico: cariche negative da interno cavita, dal lato opposto
 	- onde Q di necrosi

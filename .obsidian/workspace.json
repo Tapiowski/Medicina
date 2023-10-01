@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia/cardiologia/cardiologia.md",
+                "file": "patologia/cardiologia/dissecazione aortica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "patologia/cardiologia/cardiologia.md"
+                        "file": "patologia/cardiologia/dissecazione aortica.md"
                       }
                     },
                     "group": "ed412e0d4b0d543f"
@@ -58,7 +58,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "patologia/cardiologia/cardiologia.md",
+                        "file": "patologia/cardiologia/dissecazione aortica.md",
                         "collapseAll": true,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -85,14 +85,14 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "patologia/cardiologia/cardiologia.md",
+                    "file": "patologia/cardiologia/dissecazione aortica.md",
                     "options": {
-                      "collapse-filter": true,
+                      "collapse-filter": false,
                       "search": "",
                       "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
-                      "localInterlinks": false,
+                      "localInterlinks": true,
                       "showTags": false,
                       "showAttachments": false,
                       "hideUnresolved": false,
@@ -103,12 +103,12 @@
                       "textFadeMultiplier": 0,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
+                      "collapse-forces": true,
                       "centerStrength": 0.692708333333333,
                       "repelStrength": 10,
                       "linkStrength": 0.130208333333333,
                       "linkDistance": 30,
-                      "scale": 1,
+                      "scale": 0.713275462622443,
                       "close": true
                     }
                   }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/cardiologia/cardiologia.md",
+                "file": "patologia/cardiologia/dissecazione aortica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/cardiologia/cardiologia.md",
+                "file": "patologia/cardiologia/dissecazione aortica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia/cardiologia/cardiologia.md"
+                "file": "patologia/cardiologia/dissecazione aortica.md"
               }
             }
           }
@@ -247,31 +247,31 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "patologia/cardiologia/elettrocardiografia.md",
+    "patologia/cardiologia/coartazione aortica.md",
+    "patologia/cardiologia/dissecazione aortica.md",
+    "patologia/cardiologia/sindrome aortica acuta.md",
+    "patologia/0/ematoma intramurale.md",
+    "patologia/0/ulcera penetrante.md",
+    "chirurgia/chirurgia vascolare/dissecazione aortica tipo B.md",
+    "chirurgia/chirurgia vascolare/dissecazione aortica tipo A.md",
+    "patologia/cardiologia/ipertensione grave.md",
+    "patologia/0/artrite a cc giganti.md",
+    "patologia/cardiologia/bicuspidia aortica.md",
+    "patologia/0/sindrome di turner.md",
+    "patologia/0/sindrome di ehler-danlos.md",
+    "chirurgia/chirurgia vascolare/sindrome di marfan.md",
+    "patologia/0/sindrome di loeys-dietz.md",
+    "anatomia/aorta.md",
     "patologia/cardiologia/cardiologia.md",
-    "patologia/cardiologia/semeiotica cardiovascolare.md",
-    "statistica/tomografia computerizzata.md",
-    "semeiotica/TC.md",
-    "semeiotica/risonanza magnetica.md",
-    "semeiotica/rm.md",
-    "semeiotica/angiografia.md",
-    "patologia/cardiologia/ecocardiografia.md",
     "patologia/cardiologia/cardiopatia ischemica.md",
-    "patologia/cardiologia/angina pectoris.md",
-    "patologia/cardiologia/sindrome coronarica cronica.md",
-    "patologia/cardiologia/angina stabile.md",
-    "patologia/cardiologia/angina da sforzo.md",
-    "semeiotica/dolore toracico.md",
-    "fisiologia/flusso coronarico.md",
     "patologia/cardiologia/sindrome coronarica acuta.md",
-    "patologia/cardiologia/cardiomiopatia ischemica in fase acuta.md",
-    "patologia/cardiologia/NSTEMI.md",
     "patologia/cardiologia/STEMI.md",
-    "patologia/cardiologia/angioplastica.md",
-    "patologia/cardiologia/infarto miocardico.md",
-    "patologia/cardiologia/morte cardiaca improvvisa.md",
+    "patologia/cardiologia/NSTEMI.md",
     "patologia/cardiologia/angina instabile.md",
-    "patologia/cardiologia/scompenso cardiaco.md",
-    "patologia/patologia sistematica I.md"
+    "farmacologia/cardiovascolare/farmaci calcio antagonisti.md",
+    "farmacologia/cardiovascolare/nitrossido.md",
+    "patologia/cardiologia/cardiomiopatia ischemica in fase acuta.md",
+    "patologia/patologia sistematica I.md",
+    "templates/patologia sistematica.md"
   ]
 }

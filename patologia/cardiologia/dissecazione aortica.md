@@ -17,24 +17,22 @@
 - breccia di ingresso sangue nel lume falso tipo A ascendente, tipo B a discendente prossimale a radice a succlavia sx (stanford)
 ### fattori di rischio
 - malattie ereditarie
-	- [[sindrome di marfan]]: disordine connettivo per alterazione fibrillina che mantiene legami tra lamelle elastiche > [[dissezione aortica]]
-	- [[sindrome di loeys-dietz]]: AD, espressivita variabile
-		- geni tgfbr1,2 chr 9q 3p: tortuosita arterie per modifica matrice, indebolisce connettico: ipertelorismo: + distanza interoculare, palatoschisi, ugola bifida e tortuosita generalizzata arterie
-	- [[sindrome di ehler-danlos]]: lassita tessuti per modifica procollagene: dissezioni, fragilita tessuti splancnici
-	- [[sindrome di turner]] monosomia chr x: debolezza aortica, bicuspidia aortica 2 lembi in valvola aortica, coartazione aortica
+	- [[sindrome di marfan]]
+	- [[sindrome di loeys-dietz]]
+	- [[sindrome di ehler-danlos]]
+	- [[sindrome di turner]]
 - m degenerative non correlate a snd ereditarie
 	- degenerazione parete aortica
 		- [[medionecrosi cistica di erdheim]]: a toracica
 		- [[aterosclerosi]] a toracica distale e addominale
 			- alterazioni funzionali parete aortica tonaca intima estende a t media
 			- danni da macrofagi
-	- [[bicuspidia aortica]] dizzesione per deficit fbn1-fibrillina1: insufficienza oartica, stenosi asssociata ad aneurisma, anomalia valvola causa turbolenza in a ascendente + flusso in uscita: spinge su parete degenerata: a ascendente
+	- [[bicuspidia aortica]]
 	- [[coartazione aortica]] a diametro minore: parete debole, dilatazione post stenotica
 - m autoimmuni
-	- [[artrite a cc giganti]]: antigeni self, tonache parete, infiltrato infiammatorio indebolisce parete
-		- tac spessore parete infiltrato intorno al lume bianco
+	- [[artrite a cc giganti]]
 - fattori iatorigeni, traumi
-	- arco aortico, a discendete
+	- arco aortico, a discendente
 	- aorta toracica ferma e arco e cuore forza di ineriza in zona passaggio lacerazione e danno
 	- cateteri in angiografia, lesioni chirurgia, contropulsatore aortico, palloncino per pz scompensato
 - storia familiare: 50% familiari ha alterazione fenotipica aorta o genetica

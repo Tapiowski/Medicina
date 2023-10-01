@@ -1,5 +1,0 @@
-- ## definizione
-- ## indicazioni
-- ## controindicazioni
-- ## complicanze
-- ## trattamenti innovativi

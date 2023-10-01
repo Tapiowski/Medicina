@@ -1,8 +1,15 @@
-- ## definizione
-- ## epidemiologia
-- ## eziologia
-- ## fisiopatologia
-- ## clinica
-- ## diagnosi
-- ## terapia
-- ## prognosi
+## definizione
+
+## epidemiologia
+
+## eziologia
+
+## fisiopatologia
+
+## clinica
+
+## diagnosi
+
+## terapia
+
+## prognosi

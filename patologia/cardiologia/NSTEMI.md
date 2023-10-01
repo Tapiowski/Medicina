@@ -1,3 +1,4 @@
+- non st elevation miocardial infarction
 - occlusione coronarica incompleta, intermittente
 	- flusso residuo
 	- lesione subendocardica

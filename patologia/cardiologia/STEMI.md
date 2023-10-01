@@ -1,4 +1,5 @@
 ## definzione
+- st-elevation myocardical infarction
 - occlusione coronarica completa/persistente
 	- trombo occlusivo, stabile
 	- lesione transmurale

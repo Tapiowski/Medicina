@@ -4,8 +4,9 @@
 - [[sca]]
 
 ## classificazione
-- ### [[angina instabile]] tessuto non rilascia troponina
+- ### [[angina instabile]]
+	- tessuto non rilascia troponina
 - ### [[morte cardiaca improvvisa]]
 - ### [[infarto miocardico]]
-	- ### [[NSTEMI]] non st elevation miocardial infarction
-	- ### [[STEMI]] st-elevation myocardical infarction
+	- ### [[NSTEMI]]
+	- ### [[STEMI]]

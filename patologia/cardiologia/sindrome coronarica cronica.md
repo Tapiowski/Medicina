@@ -1,7 +1,7 @@
 ## definzione
 - sofferenza miocardio da squilibrio richieste/apporto o2
 - [[cardiopatia ischemica cronica]], [[cardiomiopatia ischemica stabile]]
-- - [[flusso coronarico]]
+- -[[flusso coronarico]]
 
 ## epidemiologia
 - esordio cardiopatia ischemica in 50% casi, aumenta con eta rischio cardiovascolare

@@ -1,7 +1,6 @@
 ## descrizione
 - [[cardiomiopatia ischemica]], [[ischemia miocardica]]
-- discrepanza, irreversibile o non tra richiesta metabolica [[miocardio]] e apporto o2 ematico da [[coronarie]]
-- struttura [[coronarie]]
+- discrepanza, irreversibile o non, tra richiesta metabolica [[miocardio]] e apporto o2 ematico da [[coronarie]]
 
 ## eziologia
 - consumo o2 miocardio 1.5 ml/min ogni 100 g di tessuto

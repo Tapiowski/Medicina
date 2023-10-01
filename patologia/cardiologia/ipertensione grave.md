@@ -1,0 +1,1 @@
+PS pressione sistolica fino a 200 mmhg

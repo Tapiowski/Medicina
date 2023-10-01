@@ -1,0 +1,1 @@
+monosomia chr x: debolezza aortica, bicuspidia aortica 2 lembi in valvola aortica, [[coartazione aortica]]

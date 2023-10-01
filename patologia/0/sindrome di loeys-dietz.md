@@ -1,0 +1,2 @@
+- AD, espressivita variabile
+	- geni tgfbr1,2 chr 9q 3p: tortuosita arterie per modifica matrice, indebolisce connettico: ipertelorismo: + distanza interoculare, palatoschisi, ugola bifida e tortuosita generalizzata arterie

@@ -1,0 +1,1 @@
+dizzesione per deficit fbn1-fibrillina1: insufficienza oartica, stenosi asssociata ad aneurisma, anomalia valvola causa turbolenza in a ascendente + flusso in uscita: spinge su parete degenerata: a ascendente
