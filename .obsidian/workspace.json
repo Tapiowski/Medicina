@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia/cardiologia/cardiologia.md",
+                "file": "patologia/cardiologia/ipertensione arteriosa.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "patologia/cardiologia/cardiologia.md"
+                        "file": "patologia/cardiologia/ipertensione arteriosa.md"
                       }
                     },
                     "group": "ed412e0d4b0d543f"
@@ -58,7 +58,7 @@
                     "state": {
                       "type": "backlink",
                       "state": {
-                        "file": "patologia/cardiologia/cardiologia.md",
+                        "file": "patologia/cardiologia/ipertensione arteriosa.md",
                         "collapseAll": false,
                         "extraContext": false,
                         "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "patologia/cardiologia/cardiologia.md",
+                    "file": "patologia/cardiologia/ipertensione arteriosa.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/cardiologia/cardiologia.md",
+                "file": "patologia/cardiologia/ipertensione arteriosa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/cardiologia/cardiologia.md",
+                "file": "patologia/cardiologia/ipertensione arteriosa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia/cardiologia/cardiologia.md"
+                "file": "patologia/cardiologia/ipertensione arteriosa.md"
               }
             }
           }
@@ -248,8 +248,8 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "patologia/cardiologia/sindrome aortica acuta.md",
     "patologia/cardiologia/cardiologia.md",
+    "patologia/cardiologia/sindrome aortica acuta.md",
     "patologia/cardiologia/semeiotica cardiovascolare.md",
     "patologia/patologia sistematica I.md",
     "patologia/cardiologia/apparato cardiovascolare.md",
