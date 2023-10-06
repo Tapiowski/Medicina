@@ -6,6 +6,7 @@
       {
         "id": "1a681e49a29044a5",
         "type": "tabs",
+        "dimension": 73.22456813819578,
         "children": [
           {
             "id": "2bffc1ff3dcaee81",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia/patologia sistematica I.md",
+                "file": "patologia/pneumologia/semeiotica pneumologica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -24,101 +25,47 @@
         ]
       },
       {
-        "id": "05c99f2a3b6f0f5e",
-        "type": "split",
+        "id": "e79b3e54a4f4b165",
+        "type": "tabs",
+        "dimension": 26.775431861804222,
         "children": [
           {
-            "id": "78246adfa7689027",
-            "type": "split",
-            "children": [
-              {
-                "id": "395025ed5ca04a32",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "a33c9950d57505ea",
-                    "type": "leaf",
-                    "state": {
-                      "type": "outline",
-                      "state": {
-                        "file": "patologia/patologia sistematica I.md"
-                      }
-                    },
-                    "group": "ed412e0d4b0d543f"
-                  }
-                ]
-              },
-              {
-                "id": "8673ea1cc20e01ab",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "c3d92fc4a27d017d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "backlink",
-                      "state": {
-                        "file": "patologia/patologia sistematica I.md",
-                        "collapseAll": false,
-                        "extraContext": false,
-                        "sortOrder": "alphabetical",
-                        "showSearch": false,
-                        "searchQuery": "",
-                        "backlinkCollapsed": false,
-                        "unlinkedCollapsed": true
-                      }
-                    },
-                    "group": "ed412e0d4b0d543f"
-                  }
-                ]
+            "id": "48013f48470ff939",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "patologia/pneumologia/semeiotica pneumologica.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "5b30de9d958f3fab",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0702dc6b58f2e57a",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "patologia/patologia sistematica I.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.692708333333333,
-                      "repelStrength": 10,
-                      "linkStrength": 0.130208333333333,
-                      "linkDistance": 30,
-                      "scale": 0.713275462622443,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "ed412e0d4b0d543f"
-              }
-            ]
+            },
+            "group": "ed412e0d4b0d543f"
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4332d775c73bac43",
@@ -184,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/patologia sistematica I.md",
+                "file": "patologia/pneumologia/semeiotica pneumologica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/patologia sistematica I.md",
+                "file": "patologia/pneumologia/semeiotica pneumologica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia/patologia sistematica I.md"
+                "file": "patologia/pneumologia/semeiotica pneumologica.md"
               }
             }
           }
@@ -246,13 +193,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2bffc1ff3dcaee81",
+  "active": "48013f48470ff939",
   "lastOpenFiles": [
-    "patologia/cardiologia/ipertensione arteriosa.md",
+    "patologia/pneumologia/enfisema polmonare.md",
+    "patologia/pneumologia/semeiotica pneumologica.md",
+    "patologia/pneumologia/pneumologia.md",
+    "patologia/patologia sistematica I.md",
     "patologia/cardiologia/cardiologia.md",
+    "patologia/cardiologia/ipertensione arteriosa.md",
     "patologia/cardiologia/sindrome aortica acuta.md",
     "patologia/cardiologia/semeiotica cardiovascolare.md",
-    "patologia/patologia sistematica I.md",
     "patologia/cardiologia/apparato cardiovascolare.md",
     "patologia/cardiologia/dissecazione aortica.md",
     "patologia/cardiologia/coartazione aortica.md",
@@ -270,9 +220,6 @@
     "anatomia/aorta.md",
     "patologia/cardiologia/cardiopatia ischemica.md",
     "patologia/cardiologia/sindrome coronarica acuta.md",
-    "patologia/cardiologia/STEMI.md",
-    "patologia/cardiologia/NSTEMI.md",
-    "patologia/cardiologia/angina instabile.md",
-    "farmacologia/cardiovascolare/farmaci calcio antagonisti.md"
+    "patologia/cardiologia/STEMI.md"
   ]
 }
