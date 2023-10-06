@@ -3,4 +3,4 @@
 ## [[chirurgia vascolare]] -
 ## [[chirurgia toracica]] -
 
-B-444 funziona?
+B-444
