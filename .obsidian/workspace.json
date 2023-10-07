@@ -6,7 +6,7 @@
       {
         "id": "1a681e49a29044a5",
         "type": "tabs",
-        "dimension": 73.22456813819578,
+        "dimension": 65.83493282149712,
         "children": [
           {
             "id": "2bffc1ff3dcaee81",
@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia/pneumologia/semeiotica pneumologica.md",
-                "mode": "preview",
+                "file": "patologia/pneumologia/pneumologia.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -27,7 +27,7 @@
       {
         "id": "e79b3e54a4f4b165",
         "type": "tabs",
-        "dimension": 26.775431861804222,
+        "dimension": 34.16506717850288,
         "children": [
           {
             "id": "48013f48470ff939",
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia/pneumologia/semeiotica pneumologica.md",
+                "file": "patologia/pneumologia/pneumologia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -111,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/pneumologia/semeiotica pneumologica.md",
+                "file": "patologia/pneumologia/pneumologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/pneumologia/semeiotica pneumologica.md",
+                "file": "patologia/pneumologia/pneumologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia/pneumologia/semeiotica pneumologica.md"
+                "file": "patologia/pneumologia/pneumologia.md"
               }
             }
           }
@@ -195,11 +196,11 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "patologia/pneumologia/dispnea.md",
+    "patologia/patologia sistematica I.md",
     "patologia/pneumologia/semeiotica pneumologica.md",
+    "patologia/pneumologia/dispnea.md",
     "patologia/pneumologia/enfisema polmonare.md",
     "patologia/pneumologia/pneumologia.md",
-    "patologia/patologia sistematica I.md",
     "patologia/cardiologia/cardiologia.md",
     "patologia/cardiologia/ipertensione arteriosa.md",
     "patologia/cardiologia/sindrome aortica acuta.md",
