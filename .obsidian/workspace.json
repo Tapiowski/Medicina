@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "patologia/pneumologia/semeiotica pneumologica.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -193,10 +193,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "48013f48470ff939",
+  "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "patologia/pneumologia/enfisema polmonare.md",
+    "patologia/pneumologia/dispnea.md",
     "patologia/pneumologia/semeiotica pneumologica.md",
+    "patologia/pneumologia/enfisema polmonare.md",
     "patologia/pneumologia/pneumologia.md",
     "patologia/patologia sistematica I.md",
     "patologia/cardiologia/cardiologia.md",
@@ -219,7 +220,6 @@
     "patologia/0/sindrome di loeys-dietz.md",
     "anatomia/aorta.md",
     "patologia/cardiologia/cardiopatia ischemica.md",
-    "patologia/cardiologia/sindrome coronarica acuta.md",
-    "patologia/cardiologia/STEMI.md"
+    "patologia/cardiologia/sindrome coronarica acuta.md"
   ]
 }
