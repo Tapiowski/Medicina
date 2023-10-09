@@ -30,5 +30,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
   ]
 }
