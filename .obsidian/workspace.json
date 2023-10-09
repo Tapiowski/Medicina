@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia/pneumologia/pneumologia.md",
+                "file": "patologia/pneumologia/semeiotica pneumologica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia/pneumologia/pneumologia.md",
+                "file": "patologia/pneumologia/semeiotica pneumologica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/pneumologia/pneumologia.md",
+                "file": "patologia/pneumologia/semeiotica pneumologica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/pneumologia/pneumologia.md",
+                "file": "patologia/pneumologia/semeiotica pneumologica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia/pneumologia/pneumologia.md"
+                "file": "patologia/pneumologia/semeiotica pneumologica.md"
               }
             }
           }
@@ -196,11 +196,11 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "patologia/patologia sistematica I.md",
+    "patologia/pneumologia/pneumologia.md",
     "patologia/pneumologia/semeiotica pneumologica.md",
+    "patologia/patologia sistematica I.md",
     "patologia/pneumologia/dispnea.md",
     "patologia/pneumologia/enfisema polmonare.md",
-    "patologia/pneumologia/pneumologia.md",
     "patologia/cardiologia/cardiologia.md",
     "patologia/cardiologia/ipertensione arteriosa.md",
     "patologia/cardiologia/sindrome aortica acuta.md",
