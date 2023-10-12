@@ -1,9 +1,0 @@
-- [[tc]]
-- anni 80
-- scansioni assiali dal basso
-- bianco iperdenso, scuro ipodenso
-- [[tac]] con o senza mezzo di contrasto
-- ricostruzioni su tre piani
-- radiazioni ionizzanti
-- [[angiotc]]: tc con mezzo di contrasto
-- [[hrtc]] High-resolution computed tomography

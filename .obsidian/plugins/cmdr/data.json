@@ -1,5 +1,5 @@
 {
-  "confirmDeletion": false,
+  "confirmDeletion": true,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
@@ -13,7 +13,7 @@
     },
     {
       "id": "workspaces-plus:Local",
-      "icon": "locate",
+      "icon": "git-branch-plus",
       "name": "Workspaces Plus: Load: Local",
       "mode": "any"
     }
@@ -26,14 +26,7 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": [
-      "Open graph view",
-      "Create new canvas",
-      "Insert template",
-      "Open command palette",
-      "Manage workspace layouts",
-      "Advanced Tables Toolbar"
-    ]
+    "leftRibbon": []
   },
   "spacing": 8,
   "advancedToolbar": {

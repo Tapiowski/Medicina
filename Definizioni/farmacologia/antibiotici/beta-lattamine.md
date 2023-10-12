@@ -1,0 +1,46 @@
+- ## meccanismo d'azione
+	- ### anello b-lattame
+	- ### inibizione sintesi peptidoglicano, parete cellulare
+	- #### peptidoglicano
+		- composto eterpolimerico, permette rigidita e stabilita meccanica
+		- b-lattamici inibiscono ultimo step, legando transpeptidase PBP che catalizza polimerizzazione
+		- spessore parete
+			- gram+ 50-100 molecole
+			- gram- 1-2 molecole
+		- composizione
+			- catene glicano formate da alternarsi di amino zuccheri lineari e cross linked da catene peptidiche
+			- NAM-NAG amino-esosi
+		- precursori
+			- citoplasma UDP-acetilmuramil-pentapetide + dipeptide D-alanyl-D-alanine da L-alanina
+			- unite in lungo polimero
+			- crosslink da reazione di transpeptidazione in membrana
+		- PBP penicillin binding protein
+			- TP: cross-link aa catene laterali
+			- GT: lega subunita del polimero glicopeptide
+	- ### b-lattamici
+		- blocca transpeptidazione dei crosslink
+		- acilazione della TP via taglio -CO-N dell-anello b-lattame
+		- meccanismi letali litici e non
+- ## resistenza
+	- ### minore affinita PBP per antibiotico
+		- mutazioni, ricombinazioni omologhe per diverse specie: [[streptococco]] pneumoniae
+		- transposoni: resistenza meticillina in [[stafilococco]] coagulase-negativo
+	- ### minore penetrazione sito d'azione
+		- [[gram+]]
+			- peptidoglicano vicino a cc, facile penetrazione membrana ext, legame PBP
+		- [[gram-]]
+			- membrana int coperta da membrana ext, lipopolisaccaride, capsula
+			- piccoli antibiotici idrofilici diffondono tramite porine
+	- ### pompe di efflusso
+		- rimozione antibiotico prima che possa agire
+	- ### ![[beta-lattamasi]]
+	- ### ambiente locale
+		- impianti protetici, biofilm
+		- batteri intracc meno sensibili
+- ## classificazione
+	- ### [[penicilline]]
+	- ### [[cefalosporine]]
+	- ### [[glicopeptidi]]
+	- ### [[carbapenemi]]
+	- ### [[monobattami]]
+- ## [[inibitori beta-lattamasi]]

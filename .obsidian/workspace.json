@@ -11,58 +11,87 @@
             "id": "2bffc1ff3dcaee81",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Home.canvas",
-                "viewState": {
-                  "x": -240,
-                  "y": -390,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "c4bb04c8a4868367",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Struttura.md",
+                "file": "Definizioni/patologia/cardiologia/malattie reumatiche cardiologiche.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "59edf19eee1f29a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Struttura.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4c95f8d67efd20f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Home.canvas",
-                "viewState": {
-                  "x": 41.590038314176226,
-                  "y": -90.57662835249045,
-                  "zoom": -0.21288533559207232
-                }
-              }
-            }
+            },
+            "group": "af2e3e8d17e724cf"
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "5291ad91a9a925f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afce5fc4800bc565",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Definizioni/patologia/cardiologia/malattie reumatiche cardiologiche.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "path:patologia/cardiologia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "path:patologia/pneumologia path:",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    },
+                    {
+                      "query": "path:farmacologia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "path:chirurgia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622443,
+                  "close": true
+                }
+              }
+            },
+            "group": "af2e3e8d17e724cf"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.canvas"
+                "file": "Definizioni/patologia/cardiologia/malattie reumatiche cardiologiche.md"
               }
             }
           }
@@ -144,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.canvas",
+                "file": "Definizioni/patologia/cardiologia/malattie reumatiche cardiologiche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.canvas",
+                "file": "Definizioni/patologia/cardiologia/malattie reumatiche cardiologiche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +217,7 @@
     "hiddenItems": {
       "cmdr:Workspaces Plus: Load: Home": false,
       "cmdr:Workspaces Plus: Load: Local": false,
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
@@ -199,40 +228,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e4c95f8d67efd20f",
+  "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "Struttura.md",
-    "100 citazioni.md",
+    "Definizioni/patologia/cardiologia.md",
+    "Definizioni/patologia/cardiologia/endocardite infettiva.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia.md",
+    "Definizioni/patologia/cardiologia/malattia di barlow.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatie non classificabili.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatie da stress.md",
+    "Definizioni/patologia/cardiologia/ventricolo sin non compatto.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia aritmogena.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia restrittiva.md",
+    "Definizioni/patologia/cardiologia/amiloidosi cardiaca.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
+    "Definizioni/patologia/cardiologia/dispnea da sforzo.md",
+    "Definizioni/patologia/cardiologia/sincope.md",
+    "Definizioni/patologia/cardiologia/sincope riflessa.md",
+    "Definizioni/patologia/cardiologia/sincope di morgagni adams stokes.md",
+    "Definizioni/patologia/cardiologia/sincope cardiaca.md",
+    "Definizioni/patologia/cardiologia/sincope non cardiaca.md",
+    "Definizioni/patologia/cardiologia/cardiopalmo.md",
+    "Definizioni/patologia/cardiologia/aterosclerosi.md",
+    "Definizioni/patologia/cardiologia/ipertensione arteriosa.md",
+    "Definizioni/patologia/cardiologia/aritmie.md",
+    "Definizioni/patologia/cardiologia/pre-eccitazione ventricolare.md",
+    "Definizioni/patologia/cardiologia/canalopatie.md",
+    "Definizioni/patologia/cardiologia/sindrome qt corto.md",
+    "Definizioni/patologia/cardiologia/tachicardia catecolaminergica polimorfa.md",
+    "Definizioni/patologia/cardiologia/sindrome di brugada.md",
     "Home.canvas",
-    "100 esami/10.11.2023.md",
-    "Corso di Medicina e Chirurgia.md",
-    "patologia/patologia sistematica I.md",
-    "100 compiti/esame 10.11.2023.md",
-    "100 appunti",
-    "100 citazioni",
-    "100 compiti",
-    "patologia/cardiologia/cardiologia.md",
-    "100 esami",
-    "farmacologia/farmacologia speciale.md",
-    "farmacologia/antibiotici/farmaci chemio-antibiotici.md",
-    "100 files/Recording 20231012164710.webm",
-    "patologia/cardiologia/elettrocardiografia.md",
-    "100 note/2023-10-12.md",
-    "patologia/cardiologia/apparato cardiovascolare.md",
-    "cardiologia 1.md",
-    "patologia/cardiologia/cardiopatia ischemica.md",
-    "patologia/cardiologia/aterosclerosi.md",
-    "templates/zettelkasten template.md",
-    "100 note/Untitled.md",
-    "patologia/cardiologia/NSTEMI.md",
-    "patologia/cardiologia/aritmie.md",
-    "patologia/cardiologia/sindrome aortica acuta.md",
-    "patologia/patologia sistematica II.md",
-    "100 note",
-    "patologia/patologia sistematica III.md",
-    "patologia/patologia sistematica IV.md",
-    "farmacologia/cardiovascolare/farmaci inotropi positivi.md",
-    "fisiologia/recettori alfa-1.md",
-    "farmacologia/cardiovascolare/ipertensione.md"
+    "200",
+    "Moduli",
+    "Topic",
+    "100/classe",
+    "100/new file",
+    "Definizioni",
+    "100",
+    "100/classe",
+    "200/lezioni",
+    "200/citazioni"
   ]
 }

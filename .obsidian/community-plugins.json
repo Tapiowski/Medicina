@@ -1,13 +1,12 @@
 [
   "table-editor-obsidian",
   "obsidian-git",
-  "dataview",
   "obsidian-mind-map",
-  "cmdr",
-  "metadata-menu",
   "url-into-selection",
   "obsidian-plugin-update-tracker",
-  "quickadd",
   "workspaces-plus",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "cmdr",
+  "dataview",
+  "metadata-menu"
 ]

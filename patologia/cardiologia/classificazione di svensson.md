@@ -1,3 +1,0 @@
-- ### [[dissecazione aortica]]
-- ### [[ematoma intramurale]]
-- ### [[ulcera penetrante]]

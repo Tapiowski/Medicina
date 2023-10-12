@@ -1,14 +1,29 @@
 # Esami
-[[10.11.2023]]
-# Moduli
-## Anno IV
-- [x] [[farmacologia speciale]]
-- [ ] **[[patologia sistematica I]]**
-- [ ] [[patologia sistematica II]]
-- [ ] [[patologia sistematica III]]
-- [ ] [[patologia sistematica IV]]
+```dataview
+table without id file.link as esame, modulo, progresso, data, voto
+from "200/esami"
+```
+
+# Studio
+```dataview
+task
+group by file.link
+```
+
+# Moduli in corso
+```dataview
+table without id file.link as modulo, esame
+from "Moduli"
+where !superato
+```
+
+# Moduli superati
+```dataview
+table without id file.link as modulo, esame
+from "Moduli"
+where superato
+```
+
 # Citazioni
-[[/100 citazioni]]
+
 # Appunti
-# Compiti
-- [ ] [[esame 10.11.2023]]

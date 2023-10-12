@@ -1,7 +1,0 @@
-- ### [[farmaci del sistema renina-angiotensina-aldosterone]]
-- ### [[farmaci simpaticolitici]]
-- ### [[farmaci calcio antagonisti]]
-- ### [[farmaci diuretici]]
-- ### [[farmaci antiaritmici]]
-- ### [[farmaci inotropi positivi]]
-- ### [[nitrossido]]

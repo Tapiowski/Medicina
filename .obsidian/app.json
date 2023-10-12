@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "100 files",
+  "attachmentFolderPath": "100/files",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": false,

@@ -1,7 +1,0 @@
-- ### focali
-	- 120 bpm, P neativa in v23 positiva aVr: no sinusale
-	- P sempre ugale: stessa origine, focus unico in atrio
-- ### multifocali
-	- P con 3 forme diverse almeno, r-r non costante, simile a [[fibrillazione atriale]]
-- ### [[fibrillazione atriale]]
-- ### [[flutter atriale]]
