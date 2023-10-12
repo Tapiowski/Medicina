@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "100 files",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "source",
+  "spellcheck": false,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "rightToLeft": false
+}

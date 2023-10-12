@@ -51,6 +51,12 @@
         "scale": 0.2158387711148685,
         "close": true
       }
+    },
+    {
+      "type": "file",
+      "ctime": 1697124270502,
+      "path": "Home.canvas",
+      "title": "Home"
     }
   ]
 }

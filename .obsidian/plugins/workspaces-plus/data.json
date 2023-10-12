@@ -1,0 +1,42 @@
+{
+  "showInstructions": true,
+  "showDeletePrompt": true,
+  "saveOnSwitch": false,
+  "saveOnChange": false,
+  "workspaceSettings": false,
+  "systemDarkMode": false,
+  "globalSettings": {
+    "accentColor": "#000000",
+    "baseFontSize": 16,
+    "theme": "moonstone",
+    "cssTheme": "",
+    "interfaceFontFamily": "",
+    "textFontFamily": "",
+    "baseFontSizeAction": true,
+    "translucency": false,
+    "nativeMenus": false,
+    "showViewHeader": true,
+    "enabledCssSnippets": [],
+    "promptDelete": false,
+    "attachmentFolderPath": "100 files",
+    "alwaysUpdateLinks": true,
+    "pdfExportSettings": {
+      "includeName": false,
+      "pageSize": "Letter",
+      "landscape": false,
+      "margin": "0",
+      "downscalePercent": 100
+    },
+    "defaultViewMode": "source",
+    "spellcheck": false,
+    "strictLineBreaks": false,
+    "showLineNumber": false,
+    "rightToLeft": false
+  },
+  "activeWorkspaceDesktop": "Home",
+  "activeWorkspaceMobile": "",
+  "reloadLivePreview": false,
+  "workspaceSwitcherRibbon": false,
+  "modeSwitcherRibbon": false,
+  "replaceNativeRibbon": false
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1ac026f2ef2641bc","type":"file","file":"Struttura.md","subpath":"#Compiti","x":-520,"y":-346,"width":240,"height":286},
+		{"id":"8e73f284a2ea04b6","type":"file","file":"Struttura.md","subpath":"#Citazioni","x":180,"y":-346,"width":400,"height":286},
+		{"id":"68fc46384fcb9ab0","type":"file","file":"Struttura.md","subpath":"#Esami","x":20,"y":-346,"width":140,"height":286},
+		{"id":"b4a89688fcd614a1","type":"file","file":"Struttura.md","subpath":"#Anno IV","x":-260,"y":-346,"width":266,"height":286}
+	],
+	"edges":[]
+}

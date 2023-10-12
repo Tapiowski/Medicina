@@ -6,95 +6,63 @@
       {
         "id": "1a681e49a29044a5",
         "type": "tabs",
-        "dimension": 56.42338881775502,
         "children": [
           {
             "id": "2bffc1ff3dcaee81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "patologia/patologia sistematica I.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "ed412e0d4b0d543f"
-          }
-        ]
-      },
-      {
-        "id": "e79b3e54a4f4b165",
-        "type": "tabs",
-        "dimension": 43.57661118224498,
-        "children": [
-          {
-            "id": "48013f48470ff939",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "patologia/patologia sistematica I.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:patologia/cardiologia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:patologia/pneumologia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "path:farmacologia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "path:chirurgia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.75885416666667,
-                  "lineSizeMultiplier": 1.42708333333333,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7631428283688885,
-                  "close": true
+                "file": "Home.canvas",
+                "viewState": {
+                  "x": -240,
+                  "y": -390,
+                  "zoom": 0
                 }
               }
-            },
-            "group": "ed412e0d4b0d543f"
+            }
+          },
+          {
+            "id": "c4bb04c8a4868367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Struttura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59edf19eee1f29a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Struttura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4c95f8d67efd20f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Home.canvas",
+                "viewState": {
+                  "x": 41.590038314176226,
+                  "y": -90.57662835249045,
+                  "zoom": -0.21288533559207232
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,6 +109,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "48f55e4308b55235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7649d65e88106f9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.canvas"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/patologia sistematica I.md",
+                "file": "Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,67 +161,69 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/patologia sistematica I.md",
+                "file": "Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7f869d61b32d493f",
+            "id": "c6277fcb7265166b",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "7649d65e88106f9d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "patologia/patologia sistematica I.md"
+                "sortOrder": "frequency"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Workspaces Plus: Load: Home": false,
+      "cmdr:Workspaces Plus: Load: Local": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "daily-notes:Open today's daily note": false,
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2bffc1ff3dcaee81",
+  "active": "e4c95f8d67efd20f",
   "lastOpenFiles": [
-    "patologia/cardiologia/cardiologia.md",
-    "patologia/cardiologia/apparato cardiovascolare.md",
-    "patologia/patologia sistematica I.md",
+    "Struttura.md",
+    "100 citazioni.md",
+    "Home.canvas",
+    "100 esami/10.11.2023.md",
     "Corso di Medicina e Chirurgia.md",
+    "patologia/patologia sistematica I.md",
+    "100 compiti/esame 10.11.2023.md",
+    "100 appunti",
+    "100 citazioni",
+    "100 compiti",
+    "patologia/cardiologia/cardiologia.md",
+    "100 esami",
+    "farmacologia/farmacologia speciale.md",
+    "farmacologia/antibiotici/farmaci chemio-antibiotici.md",
+    "100 files/Recording 20231012164710.webm",
+    "patologia/cardiologia/elettrocardiografia.md",
+    "100 note/2023-10-12.md",
+    "patologia/cardiologia/apparato cardiovascolare.md",
     "cardiologia 1.md",
-    "Untitled.canvas",
-    "Untitled.md",
     "patologia/cardiologia/cardiopatia ischemica.md",
     "patologia/cardiologia/aterosclerosi.md",
     "templates/zettelkasten template.md",
     "100 note/Untitled.md",
-    "100 note/2023-10-12.md",
     "patologia/cardiologia/NSTEMI.md",
     "patologia/cardiologia/aritmie.md",
     "patologia/cardiologia/sindrome aortica acuta.md",
@@ -245,13 +231,8 @@
     "100 note",
     "patologia/patologia sistematica III.md",
     "patologia/patologia sistematica IV.md",
-    "farmacologia/farmacologia speciale.md",
     "farmacologia/cardiovascolare/farmaci inotropi positivi.md",
     "fisiologia/recettori alfa-1.md",
-    "farmacologia/cardiovascolare/ipertensione.md",
-    "farmacologia/cardiovascolare/ipertrofia cardiaca.md",
-    "patologia/cardiologia/farmaci cardiologici.md",
-    "farmacologia/cardiovascolare/digitale.md",
-    "farmacologia/cardiovascolare/farmaci antitrombotici.md"
+    "farmacologia/cardiovascolare/ipertensione.md"
   ]
 }
