@@ -6,7 +6,7 @@
       {
         "id": "1a681e49a29044a5",
         "type": "tabs",
-        "dimension": 36.94915254237288,
+        "dimension": 40.960240060015,
         "children": [
           {
             "id": "2bffc1ff3dcaee81",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patologia/patologia sistematica I.md",
+                "file": "farmacologia/farmacologia speciale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -27,7 +27,7 @@
       {
         "id": "e79b3e54a4f4b165",
         "type": "tabs",
-        "dimension": 63.05084745762712,
+        "dimension": 59.03975993998499,
         "children": [
           {
             "id": "48013f48470ff939",
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "patologia/patologia sistematica I.md",
+                "file": "farmacologia/farmacologia speciale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -68,6 +68,13 @@
                         "a": 1,
                         "rgb": 11657298
                       }
+                    },
+                    {
+                      "query": "path:chirurgia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
                     }
                   ],
                   "collapse-display": false,
@@ -80,7 +87,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.5,
+                  "scale": 0.7631428283688885,
                   "close": true
                 }
               }
@@ -153,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patologia/patologia sistematica I.md",
+                "file": "farmacologia/farmacologia speciale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patologia/patologia sistematica I.md",
+                "file": "farmacologia/farmacologia speciale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patologia/patologia sistematica I.md"
+                "file": "farmacologia/farmacologia speciale.md"
               }
             }
           }
@@ -215,16 +222,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2bffc1ff3dcaee81",
+  "active": "48013f48470ff939",
   "lastOpenFiles": [
+    "patologia/cardiologia/cardiologia.md",
+    "patologia/cardiologia/farmaci cardiologici.md",
+    "farmacologia/cardiovascolare/digitale.md",
+    "farmacologia/cardiovascolare/farmaci antitrombotici.md",
+    "farmacologia/cardiovascolare/farmaci anti-anginosi.md",
+    "patologia/patologia sistematica I.md",
+    "patologia/cardiologia/aritmie.md",
+    "chirurgia/0/terapia di ablazione.md",
     "statistica/anosmia.md",
     "patologia/cardiologia/cardiopatia ischemica.md",
-    "patologia/cardiologia/cardiologia.md",
     "patologia/cardiologia/elettrocardiografia.md",
     "patologia/cardiologia/semeiotica cardiovascolare.md",
     "patologia/cardiologia/conduzione atrioventricolare.md",
     "patologia/cardiologia/ritmo sinusale.md",
-    "patologia/patologia sistematica I.md",
     "patologia/pneumologia/semeiotica pneumologica.md",
     "patologia/pneumologia/pneumologia.md",
     "patologia/pneumologia/dispnea.md",
@@ -236,12 +249,6 @@
     "patologia/cardiologia/coartazione aortica.md",
     "patologia/0/ematoma intramurale.md",
     "patologia/0/ulcera penetrante.md",
-    "chirurgia/chirurgia vascolare/dissecazione aortica tipo B.md",
-    "chirurgia/chirurgia vascolare/dissecazione aortica tipo A.md",
-    "patologia/cardiologia/ipertensione grave.md",
-    "patologia/0/artrite a cc giganti.md",
-    "patologia/cardiologia/bicuspidia aortica.md",
-    "patologia/0/sindrome di turner.md",
-    "patologia/0/sindrome di ehler-danlos.md"
+    "chirurgia/chirurgia vascolare/dissecazione aortica tipo B.md"
   ]
 }

@@ -31,20 +31,20 @@
       "key": "Q"
     }
   ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": " "
-    }
-  ],
   "obsidian-git:push": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "S"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
     }
   ]
 }

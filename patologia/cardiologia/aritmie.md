@@ -66,7 +66,7 @@
 - [[farmaci antiaritmici]]
 - [[farmaci anticoagulanti]]
 - [[terapie elettriche]]
-- terapia di ablazione, preceduta da studio elettrofisiologico
+- [[terapia di ablazione]], preceduta da studio elettrofisiologico
 	- 3, 4 elettrocateteri da vena femorale o giugulare interna
 		- ad, vd, fascio his e quarto seno coronarico se presente
 	- guarisce [[aritmia ipercinetica]]
