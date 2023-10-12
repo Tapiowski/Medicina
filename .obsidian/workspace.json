@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistica/anosmia.md",
+                "file": "patologia/patologia sistematica I.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistica/anosmia.md",
+                "file": "patologia/patologia sistematica I.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistica/anosmia.md",
+                "file": "patologia/patologia sistematica I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "statistica/anosmia.md",
+                "file": "patologia/patologia sistematica I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "statistica/anosmia.md"
+                "file": "patologia/patologia sistematica I.md"
               }
             }
           }
@@ -217,6 +217,7 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
+    "statistica/anosmia.md",
     "patologia/cardiologia/cardiopatia ischemica.md",
     "patologia/cardiologia/cardiologia.md",
     "patologia/cardiologia/elettrocardiografia.md",
@@ -241,7 +242,6 @@
     "patologia/0/artrite a cc giganti.md",
     "patologia/cardiologia/bicuspidia aortica.md",
     "patologia/0/sindrome di turner.md",
-    "patologia/0/sindrome di ehler-danlos.md",
-    "chirurgia/chirurgia vascolare/sindrome di marfan.md"
+    "patologia/0/sindrome di ehler-danlos.md"
   ]
 }
