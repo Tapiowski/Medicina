@@ -6,7 +6,7 @@
       {
         "id": "1a681e49a29044a5",
         "type": "tabs",
-        "dimension": 40.960240060015,
+        "dimension": 56.42338881775502,
         "children": [
           {
             "id": "2bffc1ff3dcaee81",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "farmacologia/farmacologia speciale.md",
+                "file": "patologia/patologia sistematica I.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -27,7 +27,7 @@
       {
         "id": "e79b3e54a4f4b165",
         "type": "tabs",
-        "dimension": 59.03975993998499,
+        "dimension": 43.57661118224498,
         "children": [
           {
             "id": "48013f48470ff939",
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "farmacologia/farmacologia speciale.md",
+                "file": "patologia/patologia sistematica I.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 217.5
   },
   "right": {
     "id": "4332d775c73bac43",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "farmacologia/farmacologia speciale.md",
+                "file": "patologia/patologia sistematica I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "farmacologia/farmacologia speciale.md",
+                "file": "patologia/patologia sistematica I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,21 +195,21 @@
             }
           },
           {
-            "id": "5587407e3812b044",
+            "id": "7649d65e88106f9d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "farmacologia/farmacologia speciale.md"
+                "file": "patologia/patologia sistematica I.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,36 +219,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:Open today's daily note": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "48013f48470ff939",
+  "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
     "patologia/cardiologia/cardiologia.md",
+    "patologia/cardiologia/apparato cardiovascolare.md",
+    "patologia/patologia sistematica I.md",
+    "Corso di Medicina e Chirurgia.md",
+    "cardiologia 1.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "patologia/cardiologia/cardiopatia ischemica.md",
+    "patologia/cardiologia/aterosclerosi.md",
+    "templates/zettelkasten template.md",
+    "100 note/Untitled.md",
+    "100 note/2023-10-12.md",
+    "patologia/cardiologia/NSTEMI.md",
+    "patologia/cardiologia/aritmie.md",
+    "patologia/cardiologia/sindrome aortica acuta.md",
+    "patologia/patologia sistematica II.md",
+    "100 note",
+    "patologia/patologia sistematica III.md",
+    "patologia/patologia sistematica IV.md",
+    "farmacologia/farmacologia speciale.md",
+    "farmacologia/cardiovascolare/farmaci inotropi positivi.md",
+    "fisiologia/recettori alfa-1.md",
+    "farmacologia/cardiovascolare/ipertensione.md",
+    "farmacologia/cardiovascolare/ipertrofia cardiaca.md",
     "patologia/cardiologia/farmaci cardiologici.md",
     "farmacologia/cardiovascolare/digitale.md",
-    "farmacologia/cardiovascolare/farmaci antitrombotici.md",
-    "farmacologia/cardiovascolare/farmaci anti-anginosi.md",
-    "patologia/patologia sistematica I.md",
-    "patologia/cardiologia/aritmie.md",
-    "chirurgia/0/terapia di ablazione.md",
-    "statistica/anosmia.md",
-    "patologia/cardiologia/cardiopatia ischemica.md",
-    "patologia/cardiologia/elettrocardiografia.md",
-    "patologia/cardiologia/semeiotica cardiovascolare.md",
-    "patologia/cardiologia/conduzione atrioventricolare.md",
-    "patologia/cardiologia/ritmo sinusale.md",
-    "patologia/pneumologia/semeiotica pneumologica.md",
-    "patologia/pneumologia/pneumologia.md",
-    "patologia/pneumologia/dispnea.md",
-    "patologia/pneumologia/enfisema polmonare.md",
-    "patologia/cardiologia/ipertensione arteriosa.md",
-    "patologia/cardiologia/sindrome aortica acuta.md",
-    "patologia/cardiologia/apparato cardiovascolare.md",
-    "patologia/cardiologia/dissecazione aortica.md",
-    "patologia/cardiologia/coartazione aortica.md",
-    "patologia/0/ematoma intramurale.md",
-    "patologia/0/ulcera penetrante.md",
-    "chirurgia/chirurgia vascolare/dissecazione aortica tipo B.md"
+    "farmacologia/cardiovascolare/farmaci antitrombotici.md"
   ]
 }

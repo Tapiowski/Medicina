@@ -1,0 +1,15 @@
+# Anno 4
+- [x] [[farmacologia speciale]]
+- [ ] [[patologia sistematica I]]
+	- 10/11/2023
+		- gio 12 start > lun 16
+			- fine setup: audio
+		- lun 16 > lun 23
+			- [[patologia/cardiologia/cardiologia]]
+		- lun 30 > lun 6
+			- [[pneumologia]]
+		- lun 6 > ven 10
+			- anki + ipad
+- [ ] [[patologia sistematica II]]
+- [ ] [[patologia sistematica III]]
+- [ ] [[patologia sistematica IV]]

@@ -1,1 +1,1 @@
-[[cardiologia]]
+[[patologia/cardiologia/cardiologia]]

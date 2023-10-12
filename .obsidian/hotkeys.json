@@ -46,5 +46,22 @@
       ],
       "key": "F"
     }
+  ],
+  "audio-recorder:start": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "audio-recorder:stop": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }

@@ -126,8 +126,7 @@
 	- tipo arterie: cardiopatia ischemica, m cerebrovascolare, arteriopatia obliterante arti inf
 	- grado stenosi
 	- tempo in cui si verifica il restringimento o occlusione arteriosa: + t +circoli collaterali
-
-## complicanze
+### complicanze
 - rottura placca: cascata coagulativa: trombo
 	- asintomatiche, placca rompe e ripara
 	- danni
