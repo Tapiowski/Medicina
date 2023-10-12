@@ -1,8 +1,8 @@
-## definizione
+# definizione
 - [[febbre reumatica acuta]] [[arf]] distinta da [[malattia reumatica]]: sequela malattia acuta
 - [[fibrosi valvolare]] fino a [[cardiopatia cronica]]
 
-## epidemiologia
+# epidemiologia
 - I e sequela in riduzione da +salute e uso antibiotici
 - iperendemica in nz, africa, india, cina, sa: casi tutto l'anno
 - I = status socio-economico

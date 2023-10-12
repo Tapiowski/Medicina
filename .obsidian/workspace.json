@@ -205,6 +205,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "7a8f0e680eda9df3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
