@@ -1,4 +1,4 @@
-- ### [[farmaci anti-anginosi]]
-- ### [[farmaci antiaritmici]]
-- ### [[digitale]]
-- ### [[farmaci antitrombotici]]
+## [[farmaci anti-anginosi]]
+## [[farmaci antiaritmici]]
+## [[digitale]]
+## [[farmaci antitrombotici]]

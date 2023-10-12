@@ -1,10 +1,10 @@
-## definizione
+# definizione
 - [[div]]
 - 20-30% cardiopatie congenite
 - + in perimembranoso vicino valvole av, rara muscolare
 - [[setto a groviera]]
 
-## fisiopatologia
+# fisiopatologia
 - sangue da camera +p a -p
 - direzione, entita shunt da calibro difetto e resistenze polmonari
 - difetto piccolo, medio, ampio
@@ -13,8 +13,8 @@
 	- convogliati a circolo polmonare, torna a VS
 - 12% div medio ampi in patologia ostruttiva obliterativa a polmonari irreversibile
 
-## clinica
-- ### quadri clinici
+# clinica
+- ## quadri clinici
 	- div piccoli
 		- [[malattia di roger]]
 			- asintomatici, soffi in bambini
@@ -22,24 +22,24 @@
 		- asintomatici, -tolleranti a sforzo, -suzione in allattamento, -crescita, broncopolmoniti recidivanti
 	- div grandi
 		- [[scompenso cardiaco]], primi gg di vita, -alimentazione, +mortalita fino a 90%, flogosi polmonare. morte
-- ### esame obiettivo
+- ## esame obiettivo
 	- [[bozza precordiale]] torace modificabile
 	- [[itto della punta]] visibile da vs ipercinetico
 	- [[soffio parasistolico]] da iv rude o musicale irradia vs dx
 	- [[fremito sistolico]] a mesocardio palpabile
 	- [[terzo tono]]
 	- [[secondo tono]] con +p2
-- ### storia naturale
+- ## storia naturale
 	- difetti piccoli riscontrabili 75% nei primi due anni di vita
 	- moderati a rischio di [[scompenso cardiaco]] nei primi mesi
 	- grandi rischio morte e ipertensione polmanare con scompenso cardiaco
 	- [[endocardite infettiva]], [[batteremia]]
 
-## diagnosi
+# diagnosi
 - ecg, rx torace
 - ecocardiogramma doppler
 
-## terapia
+# terapia
 - indicazioni chirurgia
 	- segni sintomi clinico-strumentali
 	- dilatazioni sezioni sin

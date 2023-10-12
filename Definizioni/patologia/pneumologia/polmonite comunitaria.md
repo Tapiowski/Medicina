@@ -1,10 +1,10 @@
-## definizione
+# definizione
 - vie inf, infil radiologico, reperti auscultatori, pz non ricoverati da due wk
 
-## epidemiologia
+# epidemiologia
 - 1 causa infettiva di morte, 6 in assoluto
 - 13 morti/100k abitanti it
-- ### fattori rischio
+- ## fattori rischio
 	- eta <10 >65
 	- fumo sigaretta: -orletto a spazzola, -clearance mucociliare
 	- patologie croniche concomitante
@@ -15,7 +15,7 @@
 		- -clearance bronchiale
 		- aspirazn mat gastrico: reflux
 
-## eziologia
+# eziologia
 - gram+
 	- frequenti, andamento stagionale
 	- [[streptococco#^pneumococco]]
@@ -23,11 +23,11 @@
 	- [[clamidia#^pneumoniae]]. altri nei vecchi
 - virus
 	- causa 2, stagionale, infanti, inverno
-### classificazione
-- #### [[polmonite lobare franca]]
-- #### [[forme emergenti di polmonite]]
+## classificazione
+- ### [[polmonite lobare franca]]
+- ### [[forme emergenti di polmonite]]
 
-## clinica
+# clinica
 - segni e sintomi
 	- respiratori
 		- tosse 80, rantoli 70, -mv 60, dispnea 50, espettorato 40
@@ -41,7 +41,7 @@
 		- +f respiratoria
 - accertamento radiografico
 
-## diagnosi
+# diagnosi
 - indicazioni assolute
 	- shock, leucopenia, pao2 < 55 mhg, acidosi resp, malattia concomitante, dubbio diagnosi, complicanze
 - anamnesi
@@ -90,7 +90,7 @@
 	- gia trattato a domicilio
 	- th empirica ragionata
 
-## terapia
+# terapia
 - incidenza maggiore [[streptococco#^pneumococco]] e germi atipici
 	- [[penicilline]] + [[macrolidi]]
 	- [[fluorochinoloni]]

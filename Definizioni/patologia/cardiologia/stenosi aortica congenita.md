@@ -1,22 +1,22 @@
-## definizione
+# definizione
 - malformazioni valvolari, sotto o sopravalvolari aortiche
 - ostacolo eiezione vs
 - 3.6% cc
 - 1-2% pop portatore valvola aoritca bicuspide parafisiologica
 - [[valvole aortiche bicuspidi]] 1/50 degenerano con [[stenosi]] e [[insufficienza]] fino a [[valvulopatie]]
 
-## eziologia
-- ### [[stenosi aortica sottovalvolare]]
-- ### [[stenosi aortica sopravalvolare]]
+# eziologia
+- ## [[stenosi aortica sottovalvolare]]
+- ## [[stenosi aortica sopravalvolare]]
 
-## fisiopatologia
+# fisiopatologia
 - ristringimento bicuspide, tricuspide degenerata, tricuspide con commissure fuse
 
-## clinica
+# clinica
 - simile a [[stenosi aortica]]
 - diagnosi diversa: no degenrazione senile
 
-## terapia
+# terapia
 - th medica non efficace
 - [[valvuloplastica chirurgica]]
 	- protesi meccanice/biologiche

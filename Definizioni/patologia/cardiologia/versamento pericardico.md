@@ -1,4 +1,4 @@
-## classificazione versamento pericardico
+# classificazione versamento pericardico
 - lieve grave 10-20 mm
 - insorgenza acuta, subacuta, cronica
 - distribuzione circonferenziale o saccato in cardiochirurgia aderenze
@@ -6,7 +6,7 @@
 - [[TC]], [[ecografia]], evoluzione calcifica, [[imaging multimodale]]: cateterismo cardiaco
 - RX torace aia cardiaca aumentata, non differenzia la causa
 
-## tipo di versamento
+# tipo di versamento
 - sieroso pericardite idiopatica, virale, pat sistemica
 - fibroso e sierofibroso pericarditi postchirurgice, pos inf, uremiche, collagenopatia
 - emorragico tubercolari neoplastiche
@@ -14,7 +14,7 @@
 - caseoso tubercolare
 - prelievo!
 
-## fisiopatologia
+# fisiopatologia
 - sacco pericardico spazio virtuale con 10 cc di liquido
 - essudato post infiammazione
 - trasudato da +pressione idrostatica per scompenso cardiaco ipertensione polmonare etc: supera pressione oncotica: trasudato in sacco

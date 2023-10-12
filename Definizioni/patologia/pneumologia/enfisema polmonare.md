@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - [[enfisema]]
 - storia naturale
 	- malattia complessa -genetica
@@ -11,7 +11,7 @@
 	- [[insufficienza respiratoria]] e cuore polmonare
 - +spazi aerei distali al bronchiolo terminale: alterazioni distruttive irreversibili setti intralveolari in -manifesta fibrosi
 
-## epidemiologia
+# epidemiologia
 - I = 1:2750, minore che [[fibrosi cistica]], [[sindrome di down]], [[palatoschisi]]
 - espressioni
 	- ZZ carenza completa enzima
@@ -20,7 +20,7 @@
 	- MM normale
 - 95% no diagnosi
 
-## eziologia
+# eziologia
 - [[a1-globulina]]: [[chr 14]]
 - deficienza [[a1-antitripsina]]
 	- da fegato, tutti i tessuti, +polmone
@@ -31,13 +31,13 @@
 		- [[cirrosi epatica]]
 		- [[vasculite]]
 	- augmentation th, sostitutiva, purificato da urine e introdotto
-### classificazione
+## classificazione
 - #### [[enfisema centrolobulare]]
 - #### [[enfisema panlobulare]]
 - #### [[enfisema parasettale]]
 - #### [[enfisema paracicatriziale]]
 
-## clinica
+# clinica
 - [[pink puffer]]
 	- soffiatore rosa
 	- [[enfisema panlobulare]]
@@ -50,7 +50,7 @@
 		- no elastico collasso immediato: [[air cropping]] alveolare
 		- [[respiro a labbra increspate]]
 
-## diagnosi
+# diagnosi
 - dd
 	- entrambi [[bpco]]
 		- ostruzione cronica
@@ -89,11 +89,11 @@
 			- polmone trasparente da distruzione
 			- [[iperinsufflazione]]
 
-## terapia
+# terapia
 - no th per arresto declino
 - declino in fumatori, miglioramento in stop
 	- smettere di fumare > [[farmaci broncodilatatori]]
-- ### th inalatoria [[farmaci broncodilatatori]]
+- ## th inalatoria [[farmaci broncodilatatori]]
 	- [[bronchioli respiratori]] rigidi non riapribili
 	- -tono broncomotore
 	- no flusso

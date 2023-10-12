@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - pulmonary arterial hypertension [[pah]]
 - +p circolo polmonare, indipendente da c sistemico
 - [[vasoscostrizione ipossica]]
@@ -11,7 +11,7 @@
 		- vs circolo sistemico: protettivo
 	- tono areriolare mm liscia: po2
 
-## epidemiologia
+# epidemiologia
 - [[vasocostrizione ipossica]]
 - I 2/1m anno, P = 8/1m anno
 - +m dai 30yo 50-60
@@ -19,7 +19,7 @@
 	- [[collagenopatie]]: [[sclerosi sistemica]]
 - sopravvivenza -idiopatiche
 
-## eziologia
+# eziologia
 - [[PAPm]] 16 mmhg a riposo
 	- precapillare 50 mmhg
 		- iperafflusso: shunt cardiaci
@@ -55,7 +55,7 @@
 		- altro
 			- sarcoidosi, istiocitosi x, linfangiomatosi, compressione
 
-## fisiopatologia
+# fisiopatologia
 - forma primitiva
 	- genetica, fattori rischio
 	- disfunzione endoteliale, modifica interstizio, -scambi gassosi
@@ -78,7 +78,7 @@
 	- ambiente
 		- droghe, fumo
 
-## clinica
+# clinica
 - [[dispnea]] 95% [[dispnea da sforzo]] poi a riposo
 - affaticamento
 - oppressione toracica: dd angina
@@ -94,7 +94,7 @@
 	- iii marcata limite, asintomatico a riposo
 	- iv no attivita senza sintomi, [[insufficienza ventricolare destra]]
 
-## diagnosi
+# diagnosi
 - anamnesi, sintomatologia
 - eo no allarme
 - rx torace
@@ -112,7 +112,7 @@
 	- come in [[broncoversione]]
 	- no come vd, reversibilita positiva <10% casi: [[farmaci calcio antagonisti]] efficaci
 
-## terapia
+# terapia
 - [[ambrisentan]]
 - [[nitrossido]] vd, antiprolif
 - agonisti prostacicline, +ampc: vd [[inibitori pde]] anche viagra

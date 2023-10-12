@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - stadio 0 [[bpco]]
 - cronico ricorrente aumento secrezioni bronchiali
 - tosse produttiva quotidiana per 3 mesi / anno, 2 anni consecutivi
@@ -9,7 +9,7 @@
 - spirometria puo essere normale
 - [[vie aeree]]
 
-## epidemiologia
+# epidemiologia
 - fattori rischio
 	- accertati
 		- fumo tabacco
@@ -22,7 +22,7 @@
 		- fumo passivo
 	- -probabili
 		- [[asma adulto]] in eta adulta
-- ### fattori esogeni
+- ## fattori esogeni
 	- [[fumo di tabacco]]
 		- effetto cilio-statico
 			- clearance muco-ciliare
@@ -57,17 +57,17 @@
 	- infezioni
 		- [[pneumonia]]
 		- infezioni respiratorie da bambino predisponenti in eta adulta a bronchite cronica
-- ### fattori endogeni
+- ## fattori endogeni
 	- deficit [[a1-antitripsina]] genetico
 	- -[[IgA]]
 	- nascita pretermine
 
-## eziologia
+# eziologia
 - fumo di tabacco 95%
 - esposizione professionale
 - deficit a-antitripsina
 
-## fisiopatologia
+# fisiopatologia
 - infiammazione piccoli bronchi + catarro = [[bronchiolite]] +  [[enfisema polmonare]] = [[bpco]] con chiusura vie aeree, ostruzione bronchiale, dispnea, sintomi
 - riacutizzazione: germi colonizzano vie aeree pneumococco
 - mucosa bronchiale
@@ -90,7 +90,7 @@
 	- ostruttiva
 	- muco-purulenta
 
-## clinica
+# clinica
 - [[dispnea]]
 	- fase di invalidita: dispnea a riposo, [[cianosi]]
 - stadio 0 [[bpco]] = [[bronchite cronica]]
@@ -102,7 +102,7 @@
 		- pomelli nasali, labbra, orecchie, ippocratismo digitale, obeso, massa grassa, atrofia muscolare
 		- turgore giugulari [[ipossiemia cronica]] con [[riflesso vasoipossico]] con vc e +p polmonare: [[cuore polmonare]] spingere sangue vs pressione da vd: sfiancamento mm, cronico, +p giugulare, vene, [[edema periferico]], gonfio
 
-## diagnosi
+# diagnosi
 - radiologia
 	- trama bronco-vasale: rami arteria polmonare e pareti bronchi
 	- ispessimento bronchi ed evidenti: ramificazioni radiopache; e vasi: compromissione polmonare
@@ -112,8 +112,8 @@
 	- [[ipossiemia]] fino a [[riflesso vasotossico]]
 - anamnesi, esame obiettivo, spirometria, test reversibilita no in ostruzione bronchiale, gas ematici e rx torace
 
-## terapia
-- ### [[cortisone]]+[[antibiotico terapia]]
+# terapia
+- ## [[cortisone]]+[[antibiotico terapia]]
 	- 1wk poi ok
-- riacutizza
-	- ### [[corticosteroidi]]
+- ## riacutizza
+	- ## [[corticosteroidi]]

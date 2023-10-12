@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - classificazione
 	- [[cancro a piccole cc]], small cc cancer
 		- [[microcitoma]] centrale
@@ -8,7 +8,7 @@
 		- [[carcinoma spino-squamocc]] centrale
 		- [[carcinoma a grandi cc indifferenziate]] periferico
 
-## epidemiologia
+# epidemiologia
 - neoplasia piu diffusa al mondo in NA, EU
 - secondo tumore per frequenza, primo prostata mammella
 - prognosi
@@ -19,7 +19,7 @@
 - [[adenocarcinoma]] polmonare piu frequente e +incidenza
 	- 90% sono fumatori
 
-## eziologia
+# eziologia
 - fattori di rischio
 	- [[fumo di tabacco]]
 		- 20X rischio
@@ -46,7 +46,7 @@
 			- sconosciuta ma ruolo, predisposizione
 		- malattie polmonari
 
-## fisiopatologia
+# fisiopatologia
 - interazione gene-ambiente
 	- sostanze agenti a livello genetico
 	- eq oncosoppressori/oncogeni
@@ -58,7 +58,7 @@
 		- terapie biologiche > chemioth
 	- screening fumatori
 		- tx torace, tac: noduli
-- ### oncogenesi
+- ## oncogenesi
 	- fumo sigaretta
 	- aree [[metaplasia squamosa]]: ep pavimentoso cheratinizzato nel contesto dell'ep cilindrico ciliato. non precancerosa
 		- evoluzione a [[displasia]] del carcinoma in situ, poi infiltrante
@@ -70,7 +70,7 @@
 		- sindromi paraneoplastiche
 			- serotonina, calcitonina etc
 		- inizio sviluppo come [[carcinoide]] poi [[carcinoide atipico]] poi micro. gravita
-- ### evoluzione e proliferazione
+- ## evoluzione e proliferazione
 	- [[cancro a grandi cc]]
 		- -radio e chemioth
 		- operabili
@@ -88,7 +88,7 @@
 		- [[atelettasia]] e [[spostamento mediastino]] vs lato neoplasia
 		- piu lento in raddoppio e metastasi. +prognosi
 
-## clinica
+# clinica
 - tosse 75, calo ponderale 68, dispnea 3-60, dolore toracico 20-49, emottisi 6-25, dolore osseo 6-25
 - fumatore
 	- tosse cronica e produttiva gia presente
@@ -104,7 +104,7 @@
 - forme centrali
 	- sibili, stridorik
 - asintomatici alla diagnosi, referti collaterali durante indagini strumentali febbre stanchezza
-- ### sindromi paranoeplastiche
+- ## sindromi paranoeplastiche
 	- endocrine
 		- [[sindrome di cushing]]
 		- [[ginecomastia improvvisa]]
@@ -123,7 +123,7 @@
 		- [[acanthosis nigricans]]
 	- ematologiche
 		- [[trombocitosi]], [[porpore]]
-- ### diffusione intratoracica tumore
+- ## diffusione intratoracica tumore
 	- [[tumore di pancoast]]
 		- [[carcinoma spino-squamocc]]
 		- apice polmone, infil plesso brachiale: dolore arto sup
@@ -131,10 +131,10 @@
 		- ptosi palpebrale, miosi, endoftalmo
 	- [[disfonia]]
 		- paralisi corda, massa mediastinica comprime [[nv ricorrente]], [[nv frenico]] risalita emidiaframma omolat
-- ### diffusione extratoracica
+- ## diffusione extratoracica
 	- ossa, linfonodi locoregionali mediastinici, gh surrenali, fegato, cervello: crisi epilettica scopre carcinoma polmonare
 
-## diagnosi
+# diagnosi
 - storia, fumo, lavoro
 - sintomatologia
 - strumentali: radiografia
@@ -155,7 +155,7 @@
 	- [[lavaggio bronchiolo-alveolare]]
 - progressiva invasivita diagnosi
 	- [[toracoscopia]], [[toracotomia]]
-- ### stadiazione
+- ## stadiazione
 	- [[TC]] linfonodi locoregionali non interessati: no metastasi
 		- se interessati [[tac total body]] e [[tac-pet]]
 		- [[pet]] individua metastasi, radioisotopo captato da cc neoplastiche
@@ -172,22 +172,22 @@
 		- operabile fino a stadio 3A, 3B no
 		- 50% sopravvivenza a 60 mesi
 
-## terapia
+# terapia
 - screening precoce fumatori
 	- radiografia 1/anno, tc preferibile
-- ### chirurgia ch
+- ## chirurgia ch
 	- resezione tumore
 		- [[penumonectomia]], [[lobectomia]], [[resezione en block]]
 		- [[mapping linfonodale]]
 	- [[microcitoma]]
 	- stadi precoci 1 2: neoplasia parenchiamle, no linfonodo o organi. +prognosi
-- ### chemioth ct
+- ## chemioth ct
 	- schemi a piu farmaci: platino/dev + non dev
 	- [[microcitoma]]
 		- frustrante risposta vicino a 0, prognosi non cambia
-- ### radioth rt
+- ## radioth rt
 	- curativa 50 Gy per non resecabili
 	- adiuvante: dopo ch n2 e t3 per infil pleura parietale
 	- poco usata, usata insieme a ct, scarsi risultati
-- ### farmaci biologici
+- ## farmaci biologici
 	- mutazione geni [[egfr]], [[alt]]. mesi di sopravvivenza

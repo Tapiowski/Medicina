@@ -1,8 +1,12 @@
-## definizione
+---
+class: fonte
+modulo: patologia sistematica I
+---
+# definizione
 - [[coronavirus]]
 	- [[sars-cov-2]]
 - fase acuta [[polmonite]]\
-- ### storia
+- ## storia
 	- pandemie analoghe
 		- peste nera 300: 50m morti
 		- hiv '80 39m morti
@@ -25,7 +29,7 @@
 			- ita, resto del mondo
 	- 32m nuovi casi, 1.2m morti
 
-## epidemiologia
+# epidemiologia
 - +m, peggiore mortalita, incidenza, prevalenza
 	- testosterone -risposta immunitaria
 	- estrogeni +imm
@@ -41,7 +45,7 @@
 			- risposta th1: non eosinofilia: asma: +rischio
 - soggetti a rischio infezn 17m
 
-## eziologia
+# eziologia
 - proteine di superficie
 	- [[s protein]] lega recettori di membrana cc epiteliali +ace2
 		- [[ards]], recettori polmonari
@@ -57,7 +61,7 @@
 	- polmone, circolo ematico, tempesta proinfiammatorie: +infiammazn sistemia: tossica
 	- disfunzione multiorgano
 
-## fisiopatologia
+# fisiopatologia
 - fase 1
 	- cc epitelio mucosa naso-faringea, ace2-r, risposta limitata, tampone rinofaringeo
 - fase 2
@@ -81,7 +85,7 @@
 - [[ipercoagulabilita]]
 	- [[cid]] da infiammazn sistemica, morte
 
-## clinica
+# clinica
 - sintomi
 	- 89% [[febbre]]: no in anergici, anziani, diabetici
 		- [[polmonite]] grave con decorso asintomatico
@@ -108,7 +112,7 @@
 	- subpleurico+, centrali-
 	- bilat multilobari+
 
-## diagnosi
+# diagnosi
 - fasi patologia, rx
 	- stadio i lesioni [[ground glass]] polmonari
 	- stadio ii, iii crazy paving
@@ -142,7 +146,7 @@
 		- esame spirometrico meglio
 		- diffusione co+, fev1 stabile
 
-## terapia
+# terapia
 - [[farmaci anticoagulanti]] contrasta [[cid]]: [[enoxaparina]]
 - [[ossigenoterapia]] per [[ards]]: peep+ con casco, fino a 30 cm h2o
 	- far funzionare alveoli collassati da essudato polmonare, +po2 estera
@@ -166,7 +170,7 @@
 	- febbre o tosse: numero verde 1500
 	- animali da compagnia non diffondono
 
-## prognosi
+# prognosi
 - -
 	- costituzionali m, obesita, eta
 	- clinici comorbidita, malattie cv, polmonarie, renali croniche, neoplasie

@@ -1,4 +1,4 @@
-## definzione
+# definzione
 - [[transposizione grosse arterie]]
 - connessione discordante tra ventricoli e grandi arterie
 - trasposizione semplice
@@ -9,7 +9,7 @@
 		- sangue ossigenato va a polmoni e deossigenato circola
 - shunt necessario per sangue ossigenato a circolazione sistemica
 
-## terapia
+# terapia
 - primi mesi di vita
 	- [[intervento di switch]]
 		- scambiare aorta e polmonare

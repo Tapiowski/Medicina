@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - [[insufficienza cardiaca]], [[insufficienza cardiaca cronica]]
 - pompa efficiente a bassa pressione
 - scompenso: cuore non pompa abbastanza sangue nell'organismo per alterazioni strutturali o funzionali
@@ -11,10 +11,10 @@
 		- sforzo
 - sintomi uguali sia per diastolico che sistolico
 
-## epidemiologia
+# epidemiologia
 - 1-2% nella popolazione, >75yo 10%, 55yo 33% m 28% f
 
-## eziologia
+# eziologia
 - anomalie miocardio
 - anomalie valvolari
 	- sostituzione valvolare
@@ -23,26 +23,26 @@
 - malattie pericardio e endocardio
 - disfunzioni sistoliche
 	- non reversibili th medica o resincronizzazione cardiaca [[pacemaker]] defribrillatore
-### classificazione
-- #### in base [[frazione di eiezione]]
+## classificazione
+- ### in base [[frazione di eiezione]]
 	- <40% [[scompenso a frazione ridotta]]
 		- disfunzione sistolica
 	- >55% [[scompenso a frazione conservata]]
 		- disfunzione diastolica
 	- [[scompenso nel mid-range]]
 		- disfunzione sistolica e diastolica
-- #### [[classificazione funzionale NYHA]]
+- ### [[classificazione funzionale NYHA]]
 	- I classe: no limitazione fisica, cuore ok a riposo
 	- II lieve limitazione: affanno in sforzo ordinario
 	- III marcata limitazione anche per sforzi minimi
 	- IV sintomi a riposo
-- #### classificazione clinica linee guida usa
+- ### classificazione clinica linee guida usa
 	- stadio A: rischio scompenso: [[ipertensione arteriosa]], [[diabete]], irc
 	- B anomalie cardiache fase asintomatica
 	- C anomalie cardiache fase sintomatica
 	- D [[scompenso cardiaco refrattario]]
 
-## fisiopatologia
+# fisiopatologia
 - omeostasi cardiocircolatoria
 	- sistemi per [[vasocostrizione]] e [[ritenzione idrosalina]]: sistema [[raas]] e simpatico
 		- sostenere circolo in emorragia
@@ -65,17 +65,17 @@
 	- [[farmaci beta-bloccanti]] aiutano
 	- inducono iperattivita da stress ossidativo -produzione no: -vd
 
-## clinica
-- ### ipoperfusione, bassa portata
+# clinica
+- ## ipoperfusione, bassa portata
 	- cervello sincope capo giro
 	- mm stanco astenia
 	- rene ritenzione idrica
-- ### congestione, alte pressioni riempimento
+- ## congestione, alte pressioni riempimento
 	- dispnea da sforzo e a riposo
 	- edemi arti inf
 	- inappetenza
 	- giugulari turgide pz a 45'
-- [[dispnea]]
+- ## [[dispnea]]
 	- astenia mm respiratori, polmoni pieni di liquidi, rigidi, stravaso interstizio e meno spazio per alveoli -compliance
 	- tosse, affanno quando ci si corica, sibili, sangue da gambe aggrava
 	- ostruzioni vie aeree: polmone umido e piccolo, broncocostrizione in espirazione
@@ -84,15 +84,15 @@
 		- funzione diuretica in giorni
 	- ipoperfusione mm respiratori: ischemia cronica, apoptosi mm: succede anche ai mm gi: [[cachessia]]
 
-## diagnosi
-- ### anamnesi
+# diagnosi
+- ## anamnesi
 	- infarto mia, ipertensione da tempo, radioth o chemioth, diuretici, ortopnea
 	- ortopnea o ortopnea parossistica notturna
 		- parossistica meno grave, di notte -diuresi e ritenzione idrica vene e polmoni
-- ### esame obiettivo
+- ## esame obiettivo
 	- segni di congestione
 		- rantoli polmonari, edema periferico bilaterale, soffio cardiaco, giugulari dilatate, apice a sx
-- ### diagnosi strumentale
+- ## diagnosi strumentale
 	- uno dei tre
 		- ecg, bnp escludono scompenso
 		- ecocardiogramma ricerca eziologia
@@ -101,10 +101,10 @@
 		- valvole alterate, distinzione tra i tre scompensi EF
 			- conservata con disfunzione diastolica: spessore muscolo, volume atrio sx
 
-## terapia
-- prevenzione
+# terapia
+- ## prevenzione
 	- attivita fisica, -alcol, trattare ipertensione e diabete
-- ### th [[scompenso a frazione ridotta]]
+- ## th [[scompenso a frazione ridotta]]
 	- [[ace inibitori]], [[farmaci beta-bloccanti]]
 	- [[spironolattone]] se pz ancora sintomatico
 	- se ancora scompensato: dispnea
@@ -113,10 +113,10 @@
 	- FC>70 bpm [[ivabradina]]
 	- pz resistente: [[digossina]] [[isdn]] trapianto cuore
 	- prevenzione morte improvvisa con ventricolo sfiancato per disfunzione sistolica, prevenzione secondaria [[defibrillatore cardiaco]]
-- ### th [[scompenso a frazione conservata]]
+- ## th [[scompenso a frazione conservata]]
 	- trattamento comorbidita, diuretici per sintomi
 
-## th2
+# th2
 - controllo peso, no fumo, no alcol
 - [[farmaci diuretici]]
 	- se presente un sovraccarico di volume: [[congestione polmonare]], [[edema]] periferico

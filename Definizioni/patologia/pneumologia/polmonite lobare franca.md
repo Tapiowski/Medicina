@@ -1,8 +1,8 @@
-## definizione
+# definizione
 - [[pneumocco]]
 - extraospedaliera
 
-## eziologia
+# eziologia
 - saprofita cavita orale in imm- insedia vie basse, patogeno
 	- infiammazione iperemico-essudativa
 - fase evolutiva
@@ -11,7 +11,7 @@
 	- epatizzazione grigia: essudato +fibrina, neutrofili, ritrae, rantoli, vs risoluzione per fluidita essudato
 	- risoluzione: fagocitosi, digestione essudato, restitutio ad integrum, anche da fase 2
 
-## diagnosi
+# diagnosi
 - segni sintomi
 	- episodio brusco
 	- febbre, dolore trafittivo lobo, tosse secca poi produttiva, escreato scarso rugginoso, respiro freq e sup 40 apm, oliguria
@@ -30,7 +30,7 @@
 	- rx ioace inigeba segmentaria o lobare, broncogramma aereo
 	- tc conferma
 
-## terapia
+# terapia
 - [[vaccino antipneumococcico]] per 14 sierotipi su 82
 - inf in atto: [[penicilline]]+[[eritromicina]]
 - complicanze
@@ -39,5 +39,5 @@
 	- empisema pleurico, pericardite purulenta
 	- versamento pleurico
 
-## prognosi
+# prognosi
 - imm- 18% mortalita

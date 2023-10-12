@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - [[mp]]
 - [[neoplasia]] maligna da cc mesoteliali
 - eterogenea clinica, istologica, prognostica
@@ -6,7 +6,7 @@
 	- benigno: cc sub-mesoteliali [[tumore fibroso solitario pleura]]
 	- maligno: mesoteliale [[mesotelioma pleurico maligno]]
 
-## eziologia, epidemiologia
+# eziologia, epidemiologia
 - incidenza in aumento
 - inalazione fibre [[asbesto]]
 	- 70%, 30-40 anni prima
@@ -28,11 +28,11 @@
 	- virus [[sv40]]
 	- fumo: no
 
-## fisiopatologia
-- ### forma benigna
+# fisiopatologia
+- ## forma benigna
 	- [[malattia della pleura]], [[asbestosi pleurica]]
 	- pleura con placche calcifiche non tumorali
-- ### forma maligna
+- ## forma maligna
 	- fase iniziale
 		- disseminazione pleurica di granuli, noduli grigi o bianco-latte
 		- singoli o diffusi
@@ -46,7 +46,7 @@
 			- desmoplastico
 			- forma mista
 
-## clinica
+# clinica
 - anamnesi
 	- dolore toracico 60%, radicolite, no febbre o tosse
 	- dispnea 25%, versamento pleurico
@@ -54,7 +54,7 @@
 	- astenia, stanchezza, inappetenza
 	- a lavorativa
 
-## diagnosi
+# diagnosi
 - diagnosi istologica per chirurgia tipizzazione microscopica. toracoscopia prelievi multipli
 - esame obiettivo
 	- ispezione emitorace non espande per versamento pleurico
@@ -94,7 +94,7 @@
 	- tumore fibroso solitario pleura
 	- versamenti parapneumonici: empiema ispessimento, versamento essudativo monolat
 	- interessamento pleurico sec a adenocarcinoma bronchiale: evacuazione torace pre tac
-- ### stadiazione
+- ## stadiazione
 	- invasivita, estensione, prognosi
 	- [[pet]] estensione, linfonodi
 	- [[tmn]] non utilizzato ma diffuso
@@ -109,7 +109,7 @@
 		- n3 mediast, mammari controlat, sovraclaveari omolat, controlat
 		- m0, m1
 
-## terapia
+# terapia
 - chirurgia
 	- radicale: [[pleuro-pneumonectomia]], protesi con diaframma
 	- palliativo: [[talcaggio]], pleurectomia con decorticazione pleurica parziale
@@ -118,7 +118,7 @@
 - radioth
 	- limitativo, mp sensibile a radiazioni ma dose soglia molto elevata
 
-## prognosi
+# prognosi
 - infausta, 9-18 mesi sopravvivenza media
 - metastasi pleura da prognosi organi primari
 	- k mammella: tempestivita!

@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - [[asma bronchiale]]
 - antica, frequente 5% popolazione
 - = respiro breve: [[dispnea]], [[dispnea accessionale]], [[dispnea sibilante]]: fischio +espiratorio che inspiratorio
@@ -8,7 +8,7 @@
 - [[flogosi]] + [[remodeling]]
 - [[infiammatoria cronica]], [[bronco ostruzione]] reversibile spontaneamente e trattabile, iniltrato infiammatorio con linfociti e eosinofili
 
-## epidemiologia
+# epidemiologia
 - aumento, +costi con +gravita
 - [[asma infanzia]]: atopica, genetica, [[IgE]] vs acari, allergico, controllabile con farmaci, puo scomparire in adolescenza, stop th
 - [[asma adulto]]: +ostruttivo, aggrava, -bronco reversibile fino a non reversibilita, >50 yo, -[[vems]]
@@ -20,7 +20,7 @@
 - clima: mediterraneo+ umido caldo, pollini, acari
 - inquinamento atmosferico: riacutizza
 
-## eziologia
+# eziologia
 - adulto
 	- [[allergeni perenni]], [[allergeni stagionali]], [[allergeni alimentari]], [[farmaci]]
 	- evitare peluche, coperte in lana, esposizione ad agenti come isocianati vernicciatori
@@ -39,39 +39,39 @@
 	- blocco legame il5/eosinofili
 	- blocco legame il17/recettore
 
-- ## fisiopatologia
-	- allergene + vie aeree
-		- [[apc]] cc dendritiche > [[linfociti t naive]] [[Th0]]
-		- [[Th2]]: risposta allergene mediata, allergica ige
-			- [[il-4]] [[linfocita b]]: [[IgE]] specifiche
-			- > [[mastocita]] degranula: mediatori: [[broncostenosi]] x mm liscia bronchiale, [[vasopermeabilizzazione]] edema mucosa, [[ipersecrezione bronchiale]]
-				- preformati: [[istamina]], [[fattori chemiotattici]], [[serotonina]]
-				- neoformati da [[acido arachidonico]]: [[cox]], [[pg]], [[lipossigenasi]], [[leucotrieni]]
-			- adesione, migrazione
-			- [[il-5]] [[eosinofili]]
-			- stimolo [[Th9]]
-		- [[Th1]]: risposta ad infezioni: [[il-12]]
-		- [[Th17]]: [[il-6]]: stimolo [[neutrofili]] e flogosi neutrofila
-		- [[T-reg]] regola diff th1 th2
-	- reazione
-		- immediata: sintomi in m
-		- tardiva: ore o gg, grave, danno, fibrosi, remodeling, -efficacia th
-	- ipertrofia mm liscia nel bronco
-	- ingombro secrezioni da iperplasia gh mucosecernenti
-	- vasopermeabilizzazione: edema
-	- accumulo [[cd4]], [[eosinofili]], [[mastociti]], [[neutrofili]]
-	- tappi di muco e desquamazione cc epitaliali
-	- flogosi + remodeling
-		- m basale ispessisce: -trattamento
-	- ipotesi igenico-ambientale
-		- th1 protettiva da infezioni, th2 anti-allergica
-	- ### genetica
-		- [[atopia]]
-		- iperattivita bronchiale, +igE
-		- infiammazione cronica, alterazione bronco-motore, iperattivita bronchiale
-		- +flogosi = +sintomi
+# fisiopatologia
+- allergene + vie aeree
+	- [[apc]] cc dendritiche > [[linfociti t naive]] [[Th0]]
+	- [[Th2]]: risposta allergene mediata, allergica ige
+		- [[il-4]] [[linfocita b]]: [[IgE]] specifiche
+		- > [[mastocita]] degranula: mediatori: [[broncostenosi]] x mm liscia bronchiale, [[vasopermeabilizzazione]] edema mucosa, [[ipersecrezione bronchiale]]
+			- preformati: [[istamina]], [[fattori chemiotattici]], [[serotonina]]
+			- neoformati da [[acido arachidonico]]: [[cox]], [[pg]], [[lipossigenasi]], [[leucotrieni]]
+		- adesione, migrazione
+		- [[il-5]] [[eosinofili]]
+		- stimolo [[Th9]]
+	- [[Th1]]: risposta ad infezioni: [[il-12]]
+	- [[Th17]]: [[il-6]]: stimolo [[neutrofili]] e flogosi neutrofila
+	- [[T-reg]] regola diff th1 th2
+- reazione
+	- immediata: sintomi in m
+	- tardiva: ore o gg, grave, danno, fibrosi, remodeling, -efficacia th
+- ipertrofia mm liscia nel bronco
+- ingombro secrezioni da iperplasia gh mucosecernenti
+- vasopermeabilizzazione: edema
+- accumulo [[cd4]], [[eosinofili]], [[mastociti]], [[neutrofili]]
+- tappi di muco e desquamazione cc epitaliali
+- flogosi + remodeling
+	- m basale ispessisce: -trattamento
+- ipotesi igenico-ambientale
+	- th1 protettiva da infezioni, th2 anti-allergica
+- ## genetica
+	- [[atopia]]
+	- iperattivita bronchiale, +igE
+	- infiammazione cronica, alterazione bronco-motore, iperattivita bronchiale
+	- +flogosi = +sintomi
 
-## clinica
+# clinica
 - respiro breve: [[dispnea]], [[dispnea accessionale]], [[dispnea sibilante]]: fischio +espiratorio che inspiratorio
 - [[crisi asmatica]]
 	- pz spaventato
@@ -79,7 +79,7 @@
 	- seduto vicino a finestra per fame d'aria
 	- mm accessori per iperinsufflazione polmonare acuta: [[enfisema polmonare acuto]]
 
-## diagnosi
+# diagnosi
 - anamnesi
 - esame obiettivo: rumori secchi [[fischio]], [[sibilo]], espiratori in crisi asmatica
 - prove funzionali: [[spirometria con reversione]]: [[ventolin]] reverte
@@ -99,7 +99,7 @@
 	- reazione a dosi basse
 		- [[iperattivita bronchiale]] grave, moderata, lieve
 		- asmatico
-- ### classificazione pz
+- ## classificazione pz
 	- diurni/notturni
 	- numero volte in cui sintomi presenti
 	- funzione respiratoria [[vems]], [[picco di flusso]]
@@ -110,7 +110,7 @@
 	- moderato/persistente
 	- grave/persistente
 
-## terapia
+# terapia
 - allontanare allergene, bonifica case, evitare situazioni predisponenti
 - lieve/intermittente
 	- th broncodilatatrice al bisogno

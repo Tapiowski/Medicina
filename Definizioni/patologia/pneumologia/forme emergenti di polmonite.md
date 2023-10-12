@@ -1,8 +1,8 @@
-## definizione
+# definizione
 - [[legionella pneumophilia]], [[clamidia]], [[mycoplasma]], virus [[cytomegalovirus]] [[herpes simplex]], protozoi [[pneumocystis carinii]]
 	- ricerca [[IgM]] specifici, [[indice siero-conversione]]
 
-## eziologia
+# eziologia
 - [[clamidia]]
 	- giovani, anziani, toracica e extra
 	- no espettorato: intracc

@@ -1,11 +1,11 @@
-## definizione
+# definizione
 - [[osas]]
 - [[sonno]] 8h/die = 25 anni
 - [[sindrome di pickwick]]
 - mortalita, morbilita
 	- +cardiovascolare, +incidenti stradali e lavoro
 
-## epidemiologia
+# epidemiologia
 - fattori rischio
 	- m fino a menopausa, poi eguaglia
 	- habitus: distribuzn andoide t adiposo collo
@@ -29,7 +29,7 @@
 	- 6000 [[polisonnografia]] no diff con afroamericani
 	- AHI > 15 5% hong kong per cranio-faccia
 
-## eziologia
+# eziologia
 - [[sonnolenza diurna]]
 	- qualita, sonno frammentato
 	- quantita, deprivazione di sonno
@@ -40,7 +40,7 @@
 	- snd gambe senza riposo
 	- farmaci: sedativi, stimolanti, bbloccanti, ssri, ipersonnolenza idiopatica, +alcol, neuro, distrofia miotonica, encefalite, trauma cranico, parkinsonismo
 
-## fisiopatologia
+# fisiopatologia
 - [[sonno]]
 	- chiusura [[palato molle]] come si addormenta
 	- risveglio dopo fase 3
@@ -56,7 +56,7 @@
 	- stanco, assonnato
 - -sonno giornaliero: -fase rem; fisiologico
 
-## clinica
+# clinica
 - 30 episodi [[apnea]] / 1h
 	- pz [[desaturazione]], -po2, -[[ossigenazione]] miocardica, snc
 - quadro clinico
@@ -89,7 +89,7 @@
 	- malattie coronarie
 	- infarto
 	- diabete -tolleranza glucidica, r insulinica
-- ### disturbi cardiovascolari
+- ## disturbi cardiovascolari
 	- [[ipertensione arteriosa]]
 		- [[ipossemia]] intermittente > snp da -po2: +r periferiche, +sistolica, +diastolica
 		- pressione arteriosa aumenta alla fine di ogni evento ostruttivo
@@ -107,7 +107,7 @@
 	- [[ischemia miocardica]]
 	- alterazn cerebrovascolari
 
-## diagnosi
+# diagnosi
 - anamnesi
 	- pz
 		- qualita sonno, sonnellini diurni, tipo di lavoro
@@ -147,19 +147,19 @@
 - [[prova funzionalita respiratoria]]
 - [[emogasanalisi]] arteriosa
 - [[polisonnografia]]
-- ### dd [[ipersonnia]]
+- ## dd [[ipersonnia]]
 	- deprivazn sonno: igene sonno, turnista
 	- [[narcolessia]]
 	- [[insonnia psicofisiologica]]
 	- [[mioclono]]
-- ### [[score di mallampati]]
+- ## [[score di mallampati]]
 	- certezza se iii, iv
-- ### strumentale
+- ## strumentale
 	- monitoraggio notturno cardiorespiratorio completo
 	- [[polisonnografia]] notturna portatile
 	- [[polisonnografia]] notturna in lab
-- ### monitoraggio
-	- #### monitoraggio notturno cardioresp ridotto
+- ## monitoraggio
+	- ### monitoraggio notturno cardioresp ridotto
 		- parametri
 			- rumore respiratorio, flusso aereo oro-nasale
 			- frequenza cardiaca
@@ -168,7 +168,7 @@
 		- identifica
 			- eventi respiratori per ossimetria
 			- non identifica tipo apnea o tipo di sonno
-	- #### monitor notturno cardioresp completo
+	- ### monitor notturno cardioresp completo
 		- parametri
 			- rumore respiratorio
 			- flusso aereo oro-nasale
@@ -185,7 +185,7 @@
 			- apnee seguite da micorisveglio
 			- attivazn simpatico: [[catecolamine]]
 			- +otono ipersimpatico: [[ipertensione arteriosa]], [[aritmie notturne]]
-- ### classificazione osas
+- ## classificazione osas
 	- sonnolenza diurna + disturbi respirazn notturna
 	- strumentale
 		- 10 < [[AHI]] <20 lieve
@@ -193,7 +193,7 @@
 		- 3-60 severa
 		- >60 molto severa
 
-## terapia
+# terapia
 - medica
 	- dimagrimento
 		- migliora con dimagrimento

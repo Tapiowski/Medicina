@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - robert koch
 	- [[mycobacterium#^hominis]] 1882 davnti a virkow e ehrlich
 	- [[postulati di kock]]
@@ -11,7 +11,7 @@
 	- vie aeree, colpisce apici
 	- escavazioni bilat
 
-## epidemiologia
+# epidemiologia
 - I = 9.5M, M = 1.5M/anno
 - resistenti, diffusione pericolosa
 	- r [[isoniazide]] [[rifampicina]], [[farmaci antitubercolari]] +m
@@ -22,7 +22,7 @@
 - +sud/isole: -notifiche sottostima
 - +in immigrati 24/100k est europa
 - contagio via aerea, sistema immunitario, correlato aids
-- ### trasmissione
+- ## trasmissione
 	- caverne nel polmone, tosse, micobatteri aria
 	- muoiono in 2 h al sole, resistenti in umido
 	- via aerea, linfatica
@@ -35,7 +35,7 @@
 		- 90% guarigione
 		- mortalita presente
 
-## eziologia
+# eziologia
 - [[mycobacterium#^hominis]] aerobio stretto, 37C
 	- tuorlo uovo, albumina, sost nutritive selettive
 	- crescita varia 15-60 gg
@@ -62,13 +62,13 @@
 			- 5% malattia in 2 anni, il resto nella vita
 - passaggio da infezione a malattia
 	- a distanza nel tempo, stato dormiente, lesioni calcifiche, microscopiche, attivazione, moltiplicazione: malattia
-- ### fattori di rischio
+- ## fattori di rischio
 	- genetica: no trasmissione, substrato predispone ad infezione: polimorfismi recettoriali vit d
 	- contatti con malati
 	- alcol, droghe, chirurgia, diabete, soprappeso, steroidi, immunosopprevvice, silicosi, hiv, fumo, th anti tnf-a, neoplasie
 	- ambiente soleggiato protettivo
 	- sociale malnutrizione, poverta
-- ### primo contatto
+- ## primo contatto
 	- [[complesso primario]]
 		- [[alveolite aspecifica]] pmn+macrofagi
 		- [[linfoadenite satellite]]: antigene vs linfonodi ilari + strie linfagitiche
@@ -90,12 +90,12 @@
 		- lesioni nodulari
 		- rottura vasi in caverna: emoftoe
 
-## fisiopatologia
+# fisiopatologia
 - sintomi, rx+, m isolabile: malattia
 - manifestazioni allergiche
 	- stato immunitario
 	- risposta immune esagerata polmonare eosinofili, extrapolmonare poliartrite fotofobia flittene
-- ### forma subdola
+- ## forma subdola
 	- infezione tubercolare latente?
 	- tubercolosi in passato, curata, febbre, stanchezza, tubercolina+: m non isolabile
 	- [[interferone gamma]] +risposta +attivazione sistema immunitario
@@ -110,11 +110,11 @@
 		- nodulo fibrotico cicatriziale o calcifico con batterio all'interno vivo ma non virulento
 			- [[mantoux]]+ a vita
 			- batterio dormiente, in caduta difese puo replicare e riattivare: malattia
-- ### forma di infiltrato precoce
+- ## forma di infiltrato precoce
 	- apice zona claveare
-	- #### infiltrato a nuvola
-	- #### infiltrato vero
-- ### periodo primario
+	- ### infiltrato a nuvola
+	- ### infiltrato vero
+- ## periodo primario
 	- [[alveolite]], [[essudazione]] aspecifica
 	- [[complesso primario]]
 		- [[alveolite]], [[linfoadenite satellite]], [[linfangite consensuale]]
@@ -134,7 +134,7 @@
 		- campi medi inf, linfoadenopatia iliare
 		- guarigione spontanea
 		- miliare in immunocompromessi
-- ### periodo post primario
+- ## periodo post primario
 	- nodulo fibrotico cicatriziale o calcifico con batterio all'interno vivo ma non virulento
 		- infezione latente
 		- [[mantoux]]+ a vita
@@ -144,12 +144,12 @@
 	- caseosi, caverna
 	- rx
 		- noduli apici e linfonodi
-	- #### forma miliare
+	- ### forma miliare
 		- 2-3mm, diffusi via ematica polmonare n non solo, 3-4 tubercoli: danno fibroso
 		- disseminazione noduli ad interstizio alveolare, peribronchiale
-	- #### forma nodulare
+	- ### forma nodulare
 		- +alveolite, necrosi caseosa in bronco: escavazione
-	- #### lobite
+	- ### lobite
 	- x
 		- da riattivazione endogena inf latente
 		- apice, sup-post
@@ -158,7 +158,7 @@
 		- segmenti, lobi polmonari
 			- [[polmonite tubercolare]]
 
-## diagnosi
+# diagnosi
 - esame batteriologico
 	- goldstandard
 	- ziehl-neelsen: rossi in blu. metilene
@@ -192,7 +192,7 @@
 	- terreni liquidi radiometrico e fluorimetrico 20 gg
 		- inizio th tbc
 
-## terapia
+# terapia
 - multith farmaceutica
 - partire con 3-4 farmaci, se 1 resistente aggiungerne 2
 	- mai aggiungere 1 solo farmaco in fallimento
@@ -220,7 +220,7 @@
 		- [[isoniazide]] 6 mesi
 		- difficile accettazione senza sintomi
 		- meglio nei soggetti a rischio
-- ### vaccinazione
+- ## vaccinazione
 	- bacillo di calmette-guerin attenuato
 	- avambraccio
 	- +protezione <5 yo

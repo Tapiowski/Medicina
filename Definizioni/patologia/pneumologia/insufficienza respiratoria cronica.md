@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - [[irc]]
 - -pao2 in sangue arterioso < 60 mmhg. parziale
 	- ### [[irc ipossiemica]]
@@ -13,7 +13,7 @@
 	- po2 somministrazn o2 60%
 	- pco2 ventilazione meccanica, [[ventilatore]]
 
-## eziologia
+# eziologia
 - tappa finale di malattie cardiache, resp, mm, nu, ir
 - ### [[irc]]
 	- cause polmonari
@@ -42,7 +42,7 @@
 	- [[gas anestetici]], [[morfina]]
 	- depressione [[centro del respiro]]
 
-## fisiopatologia
+# fisiopatologia
 - [[ipoventilazione]]
 	- [[ipossiemia]] + [[ipercapnia]]
 	- [[ventilazione]]/mn, perfusione ok
@@ -62,25 +62,25 @@
 	- [[ipossiemia]] giovani, [[cianosi]]
 	- bypass ossigenazn
 	- [[rapporto ventilazn-perfusn]] ok per regioni non ventilate
-- ### stadiazn
-	- #### [[insufficienza polmonare cronica]]
-	- #### [[insufficienza ventilatoria cronica]]
+- ## stadiazn
+	- ### [[insufficienza polmonare cronica]]
+	- ### [[insufficienza ventilatoria cronica]]
 
-## clinica
-- ### [[ipossia cronica]]
+# clinica
+- ## [[ipossia cronica]]
 	- [[dispnea]]
 	- [[alterazn neuropsichiche]]
-- ### [[ipercapnia cronica]]
+- ## [[ipercapnia cronica]]
 	- effetto tossico co2: [[acidosi respiratoria]] [[alterazn neuropsichiche]]
 	- [[vasodilatazione cerebrale]]
 	- [[depressione centri respiratori]]
-- ### complicanze
+- ## complicanze
 	- [[poliglobulia]]
 	- [[cuore polmonare cronico]]
 	- [[tromboembolia polmonare]]
 		- problemi circolo, [[bpco]]
 		- extra [[tvp]] alterazn [[fattori coagulazione]]
-- ### storia naturale
+- ## storia naturale
 	- [[ipossiemia]], [[ipercapnia]], [[acidosi respiratoria]], [[acidosi metabolica]], [[coma]], [[stupor]]
 	- [[ipossiemia]] + [[ipercapnia]]
 		- [[tono simpatico]]
@@ -106,7 +106,7 @@
 						- [[ipotensione arteriosa diastolica]]
 					- [[ipotensione arteriosa sistolica]]
 					- = [[collasso]]: [[shock]], [[arresto cardiaco]]
-- ### decorso clinico
+- ## decorso clinico
 	- +co2: -ph, [[acidosi]]
 		- [[bpco]] lenta [[ipercapnia]], rene compensa
 		- se acuto: rene no bicarbonati: [[acidosi metabolica]]
@@ -119,7 +119,7 @@
 			- pco2 80-90, po2 40
 			- ricovero, invasivo, a casa col ventilatore
 
-## diagnosi
+# diagnosi
 - [[spirometria]]
 	- quadro forme restrittive, asma, bpco, fibrosi
 - [[diffusione alveolo-capillare]]
@@ -134,12 +134,12 @@
 	- [[polisonnografia]] malattie numm
 	- [[emodinamica cruenta]]
 
-## terapia
+# terapia
 - controllo patologia di base causante irc
 - [[ossigenazione]], [[ventilazione meccanica]]
 	- ### [[ltot]]
 	- ### [[NIV]]
-- ### storia naturale
+- ## storia naturale
 	- [[bpco]] ostruzione bronchiale irreversibile
 	- pz1 [[enfisema polmonare]]
 		- -fumo, -[[a1-antitripsina]], professione
@@ -179,7 +179,7 @@
 - [[bmi]]
 	- ipotrofia mm, magrezza
 	- <20 kg/m2 ipotrofia quadricipite, grande pettorale
-- ### esempio
+- ## esempio
 	- bronchite fino a 56 anni: tosse produttiva al risveglio, colonizzazione
 	- ricoveri riacutizzazn bpco
 	- progressivo peggioramento dispnea da sforzo
@@ -198,6 +198,6 @@
 		- [[insufficienza respiratoria]]
 		- [[ipercapnia]], [[ventilazione meccanica non invasiva]], fasi terminali
 
-## prognosi
+# prognosi
 - mortalita cardiovascolare
 - [[trapianto]]

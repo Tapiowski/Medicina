@@ -1,11 +1,11 @@
-## definizione
+# definizione
 - da procedure mediche, chirugia, farmaci
 	- pz intubato sviluppa infezione polmonare
 - germi difficili, mfr, ambiente ricco di microrganismi
 	- [[aspergillus]] virus aria, [[legionella pneumophilia]] acqua, [[gram-]] alimenti, [[stafilococco#^aureus]] etc superfici
 	- [[pseudomonas aeruginosa]] in apparecchiature
 
-## epidemiologia
+# epidemiologia
 - fattori rischio
 	- eta > 60 anni, traumi, debilitazione fisica, imm-, diabete, alcolismo, neuro, ipoalbuminemia
 - -prognosi
@@ -13,19 +13,19 @@
 	- sepsi, multiorgano
 	- clearance renale < 20 ml/min
 
-## clinica
+# clinica
 - [[polmonite grave]] rischio morte
 - ricovero th intensiva, [[insufficienza respiratoria]], [[ipotensione]], sat o2<90%
 - -rx: +lobi, escavazione infiltrato infiammatorio
 - [[shock settico]]
 
-## diagnosi
+# diagnosi
 - rx, esame ematochimico
 	- microscopia, coltura escreato, lavaggio alveolare+ 20%
 	- esame liquido pleurico con toracentesi
 - dd
 
-## terapia
+# terapia
 - no comorbidita, no severa
 	- monoth antibiotica: [[ceftriassone]], ampio spettro 14gg
 - rischio, no month

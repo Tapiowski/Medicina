@@ -1,9 +1,9 @@
-## definizione
+# definizione
 - [[ipf]]
 - diagnosi difficile, causa sconosciuta
 - pattern istiologico e tac di [[uip]] [[usual interstizia pneumonia]]
 
-## epidemiologia
+# epidemiologia
 - Isard=10/100k, prevalenza 25/100k
 - aumento del 50%
 - fattori rischio
@@ -13,7 +13,7 @@
 		- [[telomeropatie]]
 	- polveri metallo/legno
 
-## eziologia
+# eziologia
 - patogenesi sconosciuta, causa pure
 - evento irritativo esterno
 	- [[alveolite]], coinvolge interstizio: riparazione per fibrosi
@@ -28,7 +28,7 @@
 	- apici polmonari: sollecitazione meccanica da gravita
 	- sviluppo cancro polmonare
 
-## fisiopatologia
+# fisiopatologia
 - fase iniziale
 	- proliferazione pneumociti alveolari: foci fibroblastici
 - f intermedia
@@ -51,7 +51,7 @@
 		- prognosi
 		- [[muv5]] forma familiare, metalloproteasi
 
-## clinica
+# clinica
 - dispnea sforzo-dip
 	- non associata a sintomi [[bpco]]
 		- no tosse produttiva, no fumatori
@@ -59,7 +59,7 @@
 	- simil influenzale: +v malattia, pz stanco e dispnea a riposo
 	- rx torace: [[fibrosi]] bilat
 
-## diagnosi
+# diagnosi
 - diagnosi di esclusione
 	- [[uip]]
 	- dd tra [[ipf]] e [[connettivite]], [[polmonite da ipersensibilita]], [[sarcoidosi]]

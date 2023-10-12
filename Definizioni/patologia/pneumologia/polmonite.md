@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - infezione, vie aeree basse parenchima polmonare
 - trasformazione epidemiologica recente
 	- microrganismi
@@ -8,7 +8,7 @@
 		- +pop anziana, deficit immunitari
 		- +sopravvivenza malati cronici, imm-, ventilati a domicililo, insuff renale, dialisi
 
-## epidemiologia
+# epidemiologia
 - agente eziologico
 	- virale
 		- bambini, hiv+
@@ -40,9 +40,9 @@
 	- [[mycoplasma]], [[clamidia]], [[legionella pneumophilia]]
 	- aids [[aspergillus]], [[candida]], [[mycobacterium]]
 
-## eziologia
-- ### [[polmonite comunitaria]]
-	- ### [[polmonite lobare franca]]
-	- ### [[forme emergenti di polmonite]]
-- ### [[polmonite nosocomiale]]
-- ### [[polmonite stafilococcica]]
+# eziologia
+- ## [[polmonite comunitaria]]
+	- ## [[polmonite lobare franca]]
+	- ## [[forme emergenti di polmonite]]
+- ## [[polmonite nosocomiale]]
+- ## [[polmonite stafilococcica]]

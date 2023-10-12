@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - [[dia]]
 - continuita non ricoperta da membrana della [[fossa ovale]]
 - nel setto interatriale
@@ -6,7 +6,7 @@
 - associazione con [[sindrome di down]] e [[ostium primum]]
 	- malformazione [[valvola mitrale]]
 
-## epidemiologia
+# epidemiologia
 - pervieta forame ovale 20% pop: non completa chiusura
 	- parafisiologica
 - difetti congeniti
@@ -15,7 +15,7 @@
 	- d seno venoso
 	- d seno soronarico
 
-## fisiopatologia
+# fisiopatologia
 - comunicazione interatriale
 - entita shunt
 	- gradiente tra arti
@@ -32,32 +32,32 @@
 	- -shunt, inversione shunt da dx a sin
 		- [[sindrome di eisenmenger]]
 
-## clinica
-- ### quadro clinico
+# clinica
+- ## quadro clinico
 	- asintomatici per tolleranza
 	- compaiono [[aritmie ipercinetiche]] atriali da dilatazione, per flutter
 		- [[fibrillazione atriale]]
 		- [[scompenso cardiaco congestizio]]
 	- [[dispnea]] da sforzo, [[bronchite]] ricorrente, patologie broncopolmonari recidivanti
-- ### esame obiettivo
+- ## esame obiettivo
 	- aspetto fisico normale o da sindrome genetica, 21
 	- secondo tono sdoppiato, ampio e fisso: P2 rinforzato
 	- soffi da stenosi tricuspide e polmonare per iperafflusso
 		- [[soffio sistolico]] da eiezione su focolaio polmonare
 		- rumore proto-mesodiastolico su focolaio tricuspidale
-- ### ecg, rx torace, ecocardiogramma
+- ## ecg, rx torace, ecocardiogramma
 	- ritardo conduzione dx fino a blocco branca dx
 	- ingrandimneto sezione dx
 	- passaggio di sangue per soluzione interatriale, quantificare shunt sx dx
 
-## terapia
+# terapia
 - th chirurgica percutanea
 	- prima che si modifichi il circolo polmonare, o si abbia disfunzione
 	- ombrellini chiudono buchi
 	- guida endoscopica e ecografica transesofagea
 	- diviene parte del setto
 
-## prognosi
+# prognosi
 - asintomatici fino a 40 anni
 - sintomatologia clinica poi
 	- dispnea, bronchite

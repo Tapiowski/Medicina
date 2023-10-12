@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - [[chf]]
 - [[insufficienza cardiaca]]
 - -sintomi, manifestazioni fisiche: cuore non assolve funione contrattile di pompa, non soddisfa apporto sangue ad organi
@@ -10,64 +10,64 @@
 - danno miocita, ipertrofia
 - [[contrattilita cardiaca]]
 
-## eziologia
+# eziologia
 - ### [[insufficienza cardiaca congestizia]]
 - ### [[insufficienza ventricolare sinistra]]
 - ### [[scompenso cardiaco cronico]]
 - ### [[scompenso cardiaco acuto]]
 
-- ## farmaci
-	- farmaci utilizzati: effetto [[inotropo]] positivo, +ca: depolarizza potenziale, oscillatori, [[aritmia]] , +conduttanza k: -resistenza di membrana
-		- [[farmaci inotropi positivi]]
-			- [[digossina]]
-			- [[milrinone]]
-			- [[dobutamina]]
-		- [[farmaci diuretici]]
-			- [[diuretici tiazidici]]
-			- [[irusemide]]
-			- [[bumetadine]]
-		- [[farmaci vasodilatatori]]
-			- [[captopril]]
-			- [[enalpril]]
-	- controllo peso, no fumo, no alcol
+# terapia
+- farmaci utilizzati: effetto [[inotropo]] positivo, +ca: depolarizza potenziale, oscillatori, [[aritmia]] , +conduttanza k: -resistenza di membrana
+	- [[farmaci inotropi positivi]]
+		- [[digossina]]
+		- [[milrinone]]
+		- [[dobutamina]]
 	- [[farmaci diuretici]]
-		- se presente un sovraccarico di volume: [[congestione polmonare]], [[edema]] periferico
-		- [[antagonisti aldosterone]] in scompenso avanzato
-	- [[ace inibitori]]
-		- -[[pre carico]], -[[post carico]], libera [[aldosterone]]
-		- th di prima linea se [[disfunzione sistolica]] del VS: -[[frazione di eiezione]], indipendente da volume di carico
-	- [[farmaci beta-bloccanti]]
-		- [[scompenso cardiaco]] sintomatico, classe funzionale nyha ii-iv stabili in th con [[digitale]], [[farmaci diuretici]], [[ace inibitori]]
-		- in [[infarto miocardico]] recente + [[ace inibitori]] con o senza [[scompenso cardiaco]]
-	- [[glicosidi cardioattivi]]
-		- [[digossina]], digitossina: +contrattilita
-			- + se associato a rapida [[fibrillazione atriale]] stabilizzata
-			- utile se sintomi permangono in [[ace inibitori]] e [[diuretici ansa]]
-		- in [[fibrillazione atriale]], [[scompenso cardiaco]] da [[disfunzione sistolica]]
-		- combinazione [[digossina]]/[[ace inibitori]]
-		- in pz con ritmo sinusale
-		- rare intossicazioni
+		- [[diuretici tiazidici]]
+		- [[irusemide]]
+		- [[bumetadine]]
 	- [[farmaci vasodilatatori]]
-		- [[idralazina]], [[isosorbide]]
-		- in [[angina pectoris]] th, [[ipertensione]]
-		- [[farmaci calcio antagonisti]]
-		- [[nitrati organici]] -[[pre carico]]
-		- [[idralazina]] -[[post carico]]
-		- meno efficaci, prolungano vita in associazione
-		- usate se [[farmaci beta-bloccanti]] non tollerati
-	- [[farmaci antiaritmici]]
-		- [[fibrillazione atriale]]: controllo frequenza ventricolare
-		- [[digossina]], [[amiodarone]], [[farmaci beta-bloccanti]]
-		- seconda scelta [[farmaci calcio antagonisti]]
-	- [[farmaci anticoagulanti]], [[farmaci antiaggreganti piastrinici]]
-		- [[aspirina]] in malattia [[coronarie]], causa piu frequente di [[scompenso cardiaco]]
-			- no evidenze su +vita, discrezionale
-			- in [[insufficienza renale]]: [[ace inibitori]]/[[aspirina]], sospendere [[aspirina]]
-	- ### interazioni, farmaci da evitare
-		- se in th per [[scompenso cardiaco]]
-		- fans, antiaritmici classe i, calcio antagonisti, antidepressivi triclici, corticosteroidi, litio, aspirina
+		- [[captopril]]
+		- [[enalpril]]
+- controllo peso, no fumo, no alcol
+- [[farmaci diuretici]]
+	- se presente un sovraccarico di volume: [[congestione polmonare]], [[edema]] periferico
+	- [[antagonisti aldosterone]] in scompenso avanzato
+- [[ace inibitori]]
+	- -[[pre carico]], -[[post carico]], libera [[aldosterone]]
+	- th di prima linea se [[disfunzione sistolica]] del VS: -[[frazione di eiezione]], indipendente da volume di carico
+- [[farmaci beta-bloccanti]]
+	- [[scompenso cardiaco]] sintomatico, classe funzionale nyha ii-iv stabili in th con [[digitale]], [[farmaci diuretici]], [[ace inibitori]]
+	- in [[infarto miocardico]] recente + [[ace inibitori]] con o senza [[scompenso cardiaco]]
+- [[glicosidi cardioattivi]]
+	- [[digossina]], digitossina: +contrattilita
+		- + se associato a rapida [[fibrillazione atriale]] stabilizzata
+		- utile se sintomi permangono in [[ace inibitori]] e [[diuretici ansa]]
+	- in [[fibrillazione atriale]], [[scompenso cardiaco]] da [[disfunzione sistolica]]
+	- combinazione [[digossina]]/[[ace inibitori]]
+	- in pz con ritmo sinusale
+	- rare intossicazioni
+- [[farmaci vasodilatatori]]
+	- [[idralazina]], [[isosorbide]]
+	- in [[angina pectoris]] th, [[ipertensione]]
+	- [[farmaci calcio antagonisti]]
+	- [[nitrati organici]] -[[pre carico]]
+	- [[idralazina]] -[[post carico]]
+	- meno efficaci, prolungano vita in associazione
+	- usate se [[farmaci beta-bloccanti]] non tollerati
+- [[farmaci antiaritmici]]
+	- [[fibrillazione atriale]]: controllo frequenza ventricolare
+	- [[digossina]], [[amiodarone]], [[farmaci beta-bloccanti]]
+	- seconda scelta [[farmaci calcio antagonisti]]
+- [[farmaci anticoagulanti]], [[farmaci antiaggreganti piastrinici]]
+	- [[aspirina]] in malattia [[coronarie]], causa piu frequente di [[scompenso cardiaco]]
+		- no evidenze su +vita, discrezionale
+		- in [[insufficienza renale]]: [[ace inibitori]]/[[aspirina]], sospendere [[aspirina]]
+- ### interazioni, farmaci da evitare
+	- se in th per [[scompenso cardiaco]]
+	- fans, antiaritmici classe i, calcio antagonisti, antidepressivi triclici, corticosteroidi, litio, aspirina
 
-## terapia
+# terapia 2
 - -na in dieta
 - resistenza a [[farmaci diuretici]]
 	- [[diuretici ansa]]: -simporto na/k/cl

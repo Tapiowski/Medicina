@@ -1,14 +1,14 @@
-## definizione
+# definizione
 - [[pneumologia interventistica]]: invasive diagnostiche e terapeutiche
 - esplora albero tracheo-bronchiale: [[broncoscopio]] a fibre ottiche sensibili
 - medici esperti + anestesia
 
-## indicazioni
+# indicazioni
 - tosse, rx torace anormale, emottisi, neoplasia polmone, fistole tracheoesofagee, corpi estranei
 - tosse non riconducibile ad altre patologie polmonari, non guaribile con farmaci
 - rx anormale anche dopo th
 
-## controindicazioni
+# controindicazioni
 - aritmie severe, refrattarie, infarti recenti, scompensi cardiaci
 	- solo dopo aver stabilizzato
 - contro esami bioptici
@@ -18,7 +18,7 @@
 	- ipertensione polmonare
 	- 3 rilievi
 
-## complicanze
+# complicanze
 - premedicazione, anestesia
 - sanguinamento
 - danno da broncoscopia rigido
@@ -35,7 +35,7 @@
 	- orale, vomito r
 	- tracheotomica se canula tracheale
 
-## ispezione
+# ispezione
 - valutare
 	- struttura parete tracheale e bronchiale: epitelio e mucosa
 		- ipervascolarizzazione con edema, iepremia, sanguinamento, tosse
@@ -48,7 +48,7 @@
 		- poi [[broncoscopio ultrasottile]], biopsia, ago fluoroscopico
 	- movimenti anomali
 
-## tecniche
+# tecniche
 - [[bal]]
 - [[biopsia tbna]]
 	- tc contrasto neoplasia
@@ -58,7 +58,7 @@
 	- ago estraibile, converse ecografico
 	- punta puo gonfiarsi per aderire
 
-## trattamenti innovativi
+# trattamenti innovativi
 - [[termoplastica]]
 	- asma grave
 	- elementi metallici sviluppanti calore, riduce spessore mm liscia ipertrofica: 68-69C

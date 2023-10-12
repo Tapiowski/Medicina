@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - [[polmonite interstiziale]]
 - [[dpld]] diffusa parenchymal lung disease
 - [[ipf]], pneumopatie infiltrative diffuse
@@ -24,12 +24,12 @@
 	- cistiche [[istiocitosi x]] [[linfangioleiomiomatosi]]
 	- [[polmonite eosinofila]] acuta e cronica
 
-## epidemiologia
+# epidemiologia
 - I = 3-5 / 100k, 50-60 yo
 - secondarie non eta dip, ma da causa generante
 	- connettivo giovani
 
-## eziologia
+# eziologia
 - [[ipf]]
 	- prognosi 12-18 m, farmaci costosi rallentano, pattern honeycombing sottopleurico
 - [[iip]]
@@ -43,10 +43,10 @@
 	- [[lam]] [[linfangioleiomiomatosi]] pattern cistico, giovani f, fumo, in mantello e midollo, pareti sottili, non risparmia aree, non recuperabile con stop fumo
 	- [[istiocitosi x]] giovani m, fumo, nodulare diffuso, poi divengono cisti
 
-## fisiopatologia
-- ### [[fibrosi polmonare idiopatica]]
+# fisiopatologia
+- ## [[fibrosi polmonare idiopatica]]
 
-## diagnosi
+# diagnosi
 - [[TC]]
 	- forme diffuse
 		- [[polmonite da ipersensibilita]]

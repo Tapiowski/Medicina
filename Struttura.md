@@ -24,6 +24,25 @@ from "Moduli"
 where superato
 ```
 
-# Citazioni
+# Orario
+```dataview
+table without id file.link as lezione, modulo, file.day - date("today") as "data"
+from "200/lezioni"
+where file.day > date("today")
+```
 
-# Appunti
+# Lezioni
+```dataview
+table without id file.link as lezione, modulo, data
+from "200/lezione"
+where file.day < date("today")
+limit 50
+```
+
+# Fonti
+```dataview
+table without id file.link as fonte, file.ctime as "Data"
+from "Definizioni"
+sort file.ctime desc
+limit 50
+```

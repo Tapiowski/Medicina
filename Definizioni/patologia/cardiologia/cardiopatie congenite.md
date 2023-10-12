@@ -1,14 +1,14 @@
-## definizione
+# definizione
 - malformazioni alla nascita, semplici o complesse
 - apparato cardiovascolare
 
-## epidemiologia
+# epidemiologia
 - 10/1000 nati vivi
 - 10% aborti spontanei
 - malformazioni piu frequenti
 - [[difetto interventricolare]] 1/3 dei casi
 - sopravvivenza a 25 anni del 85%
-- ### classificazione per frequenza
+- ## classificazione per frequenza
 	- [[difetto interventricolare]]
 	- [[dotto arterioso di botallo pervio]]
 	- [[difetto interatriale]]
@@ -19,7 +19,7 @@
 	- [[transposizione grossi vasi]]
 	- [[tetralogia di fallot]]
 
-## eziologia
+# eziologia
 - multifattoriale 80%
 - solo genetica 15%
 	- difetto genetico
@@ -32,21 +32,21 @@
 	- fumo, alcol
 	- farmaci
 	- virus [[rosolia]] [[sindrome materna infantile]]
-### classificazione
-- #### semplici
+## classificazione
+- ### semplici
 	- [[dia]]
 	- [[div]]
 	- [[pervieta dotto botallo]]
 	- [[stenosi polmonare congenita]]
 	- [[stenosi aortica congenita]]
 	- [[coartazione aortica]]
-- #### complesse
+- ### complesse
 	- [[tetralogia di fallot]]
 	- [[transposizione grossi vasi]]
 	- [[canale atrioventricolare]]
-- #### con o senza shunt
+- ### con o senza shunt
 	- passaggio di sangue da cuore sin a dx per +pressione sin, da buchi
-- #### clinica
+- ### clinica
 	- non cianogene
 		- con sovraccarico di volume
 			- ##### [[difetto interatriale]]

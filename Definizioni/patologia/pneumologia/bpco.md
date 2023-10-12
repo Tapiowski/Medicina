@@ -1,4 +1,4 @@
-## definzione
+# definzione
 - [[bronco-pneumopatia cronica ostruttiva]]
 - [[visus pletorico]]
 - [[infiammatoria cronica]] vie aeree
@@ -6,11 +6,11 @@
 - insieme di [[enfisema]] e [[bronchite cronica]]
 - differenze tra [[pink puffer]] e [[blue bloater]] 
 
-## epidemiologia
+# epidemiologia
 - 3 causa morte mondo, 3.23 morti 2019
 	- morte malattia-specifica: respiratoria o cardiovascolare
 
-## clinica
+# clinica
 - +insufflato [[iperinsufflazione]]
 - respiro con +vol corente fino a [[frc]], perde capacita inspiratoria
 	- sforzo, riserva inspiratoria non sufficiente [[dispnea]]
@@ -21,8 +21,8 @@
 	- [[iperinsufflazione]] dinamica
 	- pressione intrinseca di fine espirazione: fatica
 
-## terapia
-- ### stabile
+# terapia
+- ## stabile
 	- utilizzo dell'[[inalatore]]
 	- -sintomi, -f acuzie, +tollerazna esercizio e qualita vita
 	- -declino [[fev1]] 5 ml/anno
@@ -71,7 +71,7 @@
 					- peggio per non apicale, +esercizio
 	- altri farmaci
 		- [[a1-antitripsina]] aumentatori: iv, rallenta enfisema
-- ### riacutizzazioni
+- ## riacutizzazioni
 	- sintomi severi: [[dispnea]] a riposo, rateo respiratorio, -saturazione o2, confusione, [[nausea]]
 	- [[insufficienza respiratoria acuta]]
 	- segni fisici [[cianosi]], [[edema periferico]]

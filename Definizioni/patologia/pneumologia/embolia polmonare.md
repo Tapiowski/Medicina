@@ -1,4 +1,4 @@
-## definizione
+# definizione
 - [[ep]]
 - ostruzione acuta, parziale o completa di rami [[a polmonare]] da [[embolia]] per via venosa
 - 95% conseguenza di [[trombosi venosa profonda]] arti inf
@@ -11,13 +11,13 @@
 	- amniotici
 		- complicazioni parto
 
-## epidemiologia
+# epidemiologia
 - 3 causa morte, dopo infarto e stroke, 1 causa morte ospedalizzati > 65 e gravidanza
 - I = 20-40 / 100k anno. P = 65k
 - diagnosi autoptica: no segni pz critico, morte
 - tvp e genetica
 
-## eziologia
+# eziologia
 - [[triade di virchow]]
 	- [[stasi venosa]]
 	- [[lesione endoteliale]]
@@ -34,7 +34,7 @@
 	- carenza [[antitrombina iii]], [[proteina c]], [[fattore v]]
 	- anticorpi anti-fosfolipidi [[lupus]], [[sclerosi sistemica]], [[artrite reumatoide]] ipercoagulabilita: scoagulare a vita
 
-## fisiopatologia
+# fisiopatologia
 - embolo ostruisce arteria polmonare
 	- tronco comune, a principale dx sx, +calibro+gravita
 	- ostruzione acuta
@@ -65,7 +65,7 @@
 	- -perfusione sistemica, [[ipotensione]]
 	- [[shock]]
 
-## clinica
+# clinica
 - [[tvp]]
 	- dolore, tensione, arto gonfio e caldo rispetto controlat
 	- dd
@@ -98,13 +98,13 @@
 - [[score di wells]]
 	- >3 alta probabilita [[ep]]
 	- 1-2 moderata, 1 bassa
-- ### classificazione clinica
+- ## classificazione clinica
 	- impegno emodinamico, complicanze
-	- #### forme massive
+	- ### forme massive
 		- [[ipossiemia]], [[cianosi]], -presione sistemica <90 mmhg, <40 per 15m senza sepsi o infarto miocardio. scintigrafia 50% letto polmonare non perfuso
-	- #### forme sub massive
+	- ### forme sub massive
 		- no ipotensione, dispnoico, tachipnoico, tachicardico, scintigrafia meno grave
-	- #### forme non massive
+	- ### forme non massive
 		- [[tvp]] con emboli fino a [[ipertensione polmonare]], [[cuore polmonare]] fino a [[morte]]
 - [[infarto polmonare]]
 	- no flusso, 34h dopo episodio embolico
@@ -115,7 +115,7 @@
 	- base vs pleura, apice vs ilo
 	- [[riflesso broncospastico]] -ventilazione
 
-## diagnosi
+# diagnosi
 - dosaggio [[d-dimero]], [[profilo coagulativo]]
 	- +sens, -spec
 	- positivo: [[ep]], infezioni, infarto, tumori
@@ -153,7 +153,7 @@
 		- ruolo terapeutico in urgenza
 	- [[angiorm]]
 
-## terapia
+# terapia
 - pz allettati, profilassi
 	- [[eparina a basso peso molecolare]] transcutanea
 	- th di supporto in pressione bassa

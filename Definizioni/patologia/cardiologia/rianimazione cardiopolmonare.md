@@ -1,4 +1,4 @@
-## descrizione
+# descrizione
 - [[rcp]]
 - primo soccorso
 	- pz perde coscienza
@@ -12,8 +12,8 @@
 - mima cuore e polmoni
 - previene ipossia e danni cerebrali
 
-## meccanismo
-- prima di iniziare
+# meccanismo
+- ## prima di iniziare
 	- persona non coscente
 	- aprire vie aeree pz
 		- mano su fronte
@@ -27,7 +27,7 @@
 			- se respira: posizione laterale di sicurezza e 118
 			- se respira male o non respira via
 			- defibrillatore
-- inizio
+- ## inizio
 	- in ginocchio a lato del pz, scoprire torace
 	- massaggio cardiaco esterno 30 compressioni toraciche
 	- mano dominante al centro del torace, meta inf sterno
@@ -46,7 +46,7 @@
 	- seconda ventilazione
 	- riprendere massaggio cardiaco: non interrompere per piu di 10 s
 
-## complicazioni
+# complicazioni
 - [[defibrillatore semi-automatico esterno]]
 - rianimazione cardiopolmonare pediatrica
 	- 5 ventilazioni
