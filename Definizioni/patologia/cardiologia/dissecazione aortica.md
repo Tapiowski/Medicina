@@ -125,13 +125,13 @@
 		- [[a renale]]
 			- [[infarto renale]], puo essere bilanciato da altro rene
 - decorso spiraliforme, variabile
-		- [[crisi ipertensiva]], [[dissecazione aortica]] circoscritta, +volume aorta da falso lume = +vol totale trasverso massimo, rottura avventiziale, morte
-		- dissecazione progredisce
-			- [[dissecazione aortica retrograda]] invade cuore
-			- [[dissecazione aortica anterograda]] rami aorta: [[tronco celiaco]], [[a mesenterica sup]], [[a renale]], [[a mesenterica inf]]
-				- [[foro di rientro]] puo finire la dissecazione
-				- [[a iliaca]]: ischemia acuta arto inf
-				- rottura lume falso avventizia: decesso
+	- [[crisi ipertensiva]], [[dissecazione aortica]] circoscritta, +volume aorta da falso lume = +vol totale trasverso massimo, rottura avventiziale, morte
+	- dissecazione progredisce
+		- [[dissecazione aortica retrograda]] invade cuore
+		- [[dissecazione aortica anterograda]] rami aorta: [[tronco celiaco]], [[a mesenterica sup]], [[a renale]], [[a mesenterica inf]]
+			- [[foro di rientro]] puo finire la dissecazione
+			- [[a iliaca]]: ischemia acuta arto inf
+			- rottura lume falso avventizia: decesso
 
 # clinica
 ```ad-clinica
