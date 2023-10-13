@@ -154,6 +154,9 @@
 	- [[angiorm]]
 
 # terapia
+```ad-golden-standard
+title: eparina, embolectomia
+```
 - pz allettati, profilassi
 	- [[eparina a basso peso molecolare]] transcutanea
 	- th di supporto in pressione bassa

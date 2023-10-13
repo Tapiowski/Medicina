@@ -1,67 +1,69 @@
-- ## eziologia
-	- ### cause polmonari
-		- alveolari
-			- [[polmonite]], [[neoplasia]], [[alveolite allergica estrinseca]], [[enfisema]], [[edema polmonare acuto]]
-		- interstiziali
-			- [[fibrosi]], [[ards]]
-		- vascolari
-			- [[embolia polmonare]], [[ipertensione polmonare primitiva]]
-	- ### cause non polmonari
-		- [[insufficienza epatica]], [[shock settico]], [[ipotensione]], [[sepsi]], [[sindrome uremica]], [[peritonite]], [[pancreatite acuta]], [[trauma]] e interventi
-- ## fisiopatologia
-	- ### meccanismi polmonari
-		- ipoventilazione alveoalre
-			- -ventilazn algeoalre
-			- volume corrente x f respiratoria
-			- [[frequenza respiratoria]] fino a 4 apm
-			- no smaltimento co2, no ricambio aria alveolare
-		- alterato rapporto ventilazn perfusione
-			- [[enfisema centrolobulare]] > [[bpco]]
-		- shunt intrapolmonari
-			- sangue [[a polmonare]] > [[v polmonare]]
-			- comunicazn interatriali, interv, pdx > psn
-				- [[tetralogia di fallot]]
-			- [[embolia polmonare]]
-				- ostruzn [[a polmonare]]
-				- torna a cuore sn ossigenato
-		- limitazn diffusione alveolo-capillare
-			- +spessore membrana alveolo-capillare: interstizio, vaso
-		- tutte le fibrosi
-		- spirometria normale, diffusione alterata
-	- ### meccanismi non polmonari
-		- [[ipoventilazione]] totale
-		- -fio2: concentrazn o2
-		- -[[gittata cardiaca]]: [[scompenso cardiaco]]
-		- +consumo o2: [[sepsi]], febbre, -emoglobina
-		- -emoglobina: -o2
-		- [[curva di saturazn ossiemoglobinica]] <60
-- ## clinica
-	- parziale
-	- parziale + ipercapnica
-	- mancanza o2 [[ipossiemia]]
-		- [[ipossia tissutale]]: [[metabolismo energetico]] anaerobio: [[acido lattico]], [[acidosi]]
-		- [[ipertensione polmonare]]
-			- +lavoro cuore dx, non puo ipertrofizzare, dilata: [[cuore polmonare cronico]]
-			- +dimensione camere cardiache, +pressione a monte venosa, gonfio, [[edema]] non solo arti
-			- [[bpco]] [[visus pletorico]] fegato in stasi, turgore giugulari, da cuore polmonare
-		- [[riflesso vasoipossico]] circolo polmonare
-			- [[a polmonare]] + tono mm, +p circolo polmonare
-			- sovvertimento parete se duratura, ispessimento tonache, plessi irreversibili
-		- +stimolazn [[adrenalina]] tono simpatico
-			- +ipossiemia = +pressione sist/diast
-			- effetto inotropo+ batmotropo+
-		- [[ipercapnia]] quando aggrava
-			- +stimolazn vago e [[acetilcolina]]
-			- -f, -contrattilita, -p sistemica
-			- [[ipotensione]] sistemica, [[shock]], [[arresto cardiaco]]
-		- rene
-			- -perfusione renale: +[[eritropoietina]], [[ematocrito]] > 45-55: sangue denso -circolante nei capillari
-			- ossigenazn difficile
-				- svantaggio: storia salassi prelievo sangue, emodiluzn, ritransfuzione per -ematocrito
-				- ossigenazn meglio: no salasso, no emodiluizione
-		- [[cianosi]]
-			- +hg ridotta > 5g
-			- po2 < 40 mmhg
-				- [[cianosi centrale]]
-				- tegumenti, labbra, lingua, congiuntive, unghie, falangi dist
-			- po2 60 mmhg, ossigenoth no cianosi
+# eziologia
+- ## cause polmonari
+	- alveolari
+		- [[polmonite]], [[neoplasia]], [[alveolite allergica estrinseca]], [[enfisema]], [[edema polmonare acuto]]
+	- interstiziali
+		- [[fibrosi]], [[ards]]
+	- vascolari
+		- [[embolia polmonare]], [[ipertensione polmonare primitiva]]
+- ## cause non polmonari
+	- [[insufficienza epatica]], [[shock settico]], [[ipotensione]], [[sepsi]], [[sindrome uremica]], [[peritonite]], [[pancreatite acuta]], [[trauma]] e interventi
+
+# fisiopatologia
+- ## meccanismi polmonari
+	- ipoventilazione alveoalre
+		- -ventilazn algeoalre
+		- volume corrente x f respiratoria
+		- [[frequenza respiratoria]] fino a 4 apm
+		- no smaltimento co2, no ricambio aria alveolare
+	- alterato rapporto ventilazn perfusione
+		- [[enfisema centrolobulare]] > [[bpco]]
+	- shunt intrapolmonari
+		- sangue [[a polmonare]] > [[v polmonare]]
+		- comunicazn interatriali, interv, pdx > psn
+			- [[tetralogia di fallot]]
+		- [[embolia polmonare]]
+			- ostruzn [[a polmonare]]
+			- torna a cuore sn ossigenato
+	- limitazn diffusione alveolo-capillare
+		- +spessore membrana alveolo-capillare: interstizio, vaso
+	- tutte le fibrosi
+	- spirometria normale, diffusione alterata
+- ## meccanismi non polmonari
+	- [[ipoventilazione]] totale
+	- -fio2: concentrazn o2
+	- -[[gittata cardiaca]]: [[scompenso cardiaco]]
+	- +consumo o2: [[sepsi]], febbre, -emoglobina
+	- -emoglobina: -o2
+	- [[curva di saturazn ossiemoglobinica]] <60
+
+# clinica
+- parziale
+- parziale + ipercapnica
+- mancanza o2 [[ipossiemia]]
+	- [[ipossia tissutale]]: [[metabolismo energetico]] anaerobio: [[acido lattico]], [[acidosi]]
+	- [[ipertensione polmonare]]
+		- +lavoro cuore dx, non puo ipertrofizzare, dilata: [[cuore polmonare cronico]]
+		- +dimensione camere cardiache, +pressione a monte venosa, gonfio, [[edema]] non solo arti
+		- [[bpco]] [[visus pletorico]] fegato in stasi, turgore giugulari, da cuore polmonare
+	- [[riflesso vasoipossico]] circolo polmonare
+		- [[a polmonare]] + tono mm, +p circolo polmonare
+		- sovvertimento parete se duratura, ispessimento tonache, plessi irreversibili
+	- +stimolazn [[adrenalina]] tono simpatico
+		- +ipossiemia = +pressione sist/diast
+		- effetto inotropo+ batmotropo+
+	- [[ipercapnia]] quando aggrava
+		- +stimolazn vago e [[acetilcolina]]
+		- -f, -contrattilita, -p sistemica
+		- [[ipotensione]] sistemica, [[shock]], [[arresto cardiaco]]
+	- rene
+		- -perfusione renale: +[[eritropoietina]], [[ematocrito]] > 45-55: sangue denso -circolante nei capillari
+		- ossigenazn difficile
+			- svantaggio: storia salassi prelievo sangue, emodiluzn, ritransfuzione per -ematocrito
+			- ossigenazn meglio: no salasso, no emodiluizione
+	- [[cianosi]]
+		- +hg ridotta > 5g
+		- po2 < 40 mmhg
+			- [[cianosi centrale]]
+			- tegumenti, labbra, lingua, congiuntive, unghie, falangi dist
+		- po2 60 mmhg, ossigenoth no cianosi

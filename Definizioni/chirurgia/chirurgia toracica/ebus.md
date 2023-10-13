@@ -1,0 +1,2 @@
+- ago estraibile, converse ecografico
+- punta puo gonfiarsi per aderire

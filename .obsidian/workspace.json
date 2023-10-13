@@ -11,16 +11,85 @@
             "id": "2bffc1ff3dcaee81",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Home.canvas",
-                "viewState": {
-                  "x": 9.032069003704805,
-                  "y": 835.6706103947361,
-                  "zoom": -0.292478183726276
+                "file": "Definizioni/patologia/cardiologia/aterosclerosi.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "af2e3e8d17e724cf"
+          }
+        ]
+      },
+      {
+        "id": "5291ad91a9a925f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afce5fc4800bc565",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Definizioni/patologia/cardiologia/aterosclerosi.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:Definizioni/patologia/cardiologia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "path:Definizioni/patologia/pneumologia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    },
+                    {
+                      "query": "path:Definizioni/farmacologia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "path:Definizioni/chirurgia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000029,
+                  "close": true
                 }
               }
-            }
+            },
+            "group": "af2e3e8d17e724cf"
           }
         ]
       }
@@ -80,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.canvas"
+                "file": "Definizioni/patologia/cardiologia/aterosclerosi.md"
               }
             }
           }
@@ -104,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.canvas",
+                "file": "Definizioni/patologia/cardiologia/aterosclerosi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.canvas",
+                "file": "Definizioni/patologia/cardiologia/aterosclerosi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,33 +230,33 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "Struttura.md",
-    "Untitled.md",
-    "Home.canvas",
-    "Definizioni/patologia/pneumologia/insufficienza respiratoria cronica.md",
-    "Definizioni/patologia/pneumologia.md",
-    "Definizioni/patologia/pneumologia/embolia polmonare.md",
-    "Definizioni/patologia/pneumologia/mesotelioma pleurico.md",
-    "Moduli/patologia sistematica I.md",
     "Definizioni/patologia/cardiologia.md",
-    "Definizioni/patologia/cardiologia/farmaci cardiologici.md",
-    "Definizioni/patologia/cardiologia/anomalie cardiache congenite.md",
-    "Definizioni/patologia/cardiologia/cardiopatie congenite.md",
-    "Definizioni/patologia/cardiologia/tetralogia di fallot.md",
-    "Definizioni/patologia/cardiologia/difetto interventricolare.md",
-    "Definizioni/patologia/cardiologia/valvulopatie.md",
-    "Definizioni/patologia/cardiologia/scompenso cardiaco.md",
-    "Definizioni/patologia/cardiologia/scompenso cardiaco acuto.md",
-    "Definizioni/patologia/cardiologia/scompenso cardiaco cronico.md",
-    "Definizioni/patologia/0/insufficienza ventricolare sinistra.md",
-    "Definizioni/patologia/cardiologia/insufficienza cardiaca congestizia.md",
-    "Definizioni/patologia/cardiologia/malattie reumatiche cardiologiche.md",
-    "Definizioni/farmacologia/0/aspirina.md",
-    "Definizioni/farmacologia/nervoso/steroidi.md",
-    "Definizioni/patologia/cardiologia/endocardite infettiva.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatia.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatie non classificabili.md",
-    "Definizioni/patologia/cardiologia/ventricolo sin non compatto.md",
+    "Definizioni/patologia/cardiologia/aterosclerosi.md",
+    "Definizioni/patologia/cardiologia/statine.md",
+    "Definizioni/patologia/cardiologia/ipertensione arteriosa.md",
+    "Definizioni/patologia/cardiologia/aritmie.md",
+    "Definizioni/patologia/cardiologia/extrasistole.md",
+    "Definizioni/patologia/cardiologia/extrasistole sovra-ventricolare.md",
+    "Definizioni/patologia/cardiologia/extrasistole ventricolare.md",
+    "Definizioni/patologia/cardiologia/ritmi di scappamento.md",
+    "Definizioni/patologia/cardiologia/pre-eccitazione ventricolare.md",
+    "Definizioni/patologia/cardiologia/tachiaritmia.md",
+    "Definizioni/patologia/cardiologia/fibrillazione ventricolare.md",
+    "Definizioni/patologia/cardiologia/torsione di punta.md",
+    "Definizioni/patologia/cardiologia/tachicardia ventricolare.md",
+    "Definizioni/patologia/cardiologia/tachicardia sopra-ventricolare.md",
+    "Definizioni/patologia/cardiologia/flutter atriale.md",
+    "Definizioni/patologia/cardiologia/fibrillazione atriale.md",
+    "Definizioni/patologia/cardiologia/sindrome di wolff-parkinson-white.md",
+    "Definizioni/patologia/cardiologia/tachicardia da rientro.md",
+    "Definizioni/patologia/cardiologia/tachicardia giunzionale.md",
+    "Definizioni/patologia/cardiologia/tachicardia atriale.md",
+    "Definizioni/patologia/cardiologia/tachicardia sinusale.md",
+    "Definizioni/patologia/cardiologia/battiti ectopici.md",
+    "Definizioni/patologia/cardiologia/bradiaritmia.md",
+    "Definizioni/patologia/cardiologia/blocco intraventricolare.md",
+    "Definizioni/patologia/cardiologia/blocco atrioventricolare.md",
+    "Home.canvas",
     "100/files/Recording 20231012164710.webm",
     "100/files/Pasted image 20231013022013.png",
     "100/files/Pasted image 20230207104650.png",

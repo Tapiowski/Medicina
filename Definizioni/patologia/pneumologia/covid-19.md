@@ -147,6 +147,9 @@ modulo: patologia sistematica I
 		- diffusione co+, fev1 stabile
 
 # terapia
+```ad-golden-standard
+title: anticoagulanti, ossigenoth, cefalosporine+macrolidi, vasopressori, ace inibitori
+```
 - [[farmaci anticoagulanti]] contrasta [[cid]]: [[enoxaparina]]
 - [[ossigenoterapia]] per [[ards]]: peep+ con casco, fino a 30 cm h2o
 	- far funzionare alveoli collassati da essudato polmonare, +po2 estera

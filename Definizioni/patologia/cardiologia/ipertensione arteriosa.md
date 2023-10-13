@@ -119,6 +119,10 @@
 		- th a vita
 
 # terapia
+```ad-golden-standard
+title: [[farmaci antipertensivi]]: [[ace inibitori]], [[farmaci beta-bloccanti]], [[farmaci calcio antagonisti]], [[farmaci diuretici]], [[sartani]]
+```
+- altri: [[alfa-bloccanti]], [[alfa-metildopa]], [[antagonisti aldosterone]]
 - riduzione graduale e progressiva della pressione 24-48 h per os
 - emergenze ipertensive: [[ipertensione maligna]]
 - riduce valori pressori e rischio cardiovascolare globale
@@ -127,18 +131,6 @@
 	- no farmaco salva vita
 	- non prevedibile risposta
 	- malattie associate
-```ad-golden-standard
-title: th farmacologica: [[farmaci antipertensivi]]
-- [[ace inibitori]]
-- [[farmaci beta-bloccanti]]
-- [[farmaci calcio antagonisti]]
-- [[farmaci diuretici]]
-- [[sartani]]
-- altri
-	- [[alfa-bloccanti]]
-	- [[alfa-metildopa]]
-	- [[antagonisti aldosterone]]
-```
 - th non farmacologica
 	- stile di vita, rivalutazione
 	- dieta iposodica 3-4 g na max

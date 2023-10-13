@@ -80,6 +80,7 @@
 
 # clinica
 - [[dispnea]] 95% [[dispnea da sforzo]] poi a riposo
+- [[ipossiemia]] persistente
 - affaticamento
 - oppressione toracica: dd angina
 - sincope da clinostatica a ortostatica: -vol sn da spostamento setto
@@ -113,7 +114,6 @@
 	- no come vd, reversibilita positiva <10% casi: [[farmaci calcio antagonisti]] efficaci
 
 # terapia
-- [[ambrisentan]]
-- [[nitrossido]] vd, antiprolif
-- agonisti prostacicline, +ampc: vd [[inibitori pde]] anche viagra
-- ossigenoth: ipossiemia persistente
+```ad-golden-standard
+title: [[ambrisentan]], [[nitrossido]], [[agonisti prostacicline]] [[inibitori pde]], [[ossigenoterapia]]
+```

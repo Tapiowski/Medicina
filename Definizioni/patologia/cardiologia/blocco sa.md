@@ -17,9 +17,9 @@
 	- sistema di purkinje 24-30 bpm
 
 # terapia
-- alterna bradicardia e tachicardia, ecg holter: [[sindrome bradi-tachi]]
 ```ad-golden-standard
 title: [[farmaci antiaritmici]] + [[pacemaker]]
 ```
+- alterna bradicardia e tachicardia, ecg holter: [[sindrome bradi-tachi]]
 - [[farmaci beta-bloccanti]] peggiorano fase bradi
 - impianto [[pacemaker]] per bradi

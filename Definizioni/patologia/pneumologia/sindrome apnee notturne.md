@@ -194,6 +194,10 @@
 		- >60 molto severa
 
 # terapia
+```ad-golden-standard
+title: chirurgia su palato molle
+-sintomi, -complicazioni, +lavoro
+```
 - medica
 	- dimagrimento
 		- migliora con dimagrimento

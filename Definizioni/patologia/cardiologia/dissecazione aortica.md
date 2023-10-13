@@ -193,13 +193,13 @@
 - [[tac total body]] 10s
 
 # terapia
-- stabilizzare pz, th intensiva
 ```ad-golden-standard
 title: [[farmaci anti-ipertensivi]]
 - a livelli di perfusione renale, cerebrale garantita: 90 mmhg max
 - pz deve essere ipoteso perche lacerazione aorta in atto
 - [[farmaci diuretici]], [[farmaci calcio antagonisti]], [[farmaci beta-bloccanti]]
 ```
+- stabilizzare pz, th intensiva
 - [[dissecazione aortica tipo A]]
 	- [[a ascendente]]
 	- chirurgia, no th intensiva

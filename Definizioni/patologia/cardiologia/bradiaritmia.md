@@ -4,5 +4,4 @@
 # classificazione
 - ## [[blocco sa]]
 - ## [[blocco atrioventricolare]]
-	- ## [[pacemaker]]
 - ## [[blocco intraventricolare]]

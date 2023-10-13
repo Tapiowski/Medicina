@@ -143,9 +143,12 @@
 	- angiografia
 	- angio rm
 	- angio tc
+- controllo valori [[LDL]]
 
 # terapia
-- controllo valori [[LDL]]
+```ad-golden-standard
+title: statine
+```
 - storia
 	- oliver: colesterolo sierico non riduce mortalita
 	- aniskov: carote e insalata = no lesioni aorta nel coniglio. uova = lesioni

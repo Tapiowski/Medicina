@@ -1,3 +1,4 @@
+- inalatori
 - tono mm liscia e flow espiratorio: vie aeree pervie, non cambio in risposta elastica
 - -iperinflazione, +performance
 - [[fev1]] change: nebolizzatore, base regolare, non usare a corto effetto

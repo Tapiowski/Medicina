@@ -49,21 +49,14 @@
 	- movimenti anomali
 
 # tecniche
-- [[bal]]
-- [[biopsia tbna]]
-	- tc contrasto neoplasia
-	- ago aspirato parete bronchiale o tracheale, lesione retrostante
-	- vascolarizzati: laser cauterizzante
-- [[ebus]]
-	- ago estraibile, converse ecografico
-	- punta puo gonfiarsi per aderire
+- ## [[bal]]
+- ## [[biopsia tbna]]
+- ## [[ebus]]
 
-# trattamenti innovativi
-- [[termoplastica]]
-	- asma grave
-	- elementi metallici sviluppanti calore, riduce spessore mm liscia ipertrofica: 68-69C
-- [[valvole endobronchiali]]
-	- [[enfisema eterogeneo]] lobi sup in fumatori
-	- aria passa in espirazione, blocca in inspirazn: aria in eccesso fuoriesce: non far passare aria tra i due lobi
-- [[protesi tracheo-bronchiali]]
-	- lassita parete, tumori occludenti
+# terapia
+```ad-golden-standard
+title: trattamenti innovativi
+[[termoplastica]]: asma grave
+[[valvole endobronchiali]]: [[enfisema eterogeneo]] lobi sup in fumatori
+[[protesi tracheo-bronchiali]]: lassita parete, tumori occludenti
+```

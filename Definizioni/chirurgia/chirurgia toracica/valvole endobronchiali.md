@@ -1,0 +1,1 @@
+aria passa in espirazione, blocca in inspirazn: aria in eccesso fuoriesce: non far passare aria tra i due lobi

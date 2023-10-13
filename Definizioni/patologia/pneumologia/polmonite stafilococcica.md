@@ -22,5 +22,7 @@
 	- escreato, lavaggio alveolare, campione ematico
 
 # terapia
-- beta-lattamici no
-- [[macrolidi]], [[cefalosporine]]
+```ad-golden-standard
+title: [[macrolidi]], [[cefalosporine]]
+beta-lattamici no
+```

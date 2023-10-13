@@ -22,16 +22,19 @@
 	- pressione intrinseca di fine espirazione: fatica
 
 # terapia
+```ad-golden-standard
+title: b2-agonisti + anti-muscarinici + ics
+```
 - ## stabile
 	- utilizzo dell'[[inalatore]]
 	- -sintomi, -f acuzie, +tollerazna esercizio e qualita vita
 	- -declino [[fev1]] 5 ml/anno
-	- #### [[farmaci broncodilatatori]] 4.9
+	- ### [[farmaci broncodilatatori]] 4.9
 		- terapia di combinazione
 		- ##### [[saba]]+[[sama]]
 		- ##### [[laba]]+[[lama]] in singolo inhaler
 			- previene acutizzazioni laba+ics fose meglio
-	- #### [[farmaci anti-infiammatori]]
+	- ### [[farmaci anti-infiammatori]]
 		- ##### [[ics]] 7.3
 			- +[[farmaci broncodilatatori]]
 				- +
@@ -78,7 +81,7 @@
 	- -risposta th
 	- comorbidita
 	- -supporto casalingo
-	- #### [[ics]], [[glucocorticoidi orali]]
+	- ### [[ics]], [[glucocorticoidi orali]]
 	- gradi
 		- grave, no rischio vita
 			- gravita dei sintomi

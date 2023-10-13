@@ -113,7 +113,8 @@
 - anamnesi, esame obiettivo, spirometria, test reversibilita no in ostruzione bronchiale, gas ematici e rx torace
 
 # terapia
-- ## [[cortisone]]+[[antibiotico terapia]]
-	- 1wk poi ok
-- ## riacutizza
-	- ## [[corticosteroidi]]
+```ad-golden-standard
+title: [[cortisone]]+[[antibiotico terapia]]
+per una settimana
+[[corticosteroidi]] per acutie
+```

@@ -1,31 +1,32 @@
-- ## ezio fisio patologia
-	- ### cause polmonari
-		- malattie vie aeree
-			- ipoventilazn da -spazio respiratorio
-				- [[tumore]], [[edema]], [[asma]], [[bronchiolite]]
-				- -ventilazn -eliminazn co2
-		- malattie parenchima polmonare
-			- mm ok, ma faticati
-				- po2 mantenuto vicino a punto critico
-				- sforzo enorme, rallentano
-		- malattie vascolari polmonari
-			- [[embolia polmonare]], [[congestione polmonare]] per [[insufficienza cardiaca]], [[microembolia ricorrente]]
-	- ### cause non polmonari
-		- malattie snc
-			- cerebrovascolari infettive, [[encefalite]]
-			- drive respiratorio colpiti da [[ischemia]], [[tumore]] comprimente, [[infezione]], [[trauma]]
-				- no ventilazione
-			- [[gas anestetici]] [[curaro]] blocco, ipercapnia
-		- malattia numm
-			- nervi mm respiratori: [[poliomielite]], [[sclerosi laterale amiotrofica]]: secondo motonu
-		- malattia gabbia toracica
-			- [[distrofia muscolare]], [[miastenia gravis]]
-			- deformazn gabbia: [[cifoscoliosi complessa]], [[trauma]]
-		- malattia metabolica
-			- obesita, snd da ipoventilazn
-- ## clinica
-	- [[vasodilatazione cerebrale]]
-		- vasoperm, [[edema cerebrale]]
-		- [[stupor]]. [[coma ipercapnico]]
-		- 80 mmhg co2: coma, difficile sveglia
-		- [[fascicolazioni]] arti sup precede coma
+# ezio fisio patologia
+- ## cause polmonari
+	- malattie vie aeree
+		- ipoventilazn da -spazio respiratorio
+			- [[tumore]], [[edema]], [[asma]], [[bronchiolite]]
+			- -ventilazn -eliminazn co2
+	- malattie parenchima polmonare
+		- mm ok, ma faticati
+			- po2 mantenuto vicino a punto critico
+			- sforzo enorme, rallentano
+	- malattie vascolari polmonari
+		- [[embolia polmonare]], [[congestione polmonare]] per [[insufficienza cardiaca]], [[microembolia ricorrente]]
+- ## cause non polmonari
+	- malattie snc
+		- cerebrovascolari infettive, [[encefalite]]
+		- drive respiratorio colpiti da [[ischemia]], [[tumore]] comprimente, [[infezione]], [[trauma]]
+			- no ventilazione
+		- [[gas anestetici]] [[curaro]] blocco, ipercapnia
+	- malattia numm
+		- nervi mm respiratori: [[poliomielite]], [[sclerosi laterale amiotrofica]]: secondo motonu
+	- malattia gabbia toracica
+		- [[distrofia muscolare]], [[miastenia gravis]]
+		- deformazn gabbia: [[cifoscoliosi complessa]], [[trauma]]
+	- malattia metabolica
+		- obesita, snd da ipoventilazn
+
+# clinica
+- [[vasodilatazione cerebrale]]
+	- vasoperm, [[edema cerebrale]]
+	- [[stupor]]. [[coma ipercapnico]]
+	- 80 mmhg co2: coma, difficile sveglia
+	- [[fascicolazioni]] arti sup precede coma

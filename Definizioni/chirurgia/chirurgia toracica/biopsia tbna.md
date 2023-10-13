@@ -1,0 +1,3 @@
+- tc contrasto neoplasia
+- ago aspirato parete bronchiale o tracheale, lesione retrostante
+- vascolarizzati: laser cauterizzante

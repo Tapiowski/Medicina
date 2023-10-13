@@ -193,6 +193,9 @@
 		- inizio th tbc
 
 # terapia
+```ad-golden-standard
+title: mdr-tb: isoniazide, rifampicina + pirazinamide, etambutolo, bedaquilina
+```
 - multith farmaceutica
 - partire con 3-4 farmaci, se 1 resistente aggiungerne 2
 	- mai aggiungere 1 solo farmaco in fallimento

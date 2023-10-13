@@ -32,10 +32,10 @@
 		- [[vasculite]]
 	- augmentation th, sostitutiva, purificato da urine e introdotto
 ## classificazione
-- #### [[enfisema centrolobulare]]
-- #### [[enfisema panlobulare]]
-- #### [[enfisema parasettale]]
-- #### [[enfisema paracicatriziale]]
+- ### [[enfisema centrolobulare]]
+- ### [[enfisema panlobulare]]
+- ### [[enfisema parasettale]]
+- ### [[enfisema paracicatriziale]]
 
 # clinica
 - [[pink puffer]]
@@ -90,6 +90,9 @@
 			- [[iperinsufflazione]]
 
 # terapia
+```ad-golden-standard
+title: [[farmaci broncodilatatori]]
+```
 - no th per arresto declino
 - declino in fumatori, miglioramento in stop
 	- smettere di fumare > [[farmaci broncodilatatori]]

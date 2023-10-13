@@ -26,6 +26,9 @@
 - dd
 
 # terapia
+```ad-golden-standard
+title: cefalosporine
+```
 - no comorbidita, no severa
 	- monoth antibiotica: [[ceftriassone]], ampio spettro 14gg
 - rischio, no month

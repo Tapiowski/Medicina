@@ -1,0 +1,1 @@
+elementi metallici sviluppanti calore, riduce spessore mm liscia ipertrofica: 68-69C

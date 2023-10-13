@@ -111,6 +111,9 @@
 	- grave/persistente
 
 # terapia
+```ad-golden-standard
+title: broncodilatatori, corticosteroidi inalatori, beta-bloccanti, steroidei orali, glucocorticoidi
+```
 - allontanare allergene, bonifica case, evitare situazioni predisponenti
 - lieve/intermittente
 	- th broncodilatatrice al bisogno
