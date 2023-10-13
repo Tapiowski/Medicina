@@ -14,7 +14,7 @@
 - ### [[insufficienza cardiaca congestizia]]
 - ### [[insufficienza ventricolare sinistra]]
 - ### [[scompenso cardiaco cronico]]
-- ### [[scompenso cardiaco acuto]]
+- ### [[scompenso cardiaco acuto]] <
 
 # terapia
 - farmaci utilizzati: effetto [[inotropo]] positivo, +ca: depolarizza potenziale, oscillatori, [[aritmia]] , +conduttanza k: -resistenza di membrana

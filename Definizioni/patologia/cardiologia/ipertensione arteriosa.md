@@ -2,6 +2,7 @@
 - pressione diastolica > 90 mmhg
 - pressione sistolica > 140 mmhg
 - relazione tra pressione e rischio cardiovascolare
+- [[ipertensione]]
 
 # epidemiologia
 - prima causa mortalita europa, m f
@@ -122,20 +123,22 @@
 - emergenze ipertensive: [[ipertensione maligna]]
 - riduce valori pressori e rischio cardiovascolare globale
 	- pressione, fattori di rischio, danno d'organo
-- th farmacologica - [[farmaci antipertensivi]]
-	- [[ace inibitori]]
-	- [[farmaci beta-bloccanti]]
-	- [[farmaci calcio antagonisti]]
-	- [[farmaci diuretici]]
-	- [[sartani]]
-	- altri
-		- [[alfa-bloccanti]]
-		- [[alfa-metildopa]]
-		- [[antagonisti aldosterone]]
 	- abbassano pressione
 	- no farmaco salva vita
 	- non prevedibile risposta
 	- malattie associate
+```ad-golden-standard
+title: th farmacologica: [[farmaci antipertensivi]]
+- [[ace inibitori]]
+- [[farmaci beta-bloccanti]]
+- [[farmaci calcio antagonisti]]
+- [[farmaci diuretici]]
+- [[sartani]]
+- altri
+	- [[alfa-bloccanti]]
+	- [[alfa-metildopa]]
+	- [[antagonisti aldosterone]]
+```
 - th non farmacologica
 	- stile di vita, rivalutazione
 	- dieta iposodica 3-4 g na max

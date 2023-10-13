@@ -34,3 +34,6 @@
 - conduzione intra-ventricolare: asse elettrico, derivazione isodifasica su piano frontale: aVL, perpendicolare ad aVL troviamo D2: asse 60'
 - ripolarizzazione: onde T simmetriche, stesso verso QRS, no sottoslivellamenti
 	- QT corretto: ripolarizzazione ok
+
+# terapia
+- ## [[pacemaker]]

@@ -11,4 +11,5 @@ class:: {"type":"Select","options":{"valuesList":{},"sourceType":"ValuesFromDVQu
 modulo:: {"type":"Select","options":{"valuesList":{},"sourceType":"ValuesFromDVQuery","valuesListNotePath":"","valuesFromDVQuery":"dv.pages('\"Moduli\"').map(p => p.file.name)"}}
 progresso:: {"type":"Date","options":{"dateFormat":"DD/MM/YYYY","defaultInsertAsLink":"false","dateShiftInterval":"7 days"}}
 data:: {"type":"Date","options":{"dateFormat":"HH:mm DD/MM/YYYY","defaultInsertAsLink":"false"}}
-voto:: {"type":"Number","options":{"min":"18","max":"30"}}
+
+valutazione:: {"type":"Number","options":{"min":"0","max":"30"}}

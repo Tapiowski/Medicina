@@ -46,10 +46,12 @@
 	- controllare fattori rischio cardiovascolari
 	- angina pectoris da [[aterosclerosi]]: blocco processo aterosclerotico: [[anti-ischemici]]
 	- rivascolarizzazione miocardica [[bypass aorto-coronarico]], [[angioplastica]] percutanea, non causare ischemia miocardica, progressione malattia
-- blocco aterosclerosi in tutto organismo
-	- th medica ottimale
-	- rivascolarizzazione percutanea con [[angioplastica]] con o senza stent
-	- rivascolarizzazione chirurgica con [[bypass aorto-coronarico]]
+```ad-golden-standard
+title: blocco aterosclerosi in tutto organismo
+- th medica ottimale
+- rivascolarizzazione percutanea con [[angioplastica]] con o senza stent
+- rivascolarizzazione chirurgica con [[bypass aorto-coronarico]]
+```
 - stratificare rischio pz
 	- mortalita attesa massa ad un anno: th medica ottimale
 	- rischio intermedio: th ottimale e considerare coronarografia

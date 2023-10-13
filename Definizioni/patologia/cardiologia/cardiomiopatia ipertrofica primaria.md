@@ -48,13 +48,16 @@
 
 # terapia
 - ## trattare ostruzione efflusso ventricolo sinistro
-	- [[farmaci inotropi negativi]] riducono ipercontrazione mm ipertrofico: +efflusso in aorta
-	- [[miectomia chirurgica]] o [[alcolizzazione del setto]] via cutanea
-	- morte improvvisa: limitare sforzo fisico
+```ad-golden-standard
+title: [[farmaci inotropi negativi]]
+- riducono ipercontrazione mm ipertrofico: +efflusso in aorta
+- [[miectomia chirurgica]] o [[alcolizzazione del setto]] via cutanea
+```
 - ## caratteristiche di rischio
-	- [[aritmie]], [[sincope]], familiarita per morte improvvisa
 	- impianto [[defibrillatore interno automatico]]
 	- screening familiare: [[elettrocardiografia]], [[ecocardiografia]]
+	- [[aritmie]], [[sincope]], familiarita per morte improvvisa
+	- morte improvvisa: limitare sforzo fisico
 
 # prognosi
 - complicanze, scompenso, aritmie, progressione disfunzione diastolica o sistolica ventricolo sin

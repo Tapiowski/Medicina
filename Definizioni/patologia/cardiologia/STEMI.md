@@ -19,13 +19,15 @@
 	- occlusione intermittente, riapertura temporanea
 	- reclutamento circolo collaterale
 	- precondizionamento ischemico: adattamento a precedenti ischemie
-- ### [[angioplastica]]
-	- disostruire a ostruite o stenotiche
-	- fili guida con stent contentente palloncino, gonfiato aderisce a parete, pressione su placca fino a rimuoverla dal vaso
-	- palloncino rimosso, stent in loco
-		- stimola trombosi, infiammazione, proliferazione liscia
-		- embolizza materiale circostante
-		- [[farmaci antiaggreganti piastrinici]]: aspirina
+```ad-golden-standard
+title: [[angioplastica]]
+- disostruire a ostruite o stenotiche
+- fili guida con stent contentente palloncino, gonfiato aderisce a parete, pressione su placca fino a rimuoverla dal vaso
+- palloncino rimosso, stent in loco
+	- stimola trombosi, infiammazione, proliferazione liscia
+	- embolizza materiale circostante
+	- [[farmaci antiaggreganti piastrinici]]: aspirina
+```
 - ### ritardi nel trattamento
 	- per ogni 30 minuti persi mortalita aumenta dell'8%
 	- se trasferimento > 2 h: farmaco [[trombolitici]] altrimenti centro [[angioplastica]]

@@ -26,11 +26,16 @@
 - #### [[malattia di barlow]] forma comune
 - #### [[endocardite reumatica]]
 - #### [[endocardite in corso di connettiviti]]
-
-# patogenesi
 - tre elementi necessari: lesione endotelio, batteriemia transitoria, alterazione difese ospite
 - aggregazione piastrinica in lesione con [[endocardite trombotica abatterica]] + batteremia = colonizzazione e vegetazioni con endocardite franca
 - + in camere a bassa pressione
+## protesi valvolari e devices
+- [[endocardite su protesi]]
+	- da [[stafilococco#^aureus]] precoce in 60 gg da sostituzione valvolare, altrimenti tardiva
+	- protesi meccaniche: rischio in primi mesi, cestelli colonizzati da batteri, rigurgiti periprostesici tendono a fare ascessi e staccarsi
+	- protesi biologiche: rischio in 12 mesi, degenerazione in decina di anni: si ispessiscono, deposizione di calcio: colonizzazione lembi con vegetazione
+- [[endocardite su device cardiaci]]
+	- 1.9/1000 device/anno: +in fibrillatori: togliere sistema sia generatore che elettrocatetere
 
 # fisiopatologia
 - danno valvolare, [[stenosi valvolare]], [[insufficienza valvolare]], [[scompenso cardiaco]]
@@ -44,14 +49,6 @@
 - [[vegetazione satellite]] embolo da vegetazione a valvola
 - [[embolia]] in 30% endocarditi in prima settimana di th antibiotica
 
-## protesi valvolari e devices
-- [[endocardite su protesi]]
-	- da [[stafilococco#^aureus]] precoce in 60 gg da sostituzione valvolare, altrimenti tardiva
-	- protesi meccaniche: rischio in primi mesi, cestelli colonizzati da batteri, rigurgiti periprostesici tendono a fare ascessi e staccarsi
-	- protesi biologiche: rischio in 12 mesi, degenerazione in decina di anni: si ispessiscono, deposizione di calcio: colonizzazione lembi con vegetazione
-- [[endocardite su device cardiaci]]
-	- 1.9/1000 device/anno: +in fibrillatori: togliere sistema sia generatore che elettrocatetere
-
 # diagnosi
 - [[criteri di duke]]: 2 criteri maggiori, 1M 3m, 5m
 - emocoltura 3 prelievi a 30' intervalli
@@ -63,9 +60,11 @@
 	- tac, spect, pet
 
 # terapia
-- associazione antibiotici
-	- [[streptococco]]: una [[ampicillina]] o [[gentamicina]]
-	- [[stafilococco]]: [[oxacillina]] se meticillina-sens, se resistente due [[aminoglicosidi]] per 4-6 settimane
+```ad-golden-standard
+title: associazione antibiotici
+- [[streptococco]]: una [[ampicillina]] o [[gentamicina]]
+- [[stafilococco]]: [[oxacillina]] se meticillina-sens, se resistente due [[aminoglicosidi]] per 4-6 settimane
+```
 - th chirurgica
 	- [[scompenso cardiaco refrattario]]
 	- [[embolizzazione periferica]]

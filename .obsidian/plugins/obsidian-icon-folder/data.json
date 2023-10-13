@@ -1,0 +1,32 @@
+{
+  "100": "FabBlackberry",
+  "200": "FabCloudflare",
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabFirstOrderAlt",
+      "FabCodepen",
+      "FabCloudflare",
+      "FabBlackberry",
+      "FabBuffer"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconsBackgroundCheckEnabled": false
+  },
+  "Moduli": "FabAudible",
+  "Definizioni": "FabBuffer",
+  "Home.canvas": "FabCodepen",
+  "Struttura.md": "FabCodepen"
+}

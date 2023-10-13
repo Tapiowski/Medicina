@@ -31,7 +31,10 @@
 		- zona sovraslivellata = zona interessata da infarto, le altre sottoslivellano
 
 # clinica
-## [[angina pectoris]]
+```ad-caution
+title: [[angina pectoris]]
+```
+
 
 # diagnosi
 - ecg, dove occlusione coronaria
@@ -58,7 +61,8 @@
 	- alterata ripolarizzazione con qrs slargato > 0.12 s e complessi qs in sede settale
 
 # terapia
-- [[nitrossido]]
-- [[farmaci calcio antagonisti]]
-	- blocco l, t del ca con -ca in depolarizzazione
-	- per os, metabolismo
+```ad-golden-standard
+title: [[nitrossido]], [[farmaci calcio antagonisti]]
+```
+- blocco l, t del ca con -ca in depolarizzazione
+- per os, metabolismo

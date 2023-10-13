@@ -27,10 +27,16 @@
 - [[criteri di jones]] 2M o 1M 2m con [[faringotonsilliti]] o aumento [[TASLO]]
 
 # terapia
-- riposo a letto, [[penicilline]] ev per 10gg seguita da [[penicillina G]] im, [[eritromicina]] se allergici
+```ad-golden-standard
+title: antibiotici + antiinfiammatori
+- [[penicilline]] ev per 10gg seguita da [[penicillina G]] im, [[eritromicina]] se allergici
 - [[aspirina]] ad alta dose, [[steroidi]] se interessamento miocardico per almeno un mese anche se allergici
-- prevenzione primaria: trattare [[faringite streptococcica]]: [[penicilline]] ogni 8 h per 10 gg, [[penicillina G]] per durate di 10 anni o fino ad adulto
-- chirurgia: [[commissurotomia]] per mitrale, ecocardiogramma
+```
+- ## prevenzione primaria
+	- trattare [[faringite streptococcica]]: [[penicilline]] ogni 8 h per 10 gg, [[penicillina G]] per durate di 10 anni o fino ad adulto
+- ## chirurgia
+	- [[commissurotomia]] per mitrale, ecocardiogramma
+- riposo a letto
 
 # prognosi
 - variabile da coinvolgimento valvolare o progressione a forma cronica

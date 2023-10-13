@@ -42,11 +42,11 @@
 
 ## terapia
 - th [[scompenso cardiaco]]
-	- [[ace inibitori]], [[farmaci beta-bloccanti]], [[diuretici anti-aldosteronici]], [[farmaci diuretici]]
-	- [[pacemaker biventricolare]]
+```ad-golden-standard
+title: [[ace inibitori]], [[farmaci beta-bloccanti]], [[diuretici anti-aldosteronici]], [[farmaci diuretici]] + [[pacemaker biventricolare]] e [[defibrillatore]]
+```
 - [[morte cardiaca improvvisa]]
 	- -sport, -attivita fisica
-	- [[defibrillatore]] impiantato
 - screening familiare
 
 ## prognosi

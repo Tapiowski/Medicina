@@ -8,5 +8,8 @@
   "obsidian-zotero-desktop-connector",
   "cmdr",
   "dataview",
-  "metadata-menu"
+  "metadata-menu",
+  "obsidian-chartsview-plugin",
+  "obsidian-admonition",
+  "obsidian-icon-folder"
 ]

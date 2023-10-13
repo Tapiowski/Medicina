@@ -56,20 +56,20 @@
 
 # clinica
 - asintomatiche
-- palpitazioni, cardiopalmo brusche: rientro nodale, 
+- palpitazioni, cardiopalmo brusche: rientro nodale
 - se cuore troppo veloce, -riempimento, -portata
 	- mancamento, [[sincope]], [[lipotimia]]
 	- [[ischemia miocardica]] [[angina pectoris]]
 	- [[morte cardiaca improvvisa]]
 
 # terapia
-- [[farmaci antiaritmici]]
-- [[farmaci anticoagulanti]]
-- [[terapie elettriche]]
-- [[terapia di ablazione]], preceduta da studio elettrofisiologico
-	- 3, 4 elettrocateteri da vena femorale o giugulare interna
-		- ad, vd, fascio his e quarto seno coronarico se presente
-	- guarisce [[aritmia ipercinetica]]
-		- tachicardia da rientro av: abliamo via lenta
-		- wolff: ablare via anomala con radiofrequenze
-		- fibrillazione atriale: caldo, freddo, palloni ostio vene polmonare: crio ablazione
+```ad-golden-standard
+title: [[farmaci antiaritmici]], [[farmaci anticoagulanti]], [[terapia elettrica]], [[terapia di ablazione]]
+```
+- preceduta da studio elettrofisiologico
+- 3, 4 elettrocateteri da vena femorale o giugulare interna
+	- ad, vd, fascio his e quarto seno coronarico se presente
+- guarisce [[aritmia ipercinetica]]
+	- tachicardia da rientro av: abliamo via lenta
+	- wolff: ablare via anomala con radiofrequenze
+	- fibrillazione atriale: caldo, freddo, palloni ostio vene polmonare: crio ablazione

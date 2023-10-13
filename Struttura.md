@@ -2,6 +2,7 @@
 ```dataview
 table without id file.link as esame, modulo, progresso, data, voto
 from "200/esami"
+where !valutazione
 ```
 
 # Studio
@@ -19,9 +20,9 @@ where !superato
 
 # Moduli superati
 ```dataview
-table without id file.link as modulo, esame
-from "Moduli"
-where superato
+table without id file.link as data, modulo, valutazione
+from "200/esami"
+where valutazione
 ```
 
 # Orario
