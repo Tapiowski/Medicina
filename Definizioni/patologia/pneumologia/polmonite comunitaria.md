@@ -91,7 +91,7 @@
 	- th empirica ragionata
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: penicilline + macrolidil; fluorochinoloni
 ```
 - incidenza maggiore [[streptococco#^pneumococco]] e germi atipici

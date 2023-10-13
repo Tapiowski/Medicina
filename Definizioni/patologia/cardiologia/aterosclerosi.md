@@ -146,7 +146,7 @@
 - controllo valori [[LDL]]
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: statine
 ```
 - storia

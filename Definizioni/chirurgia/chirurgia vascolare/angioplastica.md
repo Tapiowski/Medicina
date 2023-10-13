@@ -14,4 +14,4 @@
 	- palloncino rimosso, stent in loco
 		- stimola trombosi, infiammazione, proliferazione liscia
 		- embolizza materiale circostante
-		- [[farmaci antiaggreganti piastrinici]]: aspirina
+		- [[farmaci antiaggreganti piastrinici]]: [[aspirina]]

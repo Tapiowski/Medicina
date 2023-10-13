@@ -22,7 +22,7 @@
 	- pressione intrinseca di fine espirazione: fatica
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: b2-agonisti + anti-muscarinici + ics
 ```
 - ## stabile

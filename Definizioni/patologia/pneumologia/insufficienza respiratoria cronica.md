@@ -135,7 +135,7 @@
 	- [[emodinamica cruenta]]
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: ossgienoth a lungo termine, ventilazione meccanica non invasiva
 ```
 - controllo patologia di base causante irc

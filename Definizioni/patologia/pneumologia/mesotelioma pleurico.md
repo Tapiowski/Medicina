@@ -110,6 +110,9 @@
 		- m0, m1
 
 # terapia
+```ad-terapia
+title: resezione, talcaggio, chemioth, radioth
+```
 - chirurgia
 	- radicale: [[pleuro-pneumonectomia]], protesi con diaframma
 	- palliativo: [[talcaggio]], pleurectomia con decorticazione pleurica parziale

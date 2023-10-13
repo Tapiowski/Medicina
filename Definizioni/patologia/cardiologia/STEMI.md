@@ -6,7 +6,16 @@
 	- sovraslivellamento
 	- altamente troponina aumentata
 
+## clinica
+```ad-caution
+title:  [[dolore toracico]], [[dispnea]], [[sincope]], [[astenia]]
+```
+ - >20 m retrosternale, irradiato a braccio sin, mandibola
+
 ## th stemi
+```ad-terapia
+title: [[angioplastica]], [[farmaci antiaggreganti piastrinici]]
+```
 - diagnosi precoce
 - [[riperfusione]]: prima possibile, sintomi da 12 h ST sopraslivellato, blocco branca sx
 	- farmacologica: trombolisi
@@ -19,15 +28,6 @@
 	- occlusione intermittente, riapertura temporanea
 	- reclutamento circolo collaterale
 	- precondizionamento ischemico: adattamento a precedenti ischemie
-```ad-golden-standard
-title: [[angioplastica]]
-- disostruire a ostruite o stenotiche
-- fili guida con stent contentente palloncino, gonfiato aderisce a parete, pressione su placca fino a rimuoverla dal vaso
-- palloncino rimosso, stent in loco
-	- stimola trombosi, infiammazione, proliferazione liscia
-	- embolizza materiale circostante
-	- [[farmaci antiaggreganti piastrinici]]: aspirina
-```
 - ### ritardi nel trattamento
 	- per ogni 30 minuti persi mortalita aumenta dell'8%
 	- se trasferimento > 2 h: farmaco [[trombolitici]] altrimenti centro [[angioplastica]]
@@ -48,10 +48,3 @@ title: [[angioplastica]]
 		- diabete: th [[ipoglicemizzanti]], dieta
 		- ipertensione: farmaci [[farmaci anti-ipertensivi]] [[ace inibitori]]
 		- obesita/sedentarieta: esercizio, dieta
-
-## clinica
-- [[dolore toracico]] > 20 m retrosternale, irradiato a braccio sin, mandibola
-- [[dispnea]]
-- [[sincope]]
-- aspecifici [[astenia]] malessere anziano
-- complicanze

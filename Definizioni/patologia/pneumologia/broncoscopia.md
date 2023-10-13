@@ -54,9 +54,6 @@
 - ## [[ebus]]
 
 # terapia
-```ad-golden-standard
-title: trattamenti innovativi
-[[termoplastica]]: asma grave
-[[valvole endobronchiali]]: [[enfisema eterogeneo]] lobi sup in fumatori
-[[protesi tracheo-bronchiali]]: lassita parete, tumori occludenti
-```
+- [[termoplastica]]: asma grave
+- [[valvole endobronchiali]]: [[enfisema eterogeneo]] lobi sup in fumatori
+- [[protesi tracheo-bronchiali]]: lassita parete, tumori occludenti

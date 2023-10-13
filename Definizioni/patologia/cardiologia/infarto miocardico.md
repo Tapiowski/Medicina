@@ -88,9 +88,9 @@
 - [[scompenso cardiaco]]: [[edema polmonare]]
 
 ## clinica
-- dolore toracico
-- alterazioni ecg: sovra o sottoslivellamento ST
-- + marker danno miocardio troponina I, T
+```ad-caution
+title: [[dolore toracico]], +-[[st]], [[biomarkers cardiovascolari]] troponina i, t
+```
 
 ## diagnosi
 - anamnesi

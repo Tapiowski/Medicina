@@ -119,7 +119,7 @@
 		- th a vita
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: [[farmaci antipertensivi]]: [[ace inibitori]], [[farmaci beta-bloccanti]], [[farmaci calcio antagonisti]], [[farmaci diuretici]], [[sartani]]
 ```
 - altri: [[alfa-bloccanti]], [[alfa-metildopa]], [[antagonisti aldosterone]]

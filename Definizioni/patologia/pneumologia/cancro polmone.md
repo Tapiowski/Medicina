@@ -173,6 +173,9 @@
 		- 50% sopravvivenza a 60 mesi
 
 # terapia
+```ad-terapia
+title: resezione tumore, chemioth, radioth, farmaci biologici
+```
 - screening precoce fumatori
 	- radiografia 1/anno, tc preferibile
 - ## chirurgia ch

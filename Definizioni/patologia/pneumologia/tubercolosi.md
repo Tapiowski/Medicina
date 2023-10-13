@@ -193,7 +193,7 @@
 		- inizio th tbc
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: mdr-tb: isoniazide, rifampicina + pirazinamide, etambutolo, bedaquilina
 ```
 - multith farmaceutica

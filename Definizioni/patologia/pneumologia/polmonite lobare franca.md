@@ -31,6 +31,9 @@
 	- tc conferma
 
 # terapia
+```ad-terapia
+title: penicilline, eritromicina
+```
 - [[vaccino antipneumococcico]] per 14 sierotipi su 82
 - inf in atto: [[penicilline]]+[[eritromicina]]
 - complicanze

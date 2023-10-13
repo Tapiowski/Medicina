@@ -19,22 +19,14 @@
 		- tachi-aritmie
 		- crisi ipertensive con o senza ipertrofia ventricolare sx
 ## classificazione
-- #### [[sindrome coronarica acuta]]
-- #### [[sindrome coronarica cronica]]
-- #### [[cardiomiopatia ischemica in fase acuta]]
-	- in infarto
-		- derivazioni da sovraslivellamento st e speculare sottoslivellamento delle altre derivazioni
-		- d2,3 avf inf cuore
-		- v1,2 setto intraventricolare
-		- v3,4 ant cuore
-		- di, avl, v5,6 lat cuore
-		- zona sovraslivellata = zona interessata da infarto, le altre sottoslivellano
+- ### [[cardiomiopatia ischemica in fase acuta]]
+- ### [[sindrome coronarica acuta]]
+- ### [[sindrome coronarica cronica]]
 
 # clinica
 ```ad-caution
 title: [[angina pectoris]]
 ```
-
 
 # diagnosi
 - ecg, dove occlusione coronaria
@@ -61,7 +53,7 @@ title: [[angina pectoris]]
 	- alterata ripolarizzazione con qrs slargato > 0.12 s e complessi qs in sede settale
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: [[nitrossido]], [[farmaci calcio antagonisti]]
 ```
 - blocco l, t del ca con -ca in depolarizzazione

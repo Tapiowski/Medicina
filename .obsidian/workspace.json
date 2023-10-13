@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definizioni/patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
+                "file": "Definizioni/patologia/pneumologia/sindrome apnee notturne.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Definizioni/patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
+                "file": "Definizioni/patologia/pneumologia/sindrome apnee notturne.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000029,
+                  "scale": 1.0000000000000013,
                   "close": true
                 }
               }
@@ -103,6 +103,7 @@
       {
         "id": "b9d4d4649ea8feee",
         "type": "tabs",
+        "dimension": 78.51711026615969,
         "children": [
           {
             "id": "c2394e284f6e6d01",
@@ -120,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "golden-standard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,11 +138,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "48f55e4308b55235",
         "type": "tabs",
+        "dimension": 21.482889733840306,
         "children": [
           {
             "id": "7649d65e88106f9d",
@@ -149,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/patologia/cardiologia/cardiomiopatia ipertrofica primaria.md"
+                "file": "Definizioni/patologia/pneumologia/sindrome apnee notturne.md"
               }
             }
           }
@@ -173,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
+                "file": "Definizioni/patologia/pneumologia/sindrome apnee notturne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
+                "file": "Definizioni/patologia/pneumologia/sindrome apnee notturne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,32 +232,32 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "Definizioni/patologia/cardiologia/cardiomiopatia.md",
-    "Definizioni/patologia/cardiologia.md",
+    "Definizioni/patologia/cardiologia/STEMI.md",
+    "Definizioni/patologia/cardiologia/valvulopatie.md",
+    "Definizioni/patologia/pneumologia/tubercolosi.md",
+    "Definizioni/patologia/cardiologia/sindrome coronarica cronica.md",
     "Definizioni/patologia/cardiologia/sincope.md",
-    "Definizioni/patologia/cardiologia/cardiopalmo.md",
-    "Definizioni/patologia/cardiologia/aterosclerosi.md",
+    "Definizioni/patologia/cardiologia/scompenso cardiaco.md",
+    "Definizioni/patologia/pneumologia/polmonite stafilococcica.md",
+    "Definizioni/patologia/pneumologia/polmonite nosocomiale.md",
+    "Definizioni/patologia/pneumologia/polmonite lobare franca.md",
+    "Definizioni/patologia/pneumologia/polmonite comunitaria.md",
+    "Definizioni/patologia/pneumologia/mesotelioma pleurico.md",
+    "Definizioni/patologia/cardiologia/malattie reumatiche cardiologiche.md",
     "Definizioni/patologia/cardiologia/ipertensione arteriosa.md",
-    "Definizioni/patologia/cardiologia/aritmie.md",
-    "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
-    "Definizioni/farmacologia/cardiovascolare/nitrossido.md",
-    "Definizioni/patologia/cardiologia/semeiotica cardiovascolare.md",
+    "Definizioni/patologia/pneumologia/fibrosi polmonare idiopatica.md",
+    "Definizioni/patologia/pneumologia/ipertensione polmonare.md",
+    "Definizioni/patologia/pneumologia/insufficienza respiratoria cronica.md",
+    "Definizioni/patologia/pneumologia/enfisema polmonare.md",
     "Definizioni/patologia/cardiologia/endocardite infettiva.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatie non classificabili.md",
-    "Definizioni/patologia/cardiologia/ventricolo sin non compatto.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatie da stress.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatia aritmogena.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatia restrittiva.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatia dilatativa.md",
+    "Definizioni/patologia/cardiologia/dissecazione aortica.md",
+    "Definizioni/patologia/pneumologia/embolia polmonare.md",
+    "Definizioni/patologia/pneumologia/covid-19.md",
+    "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
     "Definizioni/patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
-    "Definizioni/chirurgia/chirurgia vascolare/miectomia chirurgica.md",
-    "Definizioni/chirurgia/chirurgia vascolare/alcolizzazione del setto.md",
-    "Definizioni/patologia/cardiologia/farmaci inotropi negativi.md",
-    "Definizioni/patologia/cardiologia/statine.md",
-    "Definizioni/patologia/cardiologia/extrasistole.md",
-    "Definizioni/patologia/cardiologia/extrasistole sovra-ventricolare.md",
-    "Definizioni/patologia/cardiologia/extrasistole ventricolare.md",
-    "Definizioni/patologia/cardiologia/ritmi di scappamento.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia dilatativa.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia aritmogena.md",
+    "Definizioni/farmacologia/cardiovascolare/farmaci antiaritmici.md",
     "Home.canvas",
     "100/files/Recording 20231012164710.webm",
     "100/files/Pasted image 20231013022013.png",

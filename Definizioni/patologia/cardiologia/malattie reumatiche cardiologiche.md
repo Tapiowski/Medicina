@@ -27,7 +27,7 @@
 - [[criteri di jones]] 2M o 1M 2m con [[faringotonsilliti]] o aumento [[TASLO]]
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: antibiotici + antiinfiammatori
 - [[penicilline]] ev per 10gg seguita da [[penicillina G]] im, [[eritromicina]] se allergici
 - [[aspirina]] ad alta dose, [[steroidi]] se interessamento miocardico per almeno un mese anche se allergici

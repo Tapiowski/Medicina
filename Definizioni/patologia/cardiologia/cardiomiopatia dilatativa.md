@@ -41,7 +41,7 @@
 - associata a malattia neuromuscolare, differenziale con cardiopatia ischemica: [[coronarografia]]
 
 ## terapia
-```ad-golden-standard
+```ad-terapia
 title: [[ace inibitori]], [[farmaci beta-bloccanti]], [[diuretici anti-aldosteronici]], [[farmaci diuretici]] + [[pacemaker biventricolare]] e [[defibrillatore]]
 per [[scompenso cardiaco]]
 ```

@@ -46,7 +46,7 @@
 	- controllare fattori rischio cardiovascolari
 	- angina pectoris da [[aterosclerosi]]: blocco processo aterosclerotico: [[anti-ischemici]]
 	- rivascolarizzazione miocardica [[bypass aorto-coronarico]], [[angioplastica]] percutanea, non causare ischemia miocardica, progressione malattia
-```ad-golden-standard
+```ad-terapia
 title: blocco aterosclerosi in tutto organismo
 - th medica ottimale
 - rivascolarizzazione percutanea con [[angioplastica]] con o senza stent

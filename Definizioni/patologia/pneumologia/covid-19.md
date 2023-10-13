@@ -147,7 +147,7 @@ modulo: patologia sistematica I
 		- diffusione co+, fev1 stabile
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: anticoagulanti, ossigenoth, cefalosporine+macrolidi, vasopressori, ace inibitori
 ```
 - [[farmaci anticoagulanti]] contrasta [[cid]]: [[enoxaparina]]

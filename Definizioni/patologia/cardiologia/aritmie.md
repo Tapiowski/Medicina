@@ -63,7 +63,7 @@
 	- [[morte cardiaca improvvisa]]
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: [[farmaci antiaritmici]], [[farmaci anticoagulanti]], [[terapia elettrica]], [[terapia di ablazione]]
 ```
 - preceduta da studio elettrofisiologico

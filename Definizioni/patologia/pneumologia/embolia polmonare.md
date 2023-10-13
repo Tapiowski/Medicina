@@ -154,7 +154,7 @@
 	- [[angiorm]]
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: eparina, embolectomia
 ```
 - pz allettati, profilassi

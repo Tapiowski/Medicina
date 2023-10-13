@@ -26,7 +26,7 @@
 - dd
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: cefalosporine
 ```
 - no comorbidita, no severa

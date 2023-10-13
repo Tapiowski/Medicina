@@ -193,7 +193,7 @@
 - [[tac total body]] 10s
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: [[farmaci anti-ipertensivi]]
 - a livelli di perfusione renale, cerebrale garantita: 90 mmhg max
 - pz deve essere ipoteso perche lacerazione aorta in atto

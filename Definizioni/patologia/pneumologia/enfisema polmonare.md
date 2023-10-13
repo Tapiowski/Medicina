@@ -90,8 +90,8 @@
 			- [[iperinsufflazione]]
 
 # terapia
-```ad-golden-standard
-title: [[farmaci broncodilatatori]]
+```ad-terapia
+title: farmaci broncodilatatori
 ```
 - no th per arresto declino
 - declino in fumatori, miglioramento in stop

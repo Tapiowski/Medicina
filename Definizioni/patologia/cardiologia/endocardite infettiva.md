@@ -60,7 +60,7 @@
 	- tac, spect, pet
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: associazione antibiotici
 - [[streptococco]]: una [[ampicillina]] o [[gentamicina]]
 - [[stafilococco]]: [[oxacillina]] se meticillina-sens, se resistente due [[aminoglicosidi]] per 4-6 settimane

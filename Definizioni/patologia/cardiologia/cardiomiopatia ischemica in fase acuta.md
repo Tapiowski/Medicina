@@ -1,3 +1,10 @@
+- in infarto
+	- derivazioni da sovraslivellamento st e speculare sottoslivellamento delle altre derivazioni
+	- d2,3 avf inf cuore
+	- v1,2 setto intraventricolare
+	- v3,4 ant cuore
+	- di, avl, v5,6 lat cuore
+	- zona sovraslivellata = zona interessata da infarto, le altre sottoslivellano
 - patologia
 	- vaso arterosclerotico, rottura placca, attivazione piastrinica in minuti/ore occlude vaso con formazione trombo
 	- ischemia a valle

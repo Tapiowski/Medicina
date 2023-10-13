@@ -99,3 +99,8 @@
 	- sottostima affanno: pz si adatta, non va dal medico
 	- -conoscenza forme da medico
 	- aggressiva, rapida: mortalita5 70% per [[insufficienza respiratoria]]
+
+# terapia
+```ad-terapia
+title: [[farmaci antifibrotici]], trapianto di polmone
+```

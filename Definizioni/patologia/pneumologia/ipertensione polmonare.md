@@ -114,6 +114,6 @@
 	- no come vd, reversibilita positiva <10% casi: [[farmaci calcio antagonisti]] efficaci
 
 # terapia
-```ad-golden-standard
+```ad-terapia
 title: [[ambrisentan]], [[nitrossido]], [[agonisti prostacicline]] [[inibitori pde]], [[ossigenoterapia]]
 ```

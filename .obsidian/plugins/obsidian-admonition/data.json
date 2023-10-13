@@ -1,8 +1,8 @@
 {
   "userAdmonitions": {
-    "golden-standard": {
-      "type": "golden-standard",
-      "color": "230, 180, 0",
+    "terapia": {
+      "type": "terapia",
+      "color": "25, 190, 135",
       "icon": {
         "name": "asterisk",
         "type": "font-awesome"

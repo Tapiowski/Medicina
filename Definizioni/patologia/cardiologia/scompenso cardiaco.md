@@ -17,6 +17,9 @@
 - ### [[scompenso cardiaco acuto]] <
 
 # terapia
+```ad-terapia
+title: farmaci inotropi positivi, farmaci diuretici, farmaci vasodilatatori
+```
 - farmaci utilizzati: effetto [[inotropo]] positivo, +ca: depolarizza potenziale, oscillatori, [[aritmia]] , +conduttanza k: -resistenza di membrana
 	- [[farmaci inotropi positivi]]
 		- [[digossina]]
@@ -66,8 +69,7 @@
 - ### interazioni, farmaci da evitare
 	- se in th per [[scompenso cardiaco]]
 	- fans, antiaritmici classe i, calcio antagonisti, antidepressivi triclici, corticosteroidi, litio, aspirina
-
-# terapia 2
+## terapia 2
 - -na in dieta
 - resistenza a [[farmaci diuretici]]
 	- [[diuretici ansa]]: -simporto na/k/cl

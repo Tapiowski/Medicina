@@ -25,4 +25,6 @@
 - ### acute
 
 # terapia
-- ## [[protesi valvolari]]
+```ad-terapia
+title: [[protesi valvolari]]
+```

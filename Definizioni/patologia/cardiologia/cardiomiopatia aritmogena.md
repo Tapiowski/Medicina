@@ -26,8 +26,7 @@
 - dd: infarto ventricolo dx, miocardite, sindrorme di brugada
 
 # th
-```ad-golden-standard
-title: [[defibrillatore interno automatico]], [[farmaci antiaritmici]]:
-[[amiodarone]], [[farmaci beta-bloccanti]]
+```ad-terapia
+title: [[defibrillatore interno automatico]], [[farmaci antiaritmici]]: [[amiodarone]], [[farmaci beta-bloccanti]]
 ```
 - divieto assoluto di attivita sportive o esercizi fisici intensi, th [[scompenso cardiaco]] destro se presente
