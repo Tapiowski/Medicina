@@ -1,4 +1,4 @@
-# descrizione
+# definzione
 - [[valvole cardiache]]
 - [[malattie valvolari cardiache]]
 

@@ -1,4 +1,25 @@
-## definzione
+```ad-definizione
+title:
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title:
+```
+```ad-fisiopatologia
+title:
+```
+```ad-clinica
+title:  [[dolore toracico]], [[dispnea]], [[sincope]], [[astenia]]
+```
+```ad-diagnosi
+title:
+```
+```ad-terapia
+title: [[angioplastica]], trombolisi, [[farmaci antiaggreganti piastrinici]]
+```
+# definzione
 - st-elevation myocardical infarction
 - occlusione coronarica completa/persistente
 	- trombo occlusivo, stabile
@@ -6,16 +27,10 @@
 	- sovraslivellamento
 	- altamente troponina aumentata
 
-## clinica
-```ad-clinica
-title:  [[dolore toracico]], [[dispnea]], [[sincope]], [[astenia]]
-```
+# clinica
  - +20 m retrosternale, irradiato a braccio sin, mandibola
 
-## th stemi
-```ad-terapia
-title: [[angioplastica]], [[farmaci antiaggreganti piastrinici]]
-```
+# terapia
 - diagnosi precoce
 - [[riperfusione]]: prima possibile, sintomi da 12 h ST sopraslivellato, blocco branca sx
 	- farmacologica: trombolisi

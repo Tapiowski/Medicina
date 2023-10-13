@@ -1,4 +1,4 @@
-## descrizione
+## definizione
 - manico
 - leva di deflessione in punta [[pinza bioptica]]
 	- liscia

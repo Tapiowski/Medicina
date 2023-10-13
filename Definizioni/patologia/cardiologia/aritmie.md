@@ -1,4 +1,23 @@
-# descrizione
+```ad-definizione
+title:
+```
+```ad-eziologia
+title:
+```
+```ad-fisiopatologia
+title:
+```
+```ad-diagnosi
+title:
+```
+```ad-clinica
+title: palpitazioni, sincope, angina, morte improvvisa
+```
+```ad-terapia
+title: [[farmaci antiaritmici]], [[farmaci anticoagulanti]], [[terapia elettrica]], [[terapia di ablazione]]
+```
+
+# definizione
 - [[aritmologia]] da ecg, ablazioni, studi elettrofisici
 - [[ritmo cardiaco]]: intervalli R-R costanti, se non lo sono quale aritmia?
 - [[ritmo sinusale]]: forma, polarita onda P negativa in aVr e positiva in D1
@@ -55,9 +74,6 @@
 		- [[pre-eccitazione ventricolare]]: [[sindrome di wolff-parkinson-white]]
 
 # clinica
-```ad-clinica
-title: palpitazioni, sincope, angina, morte improvvisa
-```
 - asintomatiche
 - palpitazioni, cardiopalmo brusche: rientro nodale
 - se cuore troppo veloce, -riempimento, -portata
@@ -66,9 +82,6 @@ title: palpitazioni, sincope, angina, morte improvvisa
 	- [[morte cardiaca improvvisa]]
 
 # terapia
-```ad-terapia
-title: [[farmaci antiaritmici]], [[farmaci anticoagulanti]], [[terapia elettrica]], [[terapia di ablazione]]
-```
 - preceduta da studio elettrofisiologico
 - 3, 4 elettrocateteri da vena femorale o giugulare interna
 	- ad, vd, fascio his e quarto seno coronarico se presente

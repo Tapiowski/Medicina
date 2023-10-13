@@ -1,4 +1,4 @@
-# descrizione
+# definizione
 - non riguardano assenza onda P ma tratto PQ, problema comunicativo A-V
 - [[blocco av]]
 

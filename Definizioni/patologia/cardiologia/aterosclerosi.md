@@ -100,6 +100,16 @@
 	- alterazioni trombofiliche da deficit fattori
 - ### [[triade di virchow]]
 
+# diagnosi
+- no segni obiettivi rilevabili
+- se restringimento grosso vaso: turbolenza flusso: soffio: stetoscopio
+- indagini
+	- eco-doppler
+	- angiografia
+	- angio rm
+	- angio tc
+- controllo valori [[LDL]]
+
 # clinica
 ```ad-clinica
 title: in rimodellamento negativo: sintomi stenosi; in rottura placca: cascata coagulativa, trombo
@@ -138,16 +148,6 @@ title: in rimodellamento negativo: sintomi stenosi; in rottura placca: cascata c
 			- si rompe o solo erosione di placca, grado stenosi conseguente, tipo di placca, entita trombosi, vs da vasocostrittori-piastrine
 		- fattori sistemici
 			- reattivita piastrinica: vulnerabilita sangue, fibrinolisi spontanea trombo limita danni da movimento trombo
-
-# diagnosi
-- no segni obiettivi rilevabili
-- se restringimento grosso vaso: turbolenza flusso: soffio: stetoscopio
-- indagini
-	- eco-doppler
-	- angiografia
-	- angio rm
-	- angio tc
-- controllo valori [[LDL]]
 
 # terapia
 ```ad-terapia

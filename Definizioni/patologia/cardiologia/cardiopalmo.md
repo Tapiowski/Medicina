@@ -1,4 +1,4 @@
-# descrizione
+# definizione
 - [[palpitazione]]
 - sensazione spiacevole di battito cardiaco
 - a riposo non avvertibile in normali

@@ -1,4 +1,4 @@
-# descrizione
+# definzione
 - [[pericardite restrittiva]]
 - evoluzione [[pericardite subacuta]] [[pericardite cronica]]
 - pericarditi possono evolvere in fibrosi, calcificazione, adesione dei golietti pericardici: ostacolo attivita cardiaca -riempimento diastolico: [[scompenso cardiaco destro]]

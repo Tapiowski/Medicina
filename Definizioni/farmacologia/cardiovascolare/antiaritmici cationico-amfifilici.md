@@ -1,4 +1,4 @@
-## descrizione
+## definizione
 [[CAD]]
 antidepressants, antibiotics, antipsychotics, antimalarial, antiarrhythmic, cholesterol-lowering and fertility-regulator drugs
 cell membranes and accumulate in acidic intracellular compartments such as late endosomes/lysosomes

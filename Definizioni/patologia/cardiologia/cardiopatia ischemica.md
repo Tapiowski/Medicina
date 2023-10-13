@@ -1,4 +1,25 @@
-# descrizione
+```ad-definizione
+title: discrepanza tra richiesta metabolica miocardio e apporto o2 ematico da coronarie
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: consumo o2 1.5 ml/min/100g; -o2: -coronarie, anemia o ipossia arteriosa, ipotensione arteriosa; +e: +f c t, sforzo, tachi-aritmie, crisi ipertensive
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: [[angina pectoris]]
+```
+```ad-diagnosi
+title: ecg individua zona occlusione coronaria: stemi inf +ST d2, d3, avf; asse +st avr; endoscopia coronaria o angiografia
+```
+```ad-terapia
+title: [[nitrossido]], [[farmaci calcio antagonisti]], [[angioplastica]]
+```
+# definizione
 - [[cardiomiopatia ischemica]], [[ischemia miocardica]]
 - discrepanza, irreversibile o non, tra richiesta metabolica [[miocardio]] e apporto o2 ematico da [[coronarie]]
 
@@ -24,9 +45,6 @@
 - ### [[sindrome coronarica cronica]]
 
 # clinica
-```ad-clinica
-title: [[angina pectoris]]
-```
 
 # diagnosi
 - ecg, dove occlusione coronaria
@@ -47,14 +65,12 @@ title: [[angina pectoris]]
 	- catetere in femorale o radiale
 	- guida nell'aorta
 	- seguo guida per mettere catetere
-	- angiografia per occlusione
-	- angioplastica: supero lesione on catetere, gonfio pallone per schiacciare placca, stente rete metallica: aprire arteria
+	- [[angiografia]] per occlusione
+	- [[angioplastica]]: supero lesione on catetere, gonfio pallone per schiacciare placca, stente rete metallica: aprire arteria
 - rimodellamento post infartuale
 	- alterata ripolarizzazione con qrs slargato > 0.12 s e complessi qs in sede settale
 
 # terapia
-```ad-terapia
-title: [[nitrossido]], [[farmaci calcio antagonisti]]
-```
 - blocco l, t del ca con -ca in depolarizzazione
 - per os, metabolismo
+- [[angioplastica]]

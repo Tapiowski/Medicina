@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moduli/patologia sistematica I.md",
+                "file": "Definizioni/patologia/cardiologia/dissecazione aortica.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Moduli/patologia sistematica I.md",
+                    "file": "Definizioni/patologia/cardiologia/dissecazione aortica.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -115,7 +115,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Moduli/patologia sistematica I.md"
+                        "file": "Definizioni/patologia/cardiologia/dissecazione aortica.md"
                       }
                     }
                   }
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "4332d775c73bac43",
@@ -207,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moduli/patologia sistematica I.md",
+                "file": "Definizioni/patologia/cardiologia/dissecazione aortica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moduli/patologia sistematica I.md",
+                "file": "Definizioni/patologia/cardiologia/dissecazione aortica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,32 +274,33 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "Definizioni/patologia/cardiologia.md",
-    "Moduli/patologia sistematica I.md",
-    "Home.canvas",
-    "Definizioni/patologia/cardiologia/aritmie.md",
-    "Definizioni/farmacologia/cardiovascolare/digitale.md",
-    "Definizioni/patologia/cardiologia/ipertensione arteriosa.md",
-    "Definizioni/fisiologia/angiotensina II.md",
-    "Definizioni/patologia/pneumologia.md",
-    "Definizioni/patologia/cardiologia/bradiaritmia.md",
-    "Definizioni/patologia/cardiologia/blocco atrioventricolare.md",
-    "Definizioni/patologia/cardiologia/blocco intraventricolare.md",
     "Definizioni/patologia/cardiologia/sindrome aortica acuta.md",
-    "Definizioni/patologia/0/ulcera penetrante.md",
-    "Definizioni/patologia/cardiologia/dissecazione aortica.md",
+    "Definizioni/patologia/cardiologia.md",
     "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatia ischemica in fase acuta.md",
-    "Definizioni/patologia/cardiologia/sindrome coronarica cronica.md",
-    "Definizioni/semeiotica/scintigrafia.md",
     "Definizioni/patologia/cardiologia/sindrome coronarica acuta.md",
+    "Definizioni/patologia/cardiologia/infarto miocardico.md",
     "Definizioni/patologia/cardiologia/STEMI.md",
     "Definizioni/patologia/cardiologia/NSTEMI.md",
-    "Definizioni/patologia/cardiologia/infarto miocardico.md",
-    "Definizioni/patologia/cardiologia/infarto miocardico spontaneo.md",
+    "Definizioni/patologia/cardiologia/aterosclerosi coronarica.md",
+    "Definizioni/patologia/cardiologia/morte cardiaca improvvisa.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia ischemica in fase acuta.md",
     "Definizioni/patologia/cardiologia/semeiotica cardiovascolare.md",
-    "Definizioni/patologia/cardiologia/elettrocardiografia.md",
-    "Definizioni/patologia/0/ematoma intramurale.md",
+    "Moduli/patologia sistematica I.md",
+    "100/templates/ad template.md",
+    "100/templates/patologia template.md",
+    "100/templates/zettelkasten template.md",
+    "100/templates/zotero template.md",
+    "Definizioni/patologia/cardiologia/apparato cardiovascolare.md",
+    "Moduli/farmacologia speciale.md",
+    "Definizioni/patologia/cardiologia/tamponamento cardiaco.md",
+    "Definizioni/patologia/cardiologia/valvulopatie.md",
+    "Definizioni/patologia/cardiologia/vizi mitro-aortici.md",
+    "Definizioni/patologia/cardiologia/stenosi mitralica.md",
+    "Definizioni/patologia/cardiologia/stenosi aortica.md",
+    "Definizioni/patologia/cardiologia/rianimazione cardiopolmonare.md",
+    "Definizioni/patologia/pneumologia/semeiotica pneumologica.md",
+    "Definizioni/chirurgia/chirurgia toracica/protesi valvolari.md",
+    "Home.canvas",
     "100/files/Recording 20231012164710.webm",
     "100/files/Pasted image 20231013022013.png",
     "100/files/Pasted image 20230207104650.png",

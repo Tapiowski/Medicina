@@ -1,4 +1,4 @@
-# descrizione
+# definizione
 - patologie [[aorta]] di pertinenza chirurgica: emergenza
 
 # [[classificazione di svensson]]

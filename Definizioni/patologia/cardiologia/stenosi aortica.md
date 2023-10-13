@@ -1,15 +1,15 @@
-## descrizione
+# definzione
 - valvulopatia piu frequente: riduzione calibro orifizio valvolare aortico
 - [[stenosi aortica sottovalvolare]] e [[stenosi aortica sopravalvolare]]
 - [[stenosi tricuspidalica]]
 
-## epidemiologia
+# epidemiologia
 - valvulopatia piu frequente
 - terza cardiopatia dopo ipertensione e ischemica
 - degenerativa piu frequente: 2-7% soggetti > 75 yo
 - fattori rischio simili a [[aterosclerosi]]
 
-## eziologia
+# eziologia
 - degenerazione calcifica valvola, anziani
 	- ispessimento, irrigidimento lembi senza fusione
 	- [[stenosi aortica senile]]
@@ -22,7 +22,7 @@
 	- simile ad aterosclerosi
 	- [[statine]] utilizzabili
 
-## fisiopatologia
+# fisiopatologia
 - severa se area <1 cm2 da 2-4 normale
 - gradiente pressorio tra ventricolo sin e aorta
 	- critico se >50 mmhg
@@ -37,7 +37,7 @@
 - flusso coronarico
 	- normale a riposo, ischemia miocardica da ipertrofia e pressione diastolica: [[angina pectoris]]
 
-## clinica
+# clinica
 - asintomatici
 - [[dispnea da sforzo]]
 - [[angina da sforzo]]
@@ -51,7 +51,7 @@
 		- 3 anni post sincope
 		- 2 anni post scompenso cardiaco
 
-## diagnosi
+# diagnosi
 - esame obiettivo
 	- itto protratto
 	- primo tono normale
@@ -71,7 +71,7 @@
 	- [[angiotc aortica]]
 		- programma interventi, valvola aortica, deposizione calcio, seni di valsalva anulus, sceglie protesi
 
-## terapia
+# terapia
 - farmacologico non esiste
 - chirurgico
 	- in stenosi severa sintomatica

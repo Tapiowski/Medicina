@@ -1,4 +1,4 @@
-# descrizione
+# definzione
 - pressione diastolica > 90 mmhg
 - pressione sistolica > 140 mmhg
 - relazione tra pressione e rischio cardiovascolare

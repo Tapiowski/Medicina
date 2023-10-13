@@ -1,11 +1,11 @@
-# descrizione
+# definzione
 - familiare, personale, patologica remota, patologica prossima: tipo sintomo, modalita insorgenza, intensita, esami effettuati
 
 # sintomi frequenti
 - ## [[dispnea]]
-## [[tosse]]
-## [[espettorazione]]
-## [[dolore toracico]]
+- ## [[tosse]]
+- ## [[espettorazione]]
+- ## [[dolore toracico]]
 
 # esame obiettivo
 ## ispezione

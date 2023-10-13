@@ -1,4 +1,4 @@
-# descrizione
+# definzione
 - [[rcp]]
 - primo soccorso
 	- pz perde coscienza

@@ -19,18 +19,3 @@ title:
 ```ad-terapia
 title: 
 ```
-# definizione
-
-# epidemiologia
-
-# eziologia
-
-# fisiopatologia
-
-# clinica
-
-# diagnosi
-
-# terapia
-
-# prognosi

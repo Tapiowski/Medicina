@@ -61,12 +61,24 @@
       "noTitle": false,
       "copy": false
     },
-    "descrizione": {
-      "type": "descrizione",
+    "definizione": {
+      "type": "definizione",
       "color": "255, 0, 174",
       "icon": {
         "type": "obsidian",
         "name": "lucide-heart-off"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "epidemiologia": {
+      "type": "epidemiologia",
+      "color": "149, 227, 228",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-globe"
       },
       "command": false,
       "injectColor": true,

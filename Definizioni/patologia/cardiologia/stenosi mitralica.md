@@ -1,14 +1,14 @@
-## descrizione
+# definzione
 - orifizio valvolare da 4-6 cm2 a <1 cm2
 	- per ispessimento lembi valvolari, fusione, disfunzione corde tendinee e mm papillari, calcificazioni
 
-## eziologia
+# eziologia
 - [[malattia reumatica]]
 - [[stenosi congenite]]
 - da [[radiazioni]]
 - [[mixoma atriale]] sin
 
-## fisiopatologia
+# fisiopatologia
 - ostacolo al flusso transmitralico
 	-  lieve 1.5-2. media 1-1.5, serrata <1
 - gradiente transmitralico
@@ -28,20 +28,7 @@
 		- frazione eiezione -50%, +volume telesisolico
 		- trasudato liquido in interstizio polmonare: [[edema polmonare]]
 
-## clinica
-- [[dispnea]] sforzo, parossistica, edema polmonare acuto
-- [[cardiopalmo]]
-- [[embolia sistemica]] da fibrillazione atriale per stasi ematica
-- [[scompenso cardiaco congestizio]]
-- stasi polmonare: infezioni respiratorie
-- [[emottisi]], [[disfagia]], [[voce bitonale]] per [[atriomegalia]] su esofago e nv laringeo
-- storia naturale
-	- latenza 10-15 anni, recidive infezioni streptococco
-	- progressione lenta
-	- sintomi da enttita restringimento
-	- se fibrillazione atriale: rischio embolie: [[anticoagulanti orali]]
-
-## diagnosi
+# diagnosi
 - esame obiettivo
 	- [[facies mitralica]]: congestione venosa, turgore giugulari, guancie rosse
 	- polso piccolo
@@ -62,13 +49,26 @@
 	- cateterismo cardiaco
 		- -usato, misura pressione cuore dx: arteria polmonare fino a atrio sin
 
-- ## terapia
-	- medico
-		- -frequenza cardiaca, -pressione atrial sin b-bloccanti, diuretici
-		- anticoagulanti con fibrillazione atriale
-	- chirurgico
-		- tradizionale a cuore aperto
-			- stenosi severa: [[valvuloplastica chirurgica]] o con protesi
-		- interventistico percutaneo
-			- [[valvuloplastica chirurgica]]
-		- rischio di restenosi
+# clinica
+- [[dispnea]] sforzo, parossistica, edema polmonare acuto
+- [[cardiopalmo]]
+- [[embolia sistemica]] da fibrillazione atriale per stasi ematica
+- [[scompenso cardiaco congestizio]]
+- stasi polmonare: infezioni respiratorie
+- [[emottisi]], [[disfagia]], [[voce bitonale]] per [[atriomegalia]] su esofago e nv laringeo
+- storia naturale
+	- latenza 10-15 anni, recidive infezioni streptococco
+	- progressione lenta
+	- sintomi da enttita restringimento
+	- se fibrillazione atriale: rischio embolie: [[anticoagulanti orali]]
+
+# terapia
+- medico
+	- -frequenza cardiaca, -pressione atrial sin b-bloccanti, diuretici
+	- anticoagulanti con fibrillazione atriale
+- chirurgico
+	- tradizionale a cuore aperto
+		- stenosi severa: [[valvuloplastica chirurgica]] o con protesi
+	- interventistico percutaneo
+		- [[valvuloplastica chirurgica]]
+	- rischio di restenosi

@@ -1,4 +1,26 @@
-# descrizione
+
+```ad-definizione
+title: solore trafittivo, oppressivo, non scatenato, non risponde a riposo o nitroglicerina, >20m, associato a sudorazione algida, dispnea, diagnosi falso lume per tc
+```
+```ad-epidemiologia
+title: I = 5-30 / 1M, +m, eta media A-ascendente 50 yo, B-discendente 60 yo
+```
+```ad-eziologia
+title: aneurisma, aterosclerosi, sindrome di marfan, sclerosi tuberosa di bourneville o incidente stradale; crisi ipertensiva 
+```
+```ad-fisiopatologia
+title: aorta slamina per crisi ipertensiva, dissecazione aortica, falso lume: dissecazione aortica retrograda o anterograda; foro di rientro risolutivo
+```
+```ad-clinica
+title: dolore interscapolare, ipertensione, soffio diastolico, ipoperfusione a valle, rigurgito aortico, versamento pleurico in rottura, ictus e coma in dissecazione collaterali, infarto in occlusione coronarica
+```
+```ad-diagnosi
+title: tc, angiotc, ecocardiogramma, rm, tac
+```
+```ad-terapia
+title: farmaci anti-ipertensivi: farmaci diuretici, farmaci calcio antagonisti, farmaci beta-bloccanti
+```
+# definizione
 - sede, irradiazione: torace
 - tipo: trafittivo, oppressivo
 - scatenato: nessuna o sforzo fisico
@@ -10,7 +32,7 @@
 
 # epidemiologia
 - incidenza
-- 5-30 casi per milione, m
+	- 5-30 casi per milione, m
 - eta media
 	- tipo A 50-55 anni
 	- tipo B 60-70 anni
@@ -129,15 +151,18 @@
 	- dissecazione progredisce
 		- [[dissecazione aortica retrograda]] invade cuore
 		- [[dissecazione aortica anterograda]] rami aorta: [[tronco celiaco]], [[a mesenterica sup]], [[a renale]], [[a mesenterica inf]]
-			- [[foro di rientro]] puo finire la dissecazione
-			- [[a iliaca]]: ischemia acuta arto inf
-			- rottura lume falso avventizia: decesso
+	- [[foro di rientro]] puo finire la dissecazione
+		- [[a iliaca]]: ischemia acuta arto inf
+		- rottura lume falso avventizia: decesso
+
+# diagnosi
+- non clinica: no [[ecografia]] ma [[TC]]
+- [[angiotc]] patognomonica: tratto dissezione
+- [[ecocardiogramma transesofageo]] pz deve collaborare
+- [[angiorm]] 20m, piu lungo se non puo prendere radiazioni
+- [[tac total body]] 10s
 
 # clinica
-```ad-clinica
-title: dolore interscapolare, ipertensione, soffio diastolico, ipoperfusione a valle, rigurgito aortico, versamento pleurico in rottura, ictus e coma in dissecazione collaterali, infarto in occlusione coronarica
-```
----
 - dolore toracico, interscapolare
 	- [[ipertensione]]
 	- alterazione [[polso periferico]]: differente dx sx
@@ -189,18 +214,8 @@ title: dolore interscapolare, ipertensione, soffio diastolico, ipoperfusione a v
 7. [[sincope]]
 	1. [[a carotide]] o [[tronco anonimo]], [[ictus]] da interruzione acuta
 
-# diagnosi
-- non clinica: no [[ecografia]] ma [[TC]]
-- [[angiotc]] patognomonica: tratto dissezione
-- [[ecocardiogramma transesofageo]] pz deve collaborare
-- [[angiorm]] 20m, piu lungo se non puo prendere radiazioni
-- [[tac total body]] 10s
-
 # terapia
-```ad-terapia
-title: [[farmaci anti-ipertensivi]]: [[farmaci diuretici]], [[farmaci calcio antagonisti]], [[farmaci beta-bloccanti]]
-```
----
+- [[farmaci anti-ipertensivi]]: [[farmaci diuretici]], [[farmaci calcio antagonisti]], [[farmaci beta-bloccanti]]
 - stabilizzare pz, th intensiva
 	- a livelli di perfusione renale, cerebrale garantita: 90 mmhg max
 	- pz deve essere ipoteso perche lacerazione aorta in atto

@@ -1,3 +1,21 @@
+```ad-definizione
+title:
+```
+```ad-eziologia
+title:
+```
+```ad-fisiopatologia
+title:
+```
+```ad-diagnosi
+title:
+```
+```ad-clinica
+title: [[dolore toracico]], [[angina stabile]]
+```
+```ad-terapia
+title: blocco aterosclerosi in tutto organismo: rivascolarizzazione percutanea con [[angioplastica]] con o senza stent, rivascolarizzazione chirurgica con [[bypass aorto-coronarico]]
+```
 # definzione
 - sofferenza miocardio da squilibrio richieste/apporto o2
 - [[cardiopatia ischemica cronica]], [[cardiomiopatia ischemica stabile]]
@@ -29,9 +47,6 @@
 	- dolore
 
 # clinica
-```ad-clinica
-title: [[dolore toracico]], [[angina stabile]]
-```
 - pz con quadro [[angina pectoris]] per prima volta: condizione stabile, sintomi gia avuti in passato
 - pz sintomatici per [[cardiomiopatia ischemica in fase acuta]], asintomatici e stabili per trattamento, regolare follow-up: [[sindrome coronarica acuta]]
 - spasmo coronarico da + tensione parietale, donne, giovani
@@ -41,9 +56,6 @@ title: [[dolore toracico]], [[angina stabile]]
 - prognosi favorevole th con [[farmaci vasodilatatori]]
 
 # terapia
-```ad-terapia
-title: blocco aterosclerosi in tutto organismo: rivascolarizzazione percutanea con [[angioplastica]] con o senza stent, rivascolarizzazione chirurgica con [[bypass aorto-coronarico]]
-```
 - ridurre, eliminare sintomi, + qualita vita, migliorare prognosi prevenendo eventi pesanti, morte, infarto
 - componenti
 	- identificare, trattare patologia associate scatenanti o aggravanti angina: escludere [[anemia]], [[ipossia]], [[ipertiroidismo]]

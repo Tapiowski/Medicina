@@ -1,4 +1,4 @@
-# descrizione
+# definizione
 - nasce in ostio vene polmonari: isolamento vene con ablazione non attivano mai
 - f depolarizzazione atriale a 600 bpm: nodo atrio ventricolare filtra in maniera non regolare
 - quindi da av abbiamo r-r non costante

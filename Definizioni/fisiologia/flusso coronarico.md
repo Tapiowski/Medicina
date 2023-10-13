@@ -1,4 +1,4 @@
-## descrizione
+# definzione
 - vasi di conduttanza aortici, coronarie pre-arteriolari e arteriolare
 - flusso in fase diastolica, miocardio riceve sangue, in sistole contrazione mm comprime vasi intraprietali: no circolo subendocardico
 - circolo subendocardico lavora di piu: + o2, difficolta in sistole
@@ -9,7 +9,7 @@
 		- maggiore richiesta richiede maggior flusso
 - densita capillare
 
-## regolazione flusso coronarico
+# regolazione flusso coronarico
 - metabolica
 	- richiesta o2 produce metaboliti vasodilatanti: adenosina, nitrossido, co2, k, h: + flusso
 - nervosa
@@ -34,7 +34,7 @@
 		- se > 80% riduzn flusso a riposo
 	- [[riserva coronarica]]
 
-## apporto ossigeno / fabbisogno ossigeno
+# apporto ossigeno / fabbisogno ossigeno
 - fabbisogno
 	- frequenza cardiaca
 	- tensione parietale: pressione sistolica

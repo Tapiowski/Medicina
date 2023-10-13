@@ -1,4 +1,4 @@
-# descrizione
+# definizione
 - perdita completa di coscienza e tono posturale: ipoperfusione cerebrale globale
 - improvvisa, rapida insorgenza, breve durata, recupero completo
 	- se non ha questi valori puo essere coma

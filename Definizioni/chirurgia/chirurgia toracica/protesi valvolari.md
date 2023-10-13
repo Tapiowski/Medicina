@@ -1,4 +1,4 @@
-## descrizione
+# definzione
 - sostituiscono valvole native se stenotiche o insufficienti
 - meccaniche o biologiche
 - profilassi endocardite post impianto
@@ -8,16 +8,16 @@
 - cuore aperto o percutanea
 - protesi metalliche
 
-## materiale
-- ### protesi metalliche
+# materiale
+- ## protesi metalliche
 	- metallo, -deterioramento strutturale, ++trombogenicita: anticoagulanti a vita
 	- INR tra 2.5 e 3.5, emorragia se >, anticoagulante non efficace se <
-- ### protesi biologiche
+- ## protesi biologiche
 	- deterioramento = reintervento
 	- -rischio trombo-embolitico, sospende anticoagulanti
 	- + per anziani
 
-## prognosi
+# prognosi
 - stenosi
 	- meccanica: trombosi, vegetazioni endocarditiche
 	- biologica: degenerazione, endocardite
