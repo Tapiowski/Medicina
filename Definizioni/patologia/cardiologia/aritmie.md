@@ -1,14 +1,18 @@
+# aritmie
 ```ad-definizione
-title:
+title: bradiaritmia, tachiaritmia, pre-eccitazione ventricolare, ritmi di scappamento, extrasistole, canalopatie
+```
+```ad-epidemiologia
+title: 
 ```
 ```ad-eziologia
-title:
+title: ipossia miocardica, ischami miocardica, stimolazn simpatica, farmaci, squilibri elettrolitici, ingrandimento camere cardiache
 ```
 ```ad-fisiopatologia
-title:
+title: alterato automatismo, attivita triggerata, rientro A o B
 ```
 ```ad-diagnosi
-title:
+title: calcolo ritmo cardiaco, sinusale, conduzione av e iv, ripolarizzazione, pot d'az
 ```
 ```ad-clinica
 title: palpitazioni, sincope, angina, morte improvvisa
