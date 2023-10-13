@@ -174,6 +174,7 @@
           {
             "id": "1a681e49a29044a5",
             "type": "tabs",
+            "dimension": 46.92355500310752,
             "children": [
               {
                 "id": "2bffc1ff3dcaee81",
@@ -181,7 +182,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Moduli/patologia sistematica I.md",
+                    "file": "Definizioni/patologia/cardiologia/aritmie.md",
                     "mode": "source",
                     "source": false
                   }
@@ -191,13 +192,13 @@
             ]
           },
           {
-            "id": "7b26c477e63d54b5",
+            "id": "aad2d35739ad1c42",
             "type": "split",
+            "dimension": 53.07644499689248,
             "children": [
               {
                 "id": "5291ad91a9a925f5",
                 "type": "tabs",
-                "dimension": 57.414448669201526,
                 "children": [
                   {
                     "id": "afce5fc4800bc565",
@@ -205,7 +206,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Moduli/patologia sistematica I.md",
+                        "file": "Definizioni/patologia/cardiologia/aritmie.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -257,19 +258,19 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 1.0000000000000018,
+                          "scale": 1.0000000000000029,
                           "close": true
                         }
                       }
                     },
                     "group": "af2e3e8d17e724cf"
                   }
-                ]
+                ],
+                "stacked": true
               },
               {
-                "id": "d0743fdff758e886",
+                "id": "213c326473090e1d",
                 "type": "tabs",
-                "dimension": 42.585551330798474,
                 "children": [
                   {
                     "id": "ad16f448cd4be418",
@@ -279,7 +280,8 @@
                       "state": {}
                     }
                   }
-                ]
+                ],
+                "stacked": true
               }
             ],
             "direction": "horizontal"
@@ -342,7 +344,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Moduli/patologia sistematica I.md"
+                    "file": "Definizioni/patologia/cardiologia/aritmie.md"
                   }
                 }
               }
@@ -350,7 +352,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 217.5
+        "width": 217.5,
+        "collapsed": true
       },
       "right": {
         "id": "4332d775c73bac43",
@@ -366,7 +369,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Moduli/patologia sistematica I.md",
+                    "file": "Definizioni/patologia/cardiologia/aritmie.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -383,7 +386,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Moduli/patologia sistematica I.md",
+                    "file": "Definizioni/patologia/cardiologia/aritmie.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
