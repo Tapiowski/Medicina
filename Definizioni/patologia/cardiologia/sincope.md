@@ -67,6 +67,9 @@
 	- indagini neurologiche, psichiatriche se non e sincope
 
 # terapia
+```ad-golden-standard
+title: s da ipotensione ortostatica: [[diidropiridina]], cortisonici, th antipertensiva; s seno carotideo cardoinibitorio: [[pacemaker]] definitivo
+```
 - [[sincope aritmica]]
 - alzarsi gradatamente se [[sincope da ipotensione ortostatica]]
 	- th farmacologica e non
@@ -77,4 +80,4 @@
 	- componente prevalente?
 		- vasodepressiva
 		- cardioinibitoria
-			- pacemaker definitivo
+			- [[pacemaker]] definitivo

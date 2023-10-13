@@ -1,0 +1,1 @@
+riducono ipercontrazione mm ipertrofico: +efflusso in aorta

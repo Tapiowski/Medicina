@@ -41,9 +41,9 @@
 - associata a malattia neuromuscolare, differenziale con cardiopatia ischemica: [[coronarografia]]
 
 ## terapia
-- th [[scompenso cardiaco]]
 ```ad-golden-standard
 title: [[ace inibitori]], [[farmaci beta-bloccanti]], [[diuretici anti-aldosteronici]], [[farmaci diuretici]] + [[pacemaker biventricolare]] e [[defibrillatore]]
+per [[scompenso cardiaco]]
 ```
 - [[morte cardiaca improvvisa]]
 	- -sport, -attivita fisica

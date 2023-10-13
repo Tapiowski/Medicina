@@ -47,11 +47,9 @@
 - fenotipi e fenocopie: [[anderson-fabry]] sfingolipidosi, malattie di [[pompe e danon]] glicogenosi, noona, leopard, friedreich
 
 # terapia
-- ## trattare ostruzione efflusso ventricolo sinistro
 ```ad-golden-standard
-title: [[farmaci inotropi negativi]]
-- riducono ipercontrazione mm ipertrofico: +efflusso in aorta
-- [[miectomia chirurgica]] o [[alcolizzazione del setto]] via cutanea
+title: [[farmaci inotropi negativi]], [[miectomia chirurgica]], [[alcolizzazione del setto]] via cutanea
+trattano ostruzione efflusso ventricolo sinistro
 ```
 - ## caratteristiche di rischio
 	- impianto [[defibrillatore interno automatico]]
