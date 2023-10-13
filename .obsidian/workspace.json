@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
+                "file": "Moduli/patologia sistematica I.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
+                    "file": "Moduli/patologia sistematica I.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/patologia/cardiologia/cardiopatia ischemica.md"
+                "file": "Moduli/patologia sistematica I.md"
               }
             }
           }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
+                "file": "Moduli/patologia sistematica I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
+                "file": "Moduli/patologia sistematica I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,6 +228,17 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "cbfa21c187059bdd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -255,8 +266,8 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "Definizioni/patologia/cardiologia.md",
     "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
+    "Definizioni/patologia/cardiologia.md",
     "Definizioni/patologia/cardiologia/cardiomiopatia ischemica in fase acuta.md",
     "Definizioni/patologia/cardiologia/sindrome coronarica cronica.md",
     "Definizioni/semeiotica/scintigrafia.md",
