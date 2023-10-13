@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definizioni/patologia/pneumologia/sindrome apnee notturne.md",
+                "file": "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,75 +23,98 @@
         ]
       },
       {
-        "id": "5291ad91a9a925f5",
-        "type": "tabs",
+        "id": "7b26c477e63d54b5",
+        "type": "split",
         "children": [
           {
-            "id": "afce5fc4800bc565",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Definizioni/patologia/pneumologia/sindrome apnee notturne.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:Definizioni/patologia/cardiologia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "path:Definizioni/patologia/pneumologia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14069084
-                      }
-                    },
-                    {
-                      "query": "path:Definizioni/farmacologia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11392604
-                      }
-                    },
-                    {
-                      "query": "path:Definizioni/chirurgia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
+            "id": "5291ad91a9a925f5",
+            "type": "tabs",
+            "dimension": 57.414448669201526,
+            "children": [
+              {
+                "id": "afce5fc4800bc565",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:Definizioni/patologia/cardiologia  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        },
+                        {
+                          "query": "path:Definizioni/patologia/pneumologia  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        },
+                        {
+                          "query": "path:Definizioni/farmacologia  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11392604
+                          }
+                        },
+                        {
+                          "query": "path:Definizioni/chirurgia  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084188
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.0000000000000018,
+                      "close": true
                     }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0000000000000013,
-                  "close": true
+                  }
+                },
+                "group": "af2e3e8d17e724cf"
+              }
+            ]
+          },
+          {
+            "id": "d0743fdff758e886",
+            "type": "tabs",
+            "dimension": 42.585551330798474,
+            "children": [
+              {
+                "id": "ad16f448cd4be418",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
                 }
               }
-            },
-            "group": "af2e3e8d17e724cf"
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -121,10 +144,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "golden-standard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -138,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "48f55e4308b55235",
@@ -152,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/patologia/pneumologia/sindrome apnee notturne.md"
+                "file": "Definizioni/patologia/cardiologia/cardiopatia ischemica.md"
               }
             }
           }
@@ -176,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/patologia/pneumologia/sindrome apnee notturne.md",
+                "file": "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/patologia/pneumologia/sindrome apnee notturne.md",
+                "file": "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,32 +255,32 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "Definizioni/patologia/cardiologia/STEMI.md",
-    "Definizioni/patologia/cardiologia/valvulopatie.md",
-    "Definizioni/patologia/pneumologia/tubercolosi.md",
-    "Definizioni/patologia/cardiologia/sindrome coronarica cronica.md",
-    "Definizioni/patologia/cardiologia/sincope.md",
-    "Definizioni/patologia/cardiologia/scompenso cardiaco.md",
-    "Definizioni/patologia/pneumologia/polmonite stafilococcica.md",
-    "Definizioni/patologia/pneumologia/polmonite nosocomiale.md",
-    "Definizioni/patologia/pneumologia/polmonite lobare franca.md",
-    "Definizioni/patologia/pneumologia/polmonite comunitaria.md",
-    "Definizioni/patologia/pneumologia/mesotelioma pleurico.md",
-    "Definizioni/patologia/cardiologia/malattie reumatiche cardiologiche.md",
-    "Definizioni/patologia/cardiologia/ipertensione arteriosa.md",
-    "Definizioni/patologia/pneumologia/fibrosi polmonare idiopatica.md",
-    "Definizioni/patologia/pneumologia/ipertensione polmonare.md",
-    "Definizioni/patologia/pneumologia/insufficienza respiratoria cronica.md",
-    "Definizioni/patologia/pneumologia/enfisema polmonare.md",
-    "Definizioni/patologia/cardiologia/endocardite infettiva.md",
-    "Definizioni/patologia/cardiologia/dissecazione aortica.md",
-    "Definizioni/patologia/pneumologia/embolia polmonare.md",
-    "Definizioni/patologia/pneumologia/covid-19.md",
+    "Definizioni/patologia/cardiologia.md",
     "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia ischemica in fase acuta.md",
+    "Definizioni/patologia/cardiologia/sindrome coronarica cronica.md",
+    "Definizioni/semeiotica/scintigrafia.md",
+    "Definizioni/patologia/cardiologia/sindrome coronarica acuta.md",
+    "Definizioni/patologia/cardiologia/STEMI.md",
+    "Definizioni/patologia/cardiologia/NSTEMI.md",
+    "Definizioni/patologia/cardiologia/infarto miocardico.md",
+    "Definizioni/patologia/cardiologia/infarto miocardico spontaneo.md",
+    "Definizioni/patologia/cardiologia/semeiotica cardiovascolare.md",
+    "Definizioni/patologia/cardiologia/elettrocardiografia.md",
+    "Definizioni/patologia/cardiologia/aritmie.md",
+    "Definizioni/patologia/cardiologia/sindrome aortica acuta.md",
+    "Definizioni/patologia/0/ulcera penetrante.md",
+    "Definizioni/patologia/0/ematoma intramurale.md",
+    "Definizioni/patologia/cardiologia/dissecazione aortica.md",
+    "Definizioni/patologia/cardiologia/angina instabile.md",
+    "Definizioni/patologia/cardiologia/angina a riposo.md",
+    "Definizioni/patologia/cardiologia/morte cardiaca improvvisa.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia.md",
     "Definizioni/patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatia dilatativa.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatia aritmogena.md",
-    "Definizioni/farmacologia/cardiovascolare/farmaci antiaritmici.md",
+    "100/templates/patologia template.md",
+    "Definizioni/patologia/cardiologia/endocardite infettiva.md",
+    "Definizioni/patologia/cardiologia/sincope.md",
+    "Definizioni/patologia/cardiologia/aterosclerosi.md",
     "Home.canvas",
     "100/files/Recording 20231012164710.webm",
     "100/files/Pasted image 20231013022013.png",

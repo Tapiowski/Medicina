@@ -134,6 +134,10 @@
 				- rottura lume falso avventizia: decesso
 
 # clinica
+```ad-clinica
+title: dolore interscapolare, ipertensione, soffio diastolico, ipoperfusione a valle, rigurgito aortico, versamento pleurico in rottura, ictus e coma in dissecazione collaterali, infarto in occlusione coronarica
+```
+---
 - dolore toracico, interscapolare
 	- [[ipertensione]]
 	- alterazione [[polso periferico]]: differente dx sx
@@ -194,12 +198,12 @@
 
 # terapia
 ```ad-terapia
-title: [[farmaci anti-ipertensivi]]
-- a livelli di perfusione renale, cerebrale garantita: 90 mmhg max
-- pz deve essere ipoteso perche lacerazione aorta in atto
-- [[farmaci diuretici]], [[farmaci calcio antagonisti]], [[farmaci beta-bloccanti]]
+title: [[farmaci anti-ipertensivi]]: [[farmaci diuretici]], [[farmaci calcio antagonisti]], [[farmaci beta-bloccanti]]
 ```
+---
 - stabilizzare pz, th intensiva
+	- a livelli di perfusione renale, cerebrale garantita: 90 mmhg max
+	- pz deve essere ipoteso perche lacerazione aorta in atto
 - [[dissecazione aortica tipo A]]
 	- [[a ascendente]]
 	- chirurgia, no th intensiva

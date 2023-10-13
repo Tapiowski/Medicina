@@ -1,13 +1,13 @@
-## definzione
+# definzione
 - sofferenza miocardio da squilibrio richieste/apporto o2
 - [[cardiopatia ischemica cronica]], [[cardiomiopatia ischemica stabile]]
 - -[[flusso coronarico]]
 
-## epidemiologia
+# epidemiologia
 - esordio cardiopatia ischemica in 50% casi, aumenta con eta rischio cardiovascolare
 - incidenza 4% in eta avanzate, 2-3% in giovani, m
 
-## fisiopatologia
+# fisiopatologia
 - ### [[ischemia]]
 	- metabolismo anaerobio: acido lattico per glicolisi, deplezione atp, perdita potassio
 	- reversibile se < 20-30 m: poi danni irreversibili
@@ -28,30 +28,28 @@
 		- ecg
 	- dolore
 
-- ## clinica
-	- ### [[dolore toracico]]
-	- ### [[angina stabile]]
-	- pz con quadro [[angina pectoris]] per prima volta: condizione stabile, sintomi gia avuti in passato
-	- pz sintomatici per [[cardiomiopatia ischemica in fase acuta]], asintomatici e stabili per trattamento, regolare follow-up: [[sindrome coronarica acuta]]
-	- spasmo coronarico da + tensione parietale, donne, giovani
-	- a riposo
-	- [[aterosclerosi coronarica]] ostruttiva possibile
-	- [[sopraslivellamento ST]] per [[ischemia]] transmurale
-	- prognosi favorevole th con [[farmaci vasodilatatori]]
+# clinica
+```ad-clinica
+title: [[dolore toracico]], [[angina stabile]]
+```
+- pz con quadro [[angina pectoris]] per prima volta: condizione stabile, sintomi gia avuti in passato
+- pz sintomatici per [[cardiomiopatia ischemica in fase acuta]], asintomatici e stabili per trattamento, regolare follow-up: [[sindrome coronarica acuta]]
+- spasmo coronarico da + tensione parietale, donne, giovani
+- a riposo
+- [[aterosclerosi coronarica]] ostruttiva possibile
+- [[sopraslivellamento ST]] per [[ischemia]] transmurale
+- prognosi favorevole th con [[farmaci vasodilatatori]]
 
-## terapia
+# terapia
+```ad-terapia
+title: blocco aterosclerosi in tutto organismo: rivascolarizzazione percutanea con [[angioplastica]] con o senza stent, rivascolarizzazione chirurgica con [[bypass aorto-coronarico]]
+```
 - ridurre, eliminare sintomi, + qualita vita, migliorare prognosi prevenendo eventi pesanti, morte, infarto
 - componenti
 	- identificare, trattare patologia associate scatenanti o aggravanti angina: escludere [[anemia]], [[ipossia]], [[ipertiroidismo]]
 	- controllare fattori rischio cardiovascolari
 	- angina pectoris da [[aterosclerosi]]: blocco processo aterosclerotico: [[anti-ischemici]]
 	- rivascolarizzazione miocardica [[bypass aorto-coronarico]], [[angioplastica]] percutanea, non causare ischemia miocardica, progressione malattia
-```ad-terapia
-title: blocco aterosclerosi in tutto organismo
-- th medica ottimale
-- rivascolarizzazione percutanea con [[angioplastica]] con o senza stent
-- rivascolarizzazione chirurgica con [[bypass aorto-coronarico]]
-```
 - stratificare rischio pz
 	- mortalita attesa massa ad un anno: th medica ottimale
 	- rischio intermedio: th ottimale e considerare coronarografia
@@ -71,6 +69,6 @@ title: blocco aterosclerosi in tutto organismo
 	- syntax score, gravita malattia
 		- numero, severita, complessita lesioni
 
-## prognosi
+# prognosi
 - migliore per [[angina stabile]] che non per [[sindrome coronarica acuta]]
 - pz stabile, - rischio [[angina instabile]], [[infarto miocardico]], [[morte]], eventi gravi

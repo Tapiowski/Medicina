@@ -29,12 +29,16 @@
 - ostruzione tratto di efflusso: ipertrofia setto, lembo anteriore mitralico ridondante con movimento ant risucchiato dal flusso nel tratto di efflusso
 
 # clinica
+```ad-clinica
+title: dispnea da sforzo, sincope, morte improvvisa; ischmia: disfunzione sistolica: scompenso cardiaco, edema polmonare, cardiopalmo, aritmia fino a fibrillazione atriale
+```
+
 - [[dispnea da sforzo]], [[sincope]], [[morte cardiaca improvvisa]] da ostruzione ventricolare
 - + ostruzione tratto efflusso v sin
 - [[disfunzione diastolica]]: cavita obliterata da pareti e rigidita da fibrosi diffusa: -riempimento
 	- [[scompenso cardiaco]], [[edema polmonare]], [[dispnea da sforzo]], [[cardiopalmo]], [[aritmia]] come [[fibrillazione atriale]]
 - [[rimodellamento microvascolare]]: ipertrofia tonaca media capillari e arteriole coronariche, fibrosi, -densita capillarre in parete ispessita, +ischemia miocardica: fibrosi, ischemia transitoria, dolore toracico
-- disfunzionnr diastolica o sistolica da [[ischemia]]: trigger aritmie: sincope, morte
+- disfunzione diastolica o sistolica da [[ischemia]]: trigger aritmie: sincope, morte
 - quindi: alterazioni strutturali, rimodellamento vascolarer, disfunzione microvascolare, ischemia, fibrosi, aritmie, disfunzione sistolica. compromissione capacita di pompa mm cardiaco, insufficiente capacita eiettiva del ventricolo sin: scompenso cardiaco cronito o acuto, dispnea da sforzo, morte cardiaca improvvisa
 
 # diagnosi
@@ -50,6 +54,7 @@
 ```ad-terapia
 title: [[farmaci inotropi negativi]], [[miectomia chirurgica]], [[alcolizzazione del setto]] via cutanea
 ```
+
 - trattare ostruzione efflusso ventricolo sinistro
 - ## caratteristiche di rischio
 	- impianto [[defibrillatore interno automatico]]

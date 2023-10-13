@@ -4,14 +4,73 @@
       "type": "terapia",
       "color": "25, 190, 135",
       "icon": {
-        "name": "asterisk",
-        "type": "font-awesome"
+        "type": "obsidian",
+        "name": "lucide-pill"
       },
       "command": false,
       "title": null,
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "clinica": {
+      "type": "clinica",
+      "color": "0, 132, 255",
+      "icon": {
+        "name": "stethoscope",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "eziologia": {
+      "type": "eziologia",
+      "color": "255, 0, 0",
+      "icon": {
+        "type": "obsidian",
+        "name": "link"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "fisiopatologia": {
+      "type": "fisiopatologia",
+      "color": "255, 149, 0",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-heart"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "diagnosi": {
+      "type": "diagnosi",
+      "color": "255, 213, 0",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-zoom-in"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "descrizione": {
+      "type": "descrizione",
+      "color": "255, 0, 174",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-heart-off"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,

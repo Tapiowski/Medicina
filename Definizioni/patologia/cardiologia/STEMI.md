@@ -7,10 +7,10 @@
 	- altamente troponina aumentata
 
 ## clinica
-```ad-caution
+```ad-clinica
 title:  [[dolore toracico]], [[dispnea]], [[sincope]], [[astenia]]
 ```
- - >20 m retrosternale, irradiato a braccio sin, mandibola
+ - +20 m retrosternale, irradiato a braccio sin, mandibola
 
 ## th stemi
 ```ad-terapia

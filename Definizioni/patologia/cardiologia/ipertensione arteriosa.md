@@ -32,7 +32,6 @@
 ## classificazione ipertensione
 - eziologica
 	- ### [[ipertensione primitiva]]
-		- o essenziale: 90-95%: causa sconosciuta
 	- ### [[ipertensione secondaria]]
 		- 5% casi da patologia renale, endocrina, vascolare, iatrogena, trattare malattia di base: giovani con ipertensioni severe, resistenti
 - classificazione per gravita
@@ -82,13 +81,16 @@
 	- disfunzione renale: + ritenzione na, h2o
 
 # clinica
+```ad-clinica
+title: +2 tono, soffio paraombelicale, ipertrofia ventricolare sx, cefalea, emicrania, astenia, cardiopalmo, dispnea, ansia, malessere, pressione torace
+```
 - killer silenzioso
-- sintomi aspecifici: cefalea, emicrania, astenia, cardiopalmo, pressione torace, dispnea, ansia, malessere. reazione emotiva aumenta pressione, ci si accorge
+- reazione emotiva aumenta pressione, ci si accorge
 - clinica strumentale
 	- + 2 tono, spostamento a sin itto punta
 	- in stenosi a renale: soffio paraombelicale rilevabile
 - [[elettrocardiografia]]
-	- ipertrofia ventricolare sx: + spessore ventricolo, ipertrofia, dilatazione atrio, ectasia radice aortica, disfunzione diastolica, sistolica ventricolo sx: adattamenti cardiaci a ipertensione
+	-  [[ipertrofia ventricolare sinistra]]
 
 # diagnosi
 - confermare stato ipertensione arteriosa

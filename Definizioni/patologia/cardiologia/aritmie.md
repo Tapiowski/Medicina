@@ -55,6 +55,9 @@
 		- [[pre-eccitazione ventricolare]]: [[sindrome di wolff-parkinson-white]]
 
 # clinica
+```ad-clinica
+title: palpitazioni, sincope, angina, morte improvvisa
+```
 - asintomatiche
 - palpitazioni, cardiopalmo brusche: rientro nodale
 - se cuore troppo veloce, -riempimento, -portata

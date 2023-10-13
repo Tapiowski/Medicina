@@ -24,7 +24,7 @@
 - ### [[sindrome coronarica cronica]]
 
 # clinica
-```ad-caution
+```ad-clinica
 title: [[angina pectoris]]
 ```
 

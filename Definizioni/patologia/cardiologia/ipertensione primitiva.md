@@ -1,0 +1,2 @@
+- 90-95%: causa sconosciuta
+- [[ipertensione essenziale]]

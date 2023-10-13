@@ -101,16 +101,20 @@
 - ### [[triade di virchow]]
 
 # clinica
+```ad-clinica
+title: in rimodellamento negativo: sintomi stenosi; in rottura placca: cascata coagulativa, trombo
+```
 - inizia nelle prime decadi di vita
 	- anomalie vascolari in soldati di 20 anni wwii
 - asintomatico, manifestazioni da gene, ambiente, fattori rischio
-- rimodellamento positivo: placca cresce vs ext compensano ostruzione da placca: capacita vasale intatta
-- rimodellamento negativo: vaso non compensa ostruzione da placca
-	- limite circolazione: stenosi: clinica
-	- fase inziale: stenosi bilanciata da vasodilatazione arterie sottostanti stenosi
-	- non compensata in evoluzione: stenosi, -flusso
-	- placca stabile o instabile
-- clinica
+- rimodellamento
+	- positivo: placca cresce vs ext compensano ostruzione da placca: capacita vasale intatta
+	- negativo: vaso non compensa ostruzione da placca
+		- limite circolazione: stenosi: clinica
+		- fase inziale: stenosi bilanciata da vasodilatazione arterie sottostanti stenosi
+		- non compensata in evoluzione: stenosi, -flusso
+		- placca stabile o instabile
+- clinica dipende da
 	- quantita placca: grado restringimento vaso
 	- qualita placca: propensione a rottura: trombi
 	- + stenosi + clinica: riduzione 50% non compromissiva, se -75% stenosi significativa

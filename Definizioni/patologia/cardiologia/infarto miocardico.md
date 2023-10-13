@@ -88,7 +88,7 @@
 - [[scompenso cardiaco]]: [[edema polmonare]]
 
 ## clinica
-```ad-caution
+```ad-clinica
 title: [[dolore toracico]], +-[[st]], [[biomarkers cardiovascolari]] troponina i, t
 ```
 
