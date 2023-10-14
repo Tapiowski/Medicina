@@ -1,6 +1,6 @@
 # Esami
 ```dataview
-table without id file.link as esame, modulo, progresso, data, voto
+table without id file.link as esame, modulo, progresso, data
 from "200/esami"
 where !valutazione
 ```
