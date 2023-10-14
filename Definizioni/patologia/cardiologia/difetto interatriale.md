@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: 
+```
 # definizione
 - [[dia]]
 - continuita non ricoperta da membrana della [[fossa ovale]]

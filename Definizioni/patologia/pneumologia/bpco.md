@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: b2-agonisti + anti-muscarinici + ics
+```
 # definzione
 - [[bronco-pneumopatia cronica ostruttiva]]
 - [[visus pletorico]]
@@ -22,9 +43,6 @@
 	- pressione intrinseca di fine espirazione: fatica
 
 # terapia
-```ad-terapia
-title: b2-agonisti + anti-muscarinici + ics
-```
 - ## stabile
 	- utilizzo dell'[[inalatore]]
 	- -sintomi, -f acuzie, +tollerazna esercizio e qualita vita

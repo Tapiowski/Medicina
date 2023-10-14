@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: resezione tumore, chemioth, radioth, farmaci biologici
+```
 # definizione
 - classificazione
 	- [[cancro a piccole cc]], small cc cancer
@@ -173,9 +194,6 @@
 		- 50% sopravvivenza a 60 mesi
 
 # terapia
-```ad-terapia
-title: resezione tumore, chemioth, radioth, farmaci biologici
-```
 - screening precoce fumatori
 	- radiografia 1/anno, tc preferibile
 - ## chirurgia ch

@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: cortisone + antibiotico terapia
+```
 # definizione
 - stadio 0 [[bpco]]
 - cronico ricorrente aumento secrezioni bronchiali
@@ -113,8 +134,6 @@
 - anamnesi, esame obiettivo, spirometria, test reversibilita no in ostruzione bronchiale, gas ematici e rx torace
 
 # terapia
-```ad-terapia
-title: [[cortisone]]+[[antibiotico terapia]]
-```
+- [[cortisone]]+[[antibiotico terapia]]
 - per una settimana
 - [[corticosteroidi]] per acutie

@@ -11,13 +11,13 @@ title:
 title:
 ```
 ```ad-clinica
-title:  [[dolore toracico]], [[dispnea]], [[sincope]], [[astenia]]
+title:  dolore toracico, dispnea, sincope, astenia
 ```
 ```ad-diagnosi
 title:
 ```
 ```ad-terapia
-title: [[angioplastica]], trombolisi, [[farmaci antiaggreganti piastrinici]]
+title: angioplastica, trombolisi, farmaci antiaggreganti piastrinici
 ```
 # definzione
 - st-elevation myocardical infarction
@@ -28,9 +28,11 @@ title: [[angioplastica]], trombolisi, [[farmaci antiaggreganti piastrinici]]
 	- altamente troponina aumentata
 
 # clinica
+- [[dolore toracico]], [[dispnea]], [[sincope]], [[astenia]]
  - +20 m retrosternale, irradiato a braccio sin, mandibola
 
 # terapia
+- [[angioplastica]], trombolisi, [[farmaci antiaggreganti piastrinici]]
 - diagnosi precoce
 - [[riperfusione]]: prima possibile, sintomi da 12 h ST sopraslivellato, blocco branca sx
 	- farmacologica: trombolisi

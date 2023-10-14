@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: 
+```
 # definzione
 - orifizio valvolare da 4-6 cm2 a <1 cm2
 	- per ispessimento lembi valvolari, fusione, disfunzione corde tendinee e mm papillari, calcificazioni

@@ -11,13 +11,13 @@ title: consumo o2 1.5 ml/min/100g; -o2: -coronarie, anemia o ipossia arteriosa, 
 title: 
 ```
 ```ad-clinica
-title: [[angina pectoris]]
+title: angina pectoris
 ```
 ```ad-diagnosi
 title: ecg individua zona occlusione coronaria: stemi inf +ST d2, d3, avf; asse +st avr; endoscopia coronaria o angiografia
 ```
 ```ad-terapia
-title: [[nitrossido]], [[farmaci calcio antagonisti]], [[angioplastica]]
+title: nitrossido, farmaci calcio antagonisti, angioplastica
 ```
 # definizione
 - [[cardiomiopatia ischemica]], [[ischemia miocardica]]
@@ -45,6 +45,7 @@ title: [[nitrossido]], [[farmaci calcio antagonisti]], [[angioplastica]]
 - ### [[sindrome coronarica cronica]]
 
 # clinica
+- [[angina pectoris]]
 
 # diagnosi
 - ecg, dove occlusione coronaria
@@ -71,6 +72,7 @@ title: [[nitrossido]], [[farmaci calcio antagonisti]], [[angioplastica]]
 	- alterata ripolarizzazione con qrs slargato > 0.12 s e complessi qs in sede settale
 
 # terapia
+- [[nitrossido]], [[farmaci calcio antagonisti]], [[angioplastica]]
 - blocco l, t del ca con -ca in depolarizzazione
 - per os, metabolismo
 - [[angioplastica]]

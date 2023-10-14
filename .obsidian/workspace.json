@@ -12,11 +12,14 @@
             "id": "2bffc1ff3dcaee81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "100/templates/patologia template.md",
-                "mode": "source",
-                "source": false
+                "file": "Home.canvas",
+                "viewState": {
+                  "x": -60,
+                  "y": 827.0354591836606,
+                  "zoom": -0.48698080438565505
+                }
               }
             },
             "group": "af2e3e8d17e724cf"
@@ -24,123 +27,77 @@
         ]
       },
       {
-        "id": "aad2d35739ad1c42",
-        "type": "split",
+        "id": "5291ad91a9a925f5",
+        "type": "tabs",
         "dimension": 53.07644499689248,
         "children": [
           {
-            "id": "5291ad91a9a925f5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "afce5fc4800bc565",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "100/templates/patologia template.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "path:Definizioni/patologia/cardiologia  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14048348
-                          }
-                        },
-                        {
-                          "query": "path:Definizioni/patologia/pneumologia  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14069084
-                          }
-                        },
-                        {
-                          "query": "path:Definizioni/farmacologia  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11392604
-                          }
-                        },
-                        {
-                          "query": "path:Definizioni/chirurgia  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 6084188
-                          }
-                        }
-                      ],
-                      "collapse-display": false,
-                      "showArrow": true,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1.0000000000000029,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "af2e3e8d17e724cf"
-              }
-            ],
-            "stacked": true
-          },
-          {
-            "id": "1fcc1ee0068d6b15",
-            "type": "split",
-            "children": [
-              {
-                "id": "5c26c4970e4bb509",
-                "type": "tabs",
-                "dimension": 18.293515358361777,
-                "children": [
-                  {
-                    "id": "7649d65e88106f9d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "outline",
-                      "state": {
-                        "file": "100/templates/patologia template.md"
+            "id": "afce5fc4800bc565",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Home.canvas",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:Definizioni/patologia/cardiologia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "path:Definizioni/patologia/pneumologia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14069084
+                      }
+                    },
+                    {
+                      "query": "path:Definizioni/farmacologia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11392604
+                      }
+                    },
+                    {
+                      "query": "path:Definizioni/chirurgia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
                       }
                     }
-                  }
-                ]
-              },
-              {
-                "id": "213c326473090e1d",
-                "type": "tabs",
-                "dimension": 81.70648464163823,
-                "children": [
-                  {
-                    "id": "ad16f448cd4be418",
-                    "type": "leaf",
-                    "state": {
-                      "type": "mindmap",
-                      "state": {}
-                    }
-                  }
-                ]
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000042,
+                  "close": true
+                }
               }
-            ],
-            "direction": "vertical"
+            },
+            "group": "af2e3e8d17e724cf"
           }
         ],
-        "direction": "horizontal"
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -152,6 +109,7 @@
       {
         "id": "b9d4d4649ea8feee",
         "type": "tabs",
+        "dimension": 72.42503259452413,
         "children": [
           {
             "id": "c2394e284f6e6d01",
@@ -187,6 +145,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "8444d52409d33553",
+        "type": "tabs",
+        "dimension": 27.57496740547588,
+        "children": [
+          {
+            "id": "7649d65e88106f9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.canvas"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100/templates/patologia template.md",
+                "file": "Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100/templates/patologia template.md",
+                "file": "Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,32 +249,32 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "100/templates/zettelkasten template.md",
-    "Moduli/farmacologia speciale.md",
-    "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
-    "Definizioni/patologia/cardiologia.md",
-    "Definizioni/patologia/cardiologia/semeiotica cardiovascolare.md",
-    "Moduli/patologia sistematica I.md",
-    "Definizioni/farmacologia/farmaci chemio-antibiotici.md",
-    "Definizioni/farmacologia/antibiotici/beta-lattamine.md",
-    "100/templates/patologia template.md",
-    "100/templates/zotero template.md",
-    "Definizioni/patologia/cardiologia/aritmie.md",
-    "Definizioni/patologia/cardiologia/tachiaritmia.md",
-    "Definizioni/patologia/cardiologia/fibrillazione ventricolare.md",
-    "Definizioni/patologia/cardiologia/torsione di punta.md",
-    "Definizioni/patologia/cardiologia/tachicardia sopra-ventricolare.md",
-    "Definizioni/fisiologia/tachicardia.md",
-    "Definizioni/patologia/cardiologia/extrasistole.md",
-    "Definizioni/patologia/cardiologia/bradiaritmia.md",
-    "Definizioni/patologia/cardiologia/blocco intraventricolare.md",
-    "Definizioni/patologia/cardiologia/blocco atrioventricolare.md",
-    "Definizioni/patologia/cardiologia/blocco sa.md",
-    "Definizioni/patologia/cardiologia/sindrome aortica acuta.md",
-    "100/templates/ad template.md",
-    "Definizioni/patologia/cardiologia/dissecazione aortica.md",
-    "Definizioni/patologia/cardiologia/sindrome coronarica acuta.md",
-    "Definizioni/patologia/cardiologia/infarto miocardico.md",
+    "Definizioni/patologia/pneumologia.md",
+    "Definizioni/patologia/pneumologia/covid-19.md",
+    "Definizioni/patologia/pneumologia/sindrome apnee notturne.md",
+    "Definizioni/patologia/pneumologia/insufficienza respiratoria cronica.md",
+    "Definizioni/patologia/pneumologia/irc ipercapnica.md",
+    "Definizioni/patologia/pneumologia/irc ipossiemica.md",
+    "Definizioni/patologia/pneumologia/broncoscopia.md",
+    "Definizioni/patologia/pneumologia/ipertensione polmonare.md",
+    "Definizioni/patologia/pneumologia/pneumopatia interstiziale diffusa.md",
+    "Definizioni/patologia/pneumologia/fibrosi polmonare idiopatica.md",
+    "Definizioni/patologia/pneumologia/mesotelioma pleurico.md",
+    "Definizioni/patologia/pneumologia/polmonite.md",
+    "Definizioni/patologia/pneumologia/polmonite comunitaria.md",
+    "Definizioni/patologia/pneumologia/polmonite stafilococcica.md",
+    "Definizioni/patologia/pneumologia/polmonite nosocomiale.md",
+    "Definizioni/patologia/pneumologia/forme emergenti di polmonite.md",
+    "Definizioni/patologia/pneumologia/polmonite lobare franca.md",
+    "Definizioni/patologia/pneumologia/tubercolosi.md",
+    "Definizioni/patologia/pneumologia/embolia polmonare.md",
+    "Definizioni/patologia/pneumologia/cancro polmone.md",
+    "Definizioni/patologia/pneumologia/enfisema polmonare.md",
+    "Definizioni/patologia/pneumologia/enfisema paracicatriziale.md",
+    "Definizioni/patologia/pneumologia/enfisema parasettale.md",
+    "Definizioni/patologia/pneumologia/enfisema panlobulare.md",
+    "Definizioni/patologia/pneumologia/enfisema centrolobulare.md",
+    "Definizioni/patologia/pneumologia/bronchite cronica.md",
     "Home.canvas",
     "100/files/Recording 20231012164710.webm",
     "100/files/Pasted image 20231013022013.png",

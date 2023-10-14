@@ -1,4 +1,3 @@
-# aritmie
 ```ad-definizione
 title: bradiaritmia, tachiaritmia, pre-eccitazione ventricolare, ritmi di scappamento, extrasistole, canalopatie
 ```
@@ -18,7 +17,7 @@ title: calcolo ritmo cardiaco, sinusale, conduzione av e iv, ripolarizzazione, p
 title: palpitazioni, sincope, angina, morte improvvisa
 ```
 ```ad-terapia
-title: [[farmaci antiaritmici]], [[farmaci anticoagulanti]], [[terapia elettrica]], [[terapia di ablazione]]
+title: farmaci antiaritmici, farmaci anticoagulanti, terapia elettrica, terapia di ablazione
 ```
 
 # definizione
@@ -86,6 +85,7 @@ title: [[farmaci antiaritmici]], [[farmaci anticoagulanti]], [[terapia elettrica
 	- [[morte cardiaca improvvisa]]
 
 # terapia
+- [[farmaci antiaritmici]], [[farmaci anticoagulanti]], [[terapia elettrica]], [[terapia di ablazione]]
 - preceduta da studio elettrofisiologico
 - 3, 4 elettrocateteri da vena femorale o giugulare interna
 	- ad, vd, fascio his e quarto seno coronarico se presente

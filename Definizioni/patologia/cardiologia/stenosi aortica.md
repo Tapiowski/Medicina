@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: 
+```
 # definzione
 - valvulopatia piu frequente: riduzione calibro orifizio valvolare aortico
 - [[stenosi aortica sottovalvolare]] e [[stenosi aortica sopravalvolare]]

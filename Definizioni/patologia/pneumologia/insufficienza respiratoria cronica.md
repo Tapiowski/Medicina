@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: ossgienoth a lungo termine, ventilazione meccanica non invasiva
+```
 # definizione
 - [[irc]]
 - -pao2 in sangue arterioso < 60 mmhg. parziale
@@ -135,9 +156,6 @@
 	- [[emodinamica cruenta]]
 
 # terapia
-```ad-terapia
-title: ossgienoth a lungo termine, ventilazione meccanica non invasiva
-```
 - controllo patologia di base causante irc
 - [[ossigenazione]], [[ventilazione meccanica]]
 	- ### [[ltot]]

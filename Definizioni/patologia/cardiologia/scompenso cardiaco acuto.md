@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: 
+```
 # definizione
 - nuova insorgenza, ricorrenza di scompenso cardiaco: trattamento urgente con ricovero
 - comparsa improvvisa o decorso subacuto con graduale peggioramento fino a ricovero non programmato

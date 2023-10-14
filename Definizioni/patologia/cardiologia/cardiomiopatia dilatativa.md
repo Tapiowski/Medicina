@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: trattare scompenso cardiaco: ace inibitori, farmaci beta-bloccanti, diuretici anti-aldosteronici, farmaci diuretici + pacemaker biventricolare e defibrillatore
+```
 ## definizione
 - [[ventricolo sinistro]], [[ventricolo destro]] dilatato
 - [[disfunzione sistolica]] senza secondareita come coronaropatia, sovraccarico da ipertensione o coagulopatia
@@ -41,10 +62,8 @@
 - associata a malattia neuromuscolare, differenziale con cardiopatia ischemica: [[coronarografia]]
 
 ## terapia
-```ad-terapia
-title: [[ace inibitori]], [[farmaci beta-bloccanti]], [[diuretici anti-aldosteronici]], [[farmaci diuretici]] + [[pacemaker biventricolare]] e [[defibrillatore]]
-per [[scompenso cardiaco]]
-```
+- per [[scompenso cardiaco]]
+	- [[ace inibitori]], [[farmaci beta-bloccanti]], [[diuretici anti-aldosteronici]], [[farmaci diuretici]] + [[pacemaker biventricolare]] e [[defibrillatore]]
 - [[morte cardiaca improvvisa]]
 	- -sport, -attivita fisica
 - screening familiare

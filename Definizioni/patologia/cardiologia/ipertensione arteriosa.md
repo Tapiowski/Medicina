@@ -1,3 +1,24 @@
+```ad-definizione
+title: pressione diastolica > 90 mmhg, p sistolica > 140 mmhg
+```
+```ad-epidemiologia
+title: 1 causa mortalita eu, 1 rischio malattia cardiovascolare, P = 0.3
+```
+```ad-eziologia
+title: angiotensina II su resistenza periferica, gittata, aldosterone, volume ematico, barocettori; endotelio e mm liscia per endotelina e calmodulina contrazione o b-agonisti rilasciamento
+```
+```ad-fisiopatologia
+title: -sistema regolazione perfusione, +gittata o +resistenze
+```
+```ad-clinica
+title: +2 tono, soffio paraombelicale, ipertrofia ventricolare sx, cefalea, emicrania, astenia, cardiopalmo, dispnea, ansia, malessere, pressione torace
+```
+```ad-diagnosi
+title: inferiore a 140-90 esclude stato ipertensione arteriosa
+```
+```ad-terapia
+title: farmaci antipertensivi: ace inibitori, farmaci beta-bloccanti, farmaci calcio antagonisti, farmaci diuretici, sartani
+```
 # definzione
 - pressione diastolica > 90 mmhg
 - pressione sistolica > 140 mmhg
@@ -81,9 +102,6 @@
 	- disfunzione renale: + ritenzione na, h2o
 
 # clinica
-```ad-clinica
-title: +2 tono, soffio paraombelicale, ipertrofia ventricolare sx, cefalea, emicrania, astenia, cardiopalmo, dispnea, ansia, malessere, pressione torace
-```
 - killer silenzioso
 - reazione emotiva aumenta pressione, ci si accorge
 - clinica strumentale
@@ -121,9 +139,7 @@ title: +2 tono, soffio paraombelicale, ipertrofia ventricolare sx, cefalea, emic
 		- th a vita
 
 # terapia
-```ad-terapia
-title: [[farmaci antipertensivi]]: [[ace inibitori]], [[farmaci beta-bloccanti]], [[farmaci calcio antagonisti]], [[farmaci diuretici]], [[sartani]]
-```
+- [[farmaci antipertensivi]]: [[ace inibitori]], [[farmaci beta-bloccanti]], [[farmaci calcio antagonisti]], [[farmaci diuretici]], [[sartani]]
 - altri: [[alfa-bloccanti]], [[alfa-metildopa]], [[antagonisti aldosterone]]
 - riduzione graduale e progressiva della pressione 24-48 h per os
 - emergenze ipertensive: [[ipertensione maligna]]

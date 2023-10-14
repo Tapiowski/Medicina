@@ -182,7 +182,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Moduli/patologia sistematica I.md",
+                    "file": "Definizioni/patologia/cardiologia.md",
                     "mode": "source",
                     "source": false
                   }
@@ -192,123 +192,77 @@
             ]
           },
           {
-            "id": "aad2d35739ad1c42",
-            "type": "split",
+            "id": "5291ad91a9a925f5",
+            "type": "tabs",
             "dimension": 53.07644499689248,
             "children": [
               {
-                "id": "5291ad91a9a925f5",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "afce5fc4800bc565",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Moduli/patologia sistematica I.md",
-                        "options": {
-                          "collapse-filter": true,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": false,
-                          "colorGroups": [
-                            {
-                              "query": "path:Definizioni/patologia/cardiologia  ",
-                              "color": {
-                                "a": 1,
-                                "rgb": 14048348
-                              }
-                            },
-                            {
-                              "query": "path:Definizioni/patologia/pneumologia  ",
-                              "color": {
-                                "a": 1,
-                                "rgb": 14069084
-                              }
-                            },
-                            {
-                              "query": "path:Definizioni/farmacologia  ",
-                              "color": {
-                                "a": 1,
-                                "rgb": 11392604
-                              }
-                            },
-                            {
-                              "query": "path:Definizioni/chirurgia  ",
-                              "color": {
-                                "a": 1,
-                                "rgb": 6084188
-                              }
-                            }
-                          ],
-                          "collapse-display": false,
-                          "showArrow": true,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 1.0000000000000029,
-                          "close": true
-                        }
-                      }
-                    },
-                    "group": "af2e3e8d17e724cf"
-                  }
-                ],
-                "stacked": true
-              },
-              {
-                "id": "1fcc1ee0068d6b15",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "5c26c4970e4bb509",
-                    "type": "tabs",
-                    "dimension": 18.293515358361777,
-                    "children": [
-                      {
-                        "id": "7649d65e88106f9d",
-                        "type": "leaf",
-                        "state": {
-                          "type": "outline",
-                          "state": {
-                            "file": "Moduli/patologia sistematica I.md"
+                "id": "afce5fc4800bc565",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Definizioni/patologia/cardiologia.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "path:Definizioni/patologia/cardiologia  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        },
+                        {
+                          "query": "path:Definizioni/patologia/pneumologia  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        },
+                        {
+                          "query": "path:Definizioni/farmacologia  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 11392604
+                          }
+                        },
+                        {
+                          "query": "path:Definizioni/chirurgia  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6084188
                           }
                         }
-                      }
-                    ]
-                  },
-                  {
-                    "id": "213c326473090e1d",
-                    "type": "tabs",
-                    "dimension": 81.70648464163823,
-                    "children": [
-                      {
-                        "id": "ad16f448cd4be418",
-                        "type": "leaf",
-                        "state": {
-                          "type": "mindmap",
-                          "state": {}
-                        }
-                      }
-                    ]
+                      ],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.0000000000000029,
+                      "close": true
+                    }
                   }
-                ],
-                "direction": "vertical"
+                },
+                "group": "af2e3e8d17e724cf"
               }
             ],
-            "direction": "horizontal"
+            "stacked": true
           }
         ],
         "direction": "vertical"
@@ -320,6 +274,7 @@
           {
             "id": "b9d4d4649ea8feee",
             "type": "tabs",
+            "dimension": 72.42503259452413,
             "children": [
               {
                 "id": "c2394e284f6e6d01",
@@ -355,11 +310,27 @@
                 }
               }
             ]
+          },
+          {
+            "id": "8444d52409d33553",
+            "type": "tabs",
+            "dimension": 27.57496740547588,
+            "children": [
+              {
+                "id": "7649d65e88106f9d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Definizioni/patologia/cardiologia.md"
+                  }
+                }
+              }
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 217.5,
-        "collapsed": true
+        "width": 217.5
       },
       "right": {
         "id": "4332d775c73bac43",
@@ -375,7 +346,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Moduli/patologia sistematica I.md",
+                    "file": "Definizioni/patologia/cardiologia.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -392,7 +363,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Moduli/patologia sistematica I.md",
+                    "file": "Definizioni/patologia/cardiologia.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -444,8 +415,7 @@
       "active": "2bffc1ff3dcaee81",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "Definizioni/patologia",
-          "Moduli"
+          "100"
         ]
       }
     }

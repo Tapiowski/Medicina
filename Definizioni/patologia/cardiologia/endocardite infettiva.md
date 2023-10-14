@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: streptococco: ampicillina o gentamicina; stafilococco: oxacillina o due aminoglicosidi
+```
 # definizione
 - prrocesso infiammatorio endocardio, lesioni valvolari destruenti
 - batteri formano vegetazioni in valvole
@@ -60,11 +81,9 @@
 	- tac, spect, pet
 
 # terapia
-```ad-terapia
-title: associazione antibiotici
-- [[streptococco]]: una [[ampicillina]] o [[gentamicina]]
-- [[stafilococco]]: [[oxacillina]] se meticillina-sens, se resistente due [[aminoglicosidi]] per 4-6 settimane
-```
+- th farmacologica
+	- [[streptococco]]: una [[ampicillina]] o [[gentamicina]]
+	- [[stafilococco]]: [[oxacillina]] se meticillina-sens, se resistente due [[aminoglicosidi]] per 4-6 settimane
 - th chirurgica
 	- [[scompenso cardiaco refrattario]]
 	- [[embolizzazione periferica]]

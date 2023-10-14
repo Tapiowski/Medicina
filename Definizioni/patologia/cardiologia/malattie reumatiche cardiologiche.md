@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: penicillina + aspirina o steroidi
+```
 # definizione
 - [[febbre reumatica acuta]] [[arf]] distinta da [[malattia reumatica]]: sequela malattia acuta
 - [[fibrosi valvolare]] fino a [[cardiopatia cronica]]
@@ -27,11 +48,9 @@
 - [[criteri di jones]] 2M o 1M 2m con [[faringotonsilliti]] o aumento [[TASLO]]
 
 # terapia
-```ad-terapia
-title: antibiotici + antiinfiammatori
-- [[penicilline]] ev per 10gg seguita da [[penicillina G]] im, [[eritromicina]] se allergici
-- [[aspirina]] ad alta dose, [[steroidi]] se interessamento miocardico per almeno un mese anche se allergici
-```
+- antibiotici + antiinfiammatori
+	- [[penicilline]] ev per 10gg seguita da [[penicillina G]] im, [[eritromicina]] se allergici
+	- [[aspirina]] ad alta dose, [[steroidi]] se interessamento miocardico per almeno un mese anche se allergici
 - ## prevenzione primaria
 	- trattare [[faringite streptococcica]]: [[penicilline]] ogni 8 h per 10 gg, [[penicillina G]] per durate di 10 anni o fino ad adulto
 - ## chirurgia

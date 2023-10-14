@@ -1,7 +1,28 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: ambrisentan, nitrossido, agonisti prostacicline inibitori pde, ossigenoterapia
+```
 # definizione
 - pulmonary arterial hypertension [[pah]]
 - +p circolo polmonare, indipendente da c sistemico
-- [[vasoscostrizione ipossica]]
+- vasoscostrizione ipossica]]
 	- -ventilazione: ridistribuzione resistenze, evita -ventilate, 
 	- [[ipossiemia cronica]]
 		- [[ipossiemia alveolare acuta]]
@@ -114,6 +135,4 @@
 	- no come vd, reversibilita positiva <10% casi: [[farmaci calcio antagonisti]] efficaci
 
 # terapia
-```ad-terapia
-title: [[ambrisentan]], [[nitrossido]], [[agonisti prostacicline]] [[inibitori pde]], [[ossigenoterapia]]
-```
+- [[ambrisentan]], [[nitrossido]], [[agonisti prostacicline]] [[inibitori pde]], [[ossigenoterapia]]

@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: eparina, embolectomia
+```
 # definizione
 - [[ep]]
 - ostruzione acuta, parziale o completa di rami [[a polmonare]] da [[embolia]] per via venosa
@@ -154,9 +175,6 @@
 	- [[angiorm]]
 
 # terapia
-```ad-terapia
-title: eparina, embolectomia
-```
 - pz allettati, profilassi
 	- [[eparina a basso peso molecolare]] transcutanea
 	- th di supporto in pressione bassa

@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: penicilline + macrolidil; fluorochinoloni, cefalosporine
+```
 # definizione
 - infezione, vie aeree basse parenchima polmonare
 - trasformazione epidemiologica recente

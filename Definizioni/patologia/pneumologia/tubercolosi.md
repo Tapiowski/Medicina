@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: mdr-tb: isoniazide, rifampicina + pirazinamide, etambutolo, bedaquilina
+```
 # definizione
 - robert koch
 	- [[mycobacterium#^hominis]] 1882 davnti a virkow e ehrlich
@@ -193,9 +214,6 @@
 		- inizio th tbc
 
 # terapia
-```ad-terapia
-title: mdr-tb: isoniazide, rifampicina + pirazinamide, etambutolo, bedaquilina
-```
 - multith farmaceutica
 - partire con 3-4 farmaci, se 1 resistente aggiungerne 2
 	- mai aggiungere 1 solo farmaco in fallimento

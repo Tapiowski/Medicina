@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: 
+```
 # definzione
 - incompleta chiusura ostrio atrioventricolare sin, in sistole ventricolare: reflusso sangue da ventricolo ad atrio
 - la piu frequente dopo stenosi aortica

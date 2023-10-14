@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: broncodilatatori, corticosteroidi inalatori, beta-bloccanti, steroidei orali, glucocorticoidi
+```
 # definizione
 - [[asma bronchiale]]
 - antica, frequente 5% popolazione
@@ -111,9 +132,6 @@
 	- grave/persistente
 
 # terapia
-```ad-terapia
-title: broncodilatatori, corticosteroidi inalatori, beta-bloccanti, steroidei orali, glucocorticoidi
-```
 - allontanare allergene, bonifica case, evitare situazioni predisponenti
 - lieve/intermittente
 	- th broncodilatatrice al bisogno

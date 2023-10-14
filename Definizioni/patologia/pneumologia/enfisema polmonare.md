@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: farmaci broncodilatatori
+```
 # definizione
 - [[enfisema]]
 - storia naturale
@@ -90,9 +111,6 @@
 			- [[iperinsufflazione]]
 
 # terapia
-```ad-terapia
-title: farmaci broncodilatatori
-```
 - no th per arresto declino
 - declino in fumatori, miglioramento in stop
 	- smettere di fumare > [[farmaci broncodilatatori]]

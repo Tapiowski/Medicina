@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: chirurgia su palato molle
+```
 # definizione
 - [[osas]]
 - [[sonno]] 8h/die = 25 anni
@@ -194,9 +215,6 @@
 		- >60 molto severa
 
 # terapia
-```ad-terapia
-title: chirurgia su palato molle
-```
 - -sintomi, -complicazioni, +lavoro
 - medica
 	- dimagrimento

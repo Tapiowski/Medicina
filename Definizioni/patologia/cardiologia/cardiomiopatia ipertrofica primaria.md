@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: dispnea da sforzo, sincope, morte improvvisa; ischmia: disfunzione sistolica: scompenso cardiaco, edema polmonare, cardiopalmo, aritmia fino a fibrillazione atriale
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: farmaci inotropi negativi, miectomia chirurgica, alcolizzazione del setto via cutanea
+```
 # definizione
 - - mm ipertrofico
 - qrs molto ampio
@@ -29,9 +50,7 @@
 - ostruzione tratto di efflusso: ipertrofia setto, lembo anteriore mitralico ridondante con movimento ant risucchiato dal flusso nel tratto di efflusso
 
 # clinica
-```ad-clinica
-title: dispnea da sforzo, sincope, morte improvvisa; ischmia: disfunzione sistolica: scompenso cardiaco, edema polmonare, cardiopalmo, aritmia fino a fibrillazione atriale
-```
+- dispnea da sforzo, sincope, morte improvvisa; ischmia: disfunzione sistolica: scompenso cardiaco, edema polmonare, cardiopalmo, aritmia fino a fibrillazione atriale
 
 - [[dispnea da sforzo]], [[sincope]], [[morte cardiaca improvvisa]] da ostruzione ventricolare
 - + ostruzione tratto efflusso v sin
@@ -51,9 +70,7 @@ title: dispnea da sforzo, sincope, morte improvvisa; ischmia: disfunzione sistol
 - fenotipi e fenocopie: [[anderson-fabry]] sfingolipidosi, malattie di [[pompe e danon]] glicogenosi, noona, leopard, friedreich
 
 # terapia
-```ad-terapia
-title: [[farmaci inotropi negativi]], [[miectomia chirurgica]], [[alcolizzazione del setto]] via cutanea
-```
+- [[farmaci inotropi negativi]], [[miectomia chirurgica]], [[alcolizzazione del setto]] via cutanea
 
 - trattare ostruzione efflusso ventricolo sinistro
 - ## caratteristiche di rischio

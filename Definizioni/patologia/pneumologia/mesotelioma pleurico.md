@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: resezione, talcaggio, chemioth, radioth
+```
 # definizione
 - [[mp]]
 - [[neoplasia]] maligna da cc mesoteliali
@@ -110,9 +131,6 @@
 		- m0, m1
 
 # terapia
-```ad-terapia
-title: resezione, talcaggio, chemioth, radioth
-```
 - chirurgia
 	- radicale: [[pleuro-pneumonectomia]], protesi con diaframma
 	- palliativo: [[talcaggio]], pleurectomia con decorticazione pleurica parziale

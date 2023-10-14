@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: farmaci inotropi positivi, farmaci diuretici, farmaci vasodilatatori
+```
 # definizione
 - [[chf]]
 - [[insufficienza cardiaca]]
@@ -17,9 +38,6 @@
 - ### [[scompenso cardiaco acuto]] <
 
 # terapia
-```ad-terapia
-title: farmaci inotropi positivi, farmaci diuretici, farmaci vasodilatatori
-```
 - farmaci utilizzati: effetto [[inotropo]] positivo, +ca: depolarizza potenziale, oscillatori, [[aritmia]] , +conduttanza k: -resistenza di membrana
 	- [[farmaci inotropi positivi]]
 		- [[digossina]]

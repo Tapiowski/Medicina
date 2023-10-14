@@ -1,3 +1,24 @@
+```ad-definizione
+title: infiammazione cronico degenerativa arterie, ateroma core lipidico e fibrous cap
+```
+```ad-epidemiologia
+title: 1 causa ospedalizzazione eu e mortalita eu, 1 causa morte nel mondo
+```
+```ad-eziologia
+title: disfunzione endoteliale con vasocostrizione, LDL in, monociti > macrofagi, fagocitosi ldl e lipidi: stria lipidica, lesione fibro-lipidica: ateroma con core lipidico e cappuccio, placca fibrotica in decenni cresce: complicazioni: rottura, trombosi, occlusione cronica o acuta
+```
+```ad-fisiopatologia
+title: triade di virchow: stasi; lesione endoteliale: placca aterosclerotica, flap intimale; lesione parete vaso: ipercoagulabilita, sindromi trombofiliche
+```
+```ad-clinica
+title: in rimodellamento negativo: sintomi stenosi; in rottura placca: cascata coagulativa, trombo
+```
+```ad-diagnosi
+title: se restringimento grosso vaso: turbolenza flusso, soffio, stetoscopio; controllo ldl; 
+```
+```ad-terapia
+title: statine
+```
 # definizione
 - [[arteriopatia aterosclerotica]]
 - processo infiammatorio degenerativo cronico generalizzato: arterie medio, grosso calibro
@@ -111,9 +132,6 @@
 - controllo valori [[LDL]]
 
 # clinica
-```ad-clinica
-title: in rimodellamento negativo: sintomi stenosi; in rottura placca: cascata coagulativa, trombo
-```
 - inizia nelle prime decadi di vita
 	- anomalie vascolari in soldati di 20 anni wwii
 - asintomatico, manifestazioni da gene, ambiente, fattori rischio
@@ -150,9 +168,6 @@ title: in rimodellamento negativo: sintomi stenosi; in rottura placca: cascata c
 			- reattivita piastrinica: vulnerabilita sangue, fibrinolisi spontanea trombo limita danni da movimento trombo
 
 # terapia
-```ad-terapia
-title: statine
-```
 - storia
 	- oliver: colesterolo sierico non riduce mortalita
 	- aniskov: carote e insalata = no lesioni aorta nel coniglio. uova = lesioni

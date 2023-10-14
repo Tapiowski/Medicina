@@ -11,7 +11,7 @@ title:
 title:
 ```
 ```ad-clinica
-title: [[dolore toracico]], +-[[st]], [[biomarkers cardiovascolari]] troponina i, t
+title: dolore toracico, +-st, biomarkers cardiovascolari troponina i, t
 ```
 ```ad-diagnosi
 title:

@@ -1,3 +1,24 @@
+```ad-definizione
+title: 
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: 
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: 
+```
+```ad-terapia
+title: s da ipotensione ortostatica: diidropiridina, cortisonici, th antipertensiva; s seno carotideo cardoinibitorio: pacemaker definitivo
+```
 # definizione
 - perdita completa di coscienza e tono posturale: ipoperfusione cerebrale globale
 - improvvisa, rapida insorgenza, breve durata, recupero completo
@@ -67,9 +88,7 @@
 	- indagini neurologiche, psichiatriche se non e sincope
 
 # terapia
-```ad-terapia
-title: s da ipotensione ortostatica: [[diidropiridina]], cortisonici, th antipertensiva; s seno carotideo cardoinibitorio: [[pacemaker]] definitivo
-```
+- s da ipotensione ortostatica: [[diidropiridina]], cortisonici, th antipertensiva; s seno carotideo cardoinibitorio: [[pacemaker]] definitivo
 - [[sincope aritmica]]
 - alzarsi gradatamente se [[sincope da ipotensione ortostatica]]
 	- th farmacologica e non
