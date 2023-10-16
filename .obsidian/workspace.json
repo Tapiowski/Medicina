@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Struttura.md",
+                "file": "200/esami/10.11.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,17 +34,17 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Struttura.md",
+                "file": "200/esami/10.11.2023.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": false,
+                  "hideUnresolved": true,
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
@@ -77,7 +77,7 @@
                     }
                   ],
                   "collapse-display": false,
-                  "showArrow": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -86,7 +86,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000042,
+                  "scale": 0.7132754626224457,
                   "close": true
                 }
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Struttura.md"
+                "file": "200/esami/10.11.2023.md"
               }
             }
           }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Struttura.md",
+                "file": "200/esami/10.11.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Struttura.md",
+                "file": "200/esami/10.11.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,32 +246,33 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
+    "Definizioni/patologia/cardiologia/semeiotica cardiovascolare.md",
+    "Definizioni/patologia/cardiologia/soffi cardiaci.md",
+    "Definizioni/patologia/cardiologia/sfregamenti pericardici.md",
+    "Definizioni/semeiotica/soffi continui.md",
+    "Definizioni/semeiotica/soffi diastolici.md",
+    "Definizioni/semeiotica/soffi sistolici.md",
+    "Definizioni/semeiotica/ritmi di galoppo.md",
+    "Definizioni/semeiotica/polso arterioso.md",
+    "Definizioni/semeiotica/fremito.md",
+    "200/esami/10.11.2023.md",
+    "Definizioni/semeiotica/emottisi.md",
+    "Definizioni/semeiotica/tosse.md",
+    "Definizioni/patologia/0/astenia.md",
+    "Definizioni/patologia/cardiologia/dissecazione aortica.md",
     "Home.canvas",
-    "Definizioni/patologia/pneumologia.md",
-    "Definizioni/patologia/pneumologia/covid-19.md",
-    "Definizioni/patologia/pneumologia/sindrome apnee notturne.md",
-    "Definizioni/patologia/pneumologia/insufficienza respiratoria cronica.md",
-    "Definizioni/patologia/pneumologia/irc ipercapnica.md",
-    "Definizioni/patologia/pneumologia/irc ipossiemica.md",
-    "Definizioni/patologia/pneumologia/broncoscopia.md",
-    "Definizioni/patologia/pneumologia/ipertensione polmonare.md",
-    "Definizioni/patologia/pneumologia/pneumopatia interstiziale diffusa.md",
-    "Definizioni/patologia/pneumologia/fibrosi polmonare idiopatica.md",
-    "Definizioni/patologia/pneumologia/mesotelioma pleurico.md",
-    "Definizioni/patologia/pneumologia/polmonite.md",
-    "Definizioni/patologia/pneumologia/polmonite comunitaria.md",
-    "Definizioni/patologia/pneumologia/polmonite stafilococcica.md",
-    "Definizioni/patologia/pneumologia/polmonite nosocomiale.md",
-    "Definizioni/patologia/pneumologia/forme emergenti di polmonite.md",
-    "Definizioni/patologia/pneumologia/polmonite lobare franca.md",
-    "Definizioni/patologia/pneumologia/tubercolosi.md",
-    "Definizioni/patologia/pneumologia/embolia polmonare.md",
-    "Definizioni/patologia/pneumologia/cancro polmone.md",
-    "Definizioni/patologia/pneumologia/enfisema polmonare.md",
-    "Definizioni/patologia/pneumologia/enfisema paracicatriziale.md",
-    "Definizioni/patologia/pneumologia/enfisema parasettale.md",
-    "Definizioni/patologia/pneumologia/enfisema panlobulare.md",
-    "Definizioni/patologia/pneumologia/enfisema centrolobulare.md",
+    "Struttura.md",
+    "Definizioni/chirurgia/chirurgia vascolare/medionecrosi cistica di erdheim.md",
+    "Definizioni/patologia/cardiologia/ECG.md",
+    "Definizioni/chirurgia/chirurgia vascolare/dissecazione aortica tipo A.md",
+    "Definizioni/patologia/0/edema.md",
+    "Definizioni/patologia/0/cianosi centrale.md",
+    "Definizioni/semeiotica/cianosi periferica.md",
+    "Definizioni/patologia/cardiologia/elettrocardiografia.md",
+    "Definizioni/fisiologia/onde cardiache.md",
+    "Definizioni/semeiotica/tracciato elettrocardiografico.md",
+    "Definizioni/patologia/cardiologia/ritmo sinusale.md",
+    "Definizioni/patologia/cardiologia/apparato cardiovascolare.md",
     "100/files/Recording 20231012164710.webm",
     "100/files/Pasted image 20231013022013.png",
     "100/files/Pasted image 20230207104650.png",

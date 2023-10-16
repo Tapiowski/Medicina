@@ -79,10 +79,10 @@
 ## auscultazione
 - in decubito supino, lat sin, seduto, piegato in avanti avvicina cuore a parete toracica
 - silenzio: apnea respiratoria, temperatura ok, simultanea palpazione polso radiale
-- #### [[focolai auscultazione cardiaca]]
-- #### [[toni cardiaci]]
-- #### [[ritmi di galoppo]]
-- #### [[soffi cardiaci]]
+- ### [[focolai auscultazione cardiaca]]
+- ### [[toni cardiaci]]
+- ### [[ritmi di galoppo]]
+- ### [[soffi cardiaci]]
 
 # semeiotica strumentale
 ## [[elettrocardiografia]]

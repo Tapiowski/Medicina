@@ -1,25 +1,29 @@
 ```ad-definizione
-title:
+title: -o2, +e, da -flusso coronarico
+```
+```ad-epidemiologia
+title: I = 4-2% con eta
 ```
 ```ad-eziologia
-title:
+title: aterosclerosi, fattori di rischio cv, genetica, eta, infiammazione
 ```
 ```ad-fisiopatologia
-title:
+title: ischemia: metabolismo anaerobio, reversibile se <30m, -diastole, sistole, ecg, angina: stordimento miocardio, ibernazione miocardio
 ```
 ```ad-diagnosi
-title:
+title: ecg -st, T appiattita o invertita, blocco av, arresto cardiaco improvviso, q patologica da cicatrice
 ```
 ```ad-clinica
-title: [[dolore toracico]], [[angina stabile]]
+title: dolore toracico, angina stabile
 ```
 ```ad-terapia
-title: blocco aterosclerosi in tutto organismo: rivascolarizzazione percutanea con [[angioplastica]] con o senza stent, rivascolarizzazione chirurgica con [[bypass aorto-coronarico]]
+title: blocco aterosclerosi in tutto organismo: rivascolarizzazione percutanea con angioplastica con o senza stent, rivascolarizzazione chirurgica con bypass aorto-coronarico
 ```
 # definzione
 - sofferenza miocardio da squilibrio richieste/apporto o2
 - [[cardiopatia ischemica cronica]], [[cardiomiopatia ischemica stabile]]
 - -[[flusso coronarico]]
+- [[scc]]
 
 # epidemiologia
 - esordio cardiopatia ischemica in 50% casi, aumenta con eta rischio cardiovascolare

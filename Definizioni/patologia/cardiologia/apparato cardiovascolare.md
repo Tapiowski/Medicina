@@ -127,17 +127,10 @@
 	- 7% cuore
 	- 7% capillari
 
-# [[gittata cardiaca]]
-- quantita di sangue eiettato in unita di tempo, 5 l/m
-- prodotto tra f cardiaca e gittata sistolica: Gc = Gx x Fc
-	- gittata sistolica: q.ta sangue espulsa da ventricolo ad ogni battito, da forza contrazn miocardio
-- variabile
-	- frequenza cardiaca
-		- simpatico, parasimpatico
-	- gittata sistolica
-		- +- contrattilita
-	- catecolamine
-# legge del cuore [[frank-starling]] e [[legge di poiseuille]]
+# fisica
+-  [[gittata cardiaca]]
+- [[frank-starling]]
+- [[legge di poiseuille]]
 
 # sistema vasale
 - arterie

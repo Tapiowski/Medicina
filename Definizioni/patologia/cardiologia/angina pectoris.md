@@ -33,7 +33,7 @@
 - ### [[angina tipica]]
 - ### [[angina atipica]]
 - ### [[angina postprandiale]]
-### classificazione [[CCS]]
+### [[classificazione CCS]]
 - classe 1 attivita fisica ok, solo in esercizi strenui
 - classe 2 angina limita abituali attivita
 - classe 3 limita attivita fisica abituale

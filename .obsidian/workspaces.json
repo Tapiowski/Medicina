@@ -182,7 +182,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Definizioni/patologia/cardiologia.md",
+                    "file": "Moduli/patologia sistematica I.md",
                     "mode": "source",
                     "source": false
                   }
@@ -202,14 +202,14 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Definizioni/patologia/cardiologia.md",
+                    "file": "Moduli/patologia sistematica I.md",
                     "options": {
-                      "collapse-filter": true,
+                      "collapse-filter": false,
                       "search": "",
                       "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
-                      "localInterlinks": false,
+                      "localInterlinks": true,
                       "showTags": false,
                       "showAttachments": false,
                       "hideUnresolved": false,
@@ -254,7 +254,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1.0000000000000029,
+                      "scale": 1.0000000000000042,
                       "close": true
                     }
                   }
@@ -322,7 +322,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Definizioni/patologia/cardiologia.md"
+                    "file": "Moduli/patologia sistematica I.md"
                   }
                 }
               }
@@ -346,7 +346,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Definizioni/patologia/cardiologia.md",
+                    "file": "Moduli/patologia sistematica I.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -363,7 +363,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Definizioni/patologia/cardiologia.md",
+                    "file": "Moduli/patologia sistematica I.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }

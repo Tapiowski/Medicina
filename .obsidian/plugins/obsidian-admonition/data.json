@@ -51,7 +51,7 @@
     },
     "diagnosi": {
       "type": "diagnosi",
-      "color": "228, 202, 73",
+      "color": "179, 169, 122",
       "icon": {
         "type": "obsidian",
         "name": "lucide-zoom-in"
@@ -75,14 +75,15 @@
     },
     "epidemiologia": {
       "type": "epidemiologia",
-      "color": "149, 227, 228",
+      "color": "146, 185, 185",
       "icon": {
         "type": "obsidian",
         "name": "lucide-globe"
       },
       "command": false,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,

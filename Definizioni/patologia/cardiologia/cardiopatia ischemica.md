@@ -8,7 +8,7 @@ title:
 title: consumo o2 1.5 ml/min/100g; -o2: -coronarie, anemia o ipossia arteriosa, ipotensione arteriosa; +e: +f c t, sforzo, tachi-aritmie, crisi ipertensive
 ```
 ```ad-fisiopatologia
-title: 
+title: +aterosclerosi, +ischemia, +infarto: angina, insufficienza cardiaca, aritmie, morte improvvisa
 ```
 ```ad-clinica
 title: angina pectoris

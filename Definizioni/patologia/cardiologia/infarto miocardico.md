@@ -2,22 +2,22 @@
 title: necrosi miocardio da ischemia prolungata
 ```
 ```ad-epidemiologia
-title: 
+title: 1 causa decesso, 120k/anno, 30k pre ospedale, 50% in un ora, 90% in 24h, 30% mortalita, primi 30 gg 1 anno
 ```
 ```ad-eziologia
-title: 
+title: aterosclerosi coronarie 90%, stemi nstemi per occlusione completa o no
 ```
 ```ad-fisiopatologia
-title:
+title: metabolico, diastole, sistole, ecg, dolore, endocardio + vulnerabile; aneurisma, rimodellamento ventricolare, aritmia, ischemia, embolia, infiammazione, insufficienza, trombosi, scompenso con edema
 ```
 ```ad-clinica
 title: dolore toracico, +-st, biomarkers cardiovascolari troponina i, t
 ```
 ```ad-diagnosi
-title:
+title: 3 tono, rantoli, fc, 
 ```
 ```ad-terapia
-title:
+title: ripristino flusso cardiaco, aspirina, trobolisi o angioplastica, riabilitazione e stile di vita con monitor
 ```
 # definizione
 - necrosi miocardio da ischemia prolungata

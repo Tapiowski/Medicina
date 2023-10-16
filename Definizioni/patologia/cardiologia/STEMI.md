@@ -1,5 +1,5 @@
 ```ad-definizione
-title:
+title: occlusione coronarica completa, persistente
 ```
 ```ad-epidemiologia
 title: 
