@@ -5,7 +5,7 @@ title: bradiaritmia, tachiaritmia, pre-eccitazione ventricolare, ritmi di scappa
 title: 
 ```
 ```ad-eziologia
-title: ipossia miocardica, ischami miocardica, stimolazn simpatica, farmaci, squilibri elettrolitici, ingrandimento camere cardiache
+title: ipossia miocardica, ischemia miocardica, stimolazn simpatica, farmaci, squilibri elettrolitici, ingrandimento camere cardiache
 ```
 ```ad-fisiopatologia
 title: alterato automatismo, attivita triggerata, rientro A o B
@@ -50,12 +50,12 @@ title: farmaci antiaritmici, farmaci anticoagulanti, terapia elettrica, terapia 
 	- ### [[tachiaritmia]] >100 bpm
 - variazioni ritmicita
 - particolari
-	- ## [[pre-eccitazione ventricolare]]
-	- ## [[ritmi di scappamento]]
-	- ## [[extrasistole]]
+	- ### [[pre-eccitazione ventricolare]]
+	- ### [[ritmi di scappamento]]
+	- ### [[extrasistole]]
 - sindromi aritmogene genetiche
 	- causa [[morte cardiaca improvvisa]]
-	- #### [[canalopatie]]
+	- ### [[canalopatie]]
 
 # fisiopatologia
 - alterato automatismo

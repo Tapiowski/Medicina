@@ -1,4 +1,3 @@
-
 ```ad-definizione
 title: solore trafittivo, oppressivo, non scatenato, non risponde a riposo o nitroglicerina, >20m, associato a sudorazione algida, dispnea, diagnosi falso lume per tc
 ```

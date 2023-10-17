@@ -17,7 +17,7 @@ title: in rimodellamento negativo: sintomi stenosi; in rottura placca: cascata c
 title: se restringimento grosso vaso: turbolenza flusso, soffio, stetoscopio; controllo ldl; 
 ```
 ```ad-terapia
-title: statine
+title: statine, NPC1L1 -colesterolo da dieta, pcsk9 -col nel sangue: ldl < 110 mg/dl
 ```
 # definizione
 - [[arteriopatia aterosclerotica]]

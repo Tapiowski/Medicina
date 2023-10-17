@@ -1,20 +1,20 @@
 ```ad-definizione
-title: 
+title: -coscienza e tono posturale da ipoperfusione cerebrale, improvvisa, -durata, recupero completo: dd coma; blackout se s, m
 ```
 ```ad-epidemiologia
-title: 
+title: I = 0.7%/anno picco riflessa a 15 anni, 65 anni neuromediata, ipotensione ortostatica in anziani. mortalita 10% non cardiaca, 33% cardiaca
 ```
 ```ad-eziologia
-title: 
+title: traumatica; non traumatica; cardiaca: strutturale e aritmica, non cardiaca: riflessa e ortostatica; riflessa, morgagni adams stokes
 ```
 ```ad-fisiopatologia
-title: 
+title: 6s -sensi, 15s convulsioni, poligono di willis, centro bulbare sup: regola pressione per -gittata, resistenza, frequenza: barocettori, chemocettori
 ```
 ```ad-clinica
 title: 
 ```
 ```ad-diagnosi
-title: 
+title: sincope cardiaca: cardiopalmo, dispnea, clinostatica, improvvisa, pressione, auscultazione, massaggio carotideo, ecg 12, tilt test
 ```
 ```ad-terapia
 title: s da ipotensione ortostatica: diidropiridina, cortisonici, th antipertensiva; s seno carotideo cardoinibitorio: pacemaker definitivo
