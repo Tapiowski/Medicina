@@ -1,20 +1,20 @@
 ```ad-definizione
-title: 
+title: +qrs, +spessore circonferenziale, ipertrofia mm
 ```
 ```ad-epidemiologia
-title: 
+title: 1:500
 ```
 ```ad-eziologia
-title: 
+title: mutazione proteine sarcomero: ipertrofia parietale, disarray miocc, arteriole coronariche non ipertrofiche ispessite, fibrosi miocardica, -morfologia
 ```
 ```ad-fisiopatologia
-title: 
+title: lembo anteriore valvola mitrale ostruzione dinamica flusso, -diastole, ischemia, -sistole con -pompa, ostruzione efflusso per setto e lembo valvola
 ```
 ```ad-clinica
 title: dispnea da sforzo, sincope, morte improvvisa; ischmia: disfunzione sistolica: scompenso cardiaco, edema polmonare, cardiopalmo, aritmia fino a fibrillazione atriale
 ```
 ```ad-diagnosi
-title: 
+title: ecg, ecocg fibrosi, ipertrofia, 
 ```
 ```ad-terapia
 title: farmaci inotropi negativi, miectomia chirurgica, alcolizzazione del setto via cutanea

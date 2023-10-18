@@ -44,7 +44,7 @@
                   "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": true,
+                  "hideUnresolved": false,
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
@@ -76,7 +76,7 @@
                       }
                     }
                   ],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -86,7 +86,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792613,
+                  "scale": 1.0000000000000042,
                   "close": true
                 }
               }
@@ -246,8 +246,16 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "Definizioni/patologia/cardiologia/sincope.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia dilatativa.md",
+    "Definizioni/patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
     "200/esami/10.11.2023.md",
+    "Struttura.md",
+    "Moduli/patologia sistematica I.md",
+    "Definizioni/patologia/cardiologia.md",
+    "Home.canvas",
+    "100/note/2023-10-18.md",
+    "Definizioni/patologia/cardiologia/sincope.md",
     "Definizioni/patologia/cardiologia/cardiopalmo.md",
     "Definizioni/patologia/cardiologia/aterosclerosi.md",
     "Definizioni/patologia/cardiologia/ipertensione arteriosa.md",
@@ -265,14 +273,6 @@
     "Definizioni/patologia/cardiologia/blocco sa.md",
     "Definizioni/patologia/cardiologia/sindrome aortica acuta.md",
     "Definizioni/patologia/cardiologia/dissecazione aortica.md",
-    "Definizioni/patologia/cardiologia/cardiopatia ischemica.md",
-    "Definizioni/patologia/cardiologia/sindrome coronarica cronica.md",
-    "Definizioni/patologia/cardiologia/sindrome coronarica acuta.md",
-    "Definizioni/patologia/cardiologia/infarto miocardico.md",
-    "Definizioni/patologia/cardiologia/STEMI.md",
-    "Definizioni/patologia/cardiologia/NSTEMI.md",
-    "Definizioni/patologia/cardiologia/angina instabile.md",
-    "Home.canvas",
     "100/files/Recording 20231012164710.webm",
     "100/files/Pasted image 20231013022013.png",
     "100/files/Pasted image 20230207104650.png",

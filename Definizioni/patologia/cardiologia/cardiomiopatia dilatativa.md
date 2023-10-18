@@ -1,20 +1,20 @@
 ```ad-definizione
-title: 
+title: ventricoli dilatati, -sistole, ipocinesia, fibrosi interstiziale, ipertrofia cc
 ```
 ```ad-epidemiologia
-title: 
+title: 7/100k
 ```
 ```ad-eziologia
-title: 
+title: 25% genetica, alterazione citoscheletro, membrana nucleare, dischi intercalari, banda z; acquisite: alcolismo, peripartum autoimmune, chemioth lesiva, evoluzn miocardite acuta, tachicardia sostenuta
 ```
 ```ad-fisiopatologia
-title: 
+title: -contrattilita cardiaca progressiva, dilata per mantenere gittata, ipertrofia parietale per tensione parietale pre carico, secondaria a dilatazn ventricolare: insufficienza mitralica con refflusso. evoluzione a disfunzione sistemica, dilatazn, scompenso, aritmia, morte improvvisa
 ```
 ```ad-clinica
-title: 
+title: scompenso ventricolare sn: edema polmonare, dispnea da sforzo, astenia; aritmia, fibrillazione atriale, cardiopalmo, sincope, aritmie ventricolari, embolia sistemica
 ```
 ```ad-diagnosi
-title: 
+title: soffio cardiaco, ecg, ecocg, ipertrofia ventricolare sn, blocco di branca, ripolarizzazione: ventricolo globoso con +cavita, pareti normali, cuore ipocinetico
 ```
 ```ad-terapia
 title: trattare scompenso cardiaco: ace inibitori, farmaci beta-bloccanti, diuretici anti-aldosteronici, farmaci diuretici + pacemaker biventricolare e defibrillatore

@@ -51,7 +51,7 @@
     },
     "diagnosi": {
       "type": "diagnosi",
-      "color": "179, 169, 122",
+      "color": "224, 183, 0",
       "icon": {
         "type": "obsidian",
         "name": "lucide-zoom-in"
