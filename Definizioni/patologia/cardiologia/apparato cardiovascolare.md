@@ -128,7 +128,7 @@
 	- 7% capillari
 
 # fisica
--  [[gittata cardiaca]]
+- [[gittata cardiaca]]
 - [[frank-starling]]
 - [[legge di poiseuille]]
 

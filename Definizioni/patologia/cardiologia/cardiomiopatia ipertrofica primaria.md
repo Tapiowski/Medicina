@@ -14,7 +14,7 @@ title: lembo anteriore valvola mitrale ostruzione dinamica flusso, -diastole, is
 title: dispnea da sforzo, sincope, morte improvvisa; ischmia: disfunzione sistolica: scompenso cardiaco, edema polmonare, cardiopalmo, aritmia fino a fibrillazione atriale
 ```
 ```ad-diagnosi
-title: ecg, ecocg fibrosi, ipertrofia, 
+title: ecg, ecocg fibrosi, gradi ipertrofia
 ```
 ```ad-terapia
 title: farmaci inotropi negativi, miectomia chirurgica, alcolizzazione del setto via cutanea

@@ -1,23 +1,23 @@
 ```ad-definizione
-title: 
+title: infiammazione pericardio
 ```
 ```ad-epidemiologia
-title: 
+title: 16-65 yo, m, 30% recidiva in 18 mesi, europa virus, africa tubercolosi
 ```
 ```ad-eziologia
-title: 
+title: infettiva: 2/3, virus, batteri, funghi e parassiti; non infettiva: autoimmune, neoplastica, metabolica, traumatica, iatrogena, farmacologica
 ```
 ```ad-fisiopatologia
-title: 
+title: complicazioni, calcificazioni, evoluzione a pericardite costrittiva 30%
 ```
 ```ad-clinica
-title: 
+title: dolore pericardico 85%, astenia, dispnea, febbre, sfregamenti, versamenti
 ```
 ```ad-diagnosi
-title: 
+title: ecg: +st, miocardite, perimiocardite troponina; ecocg, rx torace; sangue: pcr, troponina, proteina c
 ```
 ```ad-terapia
-title: 
+title: pericardiectomia, nsaids, corticosteroidi
 ```
 # epidemiologia
 - 100% dei ricoveri in pronto soccorso

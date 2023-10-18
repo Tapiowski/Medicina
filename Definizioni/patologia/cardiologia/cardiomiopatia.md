@@ -16,7 +16,7 @@
 	- familiari-genetiche
 	- non familiari non genetiche
 		- idiopatiche
-		- non eziologgia specifica
+		- non eziologia specifica
 
 #  fisiopatologia
 - se cuore non funziona bene: [[aritmie]], [[morte cardiaca improvvisa]], [[scompenso cardiaco]] porta ad [[edema polmonare]] e [[shock cardiogeno]]

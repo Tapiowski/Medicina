@@ -6,7 +6,6 @@
       {
         "id": "1a681e49a29044a5",
         "type": "tabs",
-        "dimension": 46.92355500310752,
         "children": [
           {
             "id": "2bffc1ff3dcaee81",
@@ -14,87 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200/esami/10.11.2023.md",
+                "file": "Definizioni/patologia/cardiologia/ipertensione arteriosa.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "af2e3e8d17e724cf"
+            }
           }
         ]
-      },
-      {
-        "id": "5291ad91a9a925f5",
-        "type": "tabs",
-        "dimension": 53.07644499689248,
-        "children": [
-          {
-            "id": "afce5fc4800bc565",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "200/esami/10.11.2023.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:Definizioni/patologia/cardiologia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "path:Definizioni/patologia/pneumologia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14069084
-                      }
-                    },
-                    {
-                      "query": "path:Definizioni/farmacologia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11392604
-                      }
-                    },
-                    {
-                      "query": "path:Definizioni/chirurgia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0000000000000042,
-                  "close": true
-                }
-              }
-            },
-            "group": "af2e3e8d17e724cf"
-          }
-        ],
-        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -154,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200/esami/10.11.2023.md"
+                "file": "Definizioni/patologia/cardiologia/ipertensione arteriosa.md"
               }
             }
           }
@@ -178,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200/esami/10.11.2023.md",
+                "file": "Definizioni/patologia/cardiologia/ipertensione arteriosa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200/esami/10.11.2023.md",
+                "file": "Definizioni/patologia/cardiologia/ipertensione arteriosa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,33 +171,33 @@
   },
   "active": "2bffc1ff3dcaee81",
   "lastOpenFiles": [
-    "Definizioni/patologia/cardiologia/cardiomiopatia.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatia dilatativa.md",
-    "Definizioni/patologia/cardiologia/cardiomiopatia ipertrofica primaria.md",
-    "200/esami/10.11.2023.md",
-    "Struttura.md",
-    "Moduli/patologia sistematica I.md",
     "Definizioni/patologia/cardiologia.md",
-    "Home.canvas",
-    "100/note/2023-10-18.md",
-    "Definizioni/patologia/cardiologia/sincope.md",
-    "Definizioni/patologia/cardiologia/cardiopalmo.md",
-    "Definizioni/patologia/cardiologia/aterosclerosi.md",
-    "Definizioni/patologia/cardiologia/ipertensione arteriosa.md",
     "Definizioni/patologia/cardiologia/aritmie.md",
-    "Definizioni/patologia/cardiologia/tachiaritmia.md",
-    "Definizioni/patologia/cardiologia/tachicardia sopra-ventricolare.md",
-    "Definizioni/patologia/cardiologia/tachicardia ventricolare.md",
-    "Definizioni/patologia/cardiologia/torsione di punta.md",
+    "Definizioni/patologia/cardiologia/canalopatie.md",
+    "Definizioni/patologia/cardiologia/sindrome qt corto.md",
+    "Definizioni/patologia/cardiologia/tachicardia catecolaminergica polimorfa.md",
+    "Definizioni/patologia/cardiologia/sindrome di brugada.md",
+    "Definizioni/patologia/cardiologia/sindrome qt lungo.md",
+    "Definizioni/patologia/cardiologia/sids.md",
     "Definizioni/patologia/cardiologia/extrasistole.md",
+    "Definizioni/patologia/cardiologia/ritmi di scappamento.md",
+    "Definizioni/patologia/cardiologia/pre-eccitazione ventricolare.md",
+    "Definizioni/patologia/cardiologia/tachiaritmia.md",
+    "Definizioni/patologia/cardiologia/fibrillazione ventricolare.md",
+    "Definizioni/patologia/cardiologia/torsione di punta.md",
+    "Definizioni/patologia/cardiologia/tachicardia ventricolare.md",
+    "Definizioni/patologia/cardiologia/shock cardiogeno.md",
+    "Definizioni/patologia/0/arresto cardiaco.md",
+    "Definizioni/patologia/cardiologia/tachicardia sopra-ventricolare.md",
+    "Definizioni/patologia/cardiologia/flutter atriale.md",
+    "Definizioni/patologia/cardiologia/fibrillazione atriale.md",
+    "Definizioni/fisiologia/tachicardia.md",
     "Definizioni/patologia/cardiologia/extrasistole ventricolare.md",
     "Definizioni/patologia/cardiologia/extrasistole sovra-ventricolare.md",
+    "Definizioni/patologia/cardiologia/battiti ectopici.md",
     "Definizioni/patologia/cardiologia/bradiaritmia.md",
     "Definizioni/patologia/cardiologia/blocco intraventricolare.md",
-    "Definizioni/patologia/cardiologia/blocco atrioventricolare.md",
-    "Definizioni/patologia/cardiologia/blocco sa.md",
-    "Definizioni/patologia/cardiologia/sindrome aortica acuta.md",
-    "Definizioni/patologia/cardiologia/dissecazione aortica.md",
+    "Home.canvas",
     "100/files/Recording 20231012164710.webm",
     "100/files/Pasted image 20231013022013.png",
     "100/files/Pasted image 20230207104650.png",

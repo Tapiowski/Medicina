@@ -1,23 +1,23 @@
 ```ad-definizione
-title: 
+title: infiammazione endocardio, lesioni valvolari destruenti, batteri vegetazioni in valvole con accumulo piastrine e fibrina
 ```
 ```ad-epidemiologia
-title: 
+title: 2-6/100k. +f, rischio: malattia valvolare, profilassi cure odontoiatriche cefazolina; mortalita intraospedaliera 15-30%
 ```
 ```ad-eziologia
-title: 
+title: valvola nativa o prostetica, streptococco, stafilococco, enterococco, fungine
 ```
 ```ad-fisiopatologia
-title: 
+title: danno valvolare con stenosi o insuff valvolare, scompenso cardiaco
 ```
 ```ad-clinica
-title: 
+title: febbre, setticemia, astenia, mialgia, nuovo soffio, emorragie subungueali, vasculite palmo, noduli di osler, danno valvolare e destruente, embolia coronaria, vegetazione valvolare
 ```
 ```ad-diagnosi
-title: 
+title: criteri di duke, emocoltura, ecocg vegetazioni
 ```
 ```ad-terapia
-title: streptococco: ampicillina o gentamicina; stafilococco: oxacillina o due aminoglicosidi
+title: streptococco: ampicillina o gentamicina; stafilococco: oxacillina o due aminoglicosidi; chirurgia: scompenso refrattario, embolizzazione periferica, infezione incontrollata
 ```
 # definizione
 - prrocesso infiammatorio endocardio, lesioni valvolari destruenti
@@ -44,9 +44,9 @@ title: streptococco: ampicillina o gentamicina; stafilococco: oxacillina o due a
 	- [[stafilococco#^aureus]]
 	- [[endocarditi fungine]]: [[candida]], [[histoplasma]], [[aspergillus]]
 ## classificazione
-- #### [[malattia di barlow]] forma comune
-- #### [[endocardite reumatica]]
-- #### [[endocardite in corso di connettiviti]]
+- ### [[malattia di barlow]] forma comune
+- ### [[endocardite reumatica]]
+- ### [[endocardite in corso di connettiviti]]
 - tre elementi necessari: lesione endotelio, batteriemia transitoria, alterazione difese ospite
 - aggregazione piastrinica in lesione con [[endocardite trombotica abatterica]] + batteremia = colonizzazione e vegetazioni con endocardite franca
 - + in camere a bassa pressione

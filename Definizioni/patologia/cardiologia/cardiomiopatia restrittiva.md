@@ -1,3 +1,24 @@
+```ad-definizione
+title: +p riempimento, -riempimento diastolico: scompenso cardiaco diastolico per preservare eiezione
+```
+```ad-epidemiologia
+title: 
+```
+```ad-eziologia
+title: infiltrativa amiloidosi, da accumulo glicogenosi, senza infiltrazione desmopatia, endomiocardica endocardite
+```
+```ad-fisiopatologia
+title: 
+```
+```ad-clinica
+title: 
+```
+```ad-diagnosi
+title: ecocardiografia pattern restrittivo: riempimento diastolico, protodiastole poi costante: rigidita ventricolo non permette riempimento: -diastole
+```
+```ad-terapia
+title: 
+```
 # definizione
 - difficile riempimento diastolico del ventricolo: elevate pressioni di riempimento
 - [[scompenso cardiaco diastolico]]: preservata funzione ventricolare sin e normale frazione eiezione

@@ -11,13 +11,13 @@ title: aterosclerosi coronarie 90%, stemi nstemi per occlusione completa o no
 title: metabolico, diastole, sistole, ecg, dolore, endocardio + vulnerabile; aneurisma, rimodellamento ventricolare, aritmia, ischemia, embolia, infiammazione, insufficienza, trombosi, scompenso con edema
 ```
 ```ad-clinica
-title: dolore toracico, +-st, biomarkers cardiovascolari troponina i, t
+title: dolore toracico
 ```
 ```ad-diagnosi
-title: 3 tono, rantoli, fc, 
+title: 3 tono, rantoli, fc, +-st, biomarkers cardiovascolari troponina i, t
 ```
 ```ad-terapia
-title: ripristino flusso cardiaco, aspirina, trobolisi o angioplastica, riabilitazione e stile di vita con monitor
+title: ripristino flusso cardiaco, aspirina, trombolisi o angioplastica, riabilitazione e stile di vita con monitor
 ```
 # definizione
 - necrosi miocardio da ischemia prolungata

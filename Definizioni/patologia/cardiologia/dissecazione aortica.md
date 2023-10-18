@@ -1,5 +1,5 @@
 ```ad-definizione
-title: solore trafittivo, oppressivo, non scatenato, non risponde a riposo o nitroglicerina, >20m, associato a sudorazione algida, dispnea, diagnosi falso lume per tc
+title: dolore trafittivo, oppressivo, non scatenato, non risponde a riposo o nitroglicerina, >20m, associato a sudorazione algida, dispnea, diagnosi falso lume per tc
 ```
 ```ad-epidemiologia
 title: I = 5-30 / 1M, +m, eta media A-ascendente 50 yo, B-discendente 60 yo

@@ -1,23 +1,23 @@
 ```ad-definizione
-title: 
+title: febbre reumatica arf, fibrosi valvolare fino a cardiopatia cronica
 ```
 ```ad-epidemiologia
-title: 
+title: iperendemica in nz, africa, india, cina, sa, I = status socioeconomico, -mortalita +f, endemia < 2/100k
 ```
 ```ad-eziologia
-title: 
+title: streptococco piogene, streptolisina O, dopo 3 wk infezione, ipersensibilita da anticorpi vs M reagente: cuore, articolazioni, cute; anticorpi vs antigene batterico vs antigene ospite per mimetismo
 ```
 ```ad-fisiopatologia
-title: 
+title: corpi di aschoff, malattia reumatica cronica: infiammazione > fibrosi: lembi +spessore, retratti, deformati, fusione commissure valvolari, +s corde tendinee, 3% in arf
 ```
 ```ad-clinica
-title: 
+title: cardite, artrite, corea di huntington, noduli sottocutanei, eritema marginato
 ```
 ```ad-diagnosi
-title: 
+title: criteri di jones, faringotonsilliti con +TASLO
 ```
 ```ad-terapia
-title: penicillina + aspirina o steroidi
+title: penicillina + aspirina o steroidi; trattare faringite streptococcica; commissurotomia mitrale, ecocg
 ```
 # definizione
 - [[febbre reumatica acuta]] [[arf]] distinta da [[malattia reumatica]]: sequela malattia acuta
